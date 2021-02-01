@@ -1925,12 +1925,12 @@ Thursday:
   class: Warrior
   lottery-lootconfig:
   - Dark Edge of Insanity
-  - Iblis, Blade of the Fallen Seraph
   - Imperial Qiraji Armaments
   - Might of the Scourge
   - The Phylactery of Kel'Thuzad
   - Widow's Remorse
-  priority-lootconfig: []
+  priority-lootconfig:
+  - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 2890.64
   t1-priority-dkp: 3304.35
