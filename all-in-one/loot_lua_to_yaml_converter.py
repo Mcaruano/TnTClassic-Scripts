@@ -11,8 +11,8 @@ import re
 import yaml
 
 CONTENT_TIER = "T3"
-LUA_FILE_PATH = "/Users/Melanie/Git Repositories/TNTClassic/tnt-dkp-addon/TnTDKP/TierThreeLoot.lua"
-OUTPUT_FILE_PATH = "/Users/Melanie/Git Repositories/TNTClassic/addon-and-backend-interface-scripts/all-in-one/TierThreeLoot.yaml"
+LUA_FILE_PATH = "/Users/Melanie/Git Repositories/TnTDKP/TnTDKP/TierThreeLoot.lua"
+OUTPUT_FILE_PATH = "/Users/Melanie/Git Repositories/TnTClassic-Scripts/all-in-one/TierThreeLoot.yaml"
 
 """
 Parses a loot LUA file of the following format:

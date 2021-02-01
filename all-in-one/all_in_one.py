@@ -158,7 +158,7 @@ if __name__ == "__main__":
         # Regenerate player_data.yaml with updated LootConfigs & DKP Standings from the AddOn output
         playerYamlDataDict = generate_new_player_yaml_file(os.path.join(scriptDir, constants.CONFIG_FOLDER_NAME, constants.PLAYER_DATA_FILE_NAME), playerYamlDataDict, addonDataDict)
 
-        # Generate the file which we will copy to the addon-output-archive git repository
+        # Generate the file which we will copy to the TnTClassic-Archive git repository
         archiveFileName = archive_file_generator.generate_archive_lua_file_from_addon_data(addonDataDict, os.path.join(scriptDir, constants.GENERATED_ARTIFACTS_FOLDER_NAME))
 
     # Warn about detected duplicate entries from players' Lottery and Priority LootConfigs
@@ -177,26 +177,26 @@ if __name__ == "__main__":
     addon_lua_file_generator.generate_addon_roster_files(outputFileDirectory, playerYamlDataDict)
 
     # If we processed new AddOn data, that means we generated a new Archive file. After doing so, we take a quick look
-    # to see if the addon-output-archive/ git repository is colocated in the same directory as this repo. If it
+    # to see if the TnTClassic-Archive/ git repository is colocated in the same directory as this repo. If it
     # is, we go ahead and copy the generated Archive file over
     repoDir = os.path.abspath(os.path.join(scriptDir, os.pardir))
     if didProcessNewAddonDKPData:
         outerDir = os.path.abspath(os.path.join(repoDir, os.pardir))
-        if os.path.exists(os.path.join(outerDir, 'addon-output-archive')):
+        if os.path.exists(os.path.join(outerDir, 'TnTClassic-Archive')):
             generatedArchiveFilePath = os.path.join(scriptDir, constants.GENERATED_ARTIFACTS_FOLDER_NAME, archiveFileName)
-            addonArchiveGitRepoFilePath = os.path.join(outerDir, 'addon-output-archive', archiveFileName)
+            addonArchiveGitRepoFilePath = os.path.join(outerDir, 'TnTClassic-Archive', archiveFileName)
             os.rename(generatedArchiveFilePath, addonArchiveGitRepoFilePath)
             print("- {} was copied over to: {}".format(archiveFileName, addonArchiveGitRepoFilePath))
         else:
-            print("- {} needs to be copied to the addon-output-archive git repository.".format(archiveFileName))
+            print("- {} needs to be copied to the TnTClassic-Archive git repository.".format(archiveFileName))
 
     # Each run of this script always generates a new AddOn data file as well as ReserveRaidRoster.lua and
-    # MainRaidRoster.lua files. Similar to the above logic, we take a quick look to see if the tnt-dkp-addon/
+    # MainRaidRoster.lua files. Similar to the above logic, we take a quick look to see if the TnTDKP/
     # git repository is colocated in the same directory as this one, and copy the artifacts over automatically if so
     outerDir = os.path.abspath(os.path.join(repoDir, os.pardir))
-    addonLatestDataFetchDirPath = os.path.join(outerDir, 'tnt-dkp-addon', 'latest_data_fetch')
+    addonLatestDataFetchDirPath = os.path.join(outerDir, 'TnTDKP', 'latest_data_fetch')
     if os.path.exists(addonLatestDataFetchDirPath):
-        # Clear out any files currently in the 'latest_data_fetch/' directory of the tnt-dkp-addon repo
+        # Clear out any files currently in the 'latest_data_fetch/' directory of the TnTDKP repo
         for filename in os.listdir(addonLatestDataFetchDirPath):
             filePath = os.path.join(addonLatestDataFetchDirPath, filename)
             try:
@@ -213,15 +213,15 @@ if __name__ == "__main__":
 
         # Copy over the ReserveRaidRoster.lua file
         generatedReserveRaidRosterFilePath = os.path.join(scriptDir, constants.GENERATED_ARTIFACTS_FOLDER_NAME, 'ReserveRaidRoster.lua')
-        addonReserveRosterGitRepoFilePath = os.path.join(outerDir, 'tnt-dkp-addon', 'TnTDKP', 'ReserveRaidRoster.lua')
+        addonReserveRosterGitRepoFilePath = os.path.join(outerDir, 'TnTDKP', 'TnTDKP', 'ReserveRaidRoster.lua')
         os.rename(generatedReserveRaidRosterFilePath, addonReserveRosterGitRepoFilePath)
         print("- ReserveRaidRoster.lua was copied over to: {}".format(addonReserveRosterGitRepoFilePath))
 
         # Copy over the MainRaidRoster.lua file
         generatedMainRaidRosterFilePath = os.path.join(scriptDir, constants.GENERATED_ARTIFACTS_FOLDER_NAME, 'MainRaidRoster.lua')
-        addonMainRosterGitRepoFilePath = os.path.join(outerDir, 'tnt-dkp-addon', 'TnTDKP', 'MainRaidRoster.lua')
+        addonMainRosterGitRepoFilePath = os.path.join(outerDir, 'TnTDKP', 'TnTDKP', 'MainRaidRoster.lua')
         os.rename(generatedMainRaidRosterFilePath, addonMainRosterGitRepoFilePath)
         print("- MainRaidRoster.lua was copied over to: {}".format(addonMainRosterGitRepoFilePath))
     else:
-        print("- {} needs to be copied to the \"latest_data_fetch/\" directory of the tnt-dkp-addon repository.".format(latestAddonDataFileName))
-        print("- MainRaidRoster.lua and ReserveRaidRoster.lua need to be copied to the \"TnTDKP/\" directory of the tnt-dkp-addon repository.")
+        print("- {} needs to be copied to the \"latest_data_fetch/\" directory of the TnTDKP repository.".format(latestAddonDataFileName))
+        print("- MainRaidRoster.lua and ReserveRaidRoster.lua need to be copied to the \"TnTDKP/\" directory of the TnTDKP repository.")

@@ -4,7 +4,7 @@ import re
 
 """
 Given the AddOn data as a dictionary, generate the Lua data tables we desire.
-The specific tables we want to have present in the addon-output-archive are:
+The specific tables we want to have present in the TnTClassic-Archive are:
     - T3_PRIORITY_DKP_TABLE
     - T2PT5_PRIORITY_DKP_TABLE
     - T2_PRIORITY_DKP_TABLE
@@ -150,7 +150,7 @@ def print_transaction_records_to_file_as_lua_table(outputFile, transactionsDict)
 
 """
 We name our AddOn data files in the format "2020_02_04_MC+Ony.lua" when we
-upload them to the addon-output-archive repository. This logic auto-generates
+upload them to the TnTClassic-Archive repository. This logic auto-generates
 that name based on the AddOn output data
 """
 def generate_archive_file_name(addonDataDict):
