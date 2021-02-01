@@ -173,6 +173,8 @@ if __name__ == "__main__":
     lootConfigDict = loot_config.generate_lootconfig_dict(playerYamlDataDict)
     loot_config.generate_all_desired_loot_config_files(scriptDir, outputFileDirectory, lootConfigDict)
 
+    loot_config.copy_lootconfig_json_files_to_s3(scriptDir)
+
     # Generate ReserveRaidRoster.lua and MainRaidRoster.lua files
     addon_lua_file_generator.generate_addon_roster_files(outputFileDirectory, playerYamlDataDict)
 

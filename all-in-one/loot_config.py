@@ -1,3 +1,4 @@
+import aws_utils
 import constants
 import copy
 from datetime import datetime
@@ -150,3 +151,7 @@ def generate_all_desired_loot_config_files(scriptDir, outputFileDirectory, lootC
         # Copy the file to ./json/ so it can be picked up by the website
         lootconfigLatestDataDir = os.path.join(scriptDir, 'json')
         os.rename(lootConfigJSONFilePath, os.path.join(lootconfigLatestDataDir, fileName))
+
+def copy_lootconfig_json_files_to_s3(scriptDir):
+    for jsonLootConfigFile in os.listdir(os.path.join(scriptDir, 'json')):
+        aws_utils.upload_file(os.path.join(scriptDir, 'json', jsonLootConfigFile), constants.AWS_JSON_BUCKET_NAME, jsonLootConfigFile)
