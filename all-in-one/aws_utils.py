@@ -12,7 +12,6 @@ https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-uploading-files
 :return: True if file was uploaded, else False
 """
 def upload_file(file_name, bucket, object_name=None):
-    
 
     # If S3 object_name was not specified, use file_name
     if object_name is None:
