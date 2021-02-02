@@ -1021,8 +1021,9 @@ Lilkittygato:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
-  - Desecrated Girdle
+  - Necklace of Necropsy
   priority-lootconfig:
+  - Desecrated Girdle
   - Desecrated Handguards
   - Scepter of the False Prophet
   rank: Core Raider
