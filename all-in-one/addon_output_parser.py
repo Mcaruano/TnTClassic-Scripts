@@ -33,7 +33,7 @@ Parses a LUA file into a python dictionary. The Dictionary structure is as follo
            'ID': 14231057000375578302L,
            'Issuer': 'Nocjr',
            'ItemLink': '',
-           'Message': '[Lottery DKP -1000]: Head of Onyxia - 18423',
+           'Message': '[Lottery DKP -1000]: Head of Onyxia (ItemID: 18423)',
            'Recipient': 'Nocjr',
            'Timestamp': datetime.datetime(2019, 10, 22, 18, 56, 22)}
         ],
@@ -146,9 +146,7 @@ Different Lua Table entries have different structures for their data. We handle
 each of these unique cases here
 """
 def parse_data_record(dataDict, dictKeyStack, data_record):
-    if len(dictKeyStack) <= 0:
-        print("[WARN]: Attempted to parse line but dictKeyStack was empty. Line contents: {}".format(data_record))
-        return
+    if len(dictKeyStack) <= 0: return
     currentKey = dictKeyStack[-1]
 
     # Example structure of a _REGISTRY entry:
@@ -232,6 +230,10 @@ def parse_data_record(dataDict, dictKeyStack, data_record):
         elif index == 3:
             currentTransactionRecord['Message'] = value
             dataDict['ITEMS_RECEIVED'] = parse_message_and_record_item_received(dataDict['ITEMS_RECEIVED'], currentTransactionRecord['Recipient'], value)
+            isLootRecord, itemID, lootMode = parse_loot_related_metadata(value)
+            currentTransactionRecord['IsLootRecord'] = isLootRecord
+            currentTransactionRecord['ItemID'] = itemID
+            currentTransactionRecord['LootMode'] = lootMode
 
         # DKP Before
         elif index == 4:
@@ -299,7 +301,7 @@ As it stands, this is the only way we can discertain what items were received du
 this is the only way we can hope to merge the output of two AddOn output files
 """                
 def parse_message_and_record_item_received(itemsReceivedSubDict, recipient, message):
-    # This pattern matches keys of the format "[16864] = {", which represents an entry in a Registry table
+    # This pattern matches keys of the format "(ItemID: 19147)", which represents a loot-distribution transaction
     if re.search("\(ItemID: [0-9]+\)", message) is not None:
         itemID = re.search("\(ItemID: [0-9]+\)", message).group()[9:-1]
         mode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
@@ -307,3 +309,27 @@ def parse_message_and_record_item_received(itemsReceivedSubDict, recipient, mess
             itemsReceivedSubDict[mode][recipient] = set()
         itemsReceivedSubDict[mode][recipient].add(itemID)
     return itemsReceivedSubDict
+
+
+def parse_loot_related_metadata(message):
+    isLootRecord = False
+    itemID = None
+    lootMode = None
+
+    # This pattern matches keys of the format "(ItemID: 19147)", which represents a loot-distribution transaction
+    if re.search("\(ItemID: [0-9]+\)", message) is not None:
+        itemID = re.search("\(ItemID: [0-9]+\)", message).group()[9:-1]
+        lootMode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
+        isLootRecord = True
+
+    # Sometimes a manual transaction must be entered which does NOT adhere to the precise structure of "(ItemID: <itemID>)"
+    # in the message body. However, these manual transactions can still be detected if the transaction was -500, -1000, -2000,
+    # -3000, or -4000 (aka the cost of an item). In this case, we just want to print this out to the terminal to coax me into
+    # correcting the record so it adheres to the desired syntax
+    elif re.search("-[0-9]+]:", message) is not None:
+        dkpCharge = int(re.search("-[0-9]+]:", message).group()[1:-2])
+        if dkpCharge % 500 == 0:
+            print("\nFOUND RECORD THAT MIGHT BE LOOT RECORD: {}".format(message))
+            lootMode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
+
+    return isLootRecord, itemID, lootMode
