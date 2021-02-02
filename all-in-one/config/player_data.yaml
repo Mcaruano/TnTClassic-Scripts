@@ -697,7 +697,9 @@ Goodjorb:
   lottery-lootconfig:
   - Desecrated Belt
   - Doomfinger
+  - Eye of Diminution
   - Gem of Trapped Innocents
+  - Ring of the Eternal Flame
   priority-lootconfig: []
   rank: Reserve Raider
   t1-lottery-dkp: 501.5
