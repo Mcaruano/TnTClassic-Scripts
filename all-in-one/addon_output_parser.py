@@ -312,6 +312,12 @@ def parse_message_and_record_item_received(itemsReceivedSubDict, recipient, mess
 
 
 def parse_loot_related_metadata(message):
+    knownRecordsToSkip = [
+        '-2000]: Accidentally awarded 1000DKP',
+        '-500]: Moving DKP',
+        '-500]: Was on MC standby',
+        '-500]: Stepped out for Molten Core'
+    ]
     isLootRecord = False
     itemID = None
     lootMode = None
@@ -329,7 +335,15 @@ def parse_loot_related_metadata(message):
     elif re.search("-[0-9]+]:", message) is not None:
         dkpCharge = int(re.search("-[0-9]+]:", message).group()[1:-2])
         if dkpCharge % 500 == 0:
-            print("\nFOUND RECORD THAT MIGHT BE LOOT RECORD: {}".format(message))
-            lootMode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
+            printThisRecord = True
+            for knownRecordToSkip in knownRecordsToSkip:
+                # Historically there are some manual data-entry records that meet the conditional criteria of being divisble by 500.
+                # Without this "denyList" logic, each run of this evaluation prints those records to the terminal and causes clutter.
+                if knownRecordToSkip in message:
+                    printThisRecord = False
+                    break
+            if printThisRecord:
+                print("\nFOUND RECORD THAT MIGHT BE LOOT RECORD: {}".format(message))
+                lootMode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
 
     return isLootRecord, itemID, lootMode
