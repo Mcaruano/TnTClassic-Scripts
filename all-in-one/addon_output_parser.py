@@ -344,6 +344,6 @@ def parse_loot_related_metadata(message):
                     break
             if printThisRecord:
                 print("\nFOUND RECORD THAT MIGHT BE LOOT RECORD: {}".format(message))
-                lootMode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
+                lootMode = "Priority" if re.search("Priority", message) is not None else "Lottery"
 
     return isLootRecord, itemID, lootMode
