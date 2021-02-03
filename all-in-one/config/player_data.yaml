@@ -1493,14 +1493,14 @@ Scrodo:
   - Fetish of the Sand Reaver
   - Frostfire Ring
   - Gem of Trapped Innocents
-  - Leggings of Polarity
   - Rime Covered Mantle
   - Shard of the Fallen Star
   - The Restrained Essence of Sapphiron
-  - The Soul Harvester's Bindings
   - Vanquished Tentacle of C'Thun
   priority-lootconfig:
   - Eyestalk Waist Cord
+  - Leggings of Polarity
+  - The Soul Harvester's Bindings
   rank: Core Raider
   t1-lottery-dkp: 2267.02
   t1-priority-dkp: 2267.02
