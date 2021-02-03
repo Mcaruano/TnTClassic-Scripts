@@ -325,7 +325,7 @@ def parse_loot_related_metadata(message):
     # This pattern matches keys of the format "(ItemID: 19147)", which represents a loot-distribution transaction
     if re.search("\(ItemID: [0-9]+\)", message) is not None:
         itemID = re.search("\(ItemID: [0-9]+\)", message).group()[9:-1]
-        lootMode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
+        lootMode = "Priority" if re.search("Priority", message) is not None else "Lottery"
         isLootRecord = True
 
     # Sometimes a manual transaction must be entered which does NOT adhere to the precise structure of "(ItemID: <itemID>)"
