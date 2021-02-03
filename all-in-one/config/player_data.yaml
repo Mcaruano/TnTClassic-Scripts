@@ -989,6 +989,7 @@ Lilkittygato:
   class: Druid
   lottery-lootconfig:
   - Leggings of Apocalypse
+  - Shroud of Dominion
   - Slayer's Crest
   priority-lootconfig:
   - Band of Unnatural Forces
