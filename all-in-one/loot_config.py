@@ -154,7 +154,7 @@ def generate_all_desired_loot_config_files(scriptDir, outputFileDirectory, lootC
         os.rename(lootConfigJSONFilePath, os.path.join(lootconfigLatestDataDir, fileName))
 
 def copy_lootconfig_json_files_to_s3(scriptDir):
-    progress_bar = IncrementalBar("   Uploading LootConfig JSON files to S3", max=len(list(os.listdir(os.path.join(scriptDir, 'json'))), suffix='%(percent)d%% ')
+    progress_bar = IncrementalBar("   Uploading LootConfig JSON files to S3", max=len(list(os.listdir(os.path.join(scriptDir, 'json')))), suffix='%(percent)d%% ')
     for jsonLootConfigFile in os.listdir(os.path.join(scriptDir, 'json')):
         aws_utils.upload_file(os.path.join(scriptDir, 'json', jsonLootConfigFile), constants.AWS_JSON_BUCKET_NAME, jsonLootConfigFile)
         progress_bar.next()
