@@ -124,20 +124,20 @@ Ashori:
   class: Paladin
   lottery-lootconfig:
   - Cloak of Suturing
+  - Corrupted Ashbringer
   - Death's Bargain
   - Desecrated Headpiece
   - Desecrated Tunic
   - Eye of the Dead
   - Eyestalk Waist Cord
   - Gem of Trapped Innocents
-  - Hammer of the Twisting Nether
   - Onyxia Hide Backpack
   - Scarab Brooch
   - Shield of Condemnation
   - Styleen's Impeding Scarab
   - The Widow's Embrace
   priority-lootconfig:
-  - Corrupted Ashbringer
+  - Hammer of the Twisting Nether
   - Scepter of the False Prophet
   rank: Core Raider
   t1-lottery-dkp: 3900.89
