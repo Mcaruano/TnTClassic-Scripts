@@ -686,7 +686,6 @@ Glimfolkor:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
-  - Desecrated Belt
   - Doomfinger
   - Gem of Trapped Innocents
   - Ring of the Eternal Flame
