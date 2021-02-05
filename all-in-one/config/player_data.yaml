@@ -985,27 +985,6 @@ Krumyx:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
-Lilkittygato:
-  class: Druid
-  lottery-lootconfig:
-  - Leggings of Apocalypse
-  - Shroud of Dominion
-  - Slayer's Crest
-  priority-lootconfig:
-  - Band of Unnatural Forces
-  - Belt of Never-ending Agony
-  - Gloves of Enforcement
-  - Jom Gabbar
-  - Kiss of the Spider
-  rank: Reserve Raider
-  t1-lottery-dkp: 3338.96
-  t1-priority-dkp: 3338.96
-  t2-lottery-dkp: 6629.94
-  t2-priority-dkp: 6629.94
-  t2pt5-lottery-dkp: 9930.86
-  t2pt5-priority-dkp: 9930.86
-  t3-lottery-dkp: -721.04
-  t3-priority-dkp: 8780.23
 Malchazor:
   class: Paladin
   lottery-lootconfig:
