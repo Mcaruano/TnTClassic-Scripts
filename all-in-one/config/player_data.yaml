@@ -1325,7 +1325,6 @@ Roodolph:
   - Eye of C'Thun
   - Harbinger of Doom
   - Imperial Qiraji Armaments
-  - Imperial Qiraji Armaments
   - Kingsfall
   - Nerubian Slavemaker
   - Prestor's Talisman of Connivery
@@ -1341,14 +1340,14 @@ Roodolph:
   - Larvae of the Great Worm
   - Slayer's Crest
   rank: Core Raider
-  t1-lottery-dkp: 3338.81
-  t1-priority-dkp: 3328.89
-  t2-lottery-dkp: 3667.21
-  t2-priority-dkp: 6554.61
-  t2pt5-lottery-dkp: 8296.29
-  t2pt5-priority-dkp: 9292.85
-  t3-lottery-dkp: 740.74
-  t3-priority-dkp: 10995.56
+  t1-lottery-dkp: 3928.81
+  t1-priority-dkp: 3918.89
+  t2-lottery-dkp: 4847.21
+  t2-priority-dkp: 7734.61
+  t2pt5-lottery-dkp: 10066.29
+  t2pt5-priority-dkp: 11062.85
+  t3-lottery-dkp: -899.26
+  t3-priority-dkp: 13355.56
 Rotheart:
   class: Warlock
   lottery-lootconfig: []
