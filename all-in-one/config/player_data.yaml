@@ -377,6 +377,8 @@ Demeker:
   class: Warlock
   lottery-lootconfig:
   - Amulet of Vek'nilash
+  - Cloak of the Necropolis
+  - Desecrated Circlet
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -385,6 +387,7 @@ Demeker:
   - Onyxia Hide Backpack
   - Sapphiron's Left Eye
   - Sharpened Silithid Femur
+    - Wand of Fates
   priority-lootconfig:
   - Cloak of the Devoured
   - Eyestalk Waist Cord
