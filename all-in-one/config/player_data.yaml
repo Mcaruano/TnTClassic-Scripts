@@ -1450,17 +1450,17 @@ Scrodo:
   lottery-lootconfig:
   - Cloak of the Devoured
   - Cloak of the Necropolis
-  - Desecrated Robe
   - Eye of Diminution
   - Fetish of the Sand Reaver
   - Frostfire Ring
   - Gem of Trapped Innocents
-  - Rime Covered Mantle
   - Shard of the Fallen Star
   - Vanquished Tentacle of C'Thun
   priority-lootconfig:
+  - Desecrated Robe
   - Eyestalk Waist Cord
   - Leggings of Polarity
+  - Rime Covered Mantle
   - The Soul Harvester's Bindings
   rank: Core Raider
   t1-lottery-dkp: 2857.02
