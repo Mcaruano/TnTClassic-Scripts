@@ -158,13 +158,12 @@ Baopi:
   - Chromatically Tempered Sword
   - Circle of Applied Force
   - Girdle of the Mentor
-  - Iblis, Blade of the Fallen Seraph
-  - Legplates of Carnage
-  - Plated Abomination Ribcage
   - Quick Strike Ring
   - The Castigator
+  - Widow's Remorse
   priority-lootconfig:
   - Gauntlets of Annihilation
+  - Iblis, Blade of the Fallen Seraph
   - Maladath, Runed Blade of the Black Flight
   rank: Reserve Raider
   t1-lottery-dkp: 2067.27
