@@ -1662,8 +1662,8 @@ Simptease:
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
+  - Brimstone Staff
   - Cloak of the Necropolis
-  - Desecrated Circlet
   - Desecrated Sandals
   - Doomfinger
   - Frostfire Ring
@@ -1682,17 +1682,17 @@ Sizzleñips:
   - Rime Covered Mantle
   - Ring of the Eternal Flame
   - Shard of the Fallen Star
-  - The Restrained Essence of Sapphiron
   - The Soul Harvester's Bindings
   - Vanquished Tentacle of C'Thun
   - Wraith Blade
   priority-lootconfig:
-  - Brimstone Staff
   - Dark Storm Gauntlets
+  - Desecrated Circlet
   - Eyestalk Waist Cord
   - Neltharion's Tear
   - Netherwind Pants
   - Talisman of Ephemeral Power
+  - The Restrained Essence of Sapphiron
   rank: Core Raider
   t1-lottery-dkp: 2667.57
   t1-priority-dkp: 2667.57
