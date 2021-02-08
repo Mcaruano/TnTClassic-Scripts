@@ -60,6 +60,8 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
     raidData[DATE_KEY] = "TBD"
     raidData[TIER_KEY] = "Unknown"
     raidData[NUM_DPS_KEY] = 0
+    raidData[NUM_TANKS_KEY] = 0
+    raidData[NUM_HEALERS_KEY] = 0
     raidData[NUM_LATE_SIGNUPS_KEY] = 0
     raidData[NUM_BENCH_SIGNUPS_KEY] = 0
     raidData[NUM_TENTATIVE_SIGNUPS_KEY] = 0
@@ -76,8 +78,9 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
         if re.search(":b_: :w_: :l_:", line) is not None or re.search(":B_: :W_: :L_:", line) is not None:
             raidData[TIER_KEY] = "T2"
         
+        # Date is in the format: "Thu 2. Sep"
         if re.search(":CMcalendar:", line) is not None:
-            raidData[DATE_KEY] = re.search("[0-9]+-[0-9]+-[0-9]+", line).group()
+            raidData[DATE_KEY] = re.search("[A-Za-z]+ [0-9]+. [A-Za-z]+", line).group()
 
         if re.search(":signups: [0-9]+", line) is not None:
             raidData[NUM_ACTIVE_SIGNUPS_KEY] = int(re.search("[0-9]+", line).group())
