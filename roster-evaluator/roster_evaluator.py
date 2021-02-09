@@ -453,6 +453,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
             highestOddsLotteryItem = "Nothing"
             highestLotteryItemOdds = 0
             for odds, itemName in discordAttendeePlayerData[player][LOTTERY_ODDS_LIST_KEY]:
+                
                 # Once we've found an item to record, break out
                 if highestOddsLotteryItem != "Nothing": break
 
@@ -467,7 +468,12 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
 
             # If no potential Lottery item was identified for this player, insert a record indicating so
             if highestOddsLotteryItem == "Nothing":
-                bisect.insort(potentialCandidatesForSitting, (0, (player, "Has nothing on Lottery")))
+                # Just because it was determined that the player cannot win anything on Lottery does not mean the player
+                # had nothing on Lottery. We want to set the correct message based on this fact
+                if len(discordAttendeePlayerData[player][LOTTERY_ODDS_LIST_KEY]) > 0:
+                    bisect.insort(potentialCandidatesForSitting, (0, (player, "Can't win any of their Lottery items")))
+                else:
+                    bisect.insort(potentialCandidatesForSitting, (0, (player, "Has nothing on Lottery")))
             else:
                 bisect.insort(potentialCandidatesForSitting, (highestLotteryItemOdds, (player, highestOddsLotteryItem)))
 
@@ -601,28 +607,28 @@ def generate_report_file(scriptDir, updatedRaidData, updatedPlayerData):
             for odds, playerAndItemRecord in updatedRaidData[PROPOSED_SITS_KEY]:
                 playerName, itemName = playerAndItemRecord
 
-                if updatedPlayerData[playerName][ROLE_KEY] == "Tank" or updatedPlayerData[playerName][ROLE_KEY] == "Healer":
+                if updatedPlayerData[playerName][ROLE_KEY] == "Tank":
                     continue # I don't think we'll ever want to sit Tanks (Also included Healers in this for now)
                 elif updatedPlayerData[playerName][ROLE_KEY] == "Healer": ## This logic block us just in case I ever want to re-enable Healer evaluation
                     if itemName == "Has nothing on Lottery":
                         f.write('- **{}** - Is not up for anything on Priority and has nothing on Lottery.\n'.format(playerName))
-                        if updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]:
-                            f.write('-    {} is SECOND in line for the following item(s) at Priority: {}\n'.format(playerName, updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]))                            
-                        f.write('-    {} is a **Healer**.\n'.format(playerName))
+                    elif itemName == "Can't win any of their Lottery items":
+                        f.write('- **{}** - Is not up for anything on Priority and also cannot win any of their desired Lottery items\n'.format(playerName))                            
                     else:
                         f.write('- **{}** - Is not up for anything on Priority and highest Lottery odds are {}% for {}.\n'.format(playerName, odds, itemName))
-                        if updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]:
-                            f.write('-    {} is SECOND in line for the following item(s) at Priority: {}\n'.format(playerName, updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]))  
-                        f.write('-    {} is a **Healer**.\n'.format(playerName))                        
+                    
+                    if updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]:
+                        f.write('-    {} is SECOND in line for the following item(s) at Priority: {}\n'.format(playerName, updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]))  
+                    f.write('-    {} is a **Healer**.\n'.format(playerName))                        
                 else:
                     if itemName == "Has nothing on Lottery":
                         f.write('- **{}** - Is not immediately up for anything on Priority and has nothing on Lottery\n'.format(playerName))
-                        if updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]:
-                            f.write('-    {} is SECOND in line for the following item(s) at Priority: {}\n'.format(playerName, updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY])) 
+                    elif itemName == "Can't win any of their Lottery items":
+                        f.write('- **{}** - Is not up for anything on Priority and also cannot win any of their desired Lottery items\n'.format(playerName))
                     else:
                         f.write('- **{}** - Is not immediately up for anything on Priority and highest Lottery odds are {}% for {}\n'.format(playerName, odds, itemName))
-                        if updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]:
-                            f.write('-    {} is SECOND in line for the following item(s) at Priority: {}\n'.format(playerName, updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]))
+                    if updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]:
+                        f.write('-    {} is SECOND in line for the following item(s) at Priority: {}\n'.format(playerName, updatedPlayerData[playerName][PRIO_SECOND_UP_LIST_KEY]))
 
                 # Post any additional roster-planning callouts for this player (if any)
                 if playerName in SPECIFIC_ROSTER_CALLOUTS:
