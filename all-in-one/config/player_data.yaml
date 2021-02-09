@@ -1027,7 +1027,7 @@ Mlg:
   - Eyestalk Waist Cord
   - Staff of the Shadow Flame
   - Wraith Blade
-  rank: Core Raider
+  rank: Social Member
   t1-lottery-dkp: 1838.25
   t1-priority-dkp: 1826.35
   t2-lottery-dkp: 3674.53
@@ -1135,7 +1135,7 @@ Nynisa:
   class: Mage
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Reserve Raider
+  rank: Social Member
   t1-lottery-dkp: 659.68
   t1-priority-dkp: 659.68
   t2-lottery-dkp: 1582.62
