@@ -1644,9 +1644,9 @@ Simptease:
   lottery-lootconfig:
   - Girdle of the Mentor
   - Hatchet of Sundered Bone
-  - Kingsfall
   - Wristguards of Vengeance
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Kingsfall
   rank: Core Raider
   t1-lottery-dkp: 1290.1
   t1-priority-dkp: 1290.1
