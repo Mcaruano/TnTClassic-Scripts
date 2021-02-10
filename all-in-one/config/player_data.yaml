@@ -125,13 +125,12 @@ Ashori:
   - Corrupted Ashbringer
   - Eye of the Dead
   - Eyestalk Waist Cord
+  - Hammer of the Twisting Nether
   - Onyxia Hide Backpack
   - Scarab Brooch
-  - Shield of Condemnation
   - Styleen's Impeding Scarab
   - The Widow's Embrace
   priority-lootconfig:
-  - Hammer of the Twisting Nether
   - Scepter of the False Prophet
   rank: Core Raider
   t1-lottery-dkp: 3905.76
