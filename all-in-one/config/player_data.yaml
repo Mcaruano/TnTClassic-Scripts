@@ -159,7 +159,7 @@ Baopi:
   - Gauntlets of Annihilation
   - Iblis, Blade of the Fallen Seraph
   - Maladath, Runed Blade of the Black Flight
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 2347.18
   t1-priority-dkp: 2347.18
   t2-lottery-dkp: 4689.13
@@ -320,7 +320,7 @@ Chuunin:
   priority-lootconfig:
   - Aged Core Leather Gloves
   - Death's Sting
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 1517.77
   t1-priority-dkp: 1517.77
   t2-lottery-dkp: 3035.55
@@ -680,7 +680,7 @@ Goodjorb:
   - Ring of the Eternal Flame
   priority-lootconfig:
   - Cloak of the Necropolis
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 1517.77
   t1-priority-dkp: 1517.77
   t2-lottery-dkp: 3035.55
@@ -770,7 +770,7 @@ Hyolin:
   - Spire of Twilight
   priority-lootconfig:
   - Desecrated Robe
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 1517.77
   t1-priority-dkp: 1517.77
   t2-lottery-dkp: 3035.55
