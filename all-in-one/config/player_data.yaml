@@ -122,7 +122,6 @@ Ashori:
   class: Paladin
   lottery-lootconfig:
   - Cloak of Suturing
-  - Corrupted Ashbringer
   - Eye of the Dead
   - Eyestalk Waist Cord
   - Hammer of the Twisting Nether
@@ -131,6 +130,7 @@ Ashori:
   - Styleen's Impeding Scarab
   - The Widow's Embrace
   priority-lootconfig:
+  - Corrupted Ashbringer
   - Scepter of the False Prophet
   rank: Core Raider
   t1-lottery-dkp: 3905.76
@@ -155,7 +155,6 @@ Baopi:
   - The Castigator
   - Widow's Remorse
   priority-lootconfig:
-  - Corrupted Ashbringer
   - Gauntlets of Annihilation
   - Iblis, Blade of the Fallen Seraph
   - Maladath, Runed Blade of the Black Flight
