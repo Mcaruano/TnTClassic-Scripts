@@ -830,11 +830,11 @@ Kang:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Shard of the Fallen Star
-  - Vanquished Tentacle of C'Thun
   priority-lootconfig:
+  - Shard of the Fallen Star
   - Spinal Reaper
   - The Hungering Cold
+  - Vanquished Tentacle of C'Thun
   rank: Core Raider
   t1-lottery-dkp: 3834.35
   t1-priority-dkp: 3808.73
