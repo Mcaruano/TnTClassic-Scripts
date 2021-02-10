@@ -689,7 +689,8 @@ Goodjorb:
   - Doomfinger
   - Gem of Trapped Innocents
   - Ring of the Eternal Flame
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Cloak of the Necropolis
   rank: Reserve Raider
   t1-lottery-dkp: 927.77
   t1-priority-dkp: 927.77
