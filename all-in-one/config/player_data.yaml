@@ -628,7 +628,6 @@ Galm:
   - Desecrated Circlet
   - Desecrated Sandals
   - Frostfire Ring
-  - Leggings of Polarity
   - Leggings of the Festering Swarm
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -640,6 +639,7 @@ Galm:
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Dark Storm Gauntlets
+  - Leggings of Polarity
   - Sapphiron's Left Eye
   rank: Core Raider
   t1-lottery-dkp: 3926.04
