@@ -1915,6 +1915,7 @@ Tongsummons:
 Vermora:
   class: Rogue
   lottery-lootconfig:
+  - Eye of C'Thun
   - Kiss of the Spider
   - Larvae of the Great Worm
   - Might of the Scourge
