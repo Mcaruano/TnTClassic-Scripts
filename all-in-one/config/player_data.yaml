@@ -150,14 +150,17 @@ Baopi:
   - Brutality Blade
   - Chromatically Tempered Sword
   - Circle of Applied Force
+  - Dark Edge of Insanity 
+  - Eye of C’thun
   - Girdle of the Mentor
+  - Maladath, Runed Blade of the Black Flight
   - Quick Strike Ring
   - The Castigator
   - Widow's Remorse
   priority-lootconfig:
+  - Drake Fang Talisman
   - Gauntlets of Annihilation
   - Iblis, Blade of the Fallen Seraph
-  - Maladath, Runed Blade of the Black Flight
   rank: Core Raider
   t1-lottery-dkp: 2347.18
   t1-priority-dkp: 2347.18
