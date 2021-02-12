@@ -472,7 +472,6 @@ Ekohz:
   class: Mage
   lottery-lootconfig:
   - Cloak of the Devoured
-  - Eyestalk Waist Cord
   - Frostfire Ring
   - Malice Stone Pendant
   - Onyxia Hide Backpack
@@ -491,8 +490,8 @@ Ekohz:
   - Choker of the Firelord
   - Dark Storm Gauntlets
   - Desecrated Robe
+  - Eyestalk Waist Cord
   - Leggings of Polarity
-  - Ritssyn's Ring of Chaos
   - Soulseeker
   - Wraith Blade
   rank: Core Raider
