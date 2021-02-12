@@ -1814,6 +1814,8 @@ Suwuavo:
 Sylador:
   class: Druid
   lottery-lootconfig:
+  - Barbed Choker
+  - Belt of Never-ending Agony
   - Desecrated Headpiece
   - Eye of the Dead
   - Gloves of Enforcement
@@ -1825,12 +1827,10 @@ Sylador:
   - Onyxia Hide Backpack
   - Qiraji Execution Bracers
   - Sapphiron's Right Eye
-  - Vanquished Tentacle of C'Thun
   priority-lootconfig:
-  - Boots of Pure Thought
-  - Bracelets of Royal Redemption
   - Hammer of the Twisting Nether
   - Shard of the Scale
+  - Vanquished Tentacle of C'Thun
   rank: Core Raider
   t1-lottery-dkp: 3915.7
   t1-priority-dkp: 3916.64
