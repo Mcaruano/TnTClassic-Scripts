@@ -1647,14 +1647,14 @@ Shnackypacky:
   - Hammer of the Twisting Nether
   - Shard of the Scale
   rank: Core Raider
-  t1-lottery-dkp: 3662.24
-  t1-priority-dkp: 3805.7
-  t2-lottery-dkp: 7218.98
-  t2-priority-dkp: 7666.75
-  t2pt5-lottery-dkp: 10519.46
-  t2pt5-priority-dkp: 11413.48
-  t3-lottery-dkp: 7916.88
-  t3-priority-dkp: 14270.99
+  t1-lottery-dkp: 3732.24
+  t1-priority-dkp: 3875.7
+  t2-lottery-dkp: 7358.98
+  t2-priority-dkp: 7806.75
+  t2pt5-lottery-dkp: 10729.46
+  t2pt5-priority-dkp: 11623.48
+  t3-lottery-dkp: 8056.88
+  t3-priority-dkp: 14410.99
 Shrimptea:
   class: Not Set
   lottery-lootconfig: []
