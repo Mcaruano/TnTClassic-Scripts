@@ -1,4 +1,5 @@
 gen/
+json/
 raw_addon_output/
 trash/
 __pycache__/
