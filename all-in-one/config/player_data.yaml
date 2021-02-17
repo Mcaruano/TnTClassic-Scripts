@@ -1885,9 +1885,8 @@ Thursday:
   lottery-lootconfig:
   - Dark Edge of Insanity
   - Might of the Scourge
+  priority-lootconfig:
   - The Phylactery of Kel'Thuzad
-  - Widow's Remorse
-  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3016.26
   t1-priority-dkp: 3315.17
