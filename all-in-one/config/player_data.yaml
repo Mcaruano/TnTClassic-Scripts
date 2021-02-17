@@ -6,10 +6,11 @@ Abstinence:
   - Desecrated Wristguards
   - Eye of C'Thun
   - Harbinger of Doom
-  - Nerubian Slavemaker
-  - The Phylactery of Kel'Thuzad
+  - Might of the Scourge
   priority-lootconfig:
   - Badge of the Swarmguard
+  - Nerubian Slavemaker
+  - The Phylactery of Kel'Thuzad
   rank: Core Raider
   t1-lottery-dkp: 3575.31
   t1-priority-dkp: 3927.87
