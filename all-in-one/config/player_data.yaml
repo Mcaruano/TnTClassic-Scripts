@@ -587,11 +587,14 @@ Elphirt:
 Emianne:
   class: Mage
   lottery-lootconfig:
+  - Brimstone Staff
   - Cloak of the Necropolis
   - Desecrated Robe
   - Desecrated Sandals
   - Doomfinger
   - Eyestalk Waist Cord
+  - Glacial Headdress
+  - Glacial Mantle
   - Robe of Volatile Power
   - Royal Scepter of Vek'lor
   - Sharpened Silithid Femur
@@ -600,7 +603,6 @@ Emianne:
   - Choker of the Firelord
   - Dark Storm Gauntlets
   - Rime Covered Mantle
-  - Sapphiron's Left Eye
   rank: Core Raider
   t1-lottery-dkp: 2463.45
   t1-priority-dkp: 2662.9
