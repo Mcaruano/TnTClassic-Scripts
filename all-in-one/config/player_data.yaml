@@ -725,17 +725,17 @@ Hattyy:
   lottery-lootconfig:
   - Boots of Pure Thought
   - Bracelets of Royal Redemption
-  - Cloak of Suturing
-  - Desecrated Circlet
-  - Desecrated Leggings
-  - Desecrated Robe
-  - Desecrated Shoulderpads
   - Eye of the Dead
   - Ring of Faith
   - Scepter of the False Prophet
   - Wand of the Whispering Dead
   priority-lootconfig:
   - Cloak of Clarity
+  - Cloak of Suturing
+  - Desecrated Circlet
+  - Desecrated Leggings
+  - Desecrated Robe
+  - Desecrated Shoulderpads
   - Don Rigoberto's Lost Hat
   - Scarab Brooch
   rank: Core Raider
