@@ -393,9 +393,7 @@ Demeker:
   - Royal Scepter of Vek'lor
   - Sharpened Silithid Femur
   - Wand of Fates
-  priority-lootconfig:
-  - Sapphiron's Left Eye
-  - Wraith Blade
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3848.48
   t1-priority-dkp: 3890.45
