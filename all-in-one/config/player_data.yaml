@@ -1829,6 +1829,8 @@ Stephany:
   class: Warlock
   lottery-lootconfig:
   - Cloak of the Necropolis
+  - Power of the Scourge
+  - Power of the Scourge
   - Wand of Fates
   priority-lootconfig:
   - Desecrated Robe
