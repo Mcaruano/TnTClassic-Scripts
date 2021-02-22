@@ -1735,12 +1735,15 @@ Sizzleñips:
 Snickercakes:
   class: Warrior
   lottery-lootconfig:
+  - Ghoul Skin Tunic
   - Gloves of Enforcement
-  - Legplates of Carnage
   - Plated Abomination Ribcage
+  - Shroud of Dominion
   priority-lootconfig:
   - Elementium Reinforced Bulwark
   - Gauntlets of Annihilation
+  - Legplates of Carnage
+  - The Castigator
   rank: Core Raider
   t1-lottery-dkp: 3092.16
   t1-priority-dkp: 3092.16
