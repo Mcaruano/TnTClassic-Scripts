@@ -822,11 +822,8 @@ Hulkhigginz:
   t3-priority-dkp: 8174.57
 Hyolin:
   class: Priest
-  lottery-lootconfig:
-  - Ring of Faith
-  - Spire of Twilight
-  priority-lootconfig:
-  - Desecrated Robe
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 1598.08
   t1-priority-dkp: 1598.08
