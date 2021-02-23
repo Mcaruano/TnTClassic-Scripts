@@ -151,13 +151,14 @@ Baopi:
   - Circle of Applied Force
   - Dark Edge of Insanity
   - Eye of C'Thun
+  - Might of the Scourge
   - Quick Strike Ring
   - Stormrage's Talisman of Seething
-  - The Castigator
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Drake Fang Talisman
   - Gauntlets of Annihilation
+  - The Castigator
   rank: Core Raider
   t1-lottery-dkp: 2197.34
   t1-priority-dkp: 2197.34
