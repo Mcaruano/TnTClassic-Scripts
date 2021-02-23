@@ -1431,7 +1431,6 @@ Rumegirl:
   lottery-lootconfig:
   - Band of Unnatural Forces
   - Iblis, Blade of the Fallen Seraph
-  - Kiss of the Spider
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -1442,6 +1441,7 @@ Rumegirl:
   priority-lootconfig:
   - Drake Fang Talisman
   - Jom Gabbar
+  - Kiss of the Spider
   rank: Core Raider
   t1-lottery-dkp: 3044.15
   t1-priority-dkp: 3322.0
