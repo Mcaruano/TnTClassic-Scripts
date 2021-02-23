@@ -384,7 +384,6 @@ Demeker:
   - Amulet of Vek'nilash
   - Cloak of the Devoured
   - Cloak of the Necropolis
-  - Desecrated Circlet
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -393,8 +392,9 @@ Demeker:
   - Onyxia Hide Backpack
   - Royal Scepter of Vek'lor
   - Sharpened Silithid Femur
+  priority-lootconfig:
+  - Desecrated Circlet
   - Wand of Fates
-  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3271.21
   t1-priority-dkp: 3306.88
