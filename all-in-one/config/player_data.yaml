@@ -1718,9 +1718,9 @@ Sizzleñips:
   - Seal of the Damned
   - Shard of the Fallen Star
   - The Phylactery of Kel'Thuzad
+  - The Restrained Essence of Sapphiron
   - The Soul Harvester's Bindings
   - Vanquished Tentacle of C'Thun
-  - Wraith Blade
   priority-lootconfig:
   - Dark Storm Gauntlets
   - Desecrated Circlet
@@ -1728,7 +1728,7 @@ Sizzleñips:
   - Neltharion's Tear
   - Netherwind Pants
   - Talisman of Ephemeral Power
-  - The Restrained Essence of Sapphiron
+  - Wraith Blade
   rank: Core Raider
   t1-lottery-dkp: 2566.0
   t1-priority-dkp: 2566.0
