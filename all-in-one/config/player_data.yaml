@@ -1356,6 +1356,7 @@ Roodolph:
   lottery-lootconfig:
   - Ashkandi, Greatsword of the Brotherhood
   - Barb of the Sand Reaver
+  - Corrupted Ashbringer
   - Desecrated Girdle
   - Desecrated Handguards
   - Desecrated Legguards
@@ -1375,7 +1376,6 @@ Roodolph:
   priority-lootconfig:
   - Ashjre'thul, Crossbow of Smiting
   - Badge of the Swarmguard
-  - Corrupted Ashbringer
   - Jom Gabbar
   - Nerubian Slavemaker
   - Prestor's Talisman of Connivery
