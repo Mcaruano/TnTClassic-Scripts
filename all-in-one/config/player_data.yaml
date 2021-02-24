@@ -1224,6 +1224,7 @@ Pudzey:
   - Cloak of Suturing
   - Desecrated Robe
   - Desecrated Sandals
+  - Eye of the Dead
   - Necro-Knight's Garb
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -1231,7 +1232,6 @@ Pudzey:
   - The Widow's Embrace
   - Wand of the Whispering Dead
   priority-lootconfig:
-  - Eye of the Dead
   - Grasp of the Old God
   - Hammer of the Twisting Nether
   - Scepter of the False Prophet
