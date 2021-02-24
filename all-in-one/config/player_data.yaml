@@ -413,6 +413,7 @@ Dienasty:
   - Gressil, Dawn of Ruin
   - Kiss of the Spider
   - Legplates of Carnage
+  - Might of Menethil
   - Plated Abomination Ribcage
   - Stormrage's Talisman of Seething
   - The Castigator
@@ -421,7 +422,6 @@ Dienasty:
   priority-lootconfig:
   - Chromatic Boots
   - Eye of C'Thun
-  - Might of Menethil
   - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3342.34
