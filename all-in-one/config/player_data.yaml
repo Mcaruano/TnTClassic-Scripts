@@ -1865,7 +1865,6 @@ Sylador:
   class: Druid
   lottery-lootconfig:
   - Belt of Never-ending Agony
-  - Eye of the Dead
   - Gloves of Enforcement
   - Grasp of the Old God
   - Lok'amir il Romathis
@@ -1876,6 +1875,7 @@ Sylador:
   - Qiraji Execution Bracers
   - Sapphiron's Right Eye
   priority-lootconfig:
+  - Eye of the Dead
   - Shard of the Scale
   - Vanquished Tentacle of C'Thun
   rank: Core Raider
