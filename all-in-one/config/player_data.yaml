@@ -741,32 +741,6 @@ Hatty:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 110.93
   t3-priority-dkp: 110.93
-Hattyy:
-  class: Priest
-  lottery-lootconfig:
-  - Boots of Pure Thought
-  - Bracelets of Royal Redemption
-  - Eye of the Dead
-  - Ring of Faith
-  - Scepter of the False Prophet
-  - Wand of the Whispering Dead
-  priority-lootconfig:
-  - Cloak of Clarity
-  - Cloak of Suturing
-  - Desecrated Circlet
-  - Desecrated Robe
-  - Desecrated Shoulderpads
-  - Don Rigoberto's Lost Hat
-  - Scarab Brooch
-  rank: Social Member
-  t1-lottery-dkp: 3354.06
-  t1-priority-dkp: 3354.06
-  t2-lottery-dkp: 6704.34
-  t2-priority-dkp: 6704.34
-  t2pt5-lottery-dkp: 10056.51
-  t2pt5-priority-dkp: 7889.01
-  t3-lottery-dkp: 2738.85
-  t3-priority-dkp: 7350.49
 Hulkhigginz:
   class: Warrior
   lottery-lootconfig:
@@ -811,6 +785,19 @@ Hyolin:
   t2pt5-priority-dkp: 6774.27
   t3-lottery-dkp: 6867.42
   t3-priority-dkp: 9323.92
+Jerillak:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t1-lottery-dkp: 3354.06
+  t1-priority-dkp: 3354.06
+  t2-lottery-dkp: 6704.34
+  t2-priority-dkp: 6704.34
+  t2pt5-lottery-dkp: 10056.51
+  t2pt5-priority-dkp: 7889.01
+  t3-lottery-dkp: 2738.85
+  t3-priority-dkp: 7350.49
 Justin:
   class: Warlock
   lottery-lootconfig:
