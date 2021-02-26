@@ -698,19 +698,6 @@ Goodjorb:
 Haties:
   class: Mage
   lottery-lootconfig:
-  priority-lootconfig:
-  rank: Core Raider
-  t1-lottery-dkp: 3238.98
-  t1-priority-dkp: 3238.98
-  t2-lottery-dkp: 6474.2
-  t2-priority-dkp: 6474.2
-  t2pt5-lottery-dkp: 9711.29
-  t2pt5-priority-dkp: 9711.29
-  t3-lottery-dkp: 9526.84
-  t3-priority-dkp: 13059.32
-Hatty:
-  class: Not Set
-  lottery-lootconfig:
   - Band of Forced Concentration
   - Band of the Inevitable
   - Bracers of Arcane Accuracy
@@ -732,6 +719,19 @@ Hatty:
   - Eyestalk Waist Cord
   - Neltharion's Tear
   - Talisman of Ephemeral Power
+  rank: Core Raider
+  t1-lottery-dkp: 3238.98
+  t1-priority-dkp: 3238.98
+  t2-lottery-dkp: 6474.2
+  t2-priority-dkp: 6474.2
+  t2pt5-lottery-dkp: 9711.29
+  t2pt5-priority-dkp: 9711.29
+  t3-lottery-dkp: 9526.84
+  t3-priority-dkp: 13059.32
+Hatty:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
