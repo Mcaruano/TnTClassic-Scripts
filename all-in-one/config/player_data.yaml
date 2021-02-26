@@ -1973,15 +1973,17 @@ Tongsummons:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Eye of C'Thun
+  - Jom Gabbar
   - Kiss of the Spider
   - Larvae of the Great Worm
+  - Might of the Scourge
+  - Might of the Scourge
   - Nerubian Slavemaker
   - Shroud of Dominion
   - Slayer's Crest
   priority-lootconfig:
   - Band of Unnatural Forces
-  - Jom Gabbar
+  - Eye of C'Thun
   rank: Core Raider
   t1-lottery-dkp: 2759.37
   t1-priority-dkp: 2759.37
