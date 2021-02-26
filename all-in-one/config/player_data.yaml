@@ -1342,28 +1342,31 @@ Riskyrizzy:
 Roodolph:
   class: Hunter
   lottery-lootconfig:
+  - Archimtiros' Ring of Reckoning
+  - Ashjre'thul, Crossbow of Smiting
   - Ashkandi, Greatsword of the Brotherhood
   - Barb of the Sand Reaver
-  - Corrupted Ashbringer
+  - Carapace of the Old God
   - Desecrated Girdle
   - Desecrated Handguards
   - Desecrated Legguards
   - Desecrated Tunic
   - Dragonstalker's Gauntlets
   - Dragonstalker's Legguards
-  - Eye of C'Thun
   - Kingsfall
   - Might of the Scourge
   - Might of the Scourge
   - Might of the Scourge
   - Might of the Scourge
   - Shroud of Dominion
+  - Skin of the Great Sandworm
   - The Eye of Nerub
   - The Phylactery of Kel'Thuzad
   - Vek'lor's Gloves of Devastation
   priority-lootconfig:
-  - Ashjre'thul, Crossbow of Smiting
   - Badge of the Swarmguard
+  - Corrupted Ashbringer
+  - Eye of C'Thun
   - Jom Gabbar
   - Nerubian Slavemaker
   - Prestor's Talisman of Connivery
