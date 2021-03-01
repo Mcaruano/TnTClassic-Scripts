@@ -754,15 +754,14 @@ Hulkhigginz:
   - Imperial Qiraji Armaments
   - Legplates of Carnage
   - Might of Menethil
+  - Ring of the Qiraji Fury
   - Shroud of Dominion
   - Slayer's Crest
   - Stormrage's Talisman of Seething
   - Wristguards of Vengeance
   priority-lootconfig:
-  - Drake Fang Talisman
   - Gauntlets of Annihilation
   - Quick Strike Ring
-  - Ring of the Qiraji Fury
   - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3342.34
