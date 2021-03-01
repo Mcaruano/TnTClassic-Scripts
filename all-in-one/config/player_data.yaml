@@ -698,6 +698,7 @@ Goodjorb:
 Haties:
   class: Mage
   lottery-lootconfig:
+  - Amulet of Vek'nilash
   - Band of Forced Concentration
   - Band of the Inevitable
   - Bracers of Arcane Accuracy
