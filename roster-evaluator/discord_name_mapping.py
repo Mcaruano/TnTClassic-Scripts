@@ -88,6 +88,7 @@ DISCORD_NAME_MAPPING = {
     "Sylador": "Sylador",
     "Thursday": "Thursday",
     "Tongsta": "Tongster",
+    "Venjamin": "Venjamin",
     "Vermora": "Vermora",
     "Whogryps": "Whogryps",
     "Zoff": "Zóff",
