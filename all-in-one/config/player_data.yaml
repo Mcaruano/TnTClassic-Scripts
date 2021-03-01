@@ -1468,17 +1468,18 @@ Sapper:
 Scrodo:
   class: Mage
   lottery-lootconfig:
+  - Gem of Trapped Innocents
+  priority-lootconfig:
   - Cloak of the Devoured
   - Cloak of the Necropolis
+  - Desecrated Robe
+  - Desecrated Shoulders
   - Fetish of the Sand Reaver
   - Frostfire Ring
-  - Gem of Trapped Innocents
-  - Shard of the Fallen Star
-  - Vanquished Tentacle of C'Thun
-  priority-lootconfig:
-  - Desecrated Robe
   - Rime Covered Mantle
+  - Shard of the Fallen Star
   - The Soul Harvester's Bindings
+  - Vanquished Tentacle of C'Thun
   rank: Core Raider
   t1-lottery-dkp: 3342.34
   t1-priority-dkp: 3342.34
