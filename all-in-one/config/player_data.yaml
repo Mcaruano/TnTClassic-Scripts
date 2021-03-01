@@ -1966,6 +1966,32 @@ Tongsummons:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
+Venjamin:
+  class: Rogue
+  lottery-lootconfig:
+  - Bonescythe Ring
+  - Boots of the Shadow Flame
+  - Death's Sting
+  - Desecrated Bracers
+  - Desecrated Breastplate
+  - Desecrated Helmet
+  - Desecrated Legplates
+  - Desecrated Pauldrons
+  - Desecrated Sabatons
+  - Desecrated Waistguard
+  priority-lootconfig:
+  - Badge of the Swarmguard
+  - Drake Fang Talisman
+  - Gressil, Dawn of Ruin
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Vermora:
   class: Rogue
   lottery-lootconfig:
