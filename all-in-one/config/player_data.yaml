@@ -599,6 +599,19 @@ Emianne:
   t2pt5-priority-dkp: 8593.3
   t3-lottery-dkp: -1138.7
   t3-priority-dkp: 9341.63
+Envisage:
+  class: Paladin
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t1-lottery-dkp: 1919.37
+  t1-priority-dkp: 1919.37
+  t2-lottery-dkp: 3838.76
+  t2-priority-dkp: 3838.76
+  t2pt5-lottery-dkp: 5758.13
+  t2pt5-priority-dkp: 5758.13
+  t3-lottery-dkp: 5837.31
+  t3-priority-dkp: 7925.33
 Fearbot:
   class: Warlock
   lottery-lootconfig:
@@ -773,10 +786,10 @@ Hulkhigginz:
   t3-lottery-dkp: 5414.13
   t3-priority-dkp: 9192.38
 Hyolin:
-  class: Priest
+  class: Not Set
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Core Raider
+  rank: Not Set
   t1-lottery-dkp: 1919.37
   t1-priority-dkp: 1919.37
   t2-lottery-dkp: 3838.76
