@@ -601,8 +601,13 @@ Emianne:
   t3-priority-dkp: 9341.63
 Envisage:
   class: Paladin
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Cloak of Suturing
+  - Desecrated Tunic
+  priority-lootconfig:
+  - Eye of the Dead
+  - Rejuvenating Gem
+  - Ring of the Martyr
   rank: Core Raider
   t1-lottery-dkp: 1919.37
   t1-priority-dkp: 1919.37
