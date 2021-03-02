@@ -5,10 +5,14 @@ Abstinence:
   - Claw of the Frost Wyrm
   - Dark Edge of Insanity
   - Eye of C'Thun
-  - Harbinger of Doom
+  - Might of the Scourge
+  - Might of the Scourge
+  - Might of the Scourge
   - Might of the Scourge
   priority-lootconfig:
   - Badge of the Swarmguard
+  - Harbinger of Doom
+  - Might of the Scourge
   - Nerubian Slavemaker
   rank: Core Raider
   t1-lottery-dkp: 3144.16
