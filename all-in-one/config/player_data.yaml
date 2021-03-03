@@ -158,13 +158,12 @@ Ballockthree:
 Baopi:
   class: Warrior
   lottery-lootconfig:
-  - Ancient Qiraji Ripper
   - Band of Unnatural Forces
   - Barbed Choker
-  - Chromatically Tempered Sword
   - Circle of Applied Force
   - Dark Edge of Insanity
   - Eye of C'Thun
+  - Larvae of the Great Worm
   - Might of the Scourge
   - Quick Strike Ring
   - Stormrage's Talisman of Seething
