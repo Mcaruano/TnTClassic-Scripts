@@ -612,12 +612,16 @@ Emianne:
 Envisage:
   class: Paladin
   lottery-lootconfig:
+  - Cloak of Clarity
   - Cloak of Suturing
   - Desecrated Tunic
+  - Pure Elementium Band
+  - Shroud of Pure Thought
   priority-lootconfig:
   - Eye of the Dead
   - Rejuvenating Gem
   - Ring of the Martyr
+  - Scarab Brooch
   rank: Core Raider
   t1-lottery-dkp: 2509.37
   t1-priority-dkp: 2509.37
