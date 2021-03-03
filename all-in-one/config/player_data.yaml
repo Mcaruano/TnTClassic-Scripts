@@ -1494,12 +1494,12 @@ Sapper:
 Scrodo:
   class: Mage
   lottery-lootconfig:
+  - Desecrated Shoulderpads
   - Gem of Trapped Innocents
   priority-lootconfig:
   - Cloak of the Devoured
   - Cloak of the Necropolis
   - Desecrated Robe
-  - Desecrated Shoulderpads
   - Fetish of the Sand Reaver
   - Frostfire Ring
   - Rime Covered Mantle
