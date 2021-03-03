@@ -1687,10 +1687,14 @@ Shrimptea:
 Simptease:
   class: Warrior
   lottery-lootconfig:
-  - Girdle of the Mentor
+  - Legplates of Carnage
+  - Might of the Scourge
+  - Widow’s Remorse
   priority-lootconfig:
+  - Girdle of the Mentor
   - Iblis, Blade of the Fallen Seraph
   - Kingsfall
+  - Plated Abomination Ribcage
   rank: Core Raider
   t1-lottery-dkp: 2141.89
   t1-priority-dkp: 2141.89
