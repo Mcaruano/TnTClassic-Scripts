@@ -122,6 +122,7 @@ Aro:
 Ashori:
   class: Paladin
   lottery-lootconfig:
+  - Cloak of Concentrated Hatred
   - Cloak of Suturing
   - Eye of the Dead
   - Eyestalk Waist Cord
@@ -132,7 +133,6 @@ Ashori:
   - Styleen's Impeding Scarab
   priority-lootconfig:
   - Corrupted Ashbringer
-  - Scepter of the False Prophet
   rank: Core Raider
   t1-lottery-dkp: 3975.9
   t1-priority-dkp: 3980.12
