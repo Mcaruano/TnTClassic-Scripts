@@ -1587,7 +1587,6 @@ Sheol:
   - Bracelets of Royal Redemption
   - Desecrated Leggings
   - Desecrated Robe
-  - Hammer of the Twisting Nether
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -1598,6 +1597,7 @@ Sheol:
   - Ternary Mantle
   - Wand of the Whispering Dead
   priority-lootconfig:
+  - Hammer of the Twisting Nether
   - Rejuvenating Gem
   - Shard of the Scale
   rank: Core Raider
