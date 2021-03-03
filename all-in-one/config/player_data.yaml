@@ -258,7 +258,7 @@ Bunnéh:
 Caelandine:
   class: Druid
   lottery-lootconfig:
-  - Desecrated Girdle
+  - Cryptfiend Silk Cloak
   - Drake Fang Talisman
   - Ghoul Skin Tunic
   - Mark of C'Thun
@@ -268,6 +268,7 @@ Caelandine:
   - Qiraji Execution Bracers
   priority-lootconfig:
   - Band of Unanswered Prayers
+  - Desecrated Girdle
   rank: Core Raider
   t1-lottery-dkp: 3986.74
   t1-priority-dkp: 3989.6
