@@ -1223,6 +1223,19 @@ Padaladin:
   t2pt5-priority-dkp: 1276.77
   t3-lottery-dkp: 386.08
   t3-priority-dkp: 345.9
+Peacard:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Phi:
   class: Priest
   lottery-lootconfig: []
