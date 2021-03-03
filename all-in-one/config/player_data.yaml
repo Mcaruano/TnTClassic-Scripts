@@ -1701,10 +1701,8 @@ Simptease:
   lottery-lootconfig:
   - Legplates of Carnage
   - Might of the Scourge
-  - Widow's Remorse
   priority-lootconfig:
   - Girdle of the Mentor
-  - Iblis, Blade of the Fallen Seraph
   - Plated Abomination Ribcage
   rank: Core Raider
   t1-lottery-dkp: 2731.89
