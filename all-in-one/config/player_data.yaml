@@ -2068,6 +2068,46 @@ Tongsummons:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
+Tylerniknam:
+  class: Rogue
+  lottery-lootconfig:
+  - Aged Core Leather Gloves
+  - Bloodfang Belt
+  - Bloodfang Boots
+  - Bloodfang Bracers
+  - Bloodfang Chestpiece
+  - Bloodfang Gloves
+  - Bloodfang Spaulders
+  - Boots of the Shadowflame
+  - Brutality Blade
+  - Carapace of the Old God
+  - Cloak Of Concentrated Hate
+  - Cloak of Firemaw
+  - Eye of C'Thun
+  - Gloves of Enforcement
+  - Jom Gabbar
+  - Nightslayer Cover
+  - Ouro's Intact Hide
+  - Qiraji Bindings of Command
+  - Qiraji Bindings of Command
+  - Quick Strike Ring
+  - Ring of the Qiraji Fury
+  priority-lootconfig:
+  - Ancient Qiraji Ripper
+  - Belt of Neverending Agony
+  - Drake Fang Talisman
+  - Head of Nefarian
+  - Prestor's Talisman of Connivery
+  - Vek'lors Diadem
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Venjamen:
   class: Rogue
   lottery-lootconfig:
