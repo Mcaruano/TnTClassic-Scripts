@@ -1058,6 +1058,34 @@ Malchazor:
   t2pt5-priority-dkp: 10082.81
   t3-lottery-dkp: 3103.23
   t3-priority-dkp: 8048.22
+Mitchel:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig:
+  - Ancient Qiraji Ripper
+  - Barbed Choker
+  - Belt of Never-ending Agony
+  - Breastplate of Annihilation
+  - Brutality Blade
+  - Chromatic Boots
+  - Circle of Applied Force
+  - Drake Fang Talisman
+  - Eye of C'Thun
+  - Gauntlets of Annihilation
+  - Hive Defiler Wristguards
+  - Imperial Qiraji Armaments
+  - Qiraji Bindings of Command
+  - Ring of the Qiraji Fury
+  - Scaled Sand Reaver Leggings
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Mlg:
   class: Mage
   lottery-lootconfig:
@@ -1134,19 +1162,6 @@ Murduc:
   - Eyestalk Waist Cord
   - Neltharion's Tear
   rank: Reserve Raider
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0.0
-  t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0.0
-  t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 0.0
-  t3-priority-dkp: 0.0
-Naasir:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
   t2-lottery-dkp: 0.0
