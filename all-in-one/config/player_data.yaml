@@ -163,18 +163,21 @@ Ballockthree:
 Baopi:
   class: Warrior
   lottery-lootconfig:
+  - Badge of the Swarmguard
   - Band of Unnatural Forces
   - Barbed Choker
   - Circle of Applied Force
   - Dark Edge of Insanity
   - Eye of C'Thun
+  - Kiss of the Spider
+  - Legplates of Carnage
   - Might of the Scourge
   - Quick Strike Ring
   - Stormrage's Talisman of Seething
-  - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Drake Fang Talisman
   - Gauntlets of Annihilation
+  - The Phylactery of Kel'Thuzad
   rank: Core Raider
   t1-lottery-dkp: 3018.74
   t1-priority-dkp: 3018.74
