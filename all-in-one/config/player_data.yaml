@@ -503,17 +503,17 @@ Ekohz:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Seal of the Damned
-  - Shard of the Fallen Star
   - Staff of the Shadow Flame
-  - The Restrained Essence of Sapphiron
   - The Soul Harvester's Bindings
-  - Vanquished Tentacle of C'Thun
   priority-lootconfig:
   - Choker of the Firelord
   - Dark Storm Gauntlets
   - Desecrated Robe
   - Eyestalk Waist Cord
+  - Shard of the Fallen Star
   - Soulseeker
+  - The Restrained Essence of Sapphiron
+  - Vanquished Tentacle of C'Thun
   - Wraith Blade
   rank: Core Raider
   t1-lottery-dkp: 3803.84
