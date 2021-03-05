@@ -1274,8 +1274,15 @@ Padaladin:
   t3-priority-dkp: 345.9
 Peacard:
   class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Boots of the Fallen Hero
+  - Head of Nefarian
+  - Ouro's Intact Hide
+  - Qiraji Bindings of Command
+  - Ring of the Qiraji Fury
+  priority-lootconfig:
+  - Crul'shorukh, Edge of Chaos
+  - Imperial Qiraji Armaments
   rank: Reserve Raider
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
