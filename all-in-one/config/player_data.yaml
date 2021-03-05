@@ -636,6 +636,23 @@ Envisage:
   t2pt5-priority-dkp: 7528.13
   t3-lottery-dkp: 8197.31
   t3-priority-dkp: 10285.33
+Escapé:
+  class: Warlock
+  lottery-lootconfig:
+  - Amulet of Vek'nilash
+  - Darkstorm Gauntlets
+  - Eye of C'Thun
+  - Eyestalk Waistcord
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Fearbot:
   class: Warlock
   lottery-lootconfig:
