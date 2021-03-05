@@ -1105,6 +1105,25 @@ Muckjr:
   t2pt5-priority-dkp: 988.2
   t3-lottery-dkp: 321.85
   t3-priority-dkp: 551.83
+Murduc:
+  class: Warlock
+  lottery-lootconfig:
+  - Eye of C'Thun
+  - Talisman of Ephemeral Power
+  priority-lootconfig:
+  - Dark Storm Gauntlets
+  - Ebony Flame Gloves
+  - Eyestalk Waist Cord
+  - Neltharion's Tear
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Naasir:
   class: Not Set
   lottery-lootconfig: []
