@@ -668,8 +668,10 @@ Felgiff:
 Galm:
   class: Mage
   lottery-lootconfig:
+  - Amulet of Vek'nilash
   - Desecrated Circlet
   - Desecrated Sandals
+  - Fetish of the Sand Reaver
   - Frostfire Ring
   - Leggings of Polarity
   - Leggings of the Festering Swarm
