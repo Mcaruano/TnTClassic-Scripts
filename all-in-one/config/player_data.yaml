@@ -1627,7 +1627,6 @@ Shemamigams:
 Sheol:
   class: Priest
   lottery-lootconfig:
-  - Boots of Pure Thought
   - Desecrated Belt
   - Desecrated Circlet
   - Desecrated Leggings
