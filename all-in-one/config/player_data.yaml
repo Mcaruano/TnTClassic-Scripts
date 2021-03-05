@@ -640,9 +640,9 @@ Escapé:
   class: Warlock
   lottery-lootconfig:
   - Amulet of Vek'nilash
-  - Darkstorm Gauntlets
+  - Dark Storm Gauntlets
   - Eye of C'Thun
-  - Eyestalk Waistcord
+  - Eyestalk Waist Cord
   priority-lootconfig: []
   rank: Reserve Raider
   t1-lottery-dkp: 0.0
@@ -973,6 +973,19 @@ Kiele:
   t2pt5-priority-dkp: 11446.29
   t3-lottery-dkp: 10991.74
   t3-priority-dkp: 11240.43
+Kineztra:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Kortey:
   class: Rogue
   lottery-lootconfig:
@@ -2100,10 +2113,10 @@ Tylerniknam:
   - Bloodfang Chestpiece
   - Bloodfang Gloves
   - Bloodfang Spaulders
-  - Boots of the Shadowflame
+  - Boots of the Shadow Flame
   - Brutality Blade
   - Carapace of the Old God
-  - Cloak Of Concentrated Hate
+  - Cloak of Concentrated Hatred
   - Cloak of Firemaw
   - Eye of C'Thun
   - Gloves of Enforcement
@@ -2116,11 +2129,11 @@ Tylerniknam:
   - Ring of the Qiraji Fury
   priority-lootconfig:
   - Ancient Qiraji Ripper
-  - Belt of Neverending Agony
+  - Belt of Never-ending Agony
   - Drake Fang Talisman
   - Head of Nefarian
   - Prestor's Talisman of Connivery
-  - Vek'lors Diadem
+  - Vek'lor's Diadem
   rank: Reserve Raider
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
