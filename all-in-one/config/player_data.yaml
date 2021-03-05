@@ -596,15 +596,14 @@ Emianne:
   - Desecrated Robe
   - Desecrated Sandals
   - Doomfinger
-  - Eyestalk Waist Cord
   - Glacial Headdress
   - Robe of Volatile Power
   - Royal Scepter of Vek'lor
   - Sharpened Silithid Femur
-  - Staff of the Shadow Flame
   priority-lootconfig:
   - Choker of the Firelord
   - Dark Storm Gauntlets
+  - Eyestalk Waist Cord
   - Rime Covered Mantle
   rank: Core Raider
   t1-lottery-dkp: 3357.12
