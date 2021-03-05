@@ -1600,7 +1600,8 @@ Sheol:
   class: Priest
   lottery-lootconfig:
   - Boots of Pure Thought
-  - Bracelets of Royal Redemption
+  - Desecrated Belt
+  - Desecrated Circlet
   - Desecrated Leggings
   - Desecrated Robe
   - Onyxia Hide Backpack
@@ -1610,7 +1611,6 @@ Sheol:
   - Onyxia Hide Backpack
   - Robes of the Guardian Saint
   - Scepter of the False Prophet
-  - Ternary Mantle
   - Wand of the Whispering Dead
   priority-lootconfig:
   - Hammer of the Twisting Nether
