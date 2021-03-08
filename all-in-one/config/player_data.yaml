@@ -1199,7 +1199,6 @@ Murduc:
   class: Warlock
   lottery-lootconfig:
   - Cloak of the Necropolis
-  - Desecrated Belt
   - Desecrated Gloves
   - Eye of C'Thun
   - Talisman of Ephemeral Power
@@ -1207,8 +1206,8 @@ Murduc:
   priority-lootconfig:
   - Brimstone Staff
   - Dark Storm Gauntlets
+  - Desecrated Belt
   - Desecrated Circlet
-  - Desecrated Shoulderpads
   - Ebony Flame Gloves
   - Eyestalk Waist Cord
   - Neltharion's Tear
