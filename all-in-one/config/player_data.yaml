@@ -2151,26 +2151,39 @@ Tylerniknam:
   class: Rogue
   lottery-lootconfig:
   - Aged Core Leather Gloves
+  - Band of Unnatural Forces
   - Bloodfang Boots
   - Bloodfang Bracers
   - Bloodfang Chestpiece
   - Bloodfang Gloves
   - Bloodfang Spaulders
+  - Bonescythe Ring
   - Boots of the Shadow Flame
   - Brutality Blade
   - Carapace of the Old God
   - Cloak of Concentrated Hatred
+  - Desecrated Bracers
+  - Desecrated Breastplate
+  - Desecrated Helmet
+  - Desecrated Legplates
+  - Desecrated Pauldrons
+  - Desecrated Sabatons
+  - Desecrated Waistguard
   - Eye of C'Thun
   - Gloves of Enforcement
   - Jom Gabbar
+  - Kiss of the Spider
+  - Nerubian Slavemaker
   - Nightslayer Cover
   - Qiraji Bindings of Command
   - Quick Strike Ring
   - Ring of the Qiraji Fury
+  - Slayer's Crest
   priority-lootconfig:
   - Ancient Qiraji Ripper
   - Belt of Never-ending Agony
   - Drake Fang Talisman
+  - Gressil, Dawn of Ruin
   - Head of Nefarian
   - Prestor's Talisman of Connivery
   rank: Reserve Raider
