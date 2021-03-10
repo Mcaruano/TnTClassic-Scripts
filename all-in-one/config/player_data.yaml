@@ -1173,14 +1173,14 @@ Mitchel:
   - Imperial Qiraji Armaments
   - Ring of the Qiraji Fury
   rank: Reserve Raider
-  t1-lottery-dkp: 365.0
-  t1-priority-dkp: 365.0
-  t2-lottery-dkp: 730.0
-  t2-priority-dkp: 730.0
-  t2pt5-lottery-dkp: -7905.0
-  t2pt5-priority-dkp: 1095.0
-  t3-lottery-dkp: 1672.5
-  t3-priority-dkp: 1672.5
+  t1-lottery-dkp: 590.0
+  t1-priority-dkp: 590.0
+  t2-lottery-dkp: 1180.0
+  t2-priority-dkp: 1180.0
+  t2pt5-lottery-dkp: -7230.0
+  t2pt5-priority-dkp: 1770.0
+  t3-lottery-dkp: 2572.5
+  t3-priority-dkp: 2572.5
 Mlg:
   class: Mage
   lottery-lootconfig:
