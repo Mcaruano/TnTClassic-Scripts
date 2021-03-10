@@ -668,9 +668,16 @@ Escapé:
   class: Warlock
   lottery-lootconfig:
   - Amulet of Vek'nilash
+  - Brimstone Staff
   - Dark Storm Gauntlets
+  - Desecrated Circlet
+  - Desecrated Robe
+  - Desecrated Sandals
+  - Desecrated Shoulderpads
+  - Gem of Trapped Innocents
   - Eye of C'Thun
   - Eyestalk Waist Cord
+  - Leggings of Polarity
   priority-lootconfig: []
   rank: Reserve Raider
   t1-lottery-dkp: 0.0
