@@ -2404,10 +2404,13 @@ Zóff:
   class: Warrior
   lottery-lootconfig:
   - Band of Accuria
+  - Band of Unnatural Forces
   - Dark Edge of Insanity
-  - Iblis, Blade of the Fallen Seraph
   - Jom Gabbar
+  - Kiss of the Spider
   - Larvae of the Great Worm
+  - Legplates of Carnage
+  - Slayer's Crest
   priority-lootconfig:
   - Badge of the Swarmguard
   - Corrupted Ashbringer
