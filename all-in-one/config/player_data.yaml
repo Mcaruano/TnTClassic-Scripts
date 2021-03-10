@@ -562,14 +562,12 @@ Ekohz:
   lottery-lootconfig:
   - Cloak of the Devoured
   - Desecrated Sandals
-  - Frostfire Ring
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Seal of the Damned
   - Staff of the Shadow Flame
   - The Soul Harvester's Bindings
   priority-lootconfig:
@@ -577,6 +575,8 @@ Ekohz:
   - Dark Storm Gauntlets
   - Desecrated Robe
   - Eyestalk Waist Cord
+  - Frostfire Ring
+  - Seal of the Damned
   - Shard of the Fallen Star
   - The Restrained Essence of Sapphiron
   - Vanquished Tentacle of C'Thun
