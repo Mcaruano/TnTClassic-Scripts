@@ -345,15 +345,16 @@ Dalran:
   class: Warrior
   lottery-lootconfig:
   - Elementium Reinforced Bulwark
+  - Iblis, Blade of the Fallen Seraph
   - Kiss of the Spider
   - Legplates of Carnage
   - Might of Menethil
   - Onyxia Hide Backpack
   - Slayer's Crest
-  - The Castigator
+  - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Corrupted Ashbringer
   - Drake Fang Talisman
-  - Iblis, Blade of the Fallen Seraph
   - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3930.5
