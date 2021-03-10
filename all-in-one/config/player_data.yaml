@@ -840,16 +840,18 @@ Haties:
   lottery-lootconfig:
   - Amulet of Vek'nilash
   - Band of Forced Concentration
-  - Band of the Inevitable
   - Bracers of Arcane Accuracy
+  - Brimstone Staff
   - Choker of the Firelord
   - Desecrated Circlet
   - Desecrated Sandals
+  - Doomfinger
   - Eye of C'Thun
   - Frostfire Ring
   - Gem of Trapped Innocents
   - Netherwind Crown
   - The Phylactery of Kel'Thuzad
+  - The Restrained Essence of Sapphiron
   - The Soul Harvester's Bindings
   priority-lootconfig:
   - Cloak of the Devoured
