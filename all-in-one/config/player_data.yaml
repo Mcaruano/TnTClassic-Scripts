@@ -829,19 +829,6 @@ Hyolin:
   t2pt5-priority-dkp: 5439.07
   t3-lottery-dkp: 6103.18
   t3-priority-dkp: 7611.78
-Jerillak:
-  class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Core Raider
-  t1-lottery-dkp: 2423.31
-  t1-priority-dkp: 2423.31
-  t2-lottery-dkp: 4843.89
-  t2-priority-dkp: 4843.89
-  t2pt5-lottery-dkp: 7265.83
-  t2pt5-priority-dkp: 5699.81
-  t3-lottery-dkp: 1978.82
-  t3-priority-dkp: 5310.73
 Justin:
   class: Warlock
   lottery-lootconfig:
