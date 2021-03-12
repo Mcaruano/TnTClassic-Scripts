@@ -238,26 +238,6 @@ Bubbajunk:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
-Bunnéh:
-  class: Priest
-  lottery-lootconfig:
-  - Desecrated Sandals
-  - Eye of the Dead
-  - Spire of Twilight
-  - Wand of the Whispering Dead
-  priority-lootconfig:
-  - Hammer of the Twisting Nether
-  - Sartura's Might
-  - Scepter of the False Prophet
-  rank: Core Raider
-  t1-lottery-dkp: 3431.66
-  t1-priority-dkp: 3431.66
-  t2-lottery-dkp: 6860.61
-  t2-priority-dkp: 6860.61
-  t2pt5-lottery-dkp: 10290.91
-  t2pt5-priority-dkp: 10290.91
-  t3-lottery-dkp: 6156.98
-  t3-priority-dkp: 12794.74
 Caelandine:
   class: Druid
   lottery-lootconfig:
@@ -696,30 +676,6 @@ Envisage:
   t2pt5-priority-dkp: 8168.91
   t3-lottery-dkp: 9540.21
   t3-priority-dkp: 11315.03
-Escapé:
-  class: Warlock
-  lottery-lootconfig:
-  - Amulet of Vek'nilash
-  - Brimstone Staff
-  - Dark Storm Gauntlets
-  - Desecrated Circlet
-  - Desecrated Robe
-  - Desecrated Sandals
-  - Desecrated Shoulderpads
-  - Eye of C'Thun
-  - Eyestalk Waist Cord
-  - Gem of Trapped Innocents
-  - Leggings of Polarity
-  priority-lootconfig: []
-  rank: Reserve Raider
-  t1-lottery-dkp: 590.0
-  t1-priority-dkp: 590.0
-  t2-lottery-dkp: 1180.0
-  t2-priority-dkp: 1180.0
-  t2pt5-lottery-dkp: 1770.0
-  t2pt5-priority-dkp: 1770.0
-  t3-lottery-dkp: 2572.5
-  t3-priority-dkp: 2572.5
 Fearbot:
   class: Warlock
   lottery-lootconfig:
@@ -833,51 +789,6 @@ Goodjorb:
   t2pt5-priority-dkp: 8168.91
   t3-lottery-dkp: 6570.07
   t3-priority-dkp: 8344.89
-Haties:
-  class: Mage
-  lottery-lootconfig:
-  - Amulet of Vek'nilash
-  - Band of Forced Concentration
-  - Bracers of Arcane Accuracy
-  - Brimstone Staff
-  - Choker of the Firelord
-  - Desecrated Circlet
-  - Desecrated Sandals
-  - Doomfinger
-  - Eye of C'Thun
-  - Frostfire Ring
-  - Gem of Trapped Innocents
-  - Netherwind Crown
-  - The Phylactery of Kel'Thuzad
-  - The Restrained Essence of Sapphiron
-  - The Soul Harvester's Bindings
-  priority-lootconfig:
-  - Cloak of the Devoured
-  - Dark Storm Gauntlets
-  - Desecrated Robe
-  - Eyestalk Waist Cord
-  rank: Core Raider
-  t1-lottery-dkp: 3431.66
-  t1-priority-dkp: 2581.66
-  t2-lottery-dkp: 5160.61
-  t2-priority-dkp: 5160.61
-  t2pt5-lottery-dkp: 7740.91
-  t2pt5-priority-dkp: 10290.91
-  t3-lottery-dkp: 6061.64
-  t3-priority-dkp: 6613.86
-Hatty:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0.0
-  t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0.0
-  t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 80.15
-  t3-priority-dkp: 80.15
 Hulkhigginz:
   class: Warrior
   lottery-lootconfig:
@@ -2046,33 +1957,6 @@ Stephany:
   t2pt5-priority-dkp: 10252.64
   t3-lottery-dkp: 10633.54
   t3-priority-dkp: 7767.03
-Suwuavo:
-  class: Hunter
-  lottery-lootconfig:
-  - Barb of the Sand Reaver
-  - Desecrated Boots
-  - Desecrated Spaulders
-  - Desecrated Tunic
-  - Desecrated Wristguards
-  - Dragonstalker's Bracers
-  - Dragonstalker's Breastplate
-  - Dragonstalker's Greaves
-  - Silithid Claw
-  - Soulstring
-  priority-lootconfig:
-  - Ashjre'thul, Crossbow of Smiting
-  - Brutality Blade
-  - Larvae of the Great Worm
-  - Prestor's Talisman of Connivery
-  rank: Social Member
-  t1-lottery-dkp: 1014.35
-  t1-priority-dkp: 1014.35
-  t2-lottery-dkp: 2025.97
-  t2-priority-dkp: 2025.97
-  t2pt5-lottery-dkp: 2077.24
-  t2pt5-priority-dkp: 2077.24
-  t3-lottery-dkp: 395.25
-  t3-priority-dkp: 3079.13
 Sylador:
   class: Druid
   lottery-lootconfig:
@@ -2191,54 +2075,6 @@ Tongsummons:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
-Tylerniknam:
-  class: Rogue
-  lottery-lootconfig:
-  - Aged Core Leather Gloves
-  - Band of Unnatural Forces
-  - Bloodfang Boots
-  - Bloodfang Bracers
-  - Bloodfang Chestpiece
-  - Bloodfang Gloves
-  - Bloodfang Spaulders
-  - Bonescythe Ring
-  - Boots of the Shadow Flame
-  - Brutality Blade
-  - Carapace of the Old God
-  - Cloak of Concentrated Hatred
-  - Desecrated Bracers
-  - Desecrated Breastplate
-  - Desecrated Helmet
-  - Desecrated Legplates
-  - Desecrated Pauldrons
-  - Desecrated Sabatons
-  - Desecrated Waistguard
-  - Eye of C'Thun
-  - Gloves of Enforcement
-  - Jom Gabbar
-  - Kiss of the Spider
-  - Nerubian Slavemaker
-  - Nightslayer Cover
-  - Qiraji Bindings of Command
-  - Quick Strike Ring
-  - Ring of the Qiraji Fury
-  - Slayer's Crest
-  priority-lootconfig:
-  - Ancient Qiraji Ripper
-  - Belt of Never-ending Agony
-  - Drake Fang Talisman
-  - Gressil, Dawn of Ruin
-  - Head of Nefarian
-  - Prestor's Talisman of Connivery
-  rank: Reserve Raider
-  t1-lottery-dkp: 590.0
-  t1-priority-dkp: 590.0
-  t2-lottery-dkp: -2820.0
-  t2-priority-dkp: 1180.0
-  t2pt5-lottery-dkp: -7230.0
-  t2pt5-priority-dkp: 1770.0
-  t3-lottery-dkp: 2572.5
-  t3-priority-dkp: 2572.5
 Venjamen:
   class: Rogue
   lottery-lootconfig:
