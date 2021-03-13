@@ -548,7 +548,9 @@ Ekohz:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
+  - Seal of the Damned
   - Staff of the Shadow Flame
+  - The Restrained Essence of Sapphiron
   - The Soul Harvester's Bindings
   priority-lootconfig:
   - Choker of the Firelord
@@ -556,9 +558,7 @@ Ekohz:
   - Desecrated Robe
   - Eyestalk Waist Cord
   - Frostfire Ring
-  - Seal of the Damned
   - Shard of the Fallen Star
-  - The Restrained Essence of Sapphiron
   - Vanquished Tentacle of C'Thun
   - Wraith Blade
   rank: Core Raider
