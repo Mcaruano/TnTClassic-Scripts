@@ -969,17 +969,11 @@ Kineztra:
   t2pt5-priority-dkp: 1770.0
   t3-lottery-dkp: 2360.0
   t3-priority-dkp: 2360.0
-Kortey:
-  class: Rogue
-  lottery-lootconfig:
-  - Band of Unnatural Forces
-  - Desecrated Helmet
-  - Desecrated Pauldrons
-  - Harbinger of Doom
-  - Imperial Qiraji Armaments
-  priority-lootconfig:
-  - Kingsfall
-  rank: Social Member
+Korteh:
+  class: Hunter
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
   t1-lottery-dkp: 375.33
   t1-priority-dkp: 375.23
   t2-lottery-dkp: 731.48
@@ -1330,6 +1324,19 @@ Phi:
   t2pt5-priority-dkp: 966.52
   t3-lottery-dkp: 436.0
   t3-priority-dkp: 540.64
+Pikachau:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t1-lottery-dkp: 436.48
+  t1-priority-dkp: 436.48
+  t2-lottery-dkp: 531.62
+  t2-priority-dkp: 728.59
+  t2pt5-lottery-dkp: 833.34
+  t2pt5-priority-dkp: 1269.47
+  t3-lottery-dkp: 586.66
+  t3-priority-dkp: 804.92
 Pudzey:
   class: Priest
   lottery-lootconfig:
@@ -1378,31 +1385,6 @@ Radicola:
   t2pt5-priority-dkp: 1108.27
   t3-lottery-dkp: 518.29
   t3-priority-dkp: 613.6
-Raichau:
-  class: Warrior
-  lottery-lootconfig:
-  - Ashkandi, Greatsword of the Brotherhood
-  - Badge of the Swarmguard
-  - Bonereaver's Edge
-  - Dark Edge of Insanity
-  - Gressil, Dawn of Ruin
-  - Legplates of Carnage
-  - Onyxia Hide Backpack
-  - Quick Strike Ring
-  - Ring of the Qiraji Fury
-  - The Hungering Cold
-  priority-lootconfig:
-  - Gauntlets of Annihilation
-  - Kiss of the Spider
-  rank: Social Member
-  t1-lottery-dkp: 436.48
-  t1-priority-dkp: 436.48
-  t2-lottery-dkp: 531.62
-  t2-priority-dkp: 728.59
-  t2pt5-lottery-dkp: 833.34
-  t2pt5-priority-dkp: 1269.47
-  t3-lottery-dkp: 586.66
-  t3-priority-dkp: 804.92
 Rampantsummo:
   class: Not Set
   lottery-lootconfig: []
