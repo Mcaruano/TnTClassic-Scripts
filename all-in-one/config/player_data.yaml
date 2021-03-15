@@ -123,17 +123,19 @@ Ashori:
   lottery-lootconfig:
   - Boots of the Unwavering Will
   - Cloak of Concentrated Hatred
-  - Cloak of Suturing
   - Cloak of the Golden Hive
-  - Eyestalk Waist Cord
+  - Cryptfiend Silk Cloak
   - Gauntlets of Steadfast Determination
   - Girdle of the Mentor
   - Might of the Scourge
   - Onyxia Hide Backpack
+  - Power of the Scourge
   - Ring of Emperor Vek'lor
-  - Scarab Brooch
+  - The Face of Death
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Cloak of Suturing
+  - Scarab Brooch
   - Styleen's Impeding Scarab
   rank: Core Raider
   t1-lottery-dkp: 3374.08
