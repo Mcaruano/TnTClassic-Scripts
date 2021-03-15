@@ -1003,14 +1003,14 @@ Korteh:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Reserve Raider
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0.0
-  t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0.0
-  t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 0.0
-  t3-priority-dkp: 0.0
+  t1-lottery-dkp: 375.33
+  t1-priority-dkp: 375.23
+  t2-lottery-dkp: 731.48
+  t2-priority-dkp: 697.29
+  t2pt5-lottery-dkp: 834.85
+  t2pt5-priority-dkp: 1089.41
+  t3-lottery-dkp: 103.86
+  t3-priority-dkp: 712.31
 Kortey:
   class: Not Set
   lottery-lootconfig: []
@@ -1371,14 +1371,14 @@ Pikachau:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Reserve Raider
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0.0
-  t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0.0
-  t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 0.0
-  t3-priority-dkp: 0.0
+  t1-lottery-dkp: 436.48
+  t1-priority-dkp: 436.48
+  t2-lottery-dkp: 531.62
+  t2-priority-dkp: 728.59
+  t2pt5-lottery-dkp: 833.34
+  t2pt5-priority-dkp: 1269.47
+  t3-lottery-dkp: 586.66
+  t3-priority-dkp: 804.92
 Pudzey:
   class: Priest
   lottery-lootconfig:
