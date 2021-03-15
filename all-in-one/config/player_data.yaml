@@ -184,6 +184,19 @@ Baopi:
   t2pt5-priority-dkp: 9463.69
   t3-lottery-dkp: 13078.38
   t3-priority-dkp: 3221.88
+Barlen:
+  class: Paladin
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Beansv:
   class: Unknown
   lottery-lootconfig: []
