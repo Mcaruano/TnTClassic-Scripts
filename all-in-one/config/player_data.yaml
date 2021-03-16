@@ -1552,16 +1552,17 @@ Roodolph:
   - Might of the Scourge
   - Ring of the Godslayer
   - Shroud of Dominion
-  - Slayer's Crest
   - The Eye of Nerub
   - The Phylactery of Kel'Thuzad
   - Vek'lor's Gloves of Devastation
   priority-lootconfig:
   - Badge of the Swarmguard
+  - Corrupted Ashbringer
   - Eye of C'Thun
   - Jom Gabbar
   - Nerubian Slavemaker
   - Prestor's Talisman of Connivery
+  - Slayer's Crest
   rank: Core Raider
   t1-lottery-dkp: 3384.62
   t1-priority-dkp: 3380.88
