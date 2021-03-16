@@ -1209,18 +1209,23 @@ Muckjr:
 Murduc:
   class: Warlock
   lottery-lootconfig:
+  - Band of the Inevitable
   - Cloak of the Necropolis
+  - Desecrated Belt
+  - Desecrated Robe
   - Eye of C'Thun
+  - Seal of the Damned
   - Talisman of Ephemeral Power
+  - The Phylactery of Kel'Thuzad
   - Wand of Fates
   priority-lootconfig:
   - Brimstone Staff
   - Dark Storm Gauntlets
-  - Desecrated Belt
   - Desecrated Circlet
   - Ebony Flame Gloves
   - Eyestalk Waist Cord
   - Neltharion's Tear
+  - The Restrained Essence of Sapphiron
   rank: Reserve Raider
   t1-lottery-dkp: 501.5
   t1-priority-dkp: 501.5
