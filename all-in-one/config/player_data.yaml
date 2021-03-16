@@ -2162,8 +2162,8 @@ Venjamen:
 Vermora:
   class: Rogue
   lottery-lootconfig:
+  - Desecrated Helmet
   - Jom Gabbar
-  - Kiss of the Spider
   - Larvae of the Great Worm
   - Might of the Scourge
   - Might of the Scourge
@@ -2171,6 +2171,7 @@ Vermora:
   - Shroud of Dominion
   priority-lootconfig:
   - Eye of C'Thun
+  - Kiss of the Spider
   - Slayer's Crest
   rank: Core Raider
   t1-lottery-dkp: 2622.37
