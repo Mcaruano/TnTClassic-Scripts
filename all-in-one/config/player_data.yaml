@@ -1104,17 +1104,35 @@ Mitchel:
   lottery-lootconfig: []
   priority-lootconfig:
   - Ancient Qiraji Ripper
+  - Band of Unnatural Forces
   - Barbed Choker
   - Belt of Never-ending Agony
   - Brutality Blade
   - Chromatic Boots
   - Circle of Applied Force
+  - Corrupted Ashbringer
   - Drake Fang Talisman
   - Eye of C'Thun
   - Gauntlets of Annihilation
+  - Ghoul Skin Tunic
+  - Gridle of Mentor
+  - Gressil, Dawn of Ruin
   - Hive Defiler Wristguards
   - Imperial Qiraji Armaments
+  - Kiss of the Spider
+  - Leggings of Apocalypse
+  - Legplates of Carnage
+  - Might of Menethil
+  - Nerubian Slavemaker
+  - Plated Abomination Ribcage
   - Ring of the Qiraji Fury
+  - Shroud of Domination
+  - Slayer's Crest
+  - Soulstring    
+  - Stormrage's Talisman of Seething
+  - The Castigator
+  - The Hungering Cold
+  - Wristgaurds of Vengeance
   rank: Reserve Raider
   t1-lottery-dkp: 501.5
   t1-priority-dkp: 501.5
