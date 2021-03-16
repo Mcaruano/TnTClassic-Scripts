@@ -2003,8 +2003,8 @@ Stephany:
   class: Warlock
   lottery-lootconfig:
   - Cloak of the Necropolis
+  priority-lootconfig:
   - Wand of Fates
-  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3172.35
   t1-priority-dkp: 3359.41
