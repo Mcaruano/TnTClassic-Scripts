@@ -173,7 +173,7 @@ Baopi:
   - Dark Edge of Insanity
   - Eye of C'Thun
   - Kiss of the Spider
-  - Legplates of Carnage
+  - Might of Menethil
   - Might of the Scourge
   - Quick Strike Ring
   - Shroud of Dominion
@@ -181,6 +181,7 @@ Baopi:
   priority-lootconfig:
   - Drake Fang Talisman
   - Gauntlets of Annihilation
+  - Legplates of Carnage
   rank: Core Raider
   t1-lottery-dkp: 2682.54
   t1-priority-dkp: 2682.54
