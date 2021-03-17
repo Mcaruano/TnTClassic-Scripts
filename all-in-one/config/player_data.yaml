@@ -378,7 +378,6 @@ Daughtbot:
 Demeker:
   class: Warlock
   lottery-lootconfig:
-  - Amulet of Vek'nilash
   - Cloak of the Devoured
   - Cloak of the Necropolis
   - Onyxia Hide Backpack
@@ -387,9 +386,8 @@ Demeker:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Royal Scepter of Vek'lor
-  - Sharpened Silithid Femur
   priority-lootconfig:
+  - Amulet of Vek'nilash
   - Splinter of Atiesh
   - Splinter of Atiesh
   - Splinter of Atiesh
