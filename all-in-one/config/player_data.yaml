@@ -1076,7 +1076,8 @@ Krumyx:
   t3-priority-dkp: 0.0
 Malchazor:
   class: Paladin
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - The Face of Death
   priority-lootconfig:
   - Desecrated Handguards
   rank: Core Raider
