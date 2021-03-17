@@ -433,7 +433,6 @@ Demeker:
 Dienasty:
   class: Warrior
   lottery-lootconfig:
-  - Ashkandi, Greatsword of the Brotherhood
   - Badge of the Swarmguard
   - Barbed Choker
   - Dark Edge of Insanity
@@ -448,6 +447,8 @@ Dienasty:
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Chromatic Boots
+  - Chromatically Tempered Sword
+  - Drake Fang Talisman
   - Eye of C'Thun
   - The Hungering Cold
   rank: Core Raider
