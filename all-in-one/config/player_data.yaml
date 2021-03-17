@@ -1918,8 +1918,6 @@ Snickercakes:
   class: Warrior
   lottery-lootconfig:
   - Gloves of Enforcement
-  - Iblis, Blade of the Fallen Seraph
-  - The Castigator
   - The Plague Bearer
   priority-lootconfig:
   - Elementium Reinforced Bulwark
