@@ -1660,14 +1660,21 @@ Searus:
 Sekjr:
   class: Paladin
   lottery-lootconfig:
+  - Angelista's Touch
+  - Cryptfiend Silk Cloak
   - Desecrated Handguards
+  - Gauntlets of Steadfast Determination
+  - Gluth's Missing Collar
+  - Glyph of Deflection
+  - Mark of C'Thun
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Styleen's Impeding Scarab
+  - Ring of Emperor Vek'lor
   priority-lootconfig:
   - Eye of the Dead
+  - Styleen's Impeding Scarab
   rank: Core Raider
   t1-lottery-dkp: 3811.83
   t1-priority-dkp: 3797.2
