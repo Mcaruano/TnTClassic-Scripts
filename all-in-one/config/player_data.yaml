@@ -1094,7 +1094,28 @@ Malchazor:
   t3-priority-dkp: 10361.47
 Mitchel:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Claw of the Frost Wyrm
+  - Cryptfiend Silk Cloak
+  - Desecrated Bracers
+  - Desecrated Breastplate
+  - Desecrated Gauntlets
+  - Desecrated Helmet
+  - Desecrated Legplates
+  - Desecrated Pauldrons
+  - Desecrated Sabatons
+  - Desecrated Waistguard
+  - Gluth's Missing Collar
+  - Glyph of Deflection
+  - Harbinger of Doom
+  - Hatchet of Sundered Bone
+  - Kingsfall
+  - Maexxna's Fang
+  - Misplaced Servo Arm
+  - Ring of the Dreadnaught
+  - The Face of Death
+  - The Phylactery of Kel'Thuzad
+  - Widow's Remorse
   priority-lootconfig:
   - Ancient Qiraji Ripper
   - Band of Unnatural Forces
@@ -1110,11 +1131,13 @@ Mitchel:
   - Ghoul Skin Tunic
   - Gressil, Dawn of Ruin
   - Hive Defiler Wristguards
+  - Iblis, Blade of the Fallen Seraph
   - Imperial Qiraji Armaments
   - Kiss of the Spider
   - Leggings of Apocalypse
   - Legplates of Carnage
   - Might of Menethil
+  - Might of the Scourge
   - Nerubian Slavemaker
   - Plated Abomination Ribcage
   - Ring of the Qiraji Fury
