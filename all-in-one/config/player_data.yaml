@@ -1391,14 +1391,14 @@ Peacard:
   - Crul'shorukh, Edge of Chaos
   - Imperial Qiraji Armaments
   rank: Reserve Raider
-  t1-lottery-dkp: 501.5
-  t1-priority-dkp: 501.5
-  t2-lottery-dkp: -820.0
-  t2-priority-dkp: 1003.0
-  t2pt5-lottery-dkp: 1504.5
-  t2pt5-priority-dkp: 1504.5
-  t3-lottery-dkp: 2186.63
-  t3-priority-dkp: 2186.63
+  t1-lottery-dkp: 1091.5
+  t1-priority-dkp: 1091.5
+  t2-lottery-dkp: 360.0
+  t2-priority-dkp: 2183.0
+  t2pt5-lottery-dkp: 3274.5
+  t2pt5-priority-dkp: 3274.5
+  t3-lottery-dkp: 4546.63
+  t3-priority-dkp: 4546.63
 Phi:
   class: Priest
   lottery-lootconfig: []
