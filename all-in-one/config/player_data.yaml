@@ -311,7 +311,6 @@ Chuunin:
   class: Rogue
   lottery-lootconfig:
   - Band of Unnatural Forces
-  - Kingsfall
   - Kiss of the Spider
   priority-lootconfig:
   - Aged Core Leather Gloves
