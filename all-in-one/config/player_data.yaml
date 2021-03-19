@@ -505,8 +505,8 @@ Drizzyy:
   t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 110.93
-  t3-priority-dkp: 110.93
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Drizzyydrake:
   class: Not Set
   lottery-lootconfig: []
@@ -518,8 +518,8 @@ Drizzyydrake:
   t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 0.0
-  t3-priority-dkp: 0.0
+  t3-lottery-dkp: 359.69
+  t3-priority-dkp: 359.69
 Drunkinrage:
   class: Warrior
   lottery-lootconfig:
@@ -1507,8 +1507,8 @@ Riskyrizzy:
   t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 180.63
-  t3-priority-dkp: 180.63
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Roodolph:
   class: Hunter
   lottery-lootconfig:
@@ -2236,8 +2236,8 @@ Youngdrizzy:
   t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 68.13
-  t3-priority-dkp: 68.13
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Yttah:
   class: Not Set
   lottery-lootconfig: []
