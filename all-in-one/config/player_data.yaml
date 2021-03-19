@@ -193,8 +193,11 @@ Baopi:
   t3-priority-dkp: 5098.6
 Barlen:
   class: Paladin
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Desecrated Tunic
+  - Shield of Condemnation
+  priority-lootconfig:
+  - The Widow's Embrace
   rank: Reserve Raider
   t1-lottery-dkp: 590.0
   t1-priority-dkp: 590.0
