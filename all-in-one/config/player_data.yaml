@@ -967,6 +967,19 @@ Kiele:
   t2pt5-priority-dkp: 11544.45
   t3-lottery-dkp: 12488.16
   t3-priority-dkp: 12667.84
+Kharagan:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Kineztra:
   class: Rogue
   lottery-lootconfig:
