@@ -311,10 +311,11 @@ Choonin:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Band of Unnatural Forces
   - Kiss of the Spider
+  - Might of the Scourge
   priority-lootconfig:
   - Aged Core Leather Gloves
+  - Band of Unnatural Forces
   - Death's Sting
   rank: Core Raider
   t1-lottery-dkp: 2904.52
