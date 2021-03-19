@@ -1005,15 +1005,8 @@ Kineztra:
   t3-priority-dkp: 4366.0
 Korteh:
   class: Hunter
-  lottery-lootconfig:
-  - Desecrated Girdle
-  - Desecrated Handguards
-  - Desecrated Tunic
-  - Slayer's Crest
-  - The Eye of Nerub
-  - The Phylactery of Kel'Thuzad
-  priority-lootconfig:
-  - Nerubian Slavemaker
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Reserve Raider
   t1-lottery-dkp: 965.33
   t1-priority-dkp: 965.23
