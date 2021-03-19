@@ -1106,10 +1106,25 @@ Malchazor:
 Mitchel:
   class: Warrior
   lottery-lootconfig:
+  - Barbed Choker
+  - Chromatic Boots
+  - Circle of Applied Force
+  - Eye of C'Thun
+  - Gauntlets of Annihilation
   - Gressil, Dawn of Ruin
+  - Hive Defiler Wristguards
+  - Iblis, Blade of the Fallen Seraph
+  - Ouro's Intact Hide
+  - Ring of the Qiraji Fury
+  - The Castigator
   - The Hungering Cold
   priority-lootconfig:
+  - Ancient Qiraji Ripper
+  - Anubisath Warhammer 
+  - Brutality Blade
+  - Chromatically Tempered Sword
   - Corrupted Ashbringer
+  - Drake Fang Talisman
   - Might of Menethil
   rank: Reserve Raider
   t1-lottery-dkp: 1091.5
