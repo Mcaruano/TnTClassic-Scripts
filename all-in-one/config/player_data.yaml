@@ -126,10 +126,8 @@ Ashori:
   - Boots of the Unwavering Will
   - Cloak of Concentrated Hatred
   - Cloak of the Golden Hive
-  - Cryptfiend Silk Cloak
   - Gauntlets of Steadfast Determination
   - Girdle of the Mentor
-  - Glyph of Deflection
   - Imperial Qiraji Armaments
   - Might of the Scourge
   - Onyxia Hide Backpack
@@ -139,6 +137,8 @@ Ashori:
   - The Face of Death
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Cryptfiend Silk Cloak
+  - Glyph of Deflection
   - Scarab Brooch
   - Styleen's Impeding Scarab
   rank: Core Raider
