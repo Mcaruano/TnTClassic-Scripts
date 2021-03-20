@@ -264,18 +264,21 @@ Bubbajunk:
 Caelandine:
   class: Druid
   lottery-lootconfig:
-  - Cryptfiend Silk Cloak
+  - Band of Unanswered Prayers
+  - Belt of Never-ending Agony
   - Drake Fang Talisman
   - Fortitude of the Scourge
   - Ghoul Skin Tunic
-  - Mark of C'Thun
+  - Gloves of Enforcement
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Qiraji Execution Bracers
+  - Signet of the Fallen Defender
   priority-lootconfig:
-  - Band of Unanswered Prayers
+  - Cryptfiend Silk Cloak
   - Desecrated Girdle
+  - Mark of C'Thun
+  - Qiraji Execution Bracers
   rank: Core Raider
   t1-lottery-dkp: 3571.92
   t1-priority-dkp: 3573.99
