@@ -813,13 +813,14 @@ Hulkhigginz:
   - Hive Defiler Wristguards
   - Iblis, Blade of the Fallen Seraph
   - Legplates of Carnage
-  - Might of Menethil
   - Shroud of Dominion
   - Slayer's Crest
   - Stormrage's Talisman of Seething
   - Wristguards of Vengeance
   priority-lootconfig:
+  - Corrupted Ashbringer
   - Gauntlets of Annihilation
+  - Might of Menethil
   - Quick Strike Ring
   - The Hungering Cold
   rank: Core Raider
