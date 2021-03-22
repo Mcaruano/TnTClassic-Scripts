@@ -1535,13 +1535,10 @@ Roodolph:
   lottery-lootconfig:
   - Archimtiros' Ring of Reckoning
   - Ashjre'thul, Crossbow of Smiting
-  - Ashkandi, Greatsword of the Brotherhood
   - Barb of the Sand Reaver
   - Carapace of the Old God
   - Desecrated Handguards
   - Desecrated Tunic
-  - Dragonstalker's Gauntlets
-  - Dragonstalker's Legguards
   - Kingsfall
   - Might of the Scourge
   - Might of the Scourge
@@ -1551,7 +1548,6 @@ Roodolph:
   - Shroud of Dominion
   - The Eye of Nerub
   - The Phylactery of Kel'Thuzad
-  - Vek'lor's Gloves of Devastation
   priority-lootconfig:
   - Badge of the Swarmguard
   - Corrupted Ashbringer
