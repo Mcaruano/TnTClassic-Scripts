@@ -6,8 +6,9 @@
 SPECIFIC_ROSTER_CALLOUTS = {
     "Caelandine": ["provides Atiesh Mp5 aura"],
     "Dalran": ["is a 4H tank", "tanks on Gothik"],
-    "Demeker": ["manages Shackles on Gothik"],
+    "Demeker": ["manages Shackles on Gothik", "is current Atiesh recipient"],
     "Hulkhigginz": ["is a 4H tank"],
     "Simptease": ["is a 4H tank"],
     "Snickercakes": ["is a 4H tank"],
+    "Zóff": ["tanks on Gothik"],
 }
