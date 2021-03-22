@@ -42,6 +42,7 @@ DISCORD_NAME_MAPPING = {
     "Kang": "Kang",
     "Kiele": "Kiele",
     "Kineztra": "Kineztra",
+    "kharagan": "Kharagan",
     "Kortey": "Korteh",
     "Lovesmehot": "Lovesmehot",
     "Lynn(Caeland": "Caelandine",
