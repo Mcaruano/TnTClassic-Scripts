@@ -8,7 +8,8 @@ SPECIFIC_ROSTER_CALLOUTS = {
     "Dalran": ["is a 4H tank", "tanks on Gothik"],
     "Demeker": ["manages Shackles on Gothik", "is current Atiesh recipient"],
     "Hulkhigginz": ["is a 4H tank"],
+    "Mitchel": ["wants to collect full T3"],
     "Simptease": ["is a 4H tank"],
     "Snickercakes": ["is a 4H tank"],
-    "Zóff": ["tanks on Gothik"],
+    "Zóff": ["tanks on Gothik", "wants to collect full T3"],
 }
