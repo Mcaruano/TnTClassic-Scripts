@@ -673,12 +673,11 @@ Emianne:
 Envisage:
   class: Paladin
   lottery-lootconfig:
-  - Cloak of Suturing
+  - Desecrated Handguards
   - Desecrated Tunic
   - Glyph of Deflection
   - Pure Elementium Band
   - Scarab Brooch
-  - Shroud of Pure Thought
   priority-lootconfig:
   - Cloak of Clarity
   - Eye of the Dead
