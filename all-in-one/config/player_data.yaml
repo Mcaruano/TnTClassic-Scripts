@@ -122,8 +122,7 @@ Aro:
 Ashori:
   class: Paladin
   lottery-lootconfig:
-  - Boots of the Unwavering Will
-  - Cloak of Concentrated Hatred
+  - Angelista's Touch
   - Cloak of the Golden Hive
   - Fortitude of the Scourge
   - Gauntlets of Steadfast Determination
