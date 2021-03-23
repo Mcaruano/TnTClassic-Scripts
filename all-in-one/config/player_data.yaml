@@ -2055,9 +2055,13 @@ Thursday:
   class: Warrior
   lottery-lootconfig:
   - Dark Edge of Insanity
+  - Girdle of the Mentor
+  - Gressil, Dawn of Ruin
   - Might of the Scourge
   - Ring of the Dreadnaught
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Corrupted Ashbringer
+  - Might of Menethil
   rank: Core Raider
   t1-lottery-dkp: 3234.74
   t1-priority-dkp: 3367.38
