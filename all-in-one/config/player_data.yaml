@@ -1533,7 +1533,6 @@ Roodolph:
   class: Hunter
   lottery-lootconfig:
   - Archimtiros' Ring of Reckoning
-  - Ashjre'thul, Crossbow of Smiting
   - Barb of the Sand Reaver
   - Carapace of the Old God
   - Desecrated Handguards
@@ -1548,6 +1547,7 @@ Roodolph:
   - The Eye of Nerub
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Ashjre'thul, Crossbow of Smiting
   - Badge of the Swarmguard
   - Corrupted Ashbringer
   - Eye of C'Thun
