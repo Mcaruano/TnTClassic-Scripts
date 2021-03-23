@@ -1209,10 +1209,13 @@ Murduc:
   class: Warlock
   lottery-lootconfig:
   - Band of the Inevitable
+  - Cloak of the Devoured
   - Cloak of the Necropolis
   - Desecrated Belt
   - Desecrated Robe
+  - Ebony Flame Gloves
   - Eye of C'Thun
+  - Gem of Trapped Innocents
   - Seal of the Damned
   - Talisman of Ephemeral Power
   - Wand of Fates
@@ -1220,7 +1223,6 @@ Murduc:
   - Brimstone Staff
   - Dark Storm Gauntlets
   - Desecrated Circlet
-  - Ebony Flame Gloves
   - Eyestalk Waist Cord
   - Neltharion's Tear
   - The Restrained Essence of Sapphiron
