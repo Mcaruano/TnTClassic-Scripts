@@ -384,15 +384,17 @@ Demeker:
   class: Warlock
   lottery-lootconfig:
   - Cloak of the Devoured
-  - Cloak of the Necropolis
+  - Gem of Trapped Innocents
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
+  - The Restrained Essence of Sapphiron
   priority-lootconfig:
   - Amulet of Vek'nilash
+  - Cloak of the Necropolis
   - Splinter of Atiesh
   - Splinter of Atiesh
   - Splinter of Atiesh
