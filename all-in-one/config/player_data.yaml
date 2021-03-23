@@ -670,12 +670,13 @@ Envisage:
   class: Paladin
   lottery-lootconfig:
   - Desecrated Handguards
-  - Desecrated Tunic
   - Glyph of Deflection
   - Pure Elementium Band
+  - Ring of Redemption
   - Scarab Brooch
   priority-lootconfig:
   - Cloak of Clarity
+  - Desecrated Tunic
   - Eye of the Dead
   - Rejuvenating Gem
   - Ring of the Martyr
