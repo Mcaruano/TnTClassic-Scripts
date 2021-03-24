@@ -2198,13 +2198,14 @@ Shnackypacky:
   class: Priest
   lottery-lootconfig:
   - Desecrated Robe
-  - Eye of the Dead
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
+  - Sapphiron's Right Eye
   priority-lootconfig:
   - Bracelets of Royal Redemption
+  - Eye of the Dead
   - Shard of the Scale
   rank: Core Raider
   t1-lottery-dkp: 3880.65
