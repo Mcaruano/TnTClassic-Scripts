@@ -1650,10 +1650,14 @@ Peacard:
   class: Warrior
   lottery-lootconfig:
   - Boots of the Fallen Hero
+  - Circle of Applied Force
+  - Cloak of Concentrated Hatred
   - Ouro's Intact Hide
   - Qiraji Bindings of Command
+  - Qiraji Execution Bracers
   - Ring of the Qiraji Fury
   priority-lootconfig:
+  - Ancient Qiraji Ripper
   - Crul'shorukh, Edge of Chaos
   - Imperial Qiraji Armaments
   rank: Reserve Raider
