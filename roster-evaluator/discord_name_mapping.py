@@ -61,6 +61,7 @@ DISCORD_NAME_MAPPING = {
     "Pudzey": "Pudzey",
     "Radi": "Radicola",
     "rotheart": "Rotheart",
+    "Riko": "Riko",
     "Roodolph": "Roodolph",
     "Roodolph/Rudol": "Roodolph",
     "Rudolf(Golde": "Roodolph",
