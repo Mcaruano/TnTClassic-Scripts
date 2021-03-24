@@ -1721,19 +1721,6 @@ Polyharry:
   t2pt5-priority-dkp: 0
   t3-lottery-dkp: 0
   t3-priority-dkp: 0
-Ponds:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
 Pudzey:
   class: Priest
   lottery-lootconfig:
@@ -1758,19 +1745,6 @@ Pudzey:
   t2pt5-priority-dkp: 8884.83
   t3-lottery-dkp: 187.15
   t3-priority-dkp: 14635.38
-Qayleen:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
 Radicola:
   class: Warlock
   lottery-lootconfig:
@@ -1806,32 +1780,6 @@ Raichau:
   t2pt5-priority-dkp: 2583.55
   t3-lottery-dkp: 2504.66
   t3-priority-dkp: 2690.18
-Ralpho:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
-Rampantsummo:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0.0
-  t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0.0
-  t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 0.0
-  t3-priority-dkp: 0.0
 Realfrosted:
   class: Warlock
   lottery-lootconfig:
@@ -1867,6 +1815,19 @@ Realfrosted:
   t2pt5-priority-dkp: 211.85
   t3-lottery-dkp: 251.07
   t3-priority-dkp: 233.78
+Riko:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Social Member
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0
+  t2-priority-dkp: 0
+  t2pt5-lottery-dkp: 0
+  t2pt5-priority-dkp: 0
+  t3-lottery-dkp: 0
+  t3-priority-dkp: 0
 Riskyrizzy:
   class: Not Set
   lottery-lootconfig: []
