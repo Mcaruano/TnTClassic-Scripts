@@ -349,7 +349,6 @@ Dalran:
   lottery-lootconfig:
   - Elementium Reinforced Bulwark
   - Iblis, Blade of the Fallen Seraph
-  - Kiss of the Spider
   - Legplates of Carnage
   - Might of Menethil
   - Onyxia Hide Backpack
@@ -358,6 +357,7 @@ Dalran:
   priority-lootconfig:
   - Corrupted Ashbringer
   - Drake Fang Talisman
+  - Kiss of the Spider
   - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3341.28
