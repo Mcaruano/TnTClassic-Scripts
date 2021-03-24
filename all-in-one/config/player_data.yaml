@@ -257,17 +257,20 @@ Baopi:
   - Circle of Applied Force
   - Dark Edge of Insanity
   - Eye of C'Thun
-  - Kiss of the Spider
   - Might of Menethil
   - Might of the Scourge
-  - Quick Strike Ring
+  - Plated Abomination Ribcage
   - Shroud of Dominion
+  - Slayer's Crest
   - Stormrage's Talisman of Seething
   - Wristguards of Vengeance
   priority-lootconfig:
   - Drake Fang Talisman
   - Gauntlets of Annihilation
+  - Gressil, Dawn of Ruin
+  - Kiss of the Spider
   - Legplates of Carnage
+  - Quick Strike Ring
   rank: Core Raider
   t1-lottery-dkp: 3371.66
   t1-priority-dkp: 3371.66
