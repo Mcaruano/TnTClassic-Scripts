@@ -1874,11 +1874,9 @@ Simptease:
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
-  - Brimstone Staff
   - Cloak of the Necropolis
   - Desecrated Sandals
   - Doomfinger
-  - Eye of Diminution
   - Gem of Trapped Innocents
   - Leggings of Polarity
   - Netherwind Boots
@@ -1894,7 +1892,6 @@ Sizzleñips:
   - Rime Covered Mantle
   - Ring of the Eternal Flame
   - Sapphiron's Left Eye
-  - Seal of the Damned
   - Shard of the Fallen Star
   - The Phylactery of Kel'Thuzad
   - The Restrained Essence of Sapphiron
