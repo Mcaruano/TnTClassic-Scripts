@@ -1176,8 +1176,17 @@ Kaylä:
   t3-priority-dkp: 531.01
 Kharagan:
   class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Girdle of the Mentor
+  - Kingsfall
+  - Larvae of the Great Worm
+  - Might of the Scourge
+  - Plated Abomination Ribcage
+  priority-lootconfig:
+  - Barbed Choker
+  - Drake Fang Talisman
+  - Kiss of the Spider
+  - Slayer's Crest
   rank: Reserve Raider
   t1-lottery-dkp: 590.0
   t1-priority-dkp: 590.0
