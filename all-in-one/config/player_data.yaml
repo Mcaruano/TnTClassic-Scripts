@@ -2607,14 +2607,15 @@ Venjamen:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Jom Gabbar
   - Larvae of the Great Worm
   - Might of the Scourge
   - Might of the Scourge
   - Nerubian Slavemaker
   - Shroud of Dominion
   priority-lootconfig:
+  - Badge of the Swarmguard
   - Eye of C'Thun
+  - Jom Gabbar
   - Kiss of the Spider
   - Slayer's Crest
   rank: Core Raider
