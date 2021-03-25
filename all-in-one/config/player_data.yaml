@@ -2442,13 +2442,15 @@ Sylador:
   class: Druid
   lottery-lootconfig:
   - Belt of Never-ending Agony
+  - Boots of the Shadow Flame
+  - Circle of Applied Force
   - Gloves of Enforcement
-  - Grasp of the Old God
   - Lok'amir il Romathis
   - Neltharion's Tear
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
+  - Prestor's Talisman of Connivery
   - Qiraji Execution Bracers
   - Sapphiron's Right Eye
   priority-lootconfig:
