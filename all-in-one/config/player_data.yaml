@@ -283,7 +283,9 @@ Baopi:
 Barlen:
   class: Paladin
   lottery-lootconfig:
+  - Band of Unanswered Prayers
   - Desecrated Tunic
+  - Ring of Redemption
   - Shield of Condemnation
   priority-lootconfig:
   - The Widow's Embrace
