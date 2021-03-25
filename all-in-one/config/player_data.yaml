@@ -2299,7 +2299,6 @@ Slem:
 Snickercakes:
   class: Warrior
   lottery-lootconfig:
-  - Gloves of Enforcement
   - The Plague Bearer
   priority-lootconfig:
   - Elementium Reinforced Bulwark
