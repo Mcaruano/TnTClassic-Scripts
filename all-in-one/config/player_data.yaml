@@ -1700,7 +1700,9 @@ Phoroneus:
 Pikachau:
   class: Rogue
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Death's Sting
+  - Imperial Qiraji Armaments
   rank: Reserve Raider
   t1-lottery-dkp: 872.51
   t1-priority-dkp: 872.51
