@@ -496,7 +496,6 @@ Daughtbot:
 Demeker:
   class: Warlock
   lottery-lootconfig:
-  - Cloak of the Devoured
   - Gem of Trapped Innocents
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -507,6 +506,7 @@ Demeker:
   - The Restrained Essence of Sapphiron
   priority-lootconfig:
   - Amulet of Vek'nilash
+  - Cloak of the Devoured
   - Cloak of the Necropolis
   - Splinter of Atiesh
   - Splinter of Atiesh
