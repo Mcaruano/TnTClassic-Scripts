@@ -1198,15 +1198,14 @@ Kharagan:
 Kiele:
   class: Priest
   lottery-lootconfig:
-  - Bracelets of Royal Redemption
-  - Cloak of Clarity
+  - Boots of Pure Thought
   - Cloak of Suturing
-  - Eye of the Dead
   - Onyxia Hide Backpack
+  - Ring of the Martyr
   - Wand of the Whispering Dead
   priority-lootconfig:
-  - Boots of Pure Thought
-  - Ring of the Martyr
+  - Cloak of Clarity
+  - Eye of the Dead
   rank: Core Raider
   t1-lottery-dkp: 3878.62
   t1-priority-dkp: 3882.54
