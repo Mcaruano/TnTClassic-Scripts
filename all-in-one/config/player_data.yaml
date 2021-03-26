@@ -20,8 +20,8 @@ Abstinence:
   t2-priority-dkp: 7917.86
   t2pt5-lottery-dkp: 11515.93
   t2pt5-priority-dkp: 11770.55
-  t3-lottery-dkp: 5036.97
-  t3-priority-dkp: 6107.22
+  t3-lottery-dkp: 5286.97
+  t3-priority-dkp: 6357.22
 Airth:
   class: Warrior
   lottery-lootconfig: []
@@ -52,8 +52,8 @@ Akaran:
   t2-priority-dkp: 7889.98
   t2pt5-lottery-dkp: 11233.79
   t2pt5-priority-dkp: 11139.78
-  t3-lottery-dkp: -9943.97
-  t3-priority-dkp: 13939.45
+  t3-lottery-dkp: -9693.97
+  t3-priority-dkp: 14189.45
 Allyfive:
   class: Not Set
   lottery-lootconfig: []
@@ -61,12 +61,12 @@ Allyfive:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Allyfour:
   class: Not Set
   lottery-lootconfig: []
@@ -74,12 +74,12 @@ Allyfour:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Allysix:
   class: Not Set
   lottery-lootconfig: []
@@ -87,12 +87,12 @@ Allysix:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Allytwo:
   class: Not Set
   lottery-lootconfig: []
@@ -100,12 +100,12 @@ Allytwo:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Aminf:
   class: Not Set
   lottery-lootconfig: []
@@ -113,12 +113,12 @@ Aminf:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Aqsummonerz:
   class: Not Set
   lottery-lootconfig: []
@@ -132,6 +132,19 @@ Aqsummonerz:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
+Aqsummonz:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0
+  t2-priority-dkp: 0
+  t2pt5-lottery-dkp: 0
+  t2pt5-priority-dkp: 0
+  t3-lottery-dkp: 0
+  t3-priority-dkp: 0
 Arklight:
   class: Not Set
   lottery-lootconfig: []
@@ -207,8 +220,8 @@ Ashori:
   t2-priority-dkp: 7429.45
   t2pt5-lottery-dkp: 9978.22
   t2pt5-priority-dkp: 11826.22
-  t3-lottery-dkp: -739.0
-  t3-priority-dkp: 5153.69
+  t3-lottery-dkp: -489.0
+  t3-priority-dkp: 5403.69
 Backoffz:
   class: Not Set
   lottery-lootconfig: []
@@ -216,12 +229,12 @@ Backoffz:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Baelatrix:
   class: Not Set
   lottery-lootconfig: []
@@ -229,12 +242,12 @@ Baelatrix:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Ballockthree:
   class: Not Set
   lottery-lootconfig: []
@@ -318,12 +331,12 @@ Bergerac:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Berzerk:
   class: Warrior
   lottery-lootconfig:
@@ -359,12 +372,12 @@ Betheliana:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Bubbajunk:
   class: Not Set
   lottery-lootconfig: []
@@ -391,7 +404,6 @@ Caelandine:
   priority-lootconfig:
   - Cryptfiend Silk Cloak
   - Desecrated Girdle
-  - Mark of C'Thun
   - Qiraji Execution Bracers
   rank: Core Raider
   t1-lottery-dkp: 3626.13
@@ -399,9 +411,9 @@ Caelandine:
   t2-lottery-dkp: 7178.92
   t2-priority-dkp: 7229.56
   t2pt5-lottery-dkp: 9276.69
-  t2pt5-priority-dkp: 10677.32
-  t3-lottery-dkp: -5419.61
-  t3-priority-dkp: 9483.57
+  t2pt5-priority-dkp: 7677.32
+  t3-lottery-dkp: -5169.61
+  t3-priority-dkp: 9733.57
 Caledhel:
   class: Not Set
   lottery-lootconfig: []
@@ -442,8 +454,8 @@ Chuunin:
   t2-priority-dkp: 6117.7
   t2pt5-lottery-dkp: 9176.53
   t2pt5-priority-dkp: 9176.53
-  t3-lottery-dkp: 7632.52
-  t3-priority-dkp: 9141.11
+  t3-lottery-dkp: 7882.52
+  t3-priority-dkp: 9391.11
 Daleran:
   class: Not Set
   lottery-lootconfig: []
@@ -478,8 +490,8 @@ Dalran:
   t2-priority-dkp: 7856.95
   t2pt5-lottery-dkp: 11777.05
   t2pt5-priority-dkp: 10997.72
-  t3-lottery-dkp: 9850.25
-  t3-priority-dkp: 13286.91
+  t3-lottery-dkp: 10100.25
+  t3-priority-dkp: 13536.91
 Daughtbot:
   class: Not Set
   lottery-lootconfig: []
@@ -542,8 +554,8 @@ Demeker:
   t2-priority-dkp: 7892.89
   t2pt5-lottery-dkp: 11679.84
   t2pt5-priority-dkp: 10612.94
-  t3-lottery-dkp: 9829.44
-  t3-priority-dkp: 10273.83
+  t3-lottery-dkp: 10079.44
+  t3-priority-dkp: 10523.83
 Derak:
   class: Not Set
   lottery-lootconfig: []
@@ -551,12 +563,12 @@ Derak:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Dienasty:
   class: Warrior
   lottery-lootconfig:
@@ -574,7 +586,6 @@ Dienasty:
   priority-lootconfig:
   - Chromatically Tempered Sword
   - Drake Fang Talisman
-  - Eye of C'Thun
   - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3624.83
@@ -582,9 +593,9 @@ Dienasty:
   t2-lottery-dkp: 7247.7
   t2-priority-dkp: 7247.7
   t2pt5-lottery-dkp: 10871.55
-  t2pt5-priority-dkp: 10871.55
-  t3-lottery-dkp: 3257.85
-  t3-priority-dkp: 14827.83
+  t2pt5-priority-dkp: 7871.55
+  t3-lottery-dkp: 3507.85
+  t3-priority-dkp: 15077.83
 Digie:
   class: Rogue
   lottery-lootconfig:
@@ -645,8 +656,8 @@ Drizzyydrake:
   t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 305.74
-  t3-priority-dkp: 305.74
+  t3-lottery-dkp: 555.74
+  t3-priority-dkp: 555.74
 Drunkinrage:
   class: Warrior
   lottery-lootconfig:
@@ -692,7 +703,6 @@ Ekohz:
   priority-lootconfig:
   - Choker of the Firelord
   - Dark Storm Gauntlets
-  - Eyestalk Waist Cord
   - Frostfire Ring
   - The Restrained Essence of Sapphiron
   - Wraith Blade
@@ -702,9 +712,9 @@ Ekohz:
   t2-lottery-dkp: 7106.81
   t2-priority-dkp: 7421.28
   t2pt5-lottery-dkp: 10890.18
-  t2pt5-priority-dkp: 11215.25
-  t3-lottery-dkp: 4273.62
-  t3-priority-dkp: 2540.57
+  t2pt5-priority-dkp: 8215.25
+  t3-lottery-dkp: 4523.62
+  t3-priority-dkp: 2790.57
 Ellievyra:
   class: Priest
   lottery-lootconfig:
@@ -786,8 +796,8 @@ Emianne:
   t2-priority-dkp: 7248.42
   t2pt5-lottery-dkp: 10903.52
   t2pt5-priority-dkp: 10917.68
-  t3-lottery-dkp: 3574.67
-  t3-priority-dkp: 13410.9
+  t3-lottery-dkp: 3824.67
+  t3-priority-dkp: 13660.9
 Empty:
   class: Not Set
   lottery-lootconfig: []
@@ -795,12 +805,12 @@ Empty:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Envisage:
   class: Paladin
   lottery-lootconfig:
@@ -821,8 +831,8 @@ Envisage:
   t2-priority-dkp: 6117.7
   t2pt5-lottery-dkp: 9176.53
   t2pt5-priority-dkp: 9176.53
-  t3-lottery-dkp: 11258.8
-  t3-priority-dkp: 8541.11
+  t3-lottery-dkp: 11508.8
+  t3-priority-dkp: 8791.11
 Estiviana:
   class: Not Set
   lottery-lootconfig: []
@@ -830,12 +840,12 @@ Estiviana:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Farruko:
   class: Not Set
   lottery-lootconfig: []
@@ -843,12 +853,12 @@ Farruko:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Farrukoalt:
   class: Not Set
   lottery-lootconfig: []
@@ -856,12 +866,12 @@ Farrukoalt:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Fearbot:
   class: Warlock
   lottery-lootconfig:
@@ -928,8 +938,8 @@ Galm:
   t2-priority-dkp: 7863.74
   t2pt5-lottery-dkp: 10936.6
   t2pt5-priority-dkp: 9987.72
-  t3-lottery-dkp: 3664.1
-  t3-priority-dkp: 8671.89
+  t3-lottery-dkp: 3914.1
+  t3-priority-dkp: 8921.89
 Gapesmell:
   class: Not Set
   lottery-lootconfig: []
@@ -937,12 +947,12 @@ Gapesmell:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Glimfolkor:
   class: Mage
   lottery-lootconfig:
@@ -982,8 +992,8 @@ Goodjorb:
   t2-priority-dkp: 6117.7
   t2pt5-lottery-dkp: 9176.53
   t2pt5-priority-dkp: 9176.53
-  t3-lottery-dkp: 5712.88
-  t3-priority-dkp: 6995.19
+  t3-lottery-dkp: 5962.88
+  t3-priority-dkp: 7245.19
 Grumpywaifu:
   class: Not Set
   lottery-lootconfig: []
@@ -991,12 +1001,12 @@ Grumpywaifu:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Hopeless:
   class: Not Set
   lottery-lootconfig: []
@@ -1004,12 +1014,12 @@ Hopeless:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Hulkhigginz:
   class: Warrior
   lottery-lootconfig:
@@ -1027,17 +1037,16 @@ Hulkhigginz:
   priority-lootconfig:
   - Gauntlets of Annihilation
   - Might of Menethil
-  - Quick Strike Ring
   - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3624.83
-  t1-priority-dkp: 3624.83
+  t1-priority-dkp: 2624.83
   t2-lottery-dkp: 7247.7
   t2-priority-dkp: 7247.7
   t2pt5-lottery-dkp: 7186.8
   t2pt5-priority-dkp: 10871.55
-  t3-lottery-dkp: 10998.92
-  t3-priority-dkp: 13319.24
+  t3-lottery-dkp: 11248.92
+  t3-priority-dkp: 13569.24
 Hyolin:
   class: Not Set
   lottery-lootconfig: []
@@ -1084,8 +1093,8 @@ Justin:
   t2-priority-dkp: 7891.05
   t2pt5-lottery-dkp: 11606.4
   t2pt5-priority-dkp: 11748.72
-  t3-lottery-dkp: 9900.71
-  t3-priority-dkp: 12003.84
+  t3-lottery-dkp: 10150.71
+  t3-priority-dkp: 12253.84
 Justinjr:
   class: Not Set
   lottery-lootconfig: []
@@ -1106,12 +1115,12 @@ Kalsee:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Kang:
   class: Warrior
   lottery-lootconfig:
@@ -1140,8 +1149,8 @@ Kang:
   t2-priority-dkp: 7897.61
   t2pt5-lottery-dkp: 11375.86
   t2pt5-priority-dkp: 11098.86
-  t3-lottery-dkp: -29092.94
-  t3-priority-dkp: 13434.75
+  t3-lottery-dkp: -28842.94
+  t3-priority-dkp: 13684.75
 Kangbank:
   class: Not Set
   lottery-lootconfig: []
@@ -1193,8 +1202,8 @@ Kharagan:
   t2-priority-dkp: 1180.0
   t2pt5-lottery-dkp: 1770.0
   t2pt5-priority-dkp: 1770.0
-  t3-lottery-dkp: 2360.0
-  t3-priority-dkp: 2360.0
+  t3-lottery-dkp: 2610.0
+  t3-priority-dkp: 2610.0
 Kiele:
   class: Priest
   lottery-lootconfig:
@@ -1213,8 +1222,8 @@ Kiele:
   t2-priority-dkp: 7733.26
   t2pt5-lottery-dkp: 11387.95
   t2pt5-priority-dkp: 11582.78
-  t3-lottery-dkp: 12974.94
-  t3-priority-dkp: 13127.66
+  t3-lottery-dkp: 13224.94
+  t3-priority-dkp: 13377.66
 Kineztra:
   class: Rogue
   lottery-lootconfig:
@@ -1245,8 +1254,8 @@ Kineztra:
   t2-priority-dkp: 3035.55
   t2pt5-lottery-dkp: 4553.32
   t2pt5-priority-dkp: 4553.32
-  t3-lottery-dkp: 6071.1
-  t3-priority-dkp: 6071.1
+  t3-lottery-dkp: 6321.1
+  t3-priority-dkp: 6321.1
 Korteh:
   class: Hunter
   lottery-lootconfig: []
@@ -1258,8 +1267,8 @@ Korteh:
   t2-priority-dkp: 2775.7
   t2pt5-lottery-dkp: 3984.12
   t2pt5-priority-dkp: 4200.5
-  t3-lottery-dkp: 4454.28
-  t3-priority-dkp: 4971.46
+  t3-lottery-dkp: 4704.28
+  t3-priority-dkp: 5221.46
 Kortey:
   class: Not Set
   lottery-lootconfig: []
@@ -1332,12 +1341,12 @@ Kurianis:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Lebeouf:
   class: Not Set
   lottery-lootconfig: []
@@ -1345,12 +1354,12 @@ Lebeouf:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Malchazor:
   class: Paladin
   lottery-lootconfig:
@@ -1364,8 +1373,8 @@ Malchazor:
   t2-priority-dkp: 7190.72
   t2pt5-lottery-dkp: 10501.07
   t2pt5-priority-dkp: 10745.43
-  t3-lottery-dkp: 8130.4
-  t3-priority-dkp: 11167.25
+  t3-lottery-dkp: 8380.4
+  t3-priority-dkp: 11417.25
 Marianysumm:
   class: Not Set
   lottery-lootconfig: []
@@ -1373,17 +1382,16 @@ Marianysumm:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Mitchel:
   class: Warrior
   lottery-lootconfig:
   - Barbed Choker
-  - Chromatic Boots
   - Circle of Applied Force
   - Eye of C'Thun
   - Gauntlets of Annihilation
@@ -1405,12 +1413,12 @@ Mitchel:
   rank: Reserve Raider
   t1-lottery-dkp: 1517.77
   t1-priority-dkp: 1517.77
-  t2-lottery-dkp: 3035.55
+  t2-lottery-dkp: 1035.55
   t2-priority-dkp: 3035.55
   t2pt5-lottery-dkp: -3690.0
   t2pt5-priority-dkp: 4553.32
-  t3-lottery-dkp: 2824.64
-  t3-priority-dkp: 6224.64
+  t3-lottery-dkp: 3074.64
+  t3-priority-dkp: 6474.64
 Mlg:
   class: Mage
   lottery-lootconfig:
@@ -1502,8 +1510,8 @@ Murduc:
   t2-priority-dkp: 3035.55
   t2pt5-lottery-dkp: 4553.32
   t2pt5-priority-dkp: 4553.32
-  t3-lottery-dkp: -4707.5
-  t3-priority-dkp: 2224.64
+  t3-lottery-dkp: -4457.5
+  t3-priority-dkp: 2474.64
 Mwarrior:
   class: Not Set
   lottery-lootconfig: []
@@ -1511,12 +1519,12 @@ Mwarrior:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Nashy:
   class: Warrior
   lottery-lootconfig:
@@ -1621,6 +1629,19 @@ Orbclickers:
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
+Orbsummonone:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t1-lottery-dkp: 0.0
+  t1-priority-dkp: 0.0
+  t2-lottery-dkp: 0
+  t2-priority-dkp: 0
+  t2pt5-lottery-dkp: 0
+  t2pt5-priority-dkp: 0
+  t3-lottery-dkp: 0
+  t3-priority-dkp: 0
 Orbsummontwo:
   class: Not Set
   lottery-lootconfig: []
@@ -1653,8 +1674,6 @@ Peacard:
   - Boots of the Fallen Hero
   - Circle of Applied Force
   - Cloak of Concentrated Hatred
-  - Ouro's Intact Hide
-  - Qiraji Bindings of Command
   - Qiraji Execution Bracers
   - Ring of the Qiraji Fury
   priority-lootconfig:
@@ -1666,10 +1685,10 @@ Peacard:
   t1-priority-dkp: 1517.77
   t2-lottery-dkp: 1486.0
   t2-priority-dkp: 3035.55
-  t2pt5-lottery-dkp: 4553.32
+  t2pt5-lottery-dkp: -1446.68
   t2pt5-priority-dkp: 4553.32
-  t3-lottery-dkp: 6224.64
-  t3-priority-dkp: 6224.64
+  t3-lottery-dkp: 6474.64
+  t3-priority-dkp: 6474.64
 Phi:
   class: Priest
   lottery-lootconfig: []
@@ -1690,12 +1709,12 @@ Phoroneus:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Pikachau:
   class: Rogue
   lottery-lootconfig:
@@ -1709,8 +1728,8 @@ Pikachau:
   t2-priority-dkp: 1622.3
   t2pt5-lottery-dkp: 2212.84
   t2pt5-priority-dkp: 2583.55
-  t3-lottery-dkp: 2504.66
-  t3-priority-dkp: 2690.18
+  t3-lottery-dkp: 2754.66
+  t3-priority-dkp: 2940.18
 Polyharry:
   class: Not Set
   lottery-lootconfig: []
@@ -1718,12 +1737,12 @@ Polyharry:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Pudzey:
   class: Priest
   lottery-lootconfig:
@@ -1746,8 +1765,8 @@ Pudzey:
   t2-priority-dkp: 7151.46
   t2pt5-lottery-dkp: 10727.21
   t2pt5-priority-dkp: 8884.83
-  t3-lottery-dkp: 187.15
-  t3-priority-dkp: 14635.38
+  t3-lottery-dkp: 437.15
+  t3-priority-dkp: 14885.38
 Radicola:
   class: Warlock
   lottery-lootconfig:
@@ -1816,8 +1835,8 @@ Realfrosted:
   t2-priority-dkp: 225.3
   t2pt5-lottery-dkp: 243.36
   t2pt5-priority-dkp: 211.85
-  t3-lottery-dkp: 251.07
-  t3-priority-dkp: 233.78
+  t3-lottery-dkp: 501.07
+  t3-priority-dkp: 483.78
 Riko:
   class: Rogue
   lottery-lootconfig: []
@@ -1825,12 +1844,12 @@ Riko:
   rank: Social Member
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 250.0
+  t3-priority-dkp: 250.0
 Riskyrizzy:
   class: Not Set
   lottery-lootconfig: []
@@ -1851,18 +1870,17 @@ Risolju:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Roodolph:
   class: Hunter
   lottery-lootconfig:
   - Archimtiros' Ring of Reckoning
   - Barb of the Sand Reaver
-  - Carapace of the Old God
   - Corrupted Ashbringer
   - Desecrated Handguards
   - Desecrated Tunic
@@ -1888,10 +1906,10 @@ Roodolph:
   t1-priority-dkp: 3965.25
   t2-lottery-dkp: 6971.78
   t2-priority-dkp: 7897.41
-  t2pt5-lottery-dkp: 11353.84
+  t2pt5-lottery-dkp: 8353.84
   t2pt5-priority-dkp: 10541.86
-  t3-lottery-dkp: -19599.26
-  t3-priority-dkp: 15365.06
+  t3-lottery-dkp: -19349.26
+  t3-priority-dkp: 15615.06
 Rotheart:
   class: Warlock
   lottery-lootconfig: []
@@ -1912,12 +1930,12 @@ Rotsen:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Rudolf:
   class: Hunter
   lottery-lootconfig: []
@@ -1963,8 +1981,8 @@ Salchant:
   t2-priority-dkp: 7247.7
   t2pt5-lottery-dkp: 10871.55
   t2pt5-priority-dkp: 9029.17
-  t3-lottery-dkp: 8753.05
-  t3-priority-dkp: 13238.11
+  t3-lottery-dkp: 9003.05
+  t3-priority-dkp: 13488.11
 Sapper:
   class: Rogue
   lottery-lootconfig:
@@ -1995,12 +2013,12 @@ Sargasso:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Scrodo:
   class: Mage
   lottery-lootconfig:
@@ -2018,8 +2036,8 @@ Scrodo:
   t2-priority-dkp: 7247.7
   t2pt5-lottery-dkp: 10871.55
   t2pt5-priority-dkp: 10871.55
-  t3-lottery-dkp: 3896.34
-  t3-priority-dkp: 2900.9
+  t3-lottery-dkp: 4146.34
+  t3-priority-dkp: 3150.9
 Searus:
   class: Rogue
   lottery-lootconfig:
@@ -2040,7 +2058,6 @@ Searus:
 Sekjr:
   class: Paladin
   lottery-lootconfig:
-  - Angelista's Touch
   - Cryptfiend Silk Cloak
   - Desecrated Handguards
   - Gauntlets of Steadfast Determination
@@ -2060,10 +2077,10 @@ Sekjr:
   t1-priority-dkp: 3817.62
   t2-lottery-dkp: 7618.29
   t2-priority-dkp: 6845.45
-  t2pt5-lottery-dkp: 11016.47
+  t2pt5-lottery-dkp: 8016.47
   t2pt5-priority-dkp: 9543.75
-  t3-lottery-dkp: 7473.34
-  t3-priority-dkp: 13808.51
+  t3-lottery-dkp: 7723.34
+  t3-priority-dkp: 14058.51
 Sharing:
   class: Not Set
   lottery-lootconfig: []
@@ -2071,12 +2088,12 @@ Sharing:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Shcout:
   class: Not Set
   lottery-lootconfig: []
@@ -2127,8 +2144,8 @@ Sheol:
   t2-priority-dkp: 6032.7
   t2pt5-lottery-dkp: 10345.97
   t2pt5-priority-dkp: 9698.08
-  t3-lottery-dkp: 4256.64
-  t3-priority-dkp: 13075.91
+  t3-lottery-dkp: 4506.64
+  t3-priority-dkp: 13325.91
 Shnackaran:
   class: Not Set
   lottery-lootconfig: []
@@ -2188,8 +2205,8 @@ Shnackypacky:
   t2-priority-dkp: 7913.16
   t2pt5-lottery-dkp: 11434.62
   t2pt5-priority-dkp: 11831.3
-  t3-lottery-dkp: 10538.92
-  t3-priority-dkp: 11446.29
+  t3-lottery-dkp: 10788.92
+  t3-priority-dkp: 11696.29
 Shrimpee:
   class: Not Set
   lottery-lootconfig: []
@@ -2241,7 +2258,6 @@ Sizzleñips:
   - Gem of Trapped Innocents
   - Leggings of Polarity
   - Netherwind Boots
-  - Netherwind Robes
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -2267,12 +2283,12 @@ Sizzleñips:
   rank: Core Raider
   t1-lottery-dkp: 3564.1
   t1-priority-dkp: 3564.1
-  t2-lottery-dkp: 7126.23
+  t2-lottery-dkp: 5126.23
   t2-priority-dkp: 7126.23
   t2pt5-lottery-dkp: 10689.35
   t2pt5-priority-dkp: 10689.35
-  t3-lottery-dkp: 3301.1
-  t3-priority-dkp: 10604.95
+  t3-lottery-dkp: 3551.1
+  t3-priority-dkp: 10854.95
 Skella:
   class: Not Set
   lottery-lootconfig: []
@@ -2293,12 +2309,12 @@ Slem:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Snickercakes:
   class: Warrior
   lottery-lootconfig:
@@ -2314,8 +2330,8 @@ Snickercakes:
   t2-priority-dkp: 7102.37
   t2pt5-lottery-dkp: 10059.37
   t2pt5-priority-dkp: 10754.21
-  t3-lottery-dkp: 4512.74
-  t3-priority-dkp: 11116.48
+  t3-lottery-dkp: 4762.74
+  t3-priority-dkp: 11366.48
 Sofakinglulz:
   class: Paladin
   lottery-lootconfig:
@@ -2364,12 +2380,12 @@ Sprockey:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Srdeveloper:
   class: Not Set
   lottery-lootconfig: []
@@ -2377,12 +2393,12 @@ Srdeveloper:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Stealthgiff:
   class: Not Set
   lottery-lootconfig: []
@@ -2403,12 +2419,12 @@ Steamedhamz:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Stephany:
   class: Warlock
   lottery-lootconfig:
@@ -2422,8 +2438,8 @@ Stephany:
   t2-priority-dkp: 7896.2
   t2pt5-lottery-dkp: 11036.68
   t2pt5-priority-dkp: 10682.03
-  t3-lottery-dkp: 12048.73
-  t3-priority-dkp: 9977.68
+  t3-lottery-dkp: 12298.73
+  t3-priority-dkp: 10227.68
 Summonbest:
   class: Not Set
   lottery-lootconfig: []
@@ -2431,12 +2447,12 @@ Summonbest:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Sylador:
   class: Druid
   lottery-lootconfig:
@@ -2462,8 +2478,8 @@ Sylador:
   t2-priority-dkp: 7878.48
   t2pt5-lottery-dkp: 11543.69
   t2pt5-priority-dkp: 9992.12
-  t3-lottery-dkp: 9493.06
-  t3-priority-dkp: 13359.93
+  t3-lottery-dkp: 9743.06
+  t3-priority-dkp: 13609.93
 Takii:
   class: Not Set
   lottery-lootconfig: []
@@ -2484,12 +2500,12 @@ Thehealz:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Thursday:
   class: Warrior
   lottery-lootconfig:
@@ -2507,8 +2523,8 @@ Thursday:
   t2-priority-dkp: 7827.47
   t2pt5-lottery-dkp: 10076.68
   t2pt5-priority-dkp: 11744.07
-  t3-lottery-dkp: 6057.57
-  t3-priority-dkp: 12118.03
+  t3-lottery-dkp: 6307.57
+  t3-priority-dkp: 12368.03
 Tinymama:
   class: Not Set
   lottery-lootconfig: []
@@ -2516,12 +2532,12 @@ Tinymama:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Tntbank:
   class: Not Set
   lottery-lootconfig: []
@@ -2591,7 +2607,6 @@ Venjamen:
   class: Rogue
   lottery-lootconfig:
   - Bonescythe Ring
-  - Boots of the Shadow Flame
   - Death's Sting
   - Desecrated Helmet
   priority-lootconfig:
@@ -2601,12 +2616,12 @@ Venjamen:
   rank: Reserve Raider
   t1-lottery-dkp: 1880.1
   t1-priority-dkp: 1880.1
-  t2-lottery-dkp: 3760.22
+  t2-lottery-dkp: 1760.22
   t2-priority-dkp: 3760.22
   t2pt5-lottery-dkp: 5640.32
   t2pt5-priority-dkp: 5640.32
-  t3-lottery-dkp: -18310.0
-  t3-priority-dkp: 7673.96
+  t3-lottery-dkp: -18060.0
+  t3-priority-dkp: 7923.96
 Vermora:
   class: Rogue
   lottery-lootconfig:
@@ -2628,8 +2643,8 @@ Vermora:
   t2-priority-dkp: 6639.07
   t2pt5-lottery-dkp: 9958.6
   t2pt5-priority-dkp: 9958.6
-  t3-lottery-dkp: 6475.28
-  t3-priority-dkp: 10693.85
+  t3-lottery-dkp: 6725.28
+  t3-priority-dkp: 10943.85
 Vingilot:
   class: Not Set
   lottery-lootconfig: []
@@ -2730,12 +2745,12 @@ Zehcnas:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Zerxx:
   class: Warrior
   lottery-lootconfig:
@@ -2786,5 +2801,5 @@ Zóff:
   t2-priority-dkp: 7905.68
   t2pt5-lottery-dkp: 11725.75
   t2pt5-priority-dkp: 11771.04
-  t3-lottery-dkp: 15398.42
-  t3-priority-dkp: 11435.38
+  t3-lottery-dkp: 15648.42
+  t3-priority-dkp: 11685.38
