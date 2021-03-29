@@ -920,7 +920,6 @@ Galm:
   - Desecrated Circlet
   - Desecrated Sandals
   - Frostfire Ring
-  - Leggings of Polarity
   - Leggings of the Festering Swarm
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -931,6 +930,7 @@ Galm:
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Fetish of the Sand Reaver
+  - Leggings of Polarity
   rank: Core Raider
   t1-lottery-dkp: 3967.13
   t1-priority-dkp: 3966.19
