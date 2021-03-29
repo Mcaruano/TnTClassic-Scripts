@@ -574,7 +574,6 @@ Dienasty:
   lottery-lootconfig:
   - Badge of the Swarmguard
   - Barbed Choker
-  - Dark Edge of Insanity
   - Girdle of the Mentor
   - Gressil, Dawn of Ruin
   - Kiss of the Spider
@@ -585,6 +584,7 @@ Dienasty:
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Chromatically Tempered Sword
+  - Dark Edge of Insanity
   - Drake Fang Talisman
   - The Hungering Cold
   rank: Core Raider
