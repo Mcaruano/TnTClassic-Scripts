@@ -1258,8 +1258,11 @@ Kineztra:
   t3-priority-dkp: 5372.94
 Korteh:
   class: Hunter
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Desecrated Tunic
+  - The Eye of Nerub
+  priority-lootconfig:
+  - Slayer's Crest
   rank: Reserve Raider
   t1-lottery-dkp: 1198.95
   t1-priority-dkp: 1198.88
