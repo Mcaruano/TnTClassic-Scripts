@@ -1718,9 +1718,12 @@ Phoroneus:
 Pikachau:
   class: Rogue
   lottery-lootconfig:
+  - Iblis, Blade of the Fallen Seraph
   - Imperial Qiraji Armaments
+  - Kingsfall
   priority-lootconfig:
   - Death's Sting
+  - Gressil, Dawn of Ruin
   rank: Reserve Raider
   t1-lottery-dkp: 741.63
   t1-priority-dkp: 741.63
