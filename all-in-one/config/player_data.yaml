@@ -726,7 +726,7 @@ Ellwindelm:
   - Ring of the Cryptstalker
   priority-lootconfig:
   - Nerubian Slavemaker
-  rank: Core Raider
+  rank: Reserve Raider
   t1-lottery-dkp: 1698.16
   t1-priority-dkp: 1697.3
   t2-lottery-dkp: 3375.76
@@ -2390,7 +2390,7 @@ Sofakinglulz:
   - Sartura's Might
   - Scepter of the False Prophet
   - Shroud of Pure Thought
-  rank: Core Raider
+  rank: Reserve Raider
   t1-lottery-dkp: 727.92
   t1-priority-dkp: 728.41
   t2-lottery-dkp: 1314.06
@@ -2815,6 +2815,7 @@ Zóff:
   - Legplates of Carnage
   - Mantle of Wicked Revenge
   - Slayer's Crest
+  - The Face of Death
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Badge of the Swarmguard
