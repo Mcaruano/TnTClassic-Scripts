@@ -1897,24 +1897,24 @@ Roodolph:
   - Archimtiros' Ring of Reckoning
   - Barb of the Sand Reaver
   - Corrupted Ashbringer
-  - Desecrated Handguards
-  - Desecrated Tunic
   - Kingsfall
   - Might of the Scourge
   - Might of the Scourge
   - Might of the Scourge
-  - Might of the Scourge
   - Ring of the Godslayer
-  - Shroud of Dominion
-  - The Eye of Nerub
-  - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Ashjre'thul, Crossbow of Smiting
   - Badge of the Swarmguard
+  - Desecrated Handguards
+  - Desecrated Tunic
   - Eye of C'Thun
   - Jom Gabbar
+  - Might of the Scourge
   - Nerubian Slavemaker
   - Prestor's Talisman of Connivery
+  - Shroud of Dominion
+  - The Eye of Nerub
+  - The Phylactery of Kel'Thuzad
   rank: Core Raider
   t1-lottery-dkp: 3963.17
   t1-priority-dkp: 3960.46
