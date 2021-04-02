@@ -440,9 +440,11 @@ Choonin:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Kiss of the Spider
+  - Iblis, Blade of the Fallen Seraph
   - Might of the Scourge
-  priority-lootconfig: []
+  - Slayer's Crest
+  priority-lootconfig:
+  - Kiss of the Spider
   rank: Core Raider
   t1-lottery-dkp: 3190.01
   t1-priority-dkp: 3190.01
