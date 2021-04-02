@@ -1373,6 +1373,7 @@ Lunarie:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
+  - Might of Menethil
   - The Face of Death
   priority-lootconfig:
   - Desecrated Handguards
