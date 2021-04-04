@@ -2259,8 +2259,7 @@ Simptease:
   lottery-lootconfig:
   - Legplates of Carnage
   - Might of the Scourge
-  priority-lootconfig:
-  - Plated Abomination Ribcage
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3306.17
   t1-priority-dkp: 3306.17
