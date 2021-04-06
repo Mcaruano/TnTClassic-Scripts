@@ -2253,9 +2253,13 @@ Shrimptea:
 Simptease:
   class: Warrior
   lottery-lootconfig:
+  - Desecrated Breastplate
   - Legplates of Carnage
   - Might of the Scourge
-  priority-lootconfig: []
+  - The Face of Death
+  priority-lootconfig:
+  - Band of Unnatural Forces
+  - Slayer’s Crest
   rank: Core Raider
   t1-lottery-dkp: 2810.24
   t1-priority-dkp: 2810.24
