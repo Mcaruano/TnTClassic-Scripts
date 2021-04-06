@@ -391,6 +391,7 @@ Caelandine:
   class: Druid
   lottery-lootconfig:
   - Belt of Never-ending Agony
+  - Desecrated Girdle
   - Drake Fang Talisman
   - Fortitude of the Scourge
   - Gloves of Enforcement
@@ -399,7 +400,6 @@ Caelandine:
   - Onyxia Hide Backpack
   priority-lootconfig:
   - Cryptfiend Silk Cloak
-  - Desecrated Girdle
   - Qiraji Execution Bracers
   rank: Core Raider
   t1-lottery-dkp: 3121.38
