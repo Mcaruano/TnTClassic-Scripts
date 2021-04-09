@@ -1011,21 +1011,21 @@ Hopeless:
 Hulkhigginz:
   class: Warrior
   lottery-lootconfig:
-  - Band of Unnatural Forces
   - Barbed Choker
   - Eye of C'Thun
   - Hive Defiler Wristguards
   - Iblis, Blade of the Fallen Seraph
   - Kingsfall
-  - Legplates of Carnage
   - Qiraji Execution Bracers
   - Shroud of Dominion
   - Slayer's Crest
-  - Stormrage's Talisman of Seething
-  - Wristguards of Vengeance
   priority-lootconfig:
+  - Band of Unnatural Forces
   - Gauntlets of Annihilation
+  - Legplates of Carnage
+  - Stormrage's Talisman of Seething
   - The Hungering Cold
+  - Wristguards of Vengeance
   rank: Core Raider
   t1-lottery-dkp: 3710.44
   t1-priority-dkp: 2987.94
