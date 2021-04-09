@@ -2334,9 +2334,9 @@ Smsums:
   t3-priority-dkp: 0.0
 Snickercakes:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Wristguards of Vengeance
   priority-lootconfig:
-  - Elementium Reinforced Bulwark
   - Gauntlets of Annihilation
   - Gressil, Dawn of Ruin
   rank: Core Raider
