@@ -1675,13 +1675,11 @@ Padaladin:
 Peacard:
   class: Warrior
   lottery-lootconfig:
-  - Boots of the Fallen Hero
   - Circle of Applied Force
   - Cloak of Concentrated Hatred
   - Hatchet of Sundered Bone
   - Legplates of Carnage
   - Might of the Scourge
-  - Qiraji Execution Bracers
   - Ring of the Qiraji Fury
   - The Phylactery of Kel'Thuzad
   - Wristguards of Vengeance
