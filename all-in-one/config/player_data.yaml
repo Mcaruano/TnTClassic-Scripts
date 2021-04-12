@@ -1211,24 +1211,22 @@ Kiele:
 Kineztra:
   class: Rogue
   lottery-lootconfig:
-  - Aged Core Leather Gloves
   - Band of Unnatural Forces
   - Bonescythe Ring
-  - Death's Sting
   - Eye of C'Thun
   - Iblis, Blade of the Fallen Seraph
-  - Kingsfall
-  - Larvae of the Great Worm
-  - Nerubian Slavemaker
   - Slayer's Crest
+  - The Castigator
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Aged Core Leather Gloves
   - Ancient Qiraji Ripper
   - Badge of the Swarmguard
   - Chromatically Tempered Sword
+  - Death's Sting
   - Gressil, Dawn of Ruin
+  - Kingsfall
   - Kiss of the Spider
-  - The Castigator
   rank: Reserve Raider
   t1-lottery-dkp: 1859.87
   t1-priority-dkp: 1859.87
