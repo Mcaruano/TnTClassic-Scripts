@@ -1887,7 +1887,6 @@ Risolju:
 Roodolph:
   class: Hunter
   lottery-lootconfig:
-  - Archimtiros' Ring of Reckoning
   - Corrupted Ashbringer
   - Kingsfall
   - Might of the Scourge
@@ -1895,7 +1894,7 @@ Roodolph:
   - Might of the Scourge
   - Ring of the Godslayer
   priority-lootconfig:
-  - Ashjre'thul, Crossbow of Smiting
+  - Archimtiros' Ring of Reckoning
   - Badge of the Swarmguard
   - Desecrated Handguards
   - Desecrated Tunic
@@ -1903,7 +1902,6 @@ Roodolph:
   - Jom Gabbar
   - Might of the Scourge
   - Nerubian Slavemaker
-  - Prestor's Talisman of Connivery
   - Shroud of Dominion
   rank: Core Raider
   t1-lottery-dkp: 3364.89
