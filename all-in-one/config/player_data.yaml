@@ -263,7 +263,6 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Badge of the Swarmguard
-  - Band of Unnatural Forces
   - Barbed Choker
   - Circle of Applied Force
   - Dark Edge of Insanity
@@ -272,15 +271,16 @@ Baopi:
   - Plated Abomination Ribcage
   - Shroud of Dominion
   - Slayer's Crest
-  - Stormrage's Talisman of Seething
   - Wristguards of Vengeance
   priority-lootconfig:
+  - Band of Unnatural Forces
   - Drake Fang Talisman
   - Gauntlets of Annihilation
   - Gressil, Dawn of Ruin
   - Kiss of the Spider
   - Legplates of Carnage
   - Quick Strike Ring
+  - Stormrage's Talisman of Seething
   rank: Core Raider
   t1-lottery-dkp: 2998.39
   t1-priority-dkp: 2998.39
