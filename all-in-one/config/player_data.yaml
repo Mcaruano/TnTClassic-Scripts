@@ -909,7 +909,6 @@ Galm:
   class: Mage
   lottery-lootconfig:
   - Amulet of Vek'nilash
-  - Desecrated Circlet
   - Desecrated Sandals
   - Frostfire Ring
   - Leggings of the Festering Swarm
@@ -920,6 +919,7 @@ Galm:
   - Ring of Spell Power
   - Shard of the Fallen Star
   priority-lootconfig:
+  - Desecrated Circlet
   - Fetish of the Sand Reaver
   rank: Core Raider
   t1-lottery-dkp: 3364.09
