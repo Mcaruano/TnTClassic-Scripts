@@ -2444,6 +2444,8 @@ Stephany:
   class: Warlock
   lottery-lootconfig:
   - Cloak of the Necropolis
+  - Doomfinger
+  - The Restrained Essence of Sapphiron
   priority-lootconfig:
   - Wand of Fates
   rank: Core Raider
