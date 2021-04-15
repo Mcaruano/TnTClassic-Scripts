@@ -1719,10 +1719,13 @@ Phoroneus:
 Pikachau:
   class: Rogue
   lottery-lootconfig:
+  - Carapace of the Old God
+  - Cloak of Concentrated Hatred
   - Iblis, Blade of the Fallen Seraph
   - Imperial Qiraji Armaments
   - Kingsfall
   priority-lootconfig:
+  - Ancient Qiraji Ripper
   - Death's Sting
   - Gressil, Dawn of Ruin
   rank: Reserve Raider
