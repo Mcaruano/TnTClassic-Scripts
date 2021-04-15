@@ -2244,7 +2244,6 @@ Simptease:
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
-  - Cloak of the Necropolis
   - Desecrated Sandals
   - Doomfinger
   - Gem of Trapped Innocents
@@ -2263,13 +2262,14 @@ Sizzleñips:
   - Sapphiron's Left Eye
   - Shard of the Fallen Star
   - The Phylactery of Kel'Thuzad
-  - The Restrained Essence of Sapphiron
   - Vanquished Tentacle of C'Thun
   priority-lootconfig:
+  - Cloak of the Necropolis
   - Dark Storm Gauntlets
   - Neltharion's Tear
   - Netherwind Pants
   - Talisman of Ephemeral Power
+  - The Restrained Essence of Sapphiron
   rank: Core Raider
   t1-lottery-dkp: 3711.58
   t1-priority-dkp: 3711.58
