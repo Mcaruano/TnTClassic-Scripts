@@ -2483,16 +2483,22 @@ Sylador:
   - Belt of Never-ending Agony
   - Boots of the Shadow Flame
   - Circle of Applied Force
+  - Cloak of Concentrated Hatred
   - Gloves of Enforcement
+  - Grasp of the Old God
   - Lok'amir il Romathis
+  - Mantle of Wicked Revenge
   - Neltharion's Tear
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Prestor's Talisman of Connivery
   - Qiraji Execution Bracers
+  - Quick Strike Ring
+  - Talisman of Ephemeral Power
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Bracelets of Royal Redemption
   - Eye of the Dead
   - Shard of the Scale
   rank: Core Raider
