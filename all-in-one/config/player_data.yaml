@@ -1159,7 +1159,9 @@ Kaylä:
 Kharagan:
   class: Warrior
   lottery-lootconfig:
+  - Burrower's Shell
   - Girdle of the Mentor
+  - Helm of Endless Rage
   - Kingsfall
   - Larvae of the Great Worm
   - Might of the Scourge
