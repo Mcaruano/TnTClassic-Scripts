@@ -1959,10 +1959,13 @@ Rumegirl:
 Salchant:
   class: Paladin
   lottery-lootconfig:
+  - Cloak of Concentrated Hatred
+  - Cloak of the Golden Hive
   - Desecrated Handguards
   - Eye of the Dead
+  - Ring of the Qiraji Fury
   - Scarab Brooch
-  - Vanquished Tentacle of C'Thun
+  - Styleen's Impeding Scarab
   priority-lootconfig:
   - Corrupted Ashbringer
   - Hammer of the Twisting Nether
