@@ -1665,9 +1665,10 @@ Padaladin:
 Peacard:
   class: Warrior
   lottery-lootconfig:
+  - Chromatic Boots
   - Circle of Applied Force
-  - Cloak of Concentrated Hatred
   - Hatchet of Sundered Bone
+  - Larvae of the Great Worm
   - Legplates of Carnage
   - Might of the Scourge
   - Ring of the Qiraji Fury
@@ -1676,6 +1677,8 @@ Peacard:
   - Wristguards of Vengeance
   priority-lootconfig:
   - Band of Unnatural Forces
+  - Jom Gabbar
+  - Quick Strike Ring
   rank: Reserve Raider
   t1-lottery-dkp: 2449.87
   t1-priority-dkp: 2449.87
