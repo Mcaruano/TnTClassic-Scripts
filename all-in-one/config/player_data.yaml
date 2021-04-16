@@ -124,12 +124,12 @@ Aqclickers:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Aqsummonerz:
   class: Not Set
   lottery-lootconfig: []
@@ -623,8 +623,8 @@ Dottyshrimp:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
@@ -1007,12 +1007,12 @@ Goodsforsale:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Grumpywaifu:
   class: Not Set
   lottery-lootconfig: []
@@ -1409,8 +1409,8 @@ Manarolls:
   t1-priority-dkp: 0.0
   t2-lottery-dkp: 0.0
   t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 250.0
   t3-priority-dkp: 250.0
 Marianysumm:
@@ -1828,8 +1828,8 @@ Pudzy:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
@@ -2508,8 +2508,8 @@ Stephany:
   t2-priority-dkp: 7884.8
   t2pt5-lottery-dkp: 11331.23
   t2pt5-priority-dkp: 11113.43
-  t3-lottery-dkp: 13624.06
-  t3-priority-dkp: 8352.17
+  t3-lottery-dkp: 13874.06
+  t3-priority-dkp: 8602.17
 Summonbest:
   class: Not Set
   lottery-lootconfig: []
@@ -2755,10 +2755,10 @@ Volkgrim:
   t1-priority-dkp: 0.0
   t2-lottery-dkp: 0.0
   t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
+  t2pt5-lottery-dkp: 0.0
+  t2pt5-priority-dkp: 0.0
+  t3-lottery-dkp: 0.0
+  t3-priority-dkp: 0.0
 Wankdalf:
   class: Not Set
   lottery-lootconfig: []
@@ -2912,8 +2912,8 @@ Zóff:
   rank: Not Set
   t1-lottery-dkp: 0.0
   t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
+  t2-lottery-dkp: 0.0
+  t2-priority-dkp: 0.0
   t2pt5-lottery-dkp: 0.0
   t2pt5-priority-dkp: 0.0
   t3-lottery-dkp: 0.0
