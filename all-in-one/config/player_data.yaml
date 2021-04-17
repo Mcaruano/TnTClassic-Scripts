@@ -2503,6 +2503,7 @@ Steamedhamz:
 Stephany:
   class: Warlock
   lottery-lootconfig:
+  - Eye of Diminution
   - The Restrained Essence of Sapphiron
   priority-lootconfig:
   - Cloak of the Necropolis
