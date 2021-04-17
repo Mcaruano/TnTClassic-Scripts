@@ -1244,9 +1244,11 @@ Kineztra:
   lottery-lootconfig:
   - Band of Unnatural Forces
   - Bonescythe Ring
+  - Desecrated Bracers
+  - Desecrated Pauldrons
+  - Desecrated Sabatons
   - Eye of C'Thun
   - Slayer's Crest
-  - The Castigator
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Aged Core Leather Gloves
@@ -1257,6 +1259,7 @@ Kineztra:
   - Gressil, Dawn of Ruin
   - Kingsfall
   - Kiss of the Spider
+  - The Castigator
   rank: Core Raider
   t1-lottery-dkp: 2449.87
   t1-priority-dkp: 2449.87
