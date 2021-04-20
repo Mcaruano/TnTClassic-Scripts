@@ -813,13 +813,12 @@ Empty:
 Envisage:
   class: Paladin
   lottery-lootconfig:
-  - Desecrated Handguards
   - Pure Elementium Band
   - Scarab Brooch
   - The Face of Death
   priority-lootconfig:
   - Cloak of Clarity
-  - Eye of the Dead
+  - Desecrated Handguards
   - Rejuvenating Gem
   - Ring of the Martyr
   rank: Core Raider
