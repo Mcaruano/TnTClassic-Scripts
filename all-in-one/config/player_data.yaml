@@ -2094,12 +2094,13 @@ Sargasso:
 Scrodo:
   class: Mage
   lottery-lootconfig:
-  - Gem of Trapped Innocents
-  - The Soul Harvester's Bindings
+  - Power of the Scourge
   priority-lootconfig:
   - Fetish of the Sand Reaver
+  - Gem of Trapped Innocents
   - Rime Covered Mantle
   - Shard of the Fallen Star
+  - The Soul Harvester's Bindings
   - Vanquished Tentacle of C'Thun
   rank: Core Raider
   t1-lottery-dkp: 3182.29
