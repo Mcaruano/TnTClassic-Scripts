@@ -282,6 +282,7 @@ Baopi:
   - Plated Abomination Ribcage
   - Shroud of Dominion
   - Slayer's Crest
+  - Stormrage's Talisman of Seething
   - Wristguards of Vengeance
   priority-lootconfig:
   - Band of Unnatural Forces
@@ -291,7 +292,6 @@ Baopi:
   - Kiss of the Spider
   - Legplates of Carnage
   - Quick Strike Ring
-  - Stormrage's Talisman of Seething
   rank: Core Raider
   t1-lottery-dkp: 3050.13
   t1-priority-dkp: 3050.13
