@@ -2320,7 +2320,6 @@ Simptease:
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
-  - Desecrated Sandals
   - Doomfinger
   - Gem of Trapped Innocents
   - Leggings of Polarity
@@ -2342,6 +2341,7 @@ Sizzleñips:
   priority-lootconfig:
   - Cloak of the Necropolis
   - Dark Storm Gauntlets
+  - Desecrated Sandals
   - Neltharion's Tear
   - Netherwind Pants
   - Talisman of Ephemeral Power
