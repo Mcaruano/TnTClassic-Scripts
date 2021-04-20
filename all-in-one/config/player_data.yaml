@@ -447,7 +447,6 @@ Choonin:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Iblis, Blade of the Fallen Seraph
   - Might of the Scourge
   - Slayer's Crest
   priority-lootconfig:
