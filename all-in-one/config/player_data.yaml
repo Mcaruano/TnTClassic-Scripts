@@ -928,6 +928,7 @@ Galm:
   class: Mage
   lottery-lootconfig:
   - Amulet of Vek'nilash
+  - Brimstone Staff
   - Desecrated Sandals
   - Frostfire Ring
   - Leggings of the Festering Swarm
@@ -935,6 +936,7 @@ Galm:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
+  - Power of the Scourge
   - Ring of Spell Power
   - Shard of the Fallen Star
   priority-lootconfig:
