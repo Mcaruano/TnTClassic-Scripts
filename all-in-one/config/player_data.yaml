@@ -303,7 +303,7 @@ Barlen:
   lottery-lootconfig:
   - Desecrated Tunic
   priority-lootconfig: []
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 1859.87
   t1-priority-dkp: 1859.87
   t2-lottery-dkp: 3719.76
@@ -1263,7 +1263,7 @@ Korteh:
   priority-lootconfig:
   - Prestor's Talisman of Connivery
   - Slayer's Crest
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 2616.42
   t1-priority-dkp: 2616.37
   t2-lottery-dkp: 5224.32
@@ -1771,7 +1771,7 @@ Pikachau:
   - Ancient Qiraji Ripper
   - Death's Sting
   - Gressil, Dawn of Ruin
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 2335.57
   t1-priority-dkp: 2335.57
   t2-lottery-dkp: 4519.68
