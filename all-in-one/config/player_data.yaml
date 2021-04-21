@@ -1422,6 +1422,7 @@ Mitchel:
   - Band of Unnatural Forces
   - Barbed Choker
   - Elementium Reinforced Bulwark
+  - Gressil, Dawn of Ruin
   - Iblis, Blade of the Fallen Seraph
   - Kiss of the Spider
   - Legplates of Carnage
@@ -1433,6 +1434,7 @@ Mitchel:
   - Stormrage's Talisman of Seething
   - Styleen's Impeding Scarab
   - The Castigator
+  - The Hungering Cold
   - The Phylactery of Kel'Thuzad
   - Widow's Remorse
   priority-lootconfig:
@@ -1443,12 +1445,10 @@ Mitchel:
   - Corrupted Ashbringer
   - Drake Fang Talisman
   - Gauntlets of Annihilation
-  - Gressil, Dawn of Ruin
   - Hive Defiler Wristguards
   - Jom Gabbar
   - Mantle of Wicked Revenge
   - Might of Menethil
-  - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 2672.39
   t1-priority-dkp: 2672.39
