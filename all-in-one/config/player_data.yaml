@@ -2500,6 +2500,7 @@ Steamedhamz:
 Stephany:
   class: Warlock
   lottery-lootconfig:
+  - Power of the Scourge 
   - The Restrained Essence of Sapphiron
   priority-lootconfig:
   - Cloak of the Necropolis
