@@ -2132,7 +2132,6 @@ Sekjr:
   class: Paladin
   lottery-lootconfig:
   - Cryptfiend Silk Cloak
-  - Desecrated Handguards
   - Gauntlets of Steadfast Determination
   - Glyph of Deflection
   - Mark of C'Thun
@@ -2142,6 +2141,9 @@ Sekjr:
   - Onyxia Hide Backpack
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Desecrated Handguards
+  - Eye of the Dead
+  - Hammer of the Twisting Nether
   - Styleen's Impeding Scarab
   rank: Core Raider
   t1-lottery-dkp: 3879.42
