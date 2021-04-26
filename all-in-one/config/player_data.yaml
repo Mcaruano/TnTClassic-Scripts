@@ -1423,35 +1423,26 @@ Mitchel:
   class: Warrior
   lottery-lootconfig:
   - Band of Unnatural Forces
-  - Barbed Choker
+  - Chromatically Tempered Sword
   - Elementium Reinforced Bulwark
-  - Gressil, Dawn of Ruin
-  - Iblis, Blade of the Fallen Seraph
-  - Kiss of the Spider
   - Legplates of Carnage
   - Lifegiving Gem
   - Nerubian Slavemaker
-  - Plated Abomination Ribcage
   - Prestor's Talisman of Connivery
-  - Slayer's Crest
   - Stormrage's Talisman of Seething
   - Styleen's Impeding Scarab
-  - The Castigator
-  - The Hungering Cold
   - The Phylactery of Kel'Thuzad
-  - Widow's Remorse
   priority-lootconfig:
-  - Ancient Qiraji Ripper
-  - Anubisath Warhammer
   - Badge of the Swarmguard
-  - Chromatically Tempered Sword
+  - Barbed Choker
   - Corrupted Ashbringer
   - Drake Fang Talisman
   - Gauntlets of Annihilation
   - Hive Defiler Wristguards
   - Jom Gabbar
-  - Mantle of Wicked Revenge
+  - Kiss of the Spider
   - Might of Menethil
+  - Slayer's Crest
   rank: Core Raider
   t1-lottery-dkp: 2672.39
   t1-priority-dkp: 2672.39
