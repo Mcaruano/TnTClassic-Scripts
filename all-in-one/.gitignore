@@ -3,3 +3,4 @@ json/
 raw_addon_output/
 trash/
 __pycache__/
+.DS_Store
