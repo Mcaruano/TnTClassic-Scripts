@@ -37,10 +37,12 @@ Akaran:
   class: Warrior
   lottery-lootconfig:
   - Girdle of the Mentor
+  - Hive Defiler Wristguards
   - Onyxia Hide Backpack
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
-  - Hive Defiler Wristguards
+  - Dark Edge of Insanity
+  - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 3927.24
   t1-priority-dkp: 3949.84
