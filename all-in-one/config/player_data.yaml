@@ -1797,15 +1797,14 @@ Polyharry:
 Pudzey:
   class: Priest
   lottery-lootconfig:
-  - Cloak of Suturing
-  - Eye of the Dead
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Sapphiron's Right Eye
-  - The Widow's Embrace
-  - Wand of the Whispering Dead
   priority-lootconfig:
+  - Cloak of Suturing
+  - Eye of the Dead
   - Scepter of the False Prophet
+  - Wand of the Whispering Dead
   rank: Core Raider
   t1-lottery-dkp: 3747.17
   t1-priority-dkp: 3747.17
