@@ -2192,6 +2192,7 @@ Shemamigams:
 Sheol:
   class: Priest
   lottery-lootconfig:
+  - Cloak of Suturing
   - Desecrated Circlet
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
