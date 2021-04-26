@@ -1717,11 +1717,10 @@ Peacard:
   lottery-lootconfig:
   - Chromatic Boots
   - Hatchet of Sundered Bone
-  - Larvae of the Great Worm
   - Legplates of Carnage
   - Might of the Scourge
   - Ring of the Qiraji Fury
-  - Soulstring
+  - Stormrage's Talisman of Seething
   - The Phylactery of Kel'Thuzad
   - Wristguards of Vengeance
   priority-lootconfig:
@@ -1730,7 +1729,6 @@ Peacard:
   - Kingsfall
   - Plated Abomination Ribcage
   - Quick Strike Ring
-  - Stormrage's Talisman of Seething
   rank: Reserve Raider
   t1-lottery-dkp: 2672.39
   t1-priority-dkp: 2672.39
