@@ -980,9 +980,9 @@ Glimfolkor:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
+  - Leggings of Polarity
   - Power of the Scourge
   priority-lootconfig:
-  - Leggings of Polarity
   - Sapphiron's Left Eye
   rank: Core Raider
   t1-lottery-dkp: 2529.04
