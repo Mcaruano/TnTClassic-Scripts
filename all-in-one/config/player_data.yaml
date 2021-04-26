@@ -2397,7 +2397,10 @@ Smsums:
 Snickercakes:
   class: Warrior
   lottery-lootconfig:
+  - Desecrated Bracers
+  - Desecrated Helmet
   - Wristguards of Vengeance
+  - Ring of the Dreadnaught
   priority-lootconfig:
   - Gressil, Dawn of Ruin
   rank: Core Raider
