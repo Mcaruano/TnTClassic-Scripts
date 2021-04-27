@@ -1240,6 +1240,7 @@ Kineztra:
   - Desecrated Pauldrons
   - Eye of C'Thun
   - Slayer's Crest
+  - The Castigator
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Aged Core Leather Gloves
@@ -1250,7 +1251,6 @@ Kineztra:
   - Gressil, Dawn of Ruin
   - Kingsfall
   - Kiss of the Spider
-  - The Castigator
   rank: Core Raider
   t1-lottery-dkp: 2271.53
   t1-priority-dkp: 2271.53
