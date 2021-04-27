@@ -2294,10 +2294,11 @@ Shrimptea:
 Simptease:
   class: Warrior
   lottery-lootconfig:
+  - Band of Unnatural Forces
   - Legplates of Carnage
   - Might of the Scourge
   priority-lootconfig:
-  - Band of Unnatural Forces
+  - Kiss of the Spider
   - Slayer's Crest
   rank: Core Raider
   t1-lottery-dkp: 3015.94
