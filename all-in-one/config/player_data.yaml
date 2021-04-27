@@ -1196,14 +1196,15 @@ Kharagan:
   class: Warrior
   lottery-lootconfig:
   - Girdle of the Mentor
+  - Ghoul Skin Tunic
   - Helm of Endless Rage
-  - Kingsfall
   - Larvae of the Great Worm
   - Might of the Scourge
   - Plated Abomination Ribcage
   priority-lootconfig:
   - Barbed Choker
   - Drake Fang Talisman
+  - Kingsfall
   - Kiss of the Spider
   - Slayer's Crest
   rank: Reserve Raider
