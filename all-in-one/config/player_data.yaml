@@ -550,6 +550,7 @@ Derak:
 Dienasty:
   class: Warrior
   lottery-lootconfig:
+  - Band of Unnatural Forces
   - Badge of the Swarmguard
   - Barbed Choker
   - Girdle of the Mentor
@@ -557,6 +558,7 @@ Dienasty:
   - Kiss of the Spider
   - Legplates of Carnage
   - Plated Abomination Ribcage
+  - Slayer's Crest
   - The Castigator
   priority-lootconfig:
   - Chromatically Tempered Sword
