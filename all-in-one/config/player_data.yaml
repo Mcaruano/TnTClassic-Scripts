@@ -551,8 +551,8 @@ Derak:
 Dienasty:
   class: Warrior
   lottery-lootconfig:
-  - Band of Unnatural Forces
   - Badge of the Swarmguard
+  - Band of Unnatural Forces
   - Barbed Choker
   - Girdle of the Mentor
   - Gressil, Dawn of Ruin
