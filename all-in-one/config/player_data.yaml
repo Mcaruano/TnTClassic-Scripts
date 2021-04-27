@@ -1138,17 +1138,13 @@ Kang:
   class: Warrior
   lottery-lootconfig:
   - Drake Fang Talisman
-  - Fortitude of the Scourge
-  - Fortitude of the Scourge
   - Gauntlets of Annihilation
   - Icebane Pauldrons
   - Might of Menethil
-  - Might of the Scourge
-  - Might of the Scourge
-  - Might of the Scourge
-  - Might of the Scourge
   - Shard of the Flame
   priority-lootconfig:
+  - Might of the Scourge
+  - Might of the Scourge
   - Shard of the Fallen Star
   - Spinal Reaper
   - Vanquished Tentacle of C'Thun
