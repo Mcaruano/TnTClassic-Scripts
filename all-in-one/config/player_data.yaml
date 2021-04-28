@@ -2081,6 +2081,46 @@ Scrodo:
   - Gem of Trapped Innocents
   - Rime Covered Mantle
   - Shard of the Fallen Star
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
+  - Splinter of Atiesh
   - The Soul Harvester's Bindings
   - Vanquished Tentacle of C'Thun
   rank: Core Raider
@@ -2891,20 +2931,6 @@ Zóff:
   t2pt5-priority-dkp: 11787.15
   t3-lottery-dkp: 15876.28
   t3-priority-dkp: 14117.85
-scrodo:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig:
-  - Splinter of Atiesh
-  rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0
-  t2-priority-dkp: 0
-  t2pt5-lottery-dkp: 0
-  t2pt5-priority-dkp: 0
-  t3-lottery-dkp: 0
-  t3-priority-dkp: 0
 Àrkadious:
   class: Not Set
   lottery-lootconfig: []
