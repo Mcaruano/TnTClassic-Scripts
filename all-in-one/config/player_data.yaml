@@ -798,17 +798,10 @@ Empty:
   t3-lottery-dkp: 0.0
   t3-priority-dkp: 0.0
 Envisage:
-  class: Paladin
-  lottery-lootconfig:
-  - Pure Elementium Band
-  - Scarab Brooch
-  - The Face of Death
-  priority-lootconfig:
-  - Cloak of Clarity
-  - Desecrated Handguards
-  - Rejuvenating Gem
-  - Ring of the Martyr
-  rank: Core Raider
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
   t1-lottery-dkp: 3545.31
   t1-priority-dkp: 3545.31
   t2-lottery-dkp: 7090.64
@@ -1054,18 +1047,18 @@ Hulkhigginz:
   t3-lottery-dkp: 13743.57
   t3-priority-dkp: 12316.6
 Hyolin:
-  class: Not Set
+  class: Priest
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Not Set
-  t1-lottery-dkp: 2512.01
-  t1-priority-dkp: 2512.01
-  t2-lottery-dkp: 5024.04
-  t2-priority-dkp: 5024.04
-  t2pt5-lottery-dkp: 7536.06
-  t2pt5-priority-dkp: 7536.06
-  t3-lottery-dkp: 5014.58
-  t3-priority-dkp: 8902.6
+  rank: Core Raider
+  t1-lottery-dkp: 3545.31
+  t1-priority-dkp: 3545.31
+  t2-lottery-dkp: 7090.64
+  t2-priority-dkp: 7090.64
+  t2pt5-lottery-dkp: 10635.95
+  t2pt5-priority-dkp: 10635.95
+  t3-lottery-dkp: 8259.51
+  t3-priority-dkp: 12833.65
 Jerillak:
   class: Not Set
   lottery-lootconfig: []
