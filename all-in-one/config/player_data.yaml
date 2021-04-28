@@ -726,7 +726,7 @@ Ellwindelm:
   - Ring of the Cryptstalker
   priority-lootconfig:
   - Nerubian Slavemaker
-  rank: Reserve Raider
+  rank: Social member
   t1-lottery-dkp: 886.45
   t1-priority-dkp: 886.01
   t2-lottery-dkp: 1762.17
@@ -1192,7 +1192,7 @@ Kharagan:
   - Kingsfall
   - Kiss of the Spider
   - Slayer's Crest
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 2449.87
   t1-priority-dkp: 2449.87
   t2-lottery-dkp: 4899.76
@@ -1707,7 +1707,7 @@ Peacard:
   - Jom Gabbar
   - Kingsfall
   - Quick Strike Ring
-  rank: Reserve Raider
+  rank: Core Raider
   t1-lottery-dkp: 2861.53
   t1-priority-dkp: 2861.53
   t2-lottery-dkp: 3590.53
@@ -2429,7 +2429,7 @@ Sofakinglulz:
   - Sartura's Might
   - Scepter of the False Prophet
   - Shroud of Pure Thought
-  rank: Reserve Raider
+  rank: Social Member
   t1-lottery-dkp: 379.98
   t1-priority-dkp: 380.24
   t2-lottery-dkp: 685.95
