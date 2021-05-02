@@ -506,7 +506,6 @@ Daughtbot:
 Demeker:
   class: Warlock
   lottery-lootconfig:
-  - Gem of Trapped Innocents
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -518,6 +517,8 @@ Demeker:
   - Amulet of Vek'nilash
   - Cloak of the Devoured
   - Cloak of the Necropolis
+  - Gem of Trapped Innocents
+  - The Phylactery of Kel'Thuzad
   rank: Core Raider
   t1-lottery-dkp: 3932.85
   t1-priority-dkp: 3941.1
