@@ -209,6 +209,7 @@ Ashori:
   lottery-lootconfig:
   - Angelista's Touch
   - Cloak of the Golden Hive
+  - Cryptfiend Silk Cloak
   - Gauntlets of Steadfast Determination
   - Girdle of the Mentor
   - Imperial Qiraji Armaments
@@ -218,7 +219,7 @@ Ashori:
   - The Face of Death
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
-  - Cryptfiend Silk Cloak
+  - Hammer of the Twisting Nether 
   - Scarab Brooch
   - Styleen's Impeding Scarab
   rank: Core Raider
