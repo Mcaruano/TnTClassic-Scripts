@@ -1380,6 +1380,7 @@ Lunarie:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
+  - Fortitude of the Scourge
   - The Face of Death
   priority-lootconfig: []
   rank: Core Raider
