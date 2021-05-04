@@ -2725,13 +2725,15 @@ Tongsummons:
 Venjamen:
   class: Rogue
   lottery-lootconfig:
-  - Bonescythe Ring
   - Death's Sting
-  - Harbinger of Doom
+  - Misplaced Servo Arm
   priority-lootconfig:
   - Badge of the Swarmguard
+  - Band of Unnatural Forces
+  - Bonescythe Ring
   - Drake Fang Talisman
   - Gressil, Dawn of Ruin
+  - Might of the Scourge
   rank: Core Raider
   t1-lottery-dkp: 2568.95
   t1-priority-dkp: 2568.95
