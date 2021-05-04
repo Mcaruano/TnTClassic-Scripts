@@ -2540,9 +2540,9 @@ Steamedhamz:
 Stephany:
   class: Warlock
   lottery-lootconfig:
-  - The Restrained Essence of Sapphiron
-  priority-lootconfig:
   - Cloak of the Necropolis
+  priority-lootconfig:
+  - The Restrained Essence of Sapphiron
   rank: Core Raider
   t1-lottery-dkp: 3288.52
   t1-priority-dkp: 3348.49
