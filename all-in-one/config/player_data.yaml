@@ -1521,16 +1521,17 @@ Murduc:
   - Band of the Inevitable
   - Cloak of the Devoured
   - Cloak of the Necropolis
-  - Desecrated Robe
   - Desecrated Sandals
   - Doomfinger
   - Ebony Flame Gloves
   - Eye of C'Thun
   - Gem of Trapped Innocents
+  - Power of the Scourge
   - Talisman of Ephemeral Power
   - Wand of Fates
   priority-lootconfig:
   - Dark Storm Gauntlets
+  - Desecrated Robe
   - Eyestalk Waist Cord
   - Neltharion's Tear
   - The Restrained Essence of Sapphiron
