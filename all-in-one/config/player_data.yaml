@@ -1053,8 +1053,12 @@ Hulkhigginz:
   t3-priority-dkp: 10469.11
 Hyolin:
   class: Priest
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Cloak of Suturing
+  - Necklace of Necropsy
+  priority-lootconfig:
+  - Eye of C'Thun
+  - Warmth of Forgiveness
   rank: Core Raider
   t1-lottery-dkp: 3013.51
   t1-priority-dkp: 3013.51
