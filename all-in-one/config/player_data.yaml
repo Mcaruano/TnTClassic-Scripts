@@ -2229,6 +2229,8 @@ Shemamigams:
 Sheol:
   class: Priest
   lottery-lootconfig:
+  - Band of Unanswered Prayers
+  - Bracelets of Royal Redemption
   - Cloak of Suturing
   - Desecrated Circlet
   - Onyxia Hide Backpack
@@ -2236,11 +2238,11 @@ Sheol:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Robes of the Guardian Saint
-  - Scepter of the False Prophet
-  - Wand of the Whispering Dead
+  - Resilience of the Scourge
   priority-lootconfig:
+  - Boots of Pure Thought
   - Shard of the Scale
+  - Wand of the Whispering Dead
   rank: Core Raider
   t1-lottery-dkp: 3216.12
   t1-priority-dkp: 3231.56
