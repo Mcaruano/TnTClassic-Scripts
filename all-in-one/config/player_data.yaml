@@ -1092,11 +1092,11 @@ Justin:
   class: Warlock
   lottery-lootconfig:
   - Amulet of Vek'nilash
-  - Desecrated Robe
   - Eyestalk Waist Cord
   - The Restrained Essence of Sapphiron
   priority-lootconfig:
   - Dark Storm Gauntlets
+  - Desecrated Robe
   rank: Core Raider
   t1-lottery-dkp: 3944.7
   t1-priority-dkp: 3941.58
