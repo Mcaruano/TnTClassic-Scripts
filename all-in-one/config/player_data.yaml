@@ -1090,7 +1090,6 @@ Jerillak:
 Justin:
   class: Warlock
   lottery-lootconfig:
-  - Amulet of Vek'nilash
   - Eyestalk Waist Cord
   - The Restrained Essence of Sapphiron
   priority-lootconfig:
