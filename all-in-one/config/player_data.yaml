@@ -38,10 +38,10 @@ Akaran:
   lottery-lootconfig:
   - Hive Defiler Wristguards
   - Onyxia Hide Backpack
-  - The Phylactery of Kel'Thuzad
   priority-lootconfig:
   - Dark Edge of Insanity
   - The Hungering Cold
+  - The Phylactery of Kel'Thuzad
   rank: Core Raider
   t1-lottery-dkp: 3928.93
   t1-priority-dkp: 3945.26
