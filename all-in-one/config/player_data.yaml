@@ -1060,10 +1060,14 @@ Hulkhigginz:
 Hyolin:
   class: Priest
   lottery-lootconfig:
+  - Angelista's Charm
   - Cloak of Suturing
   - Necklace of Necropsy
   priority-lootconfig:
+  - Boots of Pure Thought
   - Eye of C'Thun
+  - Grasp of the Old God
+  - Scarab Brooch
   - Warmth of Forgiveness
   rank: Core Raider
   t1-lottery-dkp: 3603.51
