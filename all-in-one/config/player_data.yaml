@@ -1941,19 +1941,19 @@ Roodolph:
   class: Hunter
   lottery-lootconfig:
   - Corrupted Ashbringer
-  - Jom Gabbar
   - Kingsfall
   - Might of the Scourge
   - Might of the Scourge
   - Might of the Scourge
-  - Ring of the Godslayer
   - Shroud of Dominion
-  - Vek'lor's Gloves of Devastation
   priority-lootconfig:
   - Archimtiros' Ring of Reckoning
   - Badge of the Swarmguard
+  - Jom Gabbar
   - Might of the Scourge
   - Nerubian Slavemaker
+  - Ring of the Godslayer
+  - The Burrower's Shell
   rank: Core Raider
   t1-lottery-dkp: 3946.57
   t1-priority-dkp: 3945.37
