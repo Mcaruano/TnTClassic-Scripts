@@ -2038,15 +2038,15 @@ Rumenaxx:
 Salchant:
   class: Paladin
   lottery-lootconfig:
+  - Eye of the Dead
+  - Scarab Brooch
+  priority-lootconfig:
   - Cloak of Concentrated Hatred
   - Cloak of the Golden Hive
-  - Eye of the Dead
-  - Ring of the Qiraji Fury
-  - Scarab Brooch
-  - Styleen's Impeding Scarab
-  priority-lootconfig:
   - Hammer of the Twisting Nether
+  - Ring of the Qiraji Fury
   - Scepter of the False Prophet
+  - Styleen's Impeding Scarab
   rank: Core Raider
   t1-lottery-dkp: 3816.98
   t1-priority-dkp: 3816.98
