@@ -1187,19 +1187,24 @@ Kaylä:
 Kharagan:
   class: Warrior
   lottery-lootconfig:
+  - Anubisath Warhammer
   - Band of Unnatural Forces
+  - Breastplate of Annihilation
   - Cloak of the Scourge
   - Ghoul Skin Tunic
   - Girdle of the Mentor
   - Harbinger of Doom
   - Helm of Endless Rage
-  - Larvae of the Great Worm
+  - Ring of the Godslayer
   - Stormrage's Talisman of Seething
   priority-lootconfig:
   - Barbed Choker
+  - Cloak of Concentrated Hatred
   - Drake Fang Talisman
+  - Jom Gabbar
   - Kingsfall
   - Kiss of the Spider
+  - Mark of C'Thun
   - Might of the Scourge
   - Plated Abomination Ribcage
   - Slayer's Crest
