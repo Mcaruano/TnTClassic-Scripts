@@ -37,6 +37,7 @@ DISCORD_NAME_MAPPING = {
     "Glimfolkor": "Glimfolkor",
     "GoodJorb": "Goodjorb",
     "Hyolin": "Hyolin",
+    "Hyolin/Envi": "Hyolin",
     "Hyolin/Envishi": "Hyolin",
     "hulkhigginz": "Hulkhigginz",
     "Justin": "Justin",
