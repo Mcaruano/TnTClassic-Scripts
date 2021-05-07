@@ -2578,7 +2578,6 @@ Sylador:
   - Circle of Applied Force
   - Cloak of Concentrated Hatred
   - Gloves of Enforcement
-  - Grasp of the Old God
   - Lok'amir il Romathis
   - Mantle of Wicked Revenge
   - Neltharion's Tear
@@ -2591,7 +2590,11 @@ Sylador:
   - Talisman of Ephemeral Power
   - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - Band of Unanswered Prayers
+  - Boots of Pure Thought
   - Bracelets of Royal Redemption
+  - Grasp of the Old God
+  - Necklace of Necropsy
   - Shard of the Scale
   rank: Core Raider
   t1-lottery-dkp: 3944.61
