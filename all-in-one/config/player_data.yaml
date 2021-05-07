@@ -1707,6 +1707,7 @@ Padaladin:
 Peacard:
   class: Warrior
   lottery-lootconfig:
+  - Ashkandi, Greatsword of the Brotherhood
   - Chromatic Boots
   - Hatchet of Sundered Bone
   - Legplates of Carnage
@@ -1719,6 +1720,7 @@ Peacard:
   - Band of Unnatural Forces
   - Jom Gabbar
   - Kingsfall
+  - Lifegiving Gem
   - Quick Strike Ring
   rank: Core Raider
   t1-lottery-dkp: 2762.3
