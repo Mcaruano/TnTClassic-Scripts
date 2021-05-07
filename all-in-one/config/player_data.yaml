@@ -2424,6 +2424,7 @@ Snickercakes:
   class: Warrior
   lottery-lootconfig:
   - Desecrated Bracers
+  - The Castigator
   - Wristguards of Vengeance
   priority-lootconfig:
   - Gressil, Dawn of Ruin
