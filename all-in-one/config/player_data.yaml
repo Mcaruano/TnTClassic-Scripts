@@ -301,6 +301,7 @@ Barlen:
   class: Paladin
   lottery-lootconfig: []
   priority-lootconfig:
+  - Libram of Light
   - Ring of Redemption
   rank: Core Raider
   t1-lottery-dkp: 2435.26
