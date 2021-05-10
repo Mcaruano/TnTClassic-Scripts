@@ -1,4 +1,7 @@
 # coding=utf-8
+# This is a Utility script which takes in a TierNLoot.lua file and converts it to the output we need for the "config/loot.yaml" file.
+# Generating new records in the loot.yaml file is necessary when we introduce new raid tiers.
+#
 # DISCLAIMER: This script is just a general down-and-dirty utility to get a simple job done. It is not written to be elegant or easily-run
 # on other machines.
 
@@ -10,9 +13,9 @@ import os
 import re
 import yaml
 
-CONTENT_TIER = "T3"
-LUA_FILE_PATH = "/Users/Melanie/Git Repositories/TnTDKP/TnTDKP/TierThreeLoot.lua"
-OUTPUT_FILE_PATH = "/Users/Melanie/Git Repositories/TnTClassic-Scripts/all-in-one/TierThreeLoot.yaml"
+CONTENT_TIER = "T4"
+LUA_FILE_PATH = "/Users/Melanie/Git Repositories/TnTDKP/TnTDKP/TierFourLoot.lua"
+OUTPUT_FILE_PATH = "/Users/Melanie/Git Repositories/TnTClassic-Scripts/all-in-one/TierFourLoot.yaml"
 
 """
 Parses a loot LUA file of the following format:
