@@ -36,6 +36,7 @@ Airth:
 Akaran:
   class: Warrior
   lottery-lootconfig:
+  - Girdle of the Mentor
   - Hive Defiler Wristguards
   - Onyxia Hide Backpack
   priority-lootconfig:
