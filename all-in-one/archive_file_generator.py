@@ -5,95 +5,34 @@ import re
 """
 Given the AddOn data as a dictionary, generate the Lua data tables we desire.
 The specific tables we want to have present in the TnTClassic-Archive are:
-    - T3_PRIORITY_DKP_TABLE
-    - T2PT5_PRIORITY_DKP_TABLE
-    - T2_PRIORITY_DKP_TABLE
-    - T1_PRIORITY_DKP_TABLE
-    - T3_LOTTERY_DKP_TABLE
-    - T2PT5_LOTTERY_DKP_TABLE
-    - T2_LOTTERY_DKP_TABLE
-    - T1_LOTTERY_DKP_TABLE
-    - T2_PRIORITY_TRANSACTIONS
-    - T2_LOTTERY_TRANSACTIONS
-    - T1_PRIORITY_TRANSACTIONS
-    - T1_LOTTERY_TRANSACTIONS
-    - OPEN_TRANSACTIONS
+    - T4_PRIORITY_TRANSACTIONS
+    - T4_LOTTERY_TRANSACTIONS
+    - T4_OPEN_TRANSACTIONS
     - PLAYER_PRIORITY_REGISTRY
     - PLAYER_LOTTERY_REGISTRY
 """
 def generate_archive_lua_file_from_addon_data(addonDataDict, outputDir):
     archiveDataFileName = generate_archive_file_name(addonDataDict)
     with open(os.path.join(outputDir, archiveDataFileName), "w", encoding='utf-8') as f:
-        f.write('T3_PRIORITY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T3_PRIORITY_DKP_TABLE'])
+        f.write('T4_PRIORITY_DKP_TABLE = {\n')
+        print_dkp_to_file_as_lua_table(f, addonDataDict['T4_PRIORITY_DKP_TABLE'])
         f.write('}\n')
 
-        f.write('T2PT5_PRIORITY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T2PT5_PRIORITY_DKP_TABLE'])
+        f.write('T4_LOTTERY_DKP_TABLE = {\n')
+        print_dkp_to_file_as_lua_table(f, addonDataDict['T4_LOTTERY_DKP_TABLE'])
         f.write('}\n')
 
-        f.write('T2_PRIORITY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T2_PRIORITY_DKP_TABLE'])
+        # Output the T4 Transactions tables
+        f.write('T4_PRIORITY_TRANSACTIONS = {\n')
+        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T4_PRIORITY_TRANSACTIONS'])
         f.write('}\n')
 
-        f.write('T1_PRIORITY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T1_PRIORITY_DKP_TABLE'])
+        f.write('T4_LOTTERY_TRANSACTIONS = {\n')
+        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T4_LOTTERY_TRANSACTIONS'])
         f.write('}\n')
 
-        f.write('T3_LOTTERY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T3_LOTTERY_DKP_TABLE'])
-        f.write('}\n')
-
-        f.write('T2PT5_LOTTERY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T2PT5_LOTTERY_DKP_TABLE'])
-        f.write('}\n')
-
-        f.write('T2_LOTTERY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T2_LOTTERY_DKP_TABLE'])
-        f.write('}\n')
-
-        f.write('T1_LOTTERY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, addonDataDict['T1_LOTTERY_DKP_TABLE'])
-        f.write('}\n')
-
-        # Output the T3 Transactions tables
-        f.write('T3_PRIORITY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T3_PRIORITY_TRANSACTIONS'])
-        f.write('}\n')
-
-        f.write('T3_LOTTERY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T3_LOTTERY_TRANSACTIONS'])
-        f.write('}\n')
-
-        # Output the T2.5 Transactions tables
-        f.write('T2PT5_PRIORITY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T2PT5_PRIORITY_TRANSACTIONS'])
-        f.write('}\n')
-
-        f.write('T2PT5_LOTTERY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T2PT5_LOTTERY_TRANSACTIONS'])
-        f.write('}\n')
-
-        # Output the T2 Transactions tables
-        f.write('T2_PRIORITY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T2_PRIORITY_TRANSACTIONS'])
-        f.write('}\n')
-
-        f.write('T2_LOTTERY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T2_LOTTERY_TRANSACTIONS'])
-        f.write('}\n')
-
-        # Output the T1 Transactions tables
-        f.write('T1_PRIORITY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T1_PRIORITY_TRANSACTIONS'])
-        f.write('}\n')
-
-        f.write('T1_LOTTERY_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T1_LOTTERY_TRANSACTIONS'])
-        f.write('}\n')
-
-        f.write('OPEN_TRANSACTIONS = {\n')
-        print_transaction_records_to_file_as_lua_table(f, addonDataDict['OPEN_TRANSACTIONS'])
+        f.write('T4_OPEN_TRANSACTIONS = {\n')
+        print_transaction_records_to_file_as_lua_table(f, addonDataDict['T4_OPEN_TRANSACTIONS'])
         f.write('}\n')
 
         # Output the Priority and Lottery LootConfig/Registries
@@ -154,10 +93,7 @@ upload them to the TnTClassic-Archive repository. This logic auto-generates
 that name based on the AddOn output data
 """
 def generate_archive_file_name(addonDataDict):
-    NAXX_BOSSES = ["Anub'Rekhan", "Faerlina", "Maexxna", "Plaguebringer", "Unclean", "Loatheb", "Razuvious", "Harvester", "Horsemen", "Patchwerk", "Grobbulus", "Gluth", "Thaddius", "Sapphiron", "Kel'Thuzad"]
-    AQ_BOSSES = ["Skeram", "Sartura", "Unyielding", "Huhuran", "Trio", "Viscidus", "Ouro", "Emperors", "C'Thun"]
-    BWL_BOSSES = ['Untamed', 'Corrupt', 'Lashlayer', 'Firemaw', 'Ebonroc', 'Flamegor', 'Chromaggus', 'Nefarian']
-    MC_BOSSES = ['Lucifron', 'Magmadar', 'Gehennas', 'Garr', 'Geddon', 'Shazzrah', 'Harbinger', 'Incinerator', 'Executus', 'Ragnaros']
+    GRUULS_LAIR_BOSSES = ["Dragonkiller", "Maulgar"]
     
     # Generate a filename of the format: "2020_02_04_MC+Ony.lua"
     mostRecentTransactionTimestamp = datetime(2001, 1, 1)
@@ -166,7 +102,7 @@ def generate_archive_file_name(addonDataDict):
     # Iterate over ALL transactions to try to determine the most recent
     # transaction as well as which boss kills were present in them
     isDecay = False
-    for transactionsTable in ['T3_PRIORITY_TRANSACTIONS', 'T3_LOTTERY_TRANSACTIONS', 'T2PT5_PRIORITY_TRANSACTIONS', 'T2PT5_LOTTERY_TRANSACTIONS', 'T2_PRIORITY_TRANSACTIONS', 'T2_LOTTERY_TRANSACTIONS', 'T1_PRIORITY_TRANSACTIONS', 'T1_LOTTERY_TRANSACTIONS']:
+    for transactionsTable in ['T4_PRIORITY_TRANSACTIONS', 'T4_LOTTERY_TRANSACTIONS', 'T4_OPEN_TRANSACTIONS']:
         for transactionRecord in addonDataDict[transactionsTable]:
             timestamp = transactionRecord['Timestamp']
             if timestamp > mostRecentTransactionTimestamp:
@@ -181,16 +117,10 @@ def generate_archive_file_name(addonDataDict):
                 break
             elif re.search(" [A-Z]*[a-z]+$", message) is not None:
                 bossName = re.search(" [A-Z]*[a-z]+$", message).group()[1:]
-                if bossName in NAXX_BOSSES:
-                    raidsPresentInTransactions.add('Naxx')
-                elif bossName in AQ_BOSSES:
-                    raidsPresentInTransactions.add('AQ')
-                elif bossName in BWL_BOSSES:
-                    raidsPresentInTransactions.add('BWL')
-                elif bossName in MC_BOSSES:
-                    raidsPresentInTransactions.add('MC')
-                elif bossName == 'Onyxia':
-                    raidsPresentInTransactions.add('Ony')
+                if bossName == "Magtheridon":
+                    raidsPresentInTransactions.add('Mag')
+                elif bossName in GRUULS_LAIR_BOSSES:
+                    raidsPresentInTransactions.add('Gruul')
 
     # Convert mostRecentTransactionTimestamp to proper string format: "2020_02_04"
     filenameDateSegment = mostRecentTransactionTimestamp.strftime("%Y_%m_%d")
@@ -199,18 +129,12 @@ def generate_archive_file_name(addonDataDict):
     if isDecay:
         filenameContentSegment = "Weekly_Decay"
     else:
-        # Generate the Raid+Concat+String.
+        # Generate the Raid+Concat+String. (This is where we set the order of the file name)
         raidTiersInOrder = []
-        if 'Naxx' in raidsPresentInTransactions:
-            raidTiersInOrder.append('Naxx')
-        if 'AQ' in raidsPresentInTransactions:
-            raidTiersInOrder.append('AQ')
-        if 'BWL' in raidsPresentInTransactions:
-            raidTiersInOrder.append('BWL')
-        if 'MC' in raidsPresentInTransactions:
-            raidTiersInOrder.append('MC')
-        if 'Ony' in raidsPresentInTransactions:
-            raidTiersInOrder.append('Ony')
+        if 'Mag' in raidsPresentInTransactions:
+            raidTiersInOrder.append('Mag')
+        if 'Gruul' in raidsPresentInTransactions:
+            raidTiersInOrder.append('Gruul')
         filenameContentSegment = '+'.join(raidTiersInOrder)
 
     # Take the previous two values and produce the archive file name

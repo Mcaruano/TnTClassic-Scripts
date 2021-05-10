@@ -4,7 +4,7 @@ import re
 """
 Parses a LUA file into a python dictionary. The Dictionary structure is as follows:
     {
-      'LOTTERY_DKP_TABLE': 
+      'T4_LOTTERY_DKP_TABLE': 
         {
           'Akaran': 2400,
            'Anarra': 2500,
@@ -15,7 +15,7 @@ Parses a LUA file into a python dictionary. The Dictionary structure is as follo
            'Ziddy': 1650
         },
 
-      'LOTTERY_TRANSACTIONS':
+      'T4_LOTTERY_TRANSACTIONS':
         [
           {'DKPAfter': 2450,
            'DKPBefore': 2425,
@@ -312,6 +312,8 @@ def parse_message_and_record_item_received(itemsReceivedSubDict, recipient, mess
 
 
 def parse_loot_related_metadata(message):
+    # These specific records are no longer necessary to call-out here, but I'll leave them in as an
+    # example for future use-cases
     knownRecordsToSkip = [
         '-2000]: Accidentally awarded 1000DKP',
         '-500]: Moving DKP',
