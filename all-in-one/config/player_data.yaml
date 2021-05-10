@@ -2065,7 +2065,8 @@ Sargasso:
   t3-priority-dkp: 0.0
 Scrodo:
   class: Mage
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Wraith Blade
   priority-lootconfig:
   - Fetish of the Sand Reaver
   - Gem of Trapped Innocents
