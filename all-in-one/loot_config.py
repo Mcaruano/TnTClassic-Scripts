@@ -10,7 +10,7 @@ import yaml
 
 """
 Given a player's name, read their LootConfig data from the player_data.yaml and format it in
-a Python Dictionary as expected for the final JSON output
+a Python Dictionary as expected for the final JSON output (for consumption by the website)
 """
 def build_loot_config_list_for_player_for_yaml_from_registry(lootYamlDataDict, playerName, itemRegistry):
     itemConfigForPlayer = []
@@ -18,14 +18,14 @@ def build_loot_config_list_for_player_for_yaml_from_registry(lootYamlDataDict, p
         for playerNameKey, quantity in itemRegistry[itemIDString].items():
             if playerNameKey == playerName:
                 # Duplicate items are simply represented by multiple entries in the List
-                for i in range(quantity):
+                for _ in range(quantity):
                     itemConfigForPlayer.append(lootYamlDataDict[int(itemIDString)]['item-name'])
 
     return sorted(itemConfigForPlayer)
 
 """
 Takes a given lootList, filters it for items only in the specified contentTier, and returns back a
-Dict as expected for the final JSON output
+Dict as expected for the final JSON output (for consumption by the website)
 
 :param lootYamlDataDict: The YAML python dictionary after parsing the loot.yaml file
 :param itemNameToIDMap: A simple map of ItemName -> ItemIDs
@@ -71,24 +71,12 @@ def generate_lootconfig_dict(playerYamlDataDict):
     for player in playerYamlDataDict:
         playerDataDict = {}
         playerDataDict['name'] = player
-        playerDataDict['T1_PriorityDKP'] = playerYamlDataDict[player]['t1-priority-dkp']
-        playerDataDict['T1_LotteryDKP'] = playerYamlDataDict[player]['t1-lottery-dkp']
-        playerDataDict['T2_PriorityDKP'] = playerYamlDataDict[player]['t2-priority-dkp']
-        playerDataDict['T2_LotteryDKP'] = playerYamlDataDict[player]['t2-lottery-dkp']
-        playerDataDict['T2PT5_PriorityDKP'] = 0 if 't2pt5-priority-dkp' not in playerYamlDataDict[player] else playerYamlDataDict[player]['t2pt5-priority-dkp']
-        playerDataDict['T2PT5_LotteryDKP'] = 0 if 't2pt5-lottery-dkp' not in playerYamlDataDict[player] else playerYamlDataDict[player]['t2pt5-lottery-dkp']
-        playerDataDict['T3_PriorityDKP'] = 0 if 't3-priority-dkp' not in playerYamlDataDict[player] else playerYamlDataDict[player]['t3-priority-dkp']
-        playerDataDict['T3_LotteryDKP'] = 0 if 't3-lottery-dkp' not in playerYamlDataDict[player] else playerYamlDataDict[player]['t3-lottery-dkp']
+        playerDataDict['T4_PriorityDKP'] = 0 if 't4-priority-dkp' not in playerYamlDataDict[player] else playerYamlDataDict[player]['t4-priority-dkp']
+        playerDataDict['T4_LotteryDKP'] = 0 if 't4-lottery-dkp' not in playerYamlDataDict[player] else playerYamlDataDict[player]['t4-lottery-dkp']
         playerDataDict['class'] = playerYamlDataDict[player]['class']
         playerDataDict['Rank'] = playerYamlDataDict[player]['rank']
-        playerDataDict['T1_PriorityConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['priority-lootconfig'], "T1")
-        playerDataDict['T1_LotteryConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['lottery-lootconfig'], "T1")
-        playerDataDict['T2_PriorityConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['priority-lootconfig'], "T2")
-        playerDataDict['T2_LotteryConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['lottery-lootconfig'], "T2")
-        playerDataDict['T2PT5_PriorityConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['priority-lootconfig'], "T2.5")
-        playerDataDict['T2PT5_LotteryConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['lottery-lootconfig'], "T2.5")
-        playerDataDict['T3_PriorityConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['priority-lootconfig'], "T3")
-        playerDataDict['T3_LotteryConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['lottery-lootconfig'], "T3")
+        playerDataDict['T4_PriorityConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['priority-lootconfig'], "T4")
+        playerDataDict['T4_LotteryConfig'] = build_loot_config_list_for_player_for_specific_content_tier_for_lootconfig_json_from_registry(lootYamlDataDict, itemNameToIDMap, playerYamlDataDict[player]['lottery-lootconfig'], "T4")
 
         lootConfigDict['raiders'].append(playerDataDict)
     return lootConfigDict
@@ -110,38 +98,17 @@ def sort_lootconfig_dict(lootConfigDict, sortKey, sortDescending):
 """
 In the absence of an actual DB hosting all player data, it's easy enough to simply generate different LootConfig.json
 files which are pre-sorted in different ways. The various files that are produced here are:
-    LootConfig_T2PT5Priority_Asc.json
-    LootConfig_T2PT5Priority_Desc.json
-    LootConfig_T2PT5Lottery_Asc.json
-    LootConfig_T2PT5Lottery_Desc.json
-    LootConfig_T2Priority_Asc.json
-    LootConfig_T2Priority_Desc.json
-    LootConfig_T2Lottery_Asc.json
-    LootConfig_T2Lottery_Desc.json
-    LootConfig_T1Priority_Asc.json
-    LootConfig_T1Priority_Desc.json
-    LootConfig_T1Lottery_Asc.json
-    LootConfig_T1Lottery_Desc.json
+    LootConfig_T4Priority_Asc.json
+    LootConfig_T4Priority_Desc.json
+    LootConfig_T4Lottery_Asc.json
+    LootConfig_T4Lottery_Desc.json
 """
 def generate_all_desired_loot_config_files(scriptDir, outputFileDirectory, lootConfigDict):
     sortedJsonDicts = {
-        # 'LootConfig.json': sort_lootconfig_dict(lootConfigDict, 'T2_PriorityDKP', True), # Keep this until we no longer need it
-        'LootConfig_T3Priority_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T3_PriorityDKP', False),
-        'LootConfig_T3Priority_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T3_PriorityDKP', True),
-        'LootConfig_T3Lottery_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T3_LotteryDKP', False),
-        'LootConfig_T3Lottery_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T3_LotteryDKP', True),
-        'LootConfig_T2PT5Priority_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T2PT5_PriorityDKP', False),
-        'LootConfig_T2PT5Priority_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T2PT5_PriorityDKP', True),
-        'LootConfig_T2PT5Lottery_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T2PT5_LotteryDKP', False),
-        'LootConfig_T2PT5Lottery_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T2PT5_LotteryDKP', True),
-        'LootConfig_T2Priority_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T2_PriorityDKP', False),
-        'LootConfig_T2Priority_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T2_PriorityDKP', True),
-        'LootConfig_T2Lottery_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T2_LotteryDKP', False),
-        'LootConfig_T2Lottery_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T2_LotteryDKP', True),
-        'LootConfig_T1Priority_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T1_PriorityDKP', False),
-        'LootConfig_T1Priority_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T1_PriorityDKP', True),
-        'LootConfig_T1Lottery_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T1_LotteryDKP', False),
-        'LootConfig_T1Lottery_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T1_LotteryDKP', True)
+        'LootConfig_T4Priority_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T4_PriorityDKP', False),
+        'LootConfig_T4Priority_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T4_PriorityDKP', True),
+        'LootConfig_T4Lottery_Asc.json': sort_lootconfig_dict(lootConfigDict, 'T4_LotteryDKP', False),
+        'LootConfig_T4Lottery_Desc.json': sort_lootconfig_dict(lootConfigDict, 'T4_LotteryDKP', True)
     }
 
     for fileName in sortedJsonDicts:
