@@ -2320,13 +2320,8 @@ Shrimptea:
   t3-priority-dkp: 8488.32
 Simptease:
   class: Warrior
-  lottery-lootconfig:
-  - Band of Unnatural Forces
-  - Legplates of Carnage
-  - Might of the Scourge
-  priority-lootconfig:
-  - Kiss of the Spider
-  - Slayer's Crest
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3655.05
   t1-priority-dkp: 3655.05
