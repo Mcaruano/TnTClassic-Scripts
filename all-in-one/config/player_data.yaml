@@ -889,21 +889,8 @@ Frösted:
   t3-priority-dkp: 0.0
 Galm:
   class: Mage
-  lottery-lootconfig:
-  - Amulet of Vek'nilash
-  - Desecrated Sandals
-  - Frostfire Ring
-  - Leggings of the Festering Swarm
-  - Onyxia Hide Backpack
-  - Onyxia Hide Backpack
-  - Onyxia Hide Backpack
-  - Onyxia Hide Backpack
-  - Power of the Scourge
-  - Power of the Scourge
-  - Ring of Spell Power
-  - Shard of the Fallen Star
-  priority-lootconfig:
-  - Fetish of the Sand Reaver
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3946.08
   t1-priority-dkp: 3945.72
