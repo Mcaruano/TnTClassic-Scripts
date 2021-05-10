@@ -2622,14 +2622,8 @@ Thehealz:
   t3-priority-dkp: 0.0
 Thursday:
   class: Warrior
-  lottery-lootconfig:
-  - Dark Edge of Insanity
-  - Gressil, Dawn of Ruin
-  - Might of the Scourge
-  - The Face of Death
-  priority-lootconfig:
-  - Corrupted Ashbringer
-  - Might of Menethil
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3832.88
   t1-priority-dkp: 3882.9
