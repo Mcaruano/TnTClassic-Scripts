@@ -2427,10 +2427,8 @@ Snickercakes:
   - Cloak of the Scourge
   - Desecrated Bracers
   - Sadist's Collar
-  - The Castigator
   - Wristguards of Vengeance
   priority-lootconfig:
-  - Gressil, Dawn of Ruin
   - Might of Menethil
   rank: Core Raider
   t1-lottery-dkp: 3806.35
