@@ -441,11 +441,8 @@ Choonin:
   t3-priority-dkp: 6593.63
 Chuunin:
   class: Rogue
-  lottery-lootconfig:
-  - Might of the Scourge
-  - Slayer's Crest
-  priority-lootconfig:
-  - Kiss of the Spider
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3241.18
   t1-priority-dkp: 3241.18
