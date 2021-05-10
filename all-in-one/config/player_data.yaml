@@ -469,14 +469,14 @@ Dalran:
   class: Warrior
   lottery-lootconfig:
   - Elementium Reinforced Bulwark
-  - Legplates of Carnage
   - Might of Menethil
   - Onyxia Hide Backpack
   - Slayer's Crest
   priority-lootconfig:
   - Drake Fang Talisman
   - Kiss of the Spider
-  - The Hungering Cold
+  - Legplates of Carnage
+  - Plated Abomination Ribcage
   rank: Core Raider
   t1-lottery-dkp: 3123.07
   t1-priority-dkp: 3125.28
