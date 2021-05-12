@@ -2320,8 +2320,6 @@ Simptease:
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
-  - Gem of Trapped Innocents
-  - Leggings of Polarity
   - Netherwind Boots
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
@@ -2331,16 +2329,19 @@ Sizzleñips:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
-  - Rime Covered Mantle
-  - Ring of the Eternal Flame
-  - Sapphiron's Left Eye
+  - Power of the Scourge
   - Shard of the Fallen Star
   - Vanquished Tentacle of C'Thun
   priority-lootconfig:
   - Cloak of the Necropolis
   - Dark Storm Gauntlets
+  - Gem of Trapped Innocents
+  - Leggings of Polarity
   - Neltharion's Tear
   - Netherwind Pants
+  - Rime Covered Mantle
+  - Ring of the Eternal Flame
+  - Sapphiron's Left Eye
   - Talisman of Ephemeral Power
   - The Restrained Essence of Sapphiron
   rank: Core Raider
