@@ -2523,6 +2523,8 @@ Stephany:
   class: Warlock
   lottery-lootconfig:
   - Cloak of the Necropolis
+  - Power of the Scourge
+  - Power of the Scourge
   priority-lootconfig:
   - The Restrained Essence of Sapphiron
   rank: Core Raider
