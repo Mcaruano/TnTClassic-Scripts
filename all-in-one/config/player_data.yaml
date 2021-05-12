@@ -1164,18 +1164,21 @@ Kaylä:
 Kharagan:
   class: Warrior
   lottery-lootconfig:
-  - Band of Unnatural Forces
   - Breastplate of Annihilation
-  - Cloak of the Scourge
+  - Desecrated Helmet
+  - Fortitude of the Scourge
   - Ghoul Skin Tunic
-  - Girdle of the Mentor
   - Harbinger of Doom
+  - Ring of the Dreadnaught
   - Ring of the Godslayer
-  - Stormrage's Talisman of Seething
+  - Sadist's Collar
+  - The Castigator
   priority-lootconfig:
+  - Band of Unnatural Forces
   - Barbed Choker
   - Cloak of Concentrated Hatred
   - Drake Fang Talisman
+  - Girdle of the Mentor
   - Jom Gabbar
   - Kingsfall
   - Kiss of the Spider
@@ -1183,6 +1186,8 @@ Kharagan:
   - Might of the Scourge
   - Plated Abomination Ribcage
   - Slayer's Crest
+  - Stormrage's Talisman of Seething
+  - The Hungering Cold
   rank: Core Raider
   t1-lottery-dkp: 2271.53
   t1-priority-dkp: 2271.53
