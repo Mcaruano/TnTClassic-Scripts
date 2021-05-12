@@ -1737,14 +1737,18 @@ Phoroneus:
 Pikachau:
   class: Rogue
   lottery-lootconfig:
+  - Band of Reanimation
+  - Bonescythe Ring
   - Cloak of Concentrated Hatred
-  - Iblis, Blade of the Fallen Seraph
+  - Desecrated Pauldrons
   - Imperial Qiraji Armaments
   - Kingsfall
+  - Misplaced Servo Arm
   priority-lootconfig:
   - Ancient Qiraji Ripper
   - Death's Sting
   - Gressil, Dawn of Ruin
+  - Iblis, Blade of the Fallen Seraph
   rank: Core Raider
   t1-lottery-dkp: 2362.11
   t1-priority-dkp: 2362.11
