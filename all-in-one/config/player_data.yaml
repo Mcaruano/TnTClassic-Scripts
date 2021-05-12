@@ -1035,11 +1035,11 @@ Hyolin:
   lottery-lootconfig:
   - Angelista's Charm
   - Cloak of Suturing
-  - Necklace of Necropsy
   priority-lootconfig:
   - Boots of Pure Thought
   - Eye of C'Thun
   - Grasp of the Old God
+  - Necklace of Necropsy
   - Scarab Brooch
   - Warmth of Forgiveness
   rank: Core Raider
