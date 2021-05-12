@@ -2891,14 +2891,10 @@ Zóff:
   class: Warrior
   lottery-lootconfig:
   - Band of Accuria
-  - Band of Unnatural Forces
   - Desecrated Pauldrons
   - Jom Gabbar
-  - Kiss of the Spider
   - Larvae of the Great Worm
-  - Legplates of Carnage
-  - Might of Menethil
-  - Slayer's Crest
+  - Ring of the Dreadnaught
   - The Face of Death
   priority-lootconfig:
   - Corrupted Ashbringer
