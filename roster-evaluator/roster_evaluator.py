@@ -134,19 +134,8 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
                 isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
                 playerData[playerName] = {}
                 playerData[playerName] = instantiate_player_record(playerData[playerName], "N/A", "N/A", False, False, True, False, isSocial)
-
-        if re.search("^:Bear: [0-9]+", line) is not None:
-            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
-            playerName = resolveName(discordName)
-            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
-            if playerName not in playerYamlDataDict:
-                isAlt = False
-            else:
-                isAlt = playerYamlDataDict[playerName]["class"] != "Druid"
-            playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Bear", "Tank", False, False, False, isAlt, isSocial)
         
-        if re.search("^:Tank: [0-9]+", line) is not None:
+        if re.search("^:Protection: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -155,9 +144,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Warrior"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Tank", "Tank", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Protection", "Tank", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Arms: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Warrior"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Arms", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Fury: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Warrior"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Fury", "DPS", False, False, False, isAlt, isSocial)
         
-        if re.search("^:Hunter: [0-9]+", line) is not None:
+        if re.search("^:Beastmastery: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -166,9 +177,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Hunter"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Hunter", "DPS", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Beastmastery", "DPS", False, False, False, isAlt, isSocial)
 
-        if re.search("^:Priest: [0-9]+", line) is not None:
+        if re.search("^:Marksman: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Hunter"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Marksman", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Survival: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Hunter"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Survival", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Discipline: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -177,20 +210,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Priest"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Priest", "Healer", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Discipline", "Healer", False, False, False, isAlt, isSocial)
 
-        if re.search("^:Warrior: [0-9]+", line) is not None:
+        if re.search("^:Holy: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
             if playerName not in playerYamlDataDict:
                 isAlt = False
             else:
-                isAlt = playerYamlDataDict[playerName]["class"] != "Warrior"
+                isAlt = playerYamlDataDict[playerName]["class"] != "Priest"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Warrior", "DPS", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Holy", "Healer", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Shadow: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Priest"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Shadow", "DPS", False, False, False, isAlt, isSocial)
         
-        if re.search("^:Mage: [0-9]+", line) is not None:
+        if re.search("^:Fire: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -199,9 +243,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Mage"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Mage", "DPS", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Fire", "DPS", False, False, False, isAlt, isSocial)
 
-        if re.search("^:HolyPaladin: [0-9]+", line) is not None:
+        if re.search("^:Frost: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Mage"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Frost", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Arcane: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Mage"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Arcane", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Protection1: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -210,9 +276,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Paladin"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "HolyPaladin", "Healer", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Protection1", "Tank", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Holy1: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Paladin"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Holy1", "Healer", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Retribution: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Paladin"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Retribution", "DPS", False, False, False, isAlt, isSocial)
         
-        if re.search("^:Rogue: [0-9]+", line) is not None:
+        if re.search("^:Combat: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -221,9 +309,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Rogue"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Rogue", "DPS", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Combat", "DPS", False, False, False, isAlt, isSocial)
+        
+        if re.search("^:Subtlety: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Rogue"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Subtlety", "DPS", False, False, False, isAlt, isSocial)
 
-        if re.search("^:Warlock: [0-9]+", line) is not None:
+        if re.search("^:Assassination: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Rogue"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Assassination", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Affliction: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -232,9 +342,31 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Warlock"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "Warlock", "DPS", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Affliction", "DPS", False, False, False, isAlt, isSocial)
+        
+        if re.search("^:Demonology: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Warlock"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Demonology", "DPS", False, False, False, isAlt, isSocial)
+        
+        if re.search("^:Destruction: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Warlock"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Destruction", "DPS", False, False, False, isAlt, isSocial)
 
-        if re.search("^:RestoDruid: [0-9]+", line) is not None:
+        if re.search("^:Guardian: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
             isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
@@ -243,7 +375,18 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             else:
                 isAlt = playerYamlDataDict[playerName]["class"] != "Druid"
             playerData[playerName] = {}
-            playerData[playerName] = instantiate_player_record(playerData[playerName], "RestoDruid", "Healer", False, False, False, isAlt, isSocial)
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Guardian", "Tank", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Restoration: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Druid"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Restoration", "Healer", False, False, False, isAlt, isSocial)
         
         if re.search("^:Feral: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
@@ -255,7 +398,7 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
                 isAlt = playerYamlDataDict[playerName]["class"] != "Druid"
             playerData[playerName] = {}
             playerData[playerName] = instantiate_player_record(playerData[playerName], "Feral", "DPS", False, False, False, isAlt, isSocial)
-
+        
         if re.search("^:Balance: [0-9]+", line) is not None:
             discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
             playerName = resolveName(discordName)
@@ -266,6 +409,39 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
                 isAlt = playerYamlDataDict[playerName]["class"] != "Druid"
             playerData[playerName] = {}
             playerData[playerName] = instantiate_player_record(playerData[playerName], "Balance", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Restoration1: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Shaman"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Restoration1", "Healer", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Elemental: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Shaman"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Elemental", "DPS", False, False, False, isAlt, isSocial)
+
+        if re.search("^:Enhancement: [0-9]+", line) is not None:
+            discordName = line.split(' ')[2][:-1] # [:-1] shaves off the newline character
+            playerName = resolveName(discordName)
+            isSocial = (playerName not in playerYamlDataDict) or playerYamlDataDict[playerName]["rank"] != "Core Raider" or playerYamlDataDict[playerName]["rank"] != "Reserve Raider"
+            if playerName not in playerYamlDataDict:
+                isAlt = False
+            else:
+                isAlt = playerYamlDataDict[playerName]["class"] != "Shaman"
+            playerData[playerName] = {}
+            playerData[playerName] = instantiate_player_record(playerData[playerName], "Enhancement", "DPS", False, False, False, isAlt, isSocial)
         
     # 1.) Evaluate the line after the "Leader" line to determine which raid tier this is for (for LootConfig lookups)
         # Aggregate this as well as a few other items into a RaidData dictionary, containing the following:
