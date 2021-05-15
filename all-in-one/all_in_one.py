@@ -20,35 +20,19 @@ be impossible for a player to be on one of these lists without also being on the
 we take the extra precaution.
 """
 def build_set_of_all_members(addonDkpDataDict):
+    dkpTables = [
+        'T4_PRIORITY_DKP_TABLE',
+        'T4_LOTTERY_DKP_TABLE',
+        'T5_PRIORITY_DKP_TABLE',
+        'T5_LOTTERY_DKP_TABLE',
+        'T6_PRIORITY_DKP_TABLE',
+        'T6_LOTTERY_DKP_TABLE',
+        'T6PT5_PRIORITY_DKP_TABLE',
+        'T6PT5_LOTTERY_DKP_TABLE',
+    ]
     members = set()
-    for member in addonDkpDataDict['T1_PRIORITY_DKP_TABLE'].keys():
-        members.add(member)
-
-    for member in addonDkpDataDict['T1_LOTTERY_DKP_TABLE'].keys():
-        members.add(member)
-    
-    if 'T2_PRIORITY_DKP_TABLE' in addonDkpDataDict:
-        for member in addonDkpDataDict['T2_PRIORITY_DKP_TABLE'].keys():
-            members.add(member)
-
-    if 'T2_LOTTERY_DKP_TABLE' in addonDkpDataDict:
-        for member in addonDkpDataDict['T2_LOTTERY_DKP_TABLE'].keys():
-            members.add(member)
-
-    if 'T2PT5_PRIORITY_DKP_TABLE' in addonDkpDataDict:
-        for member in addonDkpDataDict['T2PT5_PRIORITY_DKP_TABLE'].keys():
-            members.add(member)
-
-    if 'T2PT5_LOTTERY_DKP_TABLE' in addonDkpDataDict:
-        for member in addonDkpDataDict['T2PT5_LOTTERY_DKP_TABLE'].keys():
-            members.add(member)
-
-    if 'T3_PRIORITY_DKP_TABLE' in addonDkpDataDict:
-        for member in addonDkpDataDict['T3_PRIORITY_DKP_TABLE'].keys():
-            members.add(member)
-
-    if 'T3_LOTTERY_DKP_TABLE' in addonDkpDataDict:
-        for member in addonDkpDataDict['T3_LOTTERY_DKP_TABLE'].keys():
+    for dkpTable in dkpTables:
+        for member in addonDkpDataDict[dkpTable].keys():
             members.add(member)
     
     return members
@@ -71,14 +55,14 @@ def generate_new_player_yaml_file(outputFilePath, existingPlayerYamlDataDict, ad
             newPlayerYamlDataDict[player]['class'] = "Not Set"
             newPlayerYamlDataDict[player]['rank'] = "Not Set"
 
-        newPlayerYamlDataDict[player]['t1-priority-dkp'] = 0 if ('T1_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T1_PRIORITY_DKP_TABLE']) else addonDataDict['T1_PRIORITY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t1-lottery-dkp'] = 0 if ('T1_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T1_LOTTERY_DKP_TABLE']) else addonDataDict['T1_LOTTERY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t2-priority-dkp'] = 0 if ('T2_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T2_PRIORITY_DKP_TABLE']) else addonDataDict['T2_PRIORITY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t2-lottery-dkp'] = 0 if ('T2_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T2_LOTTERY_DKP_TABLE']) else addonDataDict['T2_LOTTERY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t2pt5-priority-dkp'] = 0 if ('T2PT5_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T2PT5_PRIORITY_DKP_TABLE']) else addonDataDict['T2PT5_PRIORITY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t2pt5-lottery-dkp'] = 0 if ('T2PT5_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T2PT5_LOTTERY_DKP_TABLE']) else addonDataDict['T2PT5_LOTTERY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t3-priority-dkp'] = 0 if ('T3_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T3_PRIORITY_DKP_TABLE']) else addonDataDict['T3_PRIORITY_DKP_TABLE'][player]
-        newPlayerYamlDataDict[player]['t3-lottery-dkp'] = 0 if ('T3_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T3_LOTTERY_DKP_TABLE']) else addonDataDict['T3_LOTTERY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t4-priority-dkp'] = 0 if ('T4_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T4_PRIORITY_DKP_TABLE']) else addonDataDict['T4_PRIORITY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t4-lottery-dkp'] = 0 if ('T4_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T4_LOTTERY_DKP_TABLE']) else addonDataDict['T4_LOTTERY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t5-priority-dkp'] = 0 if ('T5_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T5_PRIORITY_DKP_TABLE']) else addonDataDict['T5_PRIORITY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t5-lottery-dkp'] = 0 if ('T5_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T5_LOTTERY_DKP_TABLE']) else addonDataDict['T5_LOTTERY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t6-priority-dkp'] = 0 if ('T6_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T6_PRIORITY_DKP_TABLE']) else addonDataDict['T6_PRIORITY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t6-lottery-dkp'] = 0 if ('T6_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T6_LOTTERY_DKP_TABLE']) else addonDataDict['T6_LOTTERY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t6pt5-priority-dkp'] = 0 if ('T6PT5_PRIORITY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T6PT5_PRIORITY_DKP_TABLE']) else addonDataDict['T6PT5_PRIORITY_DKP_TABLE'][player]
+        newPlayerYamlDataDict[player]['t6pt5-lottery-dkp'] = 0 if ('T6PT5_LOTTERY_DKP_TABLE' not in addonDataDict or player not in addonDataDict['T6PT5_LOTTERY_DKP_TABLE']) else addonDataDict['T6PT5_LOTTERY_DKP_TABLE'][player]
         newPlayerYamlDataDict[player]['priority-lootconfig'] = loot_config.build_loot_config_list_for_player_for_yaml_from_registry(lootYamlDataDict, player, addonDataDict['PLAYER_PRIORITY_REGISTRY'])
         newPlayerYamlDataDict[player]['lottery-lootconfig'] = loot_config.build_loot_config_list_for_player_for_yaml_from_registry(lootYamlDataDict, player, addonDataDict['PLAYER_LOTTERY_REGISTRY'])
 
