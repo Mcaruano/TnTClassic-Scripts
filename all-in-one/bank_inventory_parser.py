@@ -101,10 +101,6 @@ Takes the raw dictionary which was generated from reading the AddOn output and g
 dictionary, structured as expected for outputting to the BankInventory.json file
 """
 def generate_bank_inventory_json_data_dict(scriptDir, bankSnapshotDataDict):
-    bankItemYamlDataDict = {}
-    with open(os.path.join(scriptDir, constants.CONFIG_FOLDER_NAME, constants.BANK_ITEM_DATA_FILE_NAME), 'r', encoding='utf-8') as yamlFile:
-        bankItemYamlDataDict = yaml.load(yamlFile, Loader=yaml.FullLoader)
-
     bankInventoryDict = {}
     bankInventoryDict['dateModified'] = datetime.now().strftime("%A, %B %d, %Y")
     bankInventoryDict['timeModified'] = datetime.now().strftime("%-I:%M %p")

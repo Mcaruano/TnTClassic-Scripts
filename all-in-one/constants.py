@@ -1,5 +1,4 @@
 CONFIG_FOLDER_NAME = 'config'
-BANK_ITEM_DATA_FILE_NAME = 'bank_item_data.yaml'
 LOOT_DATA_FILE_NAME = 'loot.yaml'
 PLAYER_DATA_FILE_NAME = 'player_data.yaml'
 
