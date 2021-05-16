@@ -6,6 +6,12 @@ Given the AddOn data as a dictionary, generate the Lua data tables we desire
 for the AddOn to begin the next raid week with. This includes only the following tables:
     - T4_PRIORITY_DKP_TABLE
     - T4_LOTTERY_DKP_TABLE
+    - T5_PRIORITY_DKP_TABLE
+    - T5_LOTTERY_DKP_TABLE
+    - T6_PRIORITY_DKP_TABLE
+    - T6_LOTTERY_DKP_TABLE
+    - T6PT5_PRIORITY_DKP_TABLE
+    - T6PT5_LOTTERY_DKP_TABLE
     - PLAYER_PRIORITY_REGISTRY
     - PLAYER_LOTTERY_REGISTRY
 """
@@ -17,6 +23,30 @@ def generate_latest_addon_lua_file_from_player_data(playerYamlDataDict, outputFi
 
         f.write('T4_LOTTERY_DKP_TABLE = {\n')
         print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't4-lottery-dkp')
+        f.write('}\n')
+
+        f.write('T5_PRIORITY_DKP_TABLE = {\n')
+        print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't5-priority-dkp')
+        f.write('}\n')
+
+        f.write('T5_LOTTERY_DKP_TABLE = {\n')
+        print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't5-lottery-dkp')
+        f.write('}\n')
+
+        f.write('T6_PRIORITY_DKP_TABLE = {\n')
+        print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't6-priority-dkp')
+        f.write('}\n')
+
+        f.write('T6_LOTTERY_DKP_TABLE = {\n')
+        print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't6-lottery-dkp')
+        f.write('}\n')
+
+        f.write('T6PT5_PRIORITY_DKP_TABLE = {\n')
+        print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't6pt5-priority-dkp')
+        f.write('}\n')
+
+        f.write('T6PT5_LOTTERY_DKP_TABLE = {\n')
+        print_dkp_from_yaml_for_key_to_file_as_lua_table(f, playerYamlDataDict, 't6pt5-lottery-dkp')
         f.write('}\n')
 
         # Output the Priority and Lottery LootConfig/Registries
