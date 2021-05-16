@@ -218,7 +218,7 @@ def parse_data_record(dataDict, dictKeyStack, data_record):
 
         currentTransactionRecord = dataDict[currentKey][-1]        
 
-        # Recipient
+        # Recipient (can also be "" if this record was an Open Roll transaction)
         if index == 1:
             currentTransactionRecord['Recipient'] = value
 
@@ -304,7 +304,16 @@ def parse_message_and_record_item_received(itemsReceivedSubDict, recipient, mess
     # This pattern matches keys of the format "(ItemID: 19147)", which represents a loot-distribution transaction
     if re.search("\(ItemID: [0-9]+\)", message) is not None:
         itemID = re.search("\(ItemID: [0-9]+\)", message).group()[9:-1]
-        mode = "PRIORITY" if re.search("Priority", message) is not None else "LOTTERY"
+        # The only data we are interested in here is items that are obtained from players which affect
+        # their LootConfigs. Open Roll items do not do this, so we're only concerned with Priority and
+        # Lottery transactions. If this is not one of those two, we bounce out.
+        mode = "Temp"        
+        if re.search("Priority", message) is not None:
+            mode = "PRIORITY"
+        elif re.search("Lottery", message) is not None:
+            mode = "LOTTERY"
+        else:
+            return itemsReceivedSubDict
         if recipient not in itemsReceivedSubDict[mode]:
             itemsReceivedSubDict[mode][recipient] = set()
         itemsReceivedSubDict[mode][recipient].add(itemID)
@@ -327,7 +336,11 @@ def parse_loot_related_metadata(message):
     # This pattern matches keys of the format "(ItemID: 19147)", which represents a loot-distribution transaction
     if re.search("\(ItemID: [0-9]+\)", message) is not None:
         itemID = re.search("\(ItemID: [0-9]+\)", message).group()[9:-1]
-        lootMode = "Priority" if re.search("Priority", message) is not None else "Lottery"
+        lootMode = "Open Roll"
+        if re.search("Priority", message) is not None:
+            lootMode = "Priority"
+        elif re.search("Lottery", message) is not None:
+            lootMode = "Lottery"
         isLootRecord = True
 
     # Sometimes a manual transaction must be entered which does NOT adhere to the precise structure of "(ItemID: <itemID>)"
