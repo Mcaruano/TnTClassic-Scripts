@@ -689,11 +689,11 @@ Ellievyra:
   class: Priest
   lottery-lootconfig:
   - Cloak of Suturing
-  - Desecrated Circlet
   - Wand of the Whispering Dead
   - Warmth of Forgiveness
   priority-lootconfig:
   - Band of Unanswered Prayers
+  - Desecrated Circlet
   rank: Core Raider
   t1-lottery-dkp: 3884.34
   t1-priority-dkp: 3884.34
