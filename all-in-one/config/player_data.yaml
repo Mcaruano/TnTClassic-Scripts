@@ -1066,11 +1066,12 @@ Jerillak:
 Justin:
   class: Warlock
   lottery-lootconfig:
+  - Desecrated Leggings
   - Eyestalk Waist Cord
   - Seal of the Damned
   - The Phylactery of Kel'Thuzad
+  priority-lootconfig:
   - The Restrained Essence of Sapphiron
-  priority-lootconfig: []
   rank: Core Raider
   t1-lottery-dkp: 3942.99
   t1-priority-dkp: 3940.34
