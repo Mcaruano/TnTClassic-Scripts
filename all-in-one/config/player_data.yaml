@@ -2718,14 +2718,11 @@ Venjamen:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Might of the Scourge
-  - Might of the Scourge
-  - Nerubian Slavemaker
   - Shroud of Dominion
   priority-lootconfig:
-  - Badge of the Swarmguard
-  - Eye of C'Thun
-  - Kiss of the Spider
+  - Gressil, Dawn of Ruin
+  - Might of the Scourge
+  - Might of the Scourge
   rank: Core Raider
   t1-lottery-dkp: 3736.88
   t1-priority-dkp: 3736.88
