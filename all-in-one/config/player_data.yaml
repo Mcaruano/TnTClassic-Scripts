@@ -2294,8 +2294,8 @@ Shrimptea:
   t2pt5-priority-dkp: 8012.81
   t3-lottery-dkp: 7245.96
   t3-priority-dkp: 9440.78
-Simptease:
-  class: Warrior
+Wildshrimp:
+  class: Druid
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
