@@ -1502,7 +1502,6 @@ Murduc:
   lottery-lootconfig:
   - Cloak of the Devoured
   - Cloak of the Necropolis
-  - Doomfinger
   - Ebony Flame Gloves
   - Eye of C'Thun
   - Gem of Trapped Innocents
@@ -1511,6 +1510,7 @@ Murduc:
   priority-lootconfig:
   - Dark Storm Gauntlets
   - Desecrated Robe
+  - Doomfinger
   - Eyestalk Waist Cord
   - Neltharion's Tear
   - The Restrained Essence of Sapphiron
