@@ -942,6 +942,7 @@ Goodjorb:
   class: Mage
   lottery-lootconfig:
   - Leggings of Polarity
+  - Power of the Scourge
   priority-lootconfig:
   - Sapphiron's Left Eye
   rank: Core Raider
