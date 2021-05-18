@@ -441,7 +441,8 @@ Choonin:
 Chuunin:
   class: Rogue
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Kiss of the Spider
   rank: Core Raider
   t1-lottery-dkp: 2843.25
   t1-priority-dkp: 2843.25
