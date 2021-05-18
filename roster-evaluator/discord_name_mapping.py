@@ -80,7 +80,7 @@ DISCORD_NAME_MAPPING = {
     "sekdar(sekjr)": "Sekjr",
     "Sheol/Soupz": "Sheol",
     "Shnackypacky": "Shnackypacky",
-    "Simptease": "Simptease",
+    "Simptease": "Wildshrimp",
     "Sizzlenips-A": "Sizzleñips",
     "Sizzlenips-Ar": "Sizzleñips",
     "Sizzlenips-Ark": "Sizzleñips",
@@ -94,6 +94,7 @@ DISCORD_NAME_MAPPING = {
     "Venjamin": "Venjamen",
     "Vermora": "Vermora",
     "Whogryps": "Whogryps",
+    "Wildshrimp": "Wildshrimp",
     "Zoff": "Zóff",
     "Zerxx": "Zerxx",
 }
