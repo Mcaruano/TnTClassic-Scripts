@@ -2298,8 +2298,11 @@ Shrimptea:
   t3-priority-dkp: 9440.78
 Wildshrimp:
   class: Druid
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Boots of Displacement
+  priority-lootconfig:
+  - Fortitude of the Scourge
+  - Fortitude of the Scourge
   rank: Core Raider
   t1-lottery-dkp: 3142.27
   t1-priority-dkp: 3142.27
