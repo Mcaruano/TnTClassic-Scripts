@@ -1736,15 +1736,15 @@ Pikachau:
   class: Rogue
   lottery-lootconfig:
   - Band of Reanimation
-  - Bonescythe Ring
   - Cloak of Concentrated Hatred
-  - Desecrated Pauldrons
   - Imperial Qiraji Armaments
   - Kingsfall
   - Misplaced Servo Arm
   priority-lootconfig:
   - Ancient Qiraji Ripper
+  - Bonescythe Ring
   - Death's Sting
+  - Desecrated Pauldrons
   - Gressil, Dawn of Ruin
   - Iblis, Blade of the Fallen Seraph
   rank: Core Raider
