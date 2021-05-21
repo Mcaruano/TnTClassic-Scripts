@@ -198,7 +198,7 @@ Aro:
   t1-priority-dkp: 3255.28
   t2-lottery-dkp: 6506.19
   t2-priority-dkp: 6505.62
-  t2pt5-lottery-dkp: 9605.630000000001
+  t2pt5-lottery-dkp: 9605.63
   t2pt5-priority-dkp: 9754.7
   t3-lottery-dkp: 3959.69
   t3-priority-dkp: 12883.93
@@ -226,7 +226,7 @@ Ashori:
   t2-priority-dkp: 6897.18
   t2pt5-lottery-dkp: 10028.05
   t2pt5-priority-dkp: 10531.6
-  t3-lottery-dkp: 4521.780000000001
+  t3-lottery-dkp: 4521.78
   t3-priority-dkp: 11328.8
 Backoffz:
   class: Not Set
@@ -511,7 +511,7 @@ Demeker:
   t2-lottery-dkp: 7874.48
   t2-priority-dkp: 7873.82
   t2pt5-lottery-dkp: 11767.26
-  t2pt5-priority-dkp: 9309.029999999999
+  t2pt5-priority-dkp: 9309.03
   t3-lottery-dkp: 11594.25
   t3-priority-dkp: 11072.33
 Derak:
@@ -765,7 +765,7 @@ Emianne:
   t1-priority-dkp: 3861.02
   t2-lottery-dkp: 7718.16
   t2-priority-dkp: 7698.2
-  t2pt5-lottery-dkp: 9388.220000000001
+  t2pt5-lottery-dkp: 9388.22
   t2pt5-priority-dkp: 11559.58
   t3-lottery-dkp: 9496.46
   t3-priority-dkp: 15460.17
@@ -1077,7 +1077,7 @@ Justin:
   t2-lottery-dkp: 7879.54
   t2-priority-dkp: 7873.31
   t2pt5-lottery-dkp: 11747.24
-  t2pt5-priority-dkp: 9618.529999999999
+  t2pt5-priority-dkp: 9618.53
   t3-lottery-dkp: 3446.54
   t3-priority-dkp: 7504.45
 Justinjr:
@@ -1746,7 +1746,7 @@ Pikachau:
   t2-lottery-dkp: 6119.52
   t2-priority-dkp: 6165.13
   t2pt5-lottery-dkp: 7856.48
-  t2pt5-priority-dkp: 9288.619999999999
+  t2pt5-priority-dkp: 9288.62
   t3-lottery-dkp: 10713.49
   t3-priority-dkp: 12538.87
 Polyharry:
@@ -1939,7 +1939,7 @@ Roodolph:
   t2-priority-dkp: 7875.04
   t2pt5-lottery-dkp: 10860.96
   t2pt5-priority-dkp: 10126.04
-  t3-lottery-dkp: 30.73999999999978
+  t3-lottery-dkp: 30.74
   t3-priority-dkp: 11693.14
 Rotheart:
   class: Warlock
@@ -2318,7 +2318,7 @@ Sizzleñips:
   t2-priority-dkp: 7664.9
   t2pt5-lottery-dkp: 11497.36
   t2pt5-priority-dkp: 11497.36
-  t3-lottery-dkp: 5708.719999999999
+  t3-lottery-dkp: 5708.72
   t3-priority-dkp: 10030.76
 Skella:
   class: Not Set
@@ -2542,7 +2542,7 @@ Sylador:
   t2pt5-lottery-dkp: 10399.05
   t2pt5-priority-dkp: 11307.37
   t3-lottery-dkp: 8617.77
-  t3-priority-dkp: 9156.279999999999
+  t3-priority-dkp: 9156.28
 Takii:
   class: Not Set
   lottery-lootconfig: []
@@ -2678,7 +2678,7 @@ Venjamen:
   t2pt5-lottery-dkp: 10121.55
   t2pt5-priority-dkp: 10121.55
   t3-lottery-dkp: -6930.0
-  t3-priority-dkp: 8871.279999999999
+  t3-priority-dkp: 8871.28
 Vermora:
   class: Rogue
   lottery-lootconfig:
