@@ -2684,7 +2684,8 @@ Venjamen:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Shroud of Dominion
+  - Misplaced Servo Arm
+  - The Castigator
   priority-lootconfig:
   - Gressil, Dawn of Ruin
   - Might of the Scourge
