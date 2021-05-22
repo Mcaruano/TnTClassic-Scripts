@@ -472,11 +472,12 @@ Dalran:
   - Might of Menethil
   - Onyxia Hide Backpack
   - Slayer's Crest
+  - Soulstring
   priority-lootconfig:
+  - Desecrated Helmet
   - Drake Fang Talisman
   - Kiss of the Spider
   - Legplates of Carnage
-  - Soulstring
   rank: Core Raider
   t1-lottery-dkp: 3347.92
   t1-priority-dkp: 3349.52
