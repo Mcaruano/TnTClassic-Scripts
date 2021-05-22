@@ -2475,7 +2475,8 @@ Stephany:
   lottery-lootconfig:
   - Cloak of the Necropolis
   - Power of the Scourge
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Seal of the Damned
   rank: Core Raider
   t1-lottery-dkp: 3893.73
   t1-priority-dkp: 3937.06
