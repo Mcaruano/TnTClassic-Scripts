@@ -1069,8 +1069,8 @@ Justin:
   class: Warlock
   lottery-lootconfig:
   - Eyestalk Waist Cord
-  - The Phylactery of Kel'Thuzad
   priority-lootconfig:
+  - The Phylactery of Kel'Thuzad
   - The Restrained Essence of Sapphiron
   rank: Core Raider
   t1-lottery-dkp: 3350.31
