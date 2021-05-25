@@ -75,6 +75,7 @@ DISCORD_NAME_MAPPING = {
     "rumeboy": "Rumegirl",
     "Sapper": "Sapper",
     "Salchant": "Salchant",
+    "Schroumpf": "Schroumpf",
     "scrodo/poeki": "Scrodo",
     "scrodo/poekin": "Scrodo",
     "Sean(Kaylä)": "Kaylä",
