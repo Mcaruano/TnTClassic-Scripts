@@ -273,16 +273,16 @@ Ballockthree:
 Baopi:
   class: Warrior
   lottery-lootconfig:
-  - Band of Unnatural Forces
   - Circle of Applied Force
   - Dark Edge of Insanity
   - Elementium Reinforced Bulwark
   - Gauntlets of Steadfast Determination
-  - Ghoul Skin Tunic
   - Mark of C'Thun
   - Ring of the Dreadnaught
+  - The Face of Death
   priority-lootconfig:
   - Badge of the Swarmguard
+  - Band of Unnatural Forces
   - Drake Fang Talisman
   - Kiss of the Spider
   - Might of Menethil
