@@ -12,14 +12,14 @@ Abstinence:
   - Badge of the Swarmguard
   - Shroud of Dominion
   rank: Core Raider
-  t1-lottery-dkp: 3315.01
-  t1-priority-dkp: 3351.24
-  t2-lottery-dkp: 6695.87
-  t2-priority-dkp: 6698.52
-  t2pt5-lottery-dkp: 9964.21
-  t2pt5-priority-dkp: 10023.18
-  t3-lottery-dkp: 11201.6
-  t3-priority-dkp: 9674.67
+  t1-lottery-dkp: 3905.01
+  t1-priority-dkp: 3941.24
+  t2-lottery-dkp: 7875.87
+  t2-priority-dkp: 7878.52
+  t2pt5-lottery-dkp: 11734.21
+  t2pt5-priority-dkp: 11793.18
+  t3-lottery-dkp: 13561.6
+  t3-priority-dkp: 12034.67
 Airth:
   class: Warrior
   lottery-lootconfig: []
@@ -43,14 +43,14 @@ Akaran:
   - Dark Edge of Insanity
   - The Hungering Cold
   rank: Core Raider
-  t1-lottery-dkp: 3340.63
-  t1-priority-dkp: 3350.66
-  t2-lottery-dkp: 6690.55
-  t2-priority-dkp: 6692.07
-  t2pt5-lottery-dkp: 9898.85
-  t2pt5-priority-dkp: 9877.09
-  t3-lottery-dkp: 6543.84
-  t3-priority-dkp: 8598.74
+  t1-lottery-dkp: 3930.63
+  t1-priority-dkp: 3940.66
+  t2-lottery-dkp: 7870.55
+  t2-priority-dkp: 7872.07
+  t2pt5-lottery-dkp: 11668.85
+  t2pt5-priority-dkp: 11647.09
+  t3-lottery-dkp: 8903.84
+  t3-priority-dkp: 10958.74
 Allyfive:
   class: Not Set
   lottery-lootconfig: []
@@ -193,16 +193,15 @@ Aro:
   priority-lootconfig:
   - Ashjre'thul, Crossbow of Smiting
   - Nerubian Slavemaker
-  - Soulstring
   rank: Core Raider
-  t1-lottery-dkp: 2767.17
-  t1-priority-dkp: 2766.99
-  t2-lottery-dkp: 5530.26
-  t2-priority-dkp: 5529.78
-  t2pt5-lottery-dkp: 8164.79
-  t2pt5-priority-dkp: 8291.5
-  t3-lottery-dkp: 3365.74
-  t3-priority-dkp: 10951.34
+  t1-lottery-dkp: 3357.17
+  t1-priority-dkp: 3356.99
+  t2-lottery-dkp: 6710.26
+  t2-priority-dkp: 6709.78
+  t2pt5-lottery-dkp: 9934.79
+  t2pt5-priority-dkp: 10061.5
+  t3-lottery-dkp: 5725.74
+  t3-priority-dkp: 9311.34
 Ashori:
   class: Paladin
   lottery-lootconfig:
@@ -224,14 +223,14 @@ Ashori:
   - Scarab Brooch
   - Styleen's Impeding Scarab
   rank: Core Raider
-  t1-lottery-dkp: 2987.99
-  t1-priority-dkp: 2988.59
-  t2-lottery-dkp: 5934.58
-  t2-priority-dkp: 5862.6
-  t2pt5-lottery-dkp: 8523.84
-  t2pt5-priority-dkp: 8951.86
-  t3-lottery-dkp: 3843.51
-  t3-priority-dkp: 9629.48
+  t1-lottery-dkp: 3577.99
+  t1-priority-dkp: 3578.59
+  t2-lottery-dkp: 7114.58
+  t2-priority-dkp: 7042.6
+  t2pt5-lottery-dkp: 10293.84
+  t2pt5-priority-dkp: 10721.86
+  t3-lottery-dkp: 6203.51
+  t3-priority-dkp: 11989.48
 Backoffz:
   class: Not Set
   lottery-lootconfig: []
@@ -291,14 +290,14 @@ Baopi:
   - Quick Strike Ring
   - Slayer's Crest
   rank: Core Raider
-  t1-lottery-dkp: 3213.24
-  t1-priority-dkp: 3213.24
-  t2-lottery-dkp: 6426.02
-  t2-priority-dkp: 6426.02
-  t2pt5-lottery-dkp: 7027.36
-  t2pt5-priority-dkp: 7796.66
-  t3-lottery-dkp: 6586.73
-  t3-priority-dkp: 9658.34
+  t1-lottery-dkp: 3803.24
+  t1-priority-dkp: 3803.24
+  t2-lottery-dkp: 7606.02
+  t2-priority-dkp: 7606.02
+  t2pt5-lottery-dkp: 8797.36
+  t2pt5-priority-dkp: 9566.66
+  t3-lottery-dkp: 8946.73
+  t3-priority-dkp: 12018.34
 Barlen:
   class: Paladin
   lottery-lootconfig: []
@@ -314,6 +313,19 @@ Barlen:
   t2pt5-priority-dkp: 5765.49
   t3-lottery-dkp: 2747.32
   t3-priority-dkp: 6597.36
+Barnabris:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t1-lottery-dkp: 555.0
+  t1-priority-dkp: 555.0
+  t2-lottery-dkp: 1110.0
+  t2-priority-dkp: 1110.0
+  t2pt5-lottery-dkp: 1665.0
+  t2pt5-priority-dkp: 1665.0
+  t3-lottery-dkp: 2220.0
+  t3-priority-dkp: 2220.0
 Beansv:
   class: Unknown
   lottery-lootconfig: []
@@ -408,14 +420,14 @@ Caelandine:
   - Cryptfiend Silk Cloak
   - Qiraji Execution Bracers
   rank: Core Raider
-  t1-lottery-dkp: 3272.18
-  t1-priority-dkp: 3272.59
-  t2-lottery-dkp: 6527.36
-  t2-priority-dkp: 6539.11
-  t2pt5-lottery-dkp: 9445.56
-  t2pt5-priority-dkp: 9075.12
-  t3-lottery-dkp: 5493.45
-  t3-priority-dkp: 12137.22
+  t1-lottery-dkp: 3862.18
+  t1-priority-dkp: 3862.59
+  t2-lottery-dkp: 7707.36
+  t2-priority-dkp: 7719.11
+  t2pt5-lottery-dkp: 11215.56
+  t2pt5-priority-dkp: 10845.12
+  t3-lottery-dkp: 7853.45
+  t3-priority-dkp: 14497.22
 Caledhel:
   class: Not Set
   lottery-lootconfig: []
@@ -448,14 +460,14 @@ Chuunin:
   priority-lootconfig:
   - Kiss of the Spider
   rank: Core Raider
-  t1-lottery-dkp: 2918.26
-  t1-priority-dkp: 2918.26
-  t2-lottery-dkp: 5836.54
-  t2-priority-dkp: 5836.54
-  t2pt5-lottery-dkp: 8754.81
-  t2pt5-priority-dkp: 8754.81
-  t3-lottery-dkp: 10818.41
-  t3-priority-dkp: 10077.86
+  t1-lottery-dkp: 3508.26
+  t1-priority-dkp: 3508.26
+  t2-lottery-dkp: 7016.54
+  t2-priority-dkp: 7016.54
+  t2pt5-lottery-dkp: 10524.81
+  t2pt5-priority-dkp: 10524.81
+  t3-lottery-dkp: 13178.41
+  t3-priority-dkp: 12437.86
 Daleran:
   class: Not Set
   lottery-lootconfig: []
@@ -483,14 +495,14 @@ Dalran:
   - Kiss of the Spider
   - Legplates of Carnage
   rank: Core Raider
-  t1-lottery-dkp: 2845.73
-  t1-priority-dkp: 2847.09
-  t2-lottery-dkp: 5690.34
-  t2-priority-dkp: 5690.17
-  t2pt5-lottery-dkp: 8533.31
-  t2pt5-priority-dkp: 8352.81
-  t3-lottery-dkp: 9143.7
-  t3-priority-dkp: 3649.67
+  t1-lottery-dkp: 3435.73
+  t1-priority-dkp: 3437.09
+  t2-lottery-dkp: 6870.34
+  t2-priority-dkp: 6870.17
+  t2pt5-lottery-dkp: 10303.31
+  t2pt5-priority-dkp: 10122.81
+  t3-lottery-dkp: 11503.7
+  t3-priority-dkp: 6009.67
 Daughtbot:
   class: Not Set
   lottery-lootconfig: []
@@ -508,17 +520,16 @@ Demeker:
   class: Warlock
   lottery-lootconfig:
   - The Restrained Essence of Sapphiron
-  priority-lootconfig:
-  - Cloak of the Necropolis
+  priority-lootconfig: []
   rank: Core Raider
-  t1-lottery-dkp: 3343.08
-  t1-priority-dkp: 3347.38
-  t2-lottery-dkp: 6693.31
-  t2-priority-dkp: 6692.75
-  t2pt5-lottery-dkp: 10002.17
-  t2pt5-priority-dkp: 7912.68
-  t3-lottery-dkp: 9855.11
-  t3-priority-dkp: 9411.48
+  t1-lottery-dkp: 3933.08
+  t1-priority-dkp: 3937.38
+  t2-lottery-dkp: 7873.31
+  t2-priority-dkp: 7872.75
+  t2pt5-lottery-dkp: 11772.17
+  t2pt5-priority-dkp: 9682.68
+  t3-lottery-dkp: 12215.11
+  t3-priority-dkp: 7771.48
 Derak:
   class: Not Set
   lottery-lootconfig: []
@@ -551,14 +562,14 @@ Dienasty:
   - Drake Fang Talisman
   - Might of Menethil
   rank: Core Raider
-  t1-lottery-dkp: 3271.88
-  t1-priority-dkp: 3271.88
-  t2-lottery-dkp: 6543.31
-  t2-priority-dkp: 6543.31
-  t2pt5-lottery-dkp: 9814.96
-  t2pt5-priority-dkp: 9120.11
-  t3-lottery-dkp: 6670.89
-  t3-priority-dkp: 12225.84
+  t1-lottery-dkp: 3861.88
+  t1-priority-dkp: 3861.88
+  t2-lottery-dkp: 7723.31
+  t2-priority-dkp: 7723.31
+  t2pt5-lottery-dkp: 11584.96
+  t2pt5-priority-dkp: 10890.11
+  t3-lottery-dkp: 9030.89
+  t3-priority-dkp: 14585.84
 Digie:
   class: Rogue
   lottery-lootconfig:
@@ -700,14 +711,14 @@ Ellievyra:
   - Band of Unanswered Prayers
   - Desecrated Circlet
   rank: Core Raider
-  t1-lottery-dkp: 3307.94
-  t1-priority-dkp: 3307.94
-  t2-lottery-dkp: 6615.42
-  t2-priority-dkp: 6615.42
-  t2pt5-lottery-dkp: 9891.97
-  t2pt5-priority-dkp: 9891.97
-  t3-lottery-dkp: 10262.65
-  t3-priority-dkp: 13113.66
+  t1-lottery-dkp: 3897.94
+  t1-priority-dkp: 3897.94
+  t2-lottery-dkp: 7795.42
+  t2-priority-dkp: 7795.42
+  t2pt5-lottery-dkp: 11661.97
+  t2pt5-priority-dkp: 11661.97
+  t3-lottery-dkp: 12622.65
+  t3-priority-dkp: 15473.66
 Ellwindelm:
   class: Hunter
   lottery-lootconfig:
@@ -766,14 +777,14 @@ Emianne:
   - Eyestalk Waist Cord
   - Rime Covered Mantle
   rank: Core Raider
-  t1-lottery-dkp: 3261.37
-  t1-priority-dkp: 3281.87
-  t2-lottery-dkp: 6560.44
-  t2-priority-dkp: 6543.47
-  t2pt5-lottery-dkp: 7979.99
-  t2pt5-priority-dkp: 9825.64
-  t3-lottery-dkp: 8071.99
-  t3-priority-dkp: 13141.14
+  t1-lottery-dkp: 3851.37
+  t1-priority-dkp: 3871.87
+  t2-lottery-dkp: 7740.44
+  t2-priority-dkp: 7723.47
+  t2pt5-lottery-dkp: 9749.99
+  t2pt5-priority-dkp: 11595.64
+  t3-lottery-dkp: 10431.99
+  t3-priority-dkp: 15501.14
 Empty:
   class: Not Set
   lottery-lootconfig: []
@@ -898,14 +909,14 @@ Galm:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
-  t1-lottery-dkp: 3351.16
-  t1-priority-dkp: 3350.94
-  t2-lottery-dkp: 6697.43
-  t2-priority-dkp: 6685.99
-  t2pt5-lottery-dkp: 9830.02
-  t2pt5-priority-dkp: 9610.24
-  t3-lottery-dkp: 9793.66
-  t3-priority-dkp: 9252.6
+  t1-lottery-dkp: 3941.16
+  t1-priority-dkp: 3940.94
+  t2-lottery-dkp: 7877.43
+  t2-priority-dkp: 7865.99
+  t2pt5-lottery-dkp: 11600.02
+  t2pt5-priority-dkp: 11380.24
+  t3-lottery-dkp: 12153.66
+  t3-priority-dkp: 11612.6
 Gapesmell:
   class: Not Set
   lottery-lootconfig: []
@@ -950,14 +961,14 @@ Goodjorb:
   priority-lootconfig:
   - Sapphiron's Left Eye
   rank: Core Raider
-  t1-lottery-dkp: 2918.26
-  t1-priority-dkp: 2918.26
-  t2-lottery-dkp: 5836.54
-  t2-priority-dkp: 5836.54
-  t2pt5-lottery-dkp: 8754.81
-  t2pt5-priority-dkp: 8754.81
-  t3-lottery-dkp: 8239.81
-  t3-priority-dkp: 9388.49
+  t1-lottery-dkp: 3508.26
+  t1-priority-dkp: 3508.26
+  t2-lottery-dkp: 7016.54
+  t2-priority-dkp: 7016.54
+  t2pt5-lottery-dkp: 10524.81
+  t2pt5-priority-dkp: 10524.81
+  t3-lottery-dkp: 10599.81
+  t3-priority-dkp: 11748.49
 Goodsforsale:
   class: Not Set
   lottery-lootconfig: []
@@ -1048,14 +1059,14 @@ Hyolin:
   - Necklace of Necropsy
   - Scarab Brooch
   rank: Core Raider
-  t1-lottery-dkp: 3140.78
-  t1-priority-dkp: 3140.78
-  t2-lottery-dkp: 6281.57
-  t2-priority-dkp: 6281.57
-  t2pt5-lottery-dkp: 9422.36
-  t2pt5-priority-dkp: 9422.36
-  t3-lottery-dkp: 9625.48
-  t3-priority-dkp: 7423.21
+  t1-lottery-dkp: 3730.78
+  t1-priority-dkp: 3730.78
+  t2-lottery-dkp: 7461.57
+  t2-priority-dkp: 7461.57
+  t2pt5-lottery-dkp: 11192.36
+  t2pt5-priority-dkp: 11192.36
+  t3-lottery-dkp: 11985.48
+  t3-priority-dkp: 9783.21
 Jerillak:
   class: Not Set
   lottery-lootconfig: []
@@ -1074,17 +1085,16 @@ Justin:
   lottery-lootconfig:
   - Eyestalk Waist Cord
   priority-lootconfig:
-  - The Phylactery of Kel'Thuzad
   - The Restrained Essence of Sapphiron
   rank: Core Raider
-  t1-lottery-dkp: 3350.31
-  t1-priority-dkp: 3348.4
-  t2-lottery-dkp: 6697.61
-  t2-priority-dkp: 6692.31
-  t2pt5-lottery-dkp: 9985.15
-  t2pt5-priority-dkp: 8175.75
-  t3-lottery-dkp: 2929.56
-  t3-priority-dkp: 6378.78
+  t1-lottery-dkp: 3940.31
+  t1-priority-dkp: 3938.4
+  t2-lottery-dkp: 7877.61
+  t2-priority-dkp: 7872.31
+  t2pt5-lottery-dkp: 11755.15
+  t2pt5-priority-dkp: 9945.75
+  t3-lottery-dkp: 5289.56
+  t3-priority-dkp: 4738.78
 Justinjr:
   class: Not Set
   lottery-lootconfig: []
@@ -1119,19 +1129,18 @@ Kang:
   - Might of Menethil
   - Shard of the Flame
   priority-lootconfig:
-  - Fists of the Unrelenting
   - Might of the Scourge
   - Spinal Reaper
   - Vanquished Tentacle of C'Thun
   rank: Core Raider
-  t1-lottery-dkp: 3343.15
-  t1-priority-dkp: 3340.91
-  t2-lottery-dkp: 6685.27
-  t2-priority-dkp: 6693.84
-  t2pt5-lottery-dkp: 9931.77
-  t2pt5-priority-dkp: 8025.23
-  t3-lottery-dkp: -15462.94
-  t3-priority-dkp: 9305.66
+  t1-lottery-dkp: 3933.15
+  t1-priority-dkp: 3930.91
+  t2-lottery-dkp: 7865.27
+  t2-priority-dkp: 7873.84
+  t2pt5-lottery-dkp: 11701.77
+  t2pt5-priority-dkp: 9795.23
+  t3-lottery-dkp: -13102.94
+  t3-priority-dkp: 7665.66
 Kangbank:
   class: Not Set
   lottery-lootconfig: []
@@ -1204,14 +1213,14 @@ Kiele:
   - Eye of the Dead
   - Scarab Brooch
   rank: Core Raider
-  t1-lottery-dkp: 3330.66
-  t1-priority-dkp: 3331.57
-  t2-lottery-dkp: 5730.05
-  t2-priority-dkp: 6655.77
-  t2pt5-lottery-dkp: 9934.56
-  t2pt5-priority-dkp: 9979.69
-  t3-lottery-dkp: 11265.35
-  t3-priority-dkp: 13075.54
+  t1-lottery-dkp: 3920.66
+  t1-priority-dkp: 3921.57
+  t2-lottery-dkp: 6910.05
+  t2-priority-dkp: 7835.77
+  t2pt5-lottery-dkp: 11704.56
+  t2pt5-priority-dkp: 11749.69
+  t3-lottery-dkp: 13625.35
+  t3-priority-dkp: 15435.54
 Kineztra:
   class: Rogue
   lottery-lootconfig:
@@ -1229,16 +1238,15 @@ Kineztra:
   - Badge of the Swarmguard
   - Chromatically Tempered Sword
   - Death's Sting
-  - Gressil, Dawn of Ruin
   rank: Core Raider
-  t1-lottery-dkp: 2783.84
-  t1-priority-dkp: 2783.84
-  t2-lottery-dkp: 5567.7
-  t2-priority-dkp: 5567.7
-  t2pt5-lottery-dkp: 8351.55
-  t2pt5-priority-dkp: 8351.55
-  t3-lottery-dkp: 1591.64
-  t3-priority-dkp: 11441.12
+  t1-lottery-dkp: 3373.84
+  t1-priority-dkp: 3373.84
+  t2-lottery-dkp: 6747.7
+  t2-priority-dkp: 6747.7
+  t2pt5-lottery-dkp: 10121.55
+  t2pt5-priority-dkp: 10121.55
+  t3-lottery-dkp: 3951.64
+  t3-priority-dkp: 9801.12
 Korteh:
   class: Hunter
   lottery-lootconfig:
@@ -1247,14 +1255,14 @@ Korteh:
   - Prestor's Talisman of Connivery
   - Slayer's Crest
   rank: Core Raider
-  t1-lottery-dkp: 2759.01
-  t1-priority-dkp: 2758.99
-  t2-lottery-dkp: 5514.24
-  t2-priority-dkp: 5507.51
-  t2pt5-lottery-dkp: 8219.7
-  t2pt5-priority-dkp: 8269.83
-  t3-lottery-dkp: 5068.07
-  t3-priority-dkp: 11186.42
+  t1-lottery-dkp: 3349.01
+  t1-priority-dkp: 3348.99
+  t2-lottery-dkp: 6694.24
+  t2-priority-dkp: 6687.51
+  t2pt5-lottery-dkp: 9989.7
+  t2pt5-priority-dkp: 10039.83
+  t3-lottery-dkp: 7428.07
+  t3-priority-dkp: 13546.42
 Kortey:
   class: Not Set
   lottery-lootconfig: []
@@ -1366,14 +1374,14 @@ Malchazor:
   - The Face of Death
   priority-lootconfig: []
   rank: Core Raider
-  t1-lottery-dkp: 3266.76
-  t1-priority-dkp: 3267.42
-  t2-lottery-dkp: 6505.15
-  t2-priority-dkp: 6530.11
-  t2pt5-lottery-dkp: 9729.14
-  t2pt5-priority-dkp: 9785.74
-  t3-lottery-dkp: 11918.09
-  t3-priority-dkp: 11339.17
+  t1-lottery-dkp: 3856.76
+  t1-priority-dkp: 3857.42
+  t2-lottery-dkp: 7685.15
+  t2-priority-dkp: 7710.11
+  t2pt5-lottery-dkp: 11499.14
+  t2pt5-priority-dkp: 11555.74
+  t3-lottery-dkp: 14278.09
+  t3-priority-dkp: 13699.17
 Manarolls:
   class: Not Set
   lottery-lootconfig: []
@@ -1509,20 +1517,19 @@ Murduc:
   - Wand of Fates
   priority-lootconfig:
   - Dark Storm Gauntlets
-  - Desecrated Robe
   - Doomfinger
   - Eyestalk Waist Cord
   - Neltharion's Tear
   - The Restrained Essence of Sapphiron
   rank: Core Raider
-  t1-lottery-dkp: 2783.84
-  t1-priority-dkp: 2783.84
-  t2-lottery-dkp: 5567.7
-  t2-priority-dkp: 5567.7
-  t2pt5-lottery-dkp: 8351.55
-  t2pt5-priority-dkp: 8351.55
-  t3-lottery-dkp: -619.0
-  t3-priority-dkp: 8462.18
+  t1-lottery-dkp: 3373.84
+  t1-priority-dkp: 3373.84
+  t2-lottery-dkp: 6747.7
+  t2-priority-dkp: 6747.7
+  t2pt5-lottery-dkp: 10121.55
+  t2pt5-priority-dkp: 10121.55
+  t3-lottery-dkp: 1741.0
+  t3-priority-dkp: 6822.18
 Mwarrior:
   class: Not Set
   lottery-lootconfig: []
@@ -1749,14 +1756,14 @@ Pikachau:
   - Iblis, Blade of the Fallen Seraph
   - Kiss of the Spider
   rank: Core Raider
-  t1-lottery-dkp: 2634.4
-  t1-priority-dkp: 2634.4
-  t2-lottery-dkp: 5201.59
-  t2-priority-dkp: 5240.36
-  t2pt5-lottery-dkp: 6678.01
-  t2pt5-priority-dkp: 7895.33
-  t3-lottery-dkp: 9106.47
-  t3-priority-dkp: 10658.04
+  t1-lottery-dkp: 3224.4
+  t1-priority-dkp: 3224.4
+  t2-lottery-dkp: 6381.59
+  t2-priority-dkp: 6420.36
+  t2pt5-lottery-dkp: 8448.01
+  t2pt5-priority-dkp: 9665.33
+  t3-lottery-dkp: 11466.47
+  t3-priority-dkp: 13018.04
 Polyharry:
   class: Not Set
   lottery-lootconfig: []
@@ -1779,16 +1786,15 @@ Pudzey:
   - Cloak of Suturing
   - Eye of the Dead
   - Scepter of the False Prophet
-  - Wand of the Whispering Dead
   rank: Core Raider
-  t1-lottery-dkp: 2759.24
-  t1-priority-dkp: 2759.24
-  t2-lottery-dkp: 5518.0
-  t2-priority-dkp: 5518.0
-  t2pt5-lottery-dkp: 8277.02
-  t2pt5-priority-dkp: 7850.29
-  t3-lottery-dkp: 2796.48
-  t3-priority-dkp: 9643.92
+  t1-lottery-dkp: 3349.24
+  t1-priority-dkp: 3349.24
+  t2-lottery-dkp: 6698.0
+  t2-priority-dkp: 6698.0
+  t2pt5-lottery-dkp: 10047.02
+  t2pt5-priority-dkp: 9620.29
+  t3-lottery-dkp: 5156.48
+  t3-priority-dkp: 8003.92
 Pudzy:
   class: Not Set
   lottery-lootconfig: []
@@ -1837,6 +1843,19 @@ Raichau:
   t2pt5-priority-dkp: 7895.33
   t3-lottery-dkp: 9106.47
   t3-priority-dkp: 10658.04
+Rayas:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t1-lottery-dkp: 590.0
+  t1-priority-dkp: 590.0
+  t2-lottery-dkp: 1180.0
+  t2-priority-dkp: 1180.0
+  t2pt5-lottery-dkp: 1770.0
+  t2pt5-priority-dkp: 1770.0
+  t3-lottery-dkp: 2360.0
+  t3-priority-dkp: 2360.0
 Realfrosted:
   class: Warlock
   lottery-lootconfig:
@@ -1941,14 +1960,14 @@ Roodolph:
   - Shroud of Dominion
   - The Burrower's Shell
   rank: Core Raider
-  t1-lottery-dkp: 3351.46
-  t1-priority-dkp: 3350.73
-  t2-lottery-dkp: 6479.4
-  t2-priority-dkp: 6693.78
-  t2pt5-lottery-dkp: 9231.82
-  t2pt5-priority-dkp: 8607.13
-  t3-lottery-dkp: 26.13
-  t3-priority-dkp: 9939.17
+  t1-lottery-dkp: 3941.46
+  t1-priority-dkp: 3940.73
+  t2-lottery-dkp: 7659.4
+  t2-priority-dkp: 7873.78
+  t2pt5-lottery-dkp: 11001.82
+  t2pt5-priority-dkp: 10377.13
+  t3-lottery-dkp: 2386.13
+  t3-priority-dkp: 12299.17
 Rotheart:
   class: Warlock
   lottery-lootconfig: []
@@ -2030,14 +2049,14 @@ Salchant:
   - Shroud of Dominion
   - Styleen's Impeding Scarab
   rank: Core Raider
-  t1-lottery-dkp: 3242.98
-  t1-priority-dkp: 3242.98
-  t2-lottery-dkp: 6485.51
-  t2-priority-dkp: 6485.51
-  t2pt5-lottery-dkp: 9728.26
-  t2pt5-priority-dkp: 9301.52
-  t3-lottery-dkp: 9605.81
-  t3-priority-dkp: 11326.31
+  t1-lottery-dkp: 3832.98
+  t1-priority-dkp: 3832.98
+  t2-lottery-dkp: 7665.51
+  t2-priority-dkp: 7665.51
+  t2pt5-lottery-dkp: 11498.26
+  t2pt5-priority-dkp: 11071.52
+  t3-lottery-dkp: 11965.81
+  t3-priority-dkp: 13686.31
 Sapper:
   class: Rogue
   lottery-lootconfig:
@@ -2079,25 +2098,21 @@ Schroumpf:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Not Set
-  t1-lottery-dkp: 0.0
-  t1-priority-dkp: 0.0
-  t2-lottery-dkp: 0.0
-  t2-priority-dkp: 0.0
-  t2pt5-lottery-dkp: 0.0
-  t2pt5-priority-dkp: 0.0
-  t3-lottery-dkp: 0.0
-  t3-priority-dkp: 0.0
+  t1-lottery-dkp: 590.0
+  t1-priority-dkp: 590.0
+  t2-lottery-dkp: 1180.0
+  t2-priority-dkp: 1180.0
+  t2pt5-lottery-dkp: 1770.0
+  t2pt5-priority-dkp: 1770.0
+  t3-lottery-dkp: 2360.0
+  t3-priority-dkp: 2360.0
 Scrodo:
   class: Mage
   lottery-lootconfig: []
   priority-lootconfig:
   - Fetish of the Sand Reaver
-  - Gem of Trapped Innocents
   - Rime Covered Mantle
   - Shard of the Fallen Star
-  - Splinter of Atiesh
-  - Splinter of Atiesh
-  - Splinter of Atiesh
   - Splinter of Atiesh
   - Splinter of Atiesh
   - Splinter of Atiesh
@@ -2121,14 +2136,14 @@ Scrodo:
   - The Soul Harvester's Bindings
   - Vanquished Tentacle of C'Thun
   rank: Core Raider
-  t1-lottery-dkp: 3271.88
-  t1-priority-dkp: 3271.88
-  t2-lottery-dkp: 6543.31
-  t2-priority-dkp: 6543.31
-  t2pt5-lottery-dkp: 9814.96
-  t2pt5-priority-dkp: 9814.96
-  t3-lottery-dkp: 6650.0
-  t3-priority-dkp: 9443.53
+  t1-lottery-dkp: 3861.88
+  t1-priority-dkp: 3861.88
+  t2-lottery-dkp: 7723.31
+  t2-priority-dkp: 7723.31
+  t2pt5-lottery-dkp: 11584.96
+  t2pt5-priority-dkp: 11584.96
+  t3-lottery-dkp: 9010.0
+  t3-priority-dkp: 7503.53
 Searus:
   class: Rogue
   lottery-lootconfig:
@@ -2160,14 +2175,14 @@ Sekjr:
   - Eye of the Dead
   - Hammer of the Twisting Nether
   rank: Core Raider
-  t1-lottery-dkp: 3319.41
-  t1-priority-dkp: 3316.53
-  t2-lottery-dkp: 6629.14
-  t2-priority-dkp: 6450.13
-  t2pt5-lottery-dkp: 8022.21
-  t2pt5-priority-dkp: 9507.41
-  t3-lottery-dkp: 6131.41
-  t3-priority-dkp: 11145.22
+  t1-lottery-dkp: 3909.41
+  t1-priority-dkp: 3906.53
+  t2-lottery-dkp: 7809.14
+  t2-priority-dkp: 7630.13
+  t2pt5-lottery-dkp: 9792.21
+  t2pt5-priority-dkp: 11277.41
+  t3-lottery-dkp: 8491.41
+  t3-priority-dkp: 13505.22
 Sharing:
   class: Not Set
   lottery-lootconfig: []
@@ -2212,14 +2227,14 @@ Sheol:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
-  t1-lottery-dkp: 3265.21
-  t1-priority-dkp: 3274.69
-  t2-lottery-dkp: 6545.72
-  t2-priority-dkp: 6261.89
-  t2pt5-lottery-dkp: 9693.22
-  t2pt5-priority-dkp: 9543.15
-  t3-lottery-dkp: 5699.57
-  t3-priority-dkp: 10975.52
+  t1-lottery-dkp: 3855.21
+  t1-priority-dkp: 3864.69
+  t2-lottery-dkp: 7725.72
+  t2-priority-dkp: 7441.89
+  t2pt5-lottery-dkp: 11463.22
+  t2pt5-priority-dkp: 11313.15
+  t3-lottery-dkp: 8059.57
+  t3-priority-dkp: 13335.52
 Shnackaran:
   class: Not Set
   lottery-lootconfig: []
@@ -2271,14 +2286,14 @@ Shnackypacky:
   - Eye of the Dead
   - Shard of the Scale
   rank: Core Raider
-  t1-lottery-dkp: 2829.63
-  t1-priority-dkp: 2844.37
-  t2-lottery-dkp: 5648.43
-  t2-priority-dkp: 5694.43
-  t2pt5-lottery-dkp: 8440.88
-  t2pt5-priority-dkp: 8532.75
-  t3-lottery-dkp: 7412.81
-  t3-priority-dkp: 10680.11
+  t1-lottery-dkp: 3419.63
+  t1-priority-dkp: 3434.37
+  t2-lottery-dkp: 6828.43
+  t2-priority-dkp: 6874.43
+  t2pt5-lottery-dkp: 10210.88
+  t2pt5-priority-dkp: 10302.75
+  t3-lottery-dkp: 9772.810000000001
+  t3-priority-dkp: 13040.11
 Shrimpee:
   class: Not Set
   lottery-lootconfig: []
@@ -2318,7 +2333,6 @@ Sizzleñips:
   - Onyxia Hide Backpack
   - Onyxia Hide Backpack
   - Power of the Scourge
-  - Ring of the Eternal Flame
   - Shard of the Fallen Star
   - Vanquished Tentacle of C'Thun
   priority-lootconfig:
@@ -2333,14 +2347,14 @@ Sizzleñips:
   - Talisman of Ephemeral Power
   - The Restrained Essence of Sapphiron
   rank: Core Raider
-  t1-lottery-dkp: 3259.69
-  t1-priority-dkp: 3259.69
-  t2-lottery-dkp: 6051.93
-  t2-priority-dkp: 6515.16
-  t2pt5-lottery-dkp: 9772.76
-  t2pt5-priority-dkp: 9772.76
-  t3-lottery-dkp: 4852.41
-  t3-priority-dkp: 8526.15
+  t1-lottery-dkp: 3849.69
+  t1-priority-dkp: 3849.69
+  t2-lottery-dkp: 7231.93
+  t2-priority-dkp: 7695.16
+  t2pt5-lottery-dkp: 11542.76
+  t2pt5-priority-dkp: 11542.76
+  t3-lottery-dkp: 3212.41
+  t3-priority-dkp: 10886.15
 Skella:
   class: Not Set
   lottery-lootconfig: []
@@ -2384,19 +2398,18 @@ Snickercakes:
   class: Warrior
   lottery-lootconfig:
   - Cloak of the Scourge
-  - Desecrated Bracers
   - Sadist's Collar
   - Wristguards of Vengeance
   priority-lootconfig: []
   rank: Core Raider
-  t1-lottery-dkp: 3265.35
-  t1-priority-dkp: 3265.35
-  t2-lottery-dkp: 6527.59
-  t2-priority-dkp: 6509.65
-  t2pt5-lottery-dkp: 9626.84
-  t2pt5-priority-dkp: 8656.33
-  t3-lottery-dkp: 5253.35
-  t3-priority-dkp: 9209.72
+  t1-lottery-dkp: 3855.35
+  t1-priority-dkp: 3855.35
+  t2-lottery-dkp: 7707.59
+  t2-priority-dkp: 7689.65
+  t2pt5-lottery-dkp: 11396.84
+  t2pt5-priority-dkp: 10426.33
+  t3-lottery-dkp: 3613.35
+  t3-priority-dkp: 11569.72
 Sofakinglulz:
   class: Paladin
   lottery-lootconfig:
@@ -2498,14 +2511,14 @@ Stephany:
   priority-lootconfig:
   - Seal of the Damned
   rank: Core Raider
-  t1-lottery-dkp: 3309.67
-  t1-priority-dkp: 3346.5
-  t2-lottery-dkp: 6673.51
-  t2-priority-dkp: 6693.5
-  t2pt5-lottery-dkp: 9853.2
-  t2pt5-priority-dkp: 9771.06
-  t3-lottery-dkp: 9605.82
-  t3-priority-dkp: 7437.34
+  t1-lottery-dkp: 3899.67
+  t1-priority-dkp: 3936.5
+  t2-lottery-dkp: 7853.51
+  t2-priority-dkp: 7873.5
+  t2pt5-lottery-dkp: 11623.2
+  t2pt5-priority-dkp: 11541.06
+  t3-lottery-dkp: 11965.82
+  t3-priority-dkp: 9797.34
 Summonbest:
   class: Not Set
   lottery-lootconfig: []
@@ -2557,14 +2570,14 @@ Sylador:
   - Grasp of the Old God
   - Shard of the Scale
   rank: Core Raider
-  t1-lottery-dkp: 3350.26
-  t1-priority-dkp: 3350.33
-  t2-lottery-dkp: 5466.45
-  t2-priority-dkp: 6689.4
-  t2pt5-lottery-dkp: 8839.19
-  t2pt5-priority-dkp: 9611.26
-  t3-lottery-dkp: 7325.1
-  t3-priority-dkp: 7782.84
+  t1-lottery-dkp: 3940.26
+  t1-priority-dkp: 3940.33
+  t2-lottery-dkp: 6646.45
+  t2-priority-dkp: 7869.4
+  t2pt5-lottery-dkp: 10609.19
+  t2pt5-priority-dkp: 11381.26
+  t3-lottery-dkp: 9685.1
+  t3-priority-dkp: 10142.84
 Takii:
   class: Not Set
   lottery-lootconfig: []
@@ -2596,14 +2609,14 @@ Thursday:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
-  t1-lottery-dkp: 3281.65
-  t1-priority-dkp: 3312.36
-  t2-lottery-dkp: 6609.91
-  t2-priority-dkp: 6604.52
-  t2pt5-lottery-dkp: 9521.23
-  t2pt5-priority-dkp: 8775.98
-  t3-lottery-dkp: 9363.47
-  t3-priority-dkp: 12542.0
+  t1-lottery-dkp: 3871.65
+  t1-priority-dkp: 3902.36
+  t2-lottery-dkp: 7789.91
+  t2-priority-dkp: 7784.52
+  t2pt5-lottery-dkp: 11291.23
+  t2pt5-priority-dkp: 10545.98
+  t3-lottery-dkp: 11723.47
+  t3-priority-dkp: 14902.0
 Tinymama:
   class: Not Set
   lottery-lootconfig: []
@@ -2705,20 +2718,18 @@ Vermora:
   class: Rogue
   lottery-lootconfig:
   - Misplaced Servo Arm
-  - The Castigator
   priority-lootconfig:
   - Gressil, Dawn of Ruin
   - Might of the Scourge
-  - Might of the Scourge
   rank: Core Raider
-  t1-lottery-dkp: 3201.4
-  t1-priority-dkp: 3201.4
-  t2-lottery-dkp: 6402.33
-  t2-priority-dkp: 6402.33
-  t2pt5-lottery-dkp: 9603.5
-  t2pt5-priority-dkp: 9603.5
-  t3-lottery-dkp: 9446.71
-  t3-priority-dkp: 10737.0
+  t1-lottery-dkp: 3791.4
+  t1-priority-dkp: 3791.4
+  t2-lottery-dkp: 7582.33
+  t2-priority-dkp: 7582.33
+  t2pt5-lottery-dkp: 11373.5
+  t2pt5-priority-dkp: 11373.5
+  t3-lottery-dkp: 7806.71
+  t3-priority-dkp: 11097.0
 Vingilot:
   class: Not Set
   lottery-lootconfig: []
@@ -2805,14 +2816,14 @@ Wildshrimp:
   priority-lootconfig:
   - Fortitude of the Scourge
   rank: Core Raider
-  t1-lottery-dkp: 3172.43
-  t1-priority-dkp: 3172.43
-  t2-lottery-dkp: 6344.88
-  t2-priority-dkp: 6344.88
-  t2pt5-lottery-dkp: 9517.31
-  t2pt5-priority-dkp: 9517.31
-  t3-lottery-dkp: 5851.96
-  t3-priority-dkp: 9746.78
+  t1-lottery-dkp: 3762.43
+  t1-priority-dkp: 3762.43
+  t2-lottery-dkp: 7524.88
+  t2-priority-dkp: 7524.88
+  t2pt5-lottery-dkp: 11287.31
+  t2pt5-priority-dkp: 11287.31
+  t3-lottery-dkp: 8211.96
+  t3-priority-dkp: 12106.78
 Youngdrizzy:
   class: Not Set
   lottery-lootconfig: []
@@ -2888,19 +2899,18 @@ Zóff:
   - Ring of the Dreadnaught
   priority-lootconfig:
   - Corrupted Ashbringer
-  - Desecrated Pauldrons
   - Drake Fang Talisman
   - Kiss of the Spider
   - Might of Menethil
   rank: Core Raider
-  t1-lottery-dkp: 3348.78
-  t1-priority-dkp: 3348.56
-  t2-lottery-dkp: 6696.13
-  t2-priority-dkp: 6695.7
-  t2pt5-lottery-dkp: 8170.43
-  t2pt5-priority-dkp: 8180.92
-  t3-lottery-dkp: 10201.48
-  t3-priority-dkp: 12683.56
+  t1-lottery-dkp: 3938.78
+  t1-priority-dkp: 3938.56
+  t2-lottery-dkp: 7876.13
+  t2-priority-dkp: 7875.7
+  t2pt5-lottery-dkp: 9940.43
+  t2pt5-priority-dkp: 9950.92
+  t3-lottery-dkp: 12561.48
+  t3-priority-dkp: 11043.56
 Àrkadious:
   class: Not Set
   lottery-lootconfig: []
