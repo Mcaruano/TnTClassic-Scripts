@@ -1,6 +1,6 @@
 Akaran:
   class: Warrior
-  lottery-lootconfig: ][]
+  lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
