@@ -2881,13 +2881,15 @@ Zóff:
   class: Warrior
   lottery-lootconfig:
   - Band of Accuria
-  - Desecrated Pauldrons
   - Jom Gabbar
   - Larvae of the Great Worm
   - Ring of the Dreadnaught
   priority-lootconfig:
   - Corrupted Ashbringer
+  - Desecrated Pauldrons
   - Drake Fang Talisman
+  - Kiss of the Spider
+  - Might of Menethil
   rank: Core Raider
   t1-lottery-dkp: 3348.78
   t1-priority-dkp: 3348.56
