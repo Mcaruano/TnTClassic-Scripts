@@ -1240,7 +1240,8 @@ Kineztra:
   t3-priority-dkp: 11441.12
 Korteh:
   class: Hunter
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Soulstring
   priority-lootconfig:
   - Prestor's Talisman of Connivery
   - Slayer's Crest
