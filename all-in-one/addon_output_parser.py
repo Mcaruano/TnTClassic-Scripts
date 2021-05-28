@@ -80,9 +80,9 @@ def parse_addon_lua_file_to_dict(filePath):
         # Regex matches strings such as "PLAYER_PRIORITY_REGISTRY" or "STANDBYEP"
         if re.search("[A-Z]+(_[A-Z]+)* = ", line) is not None:
 
-            # For T2.5, I have variable names which don't follow the standard LUA variable pattern. This prepends
-            # a (T2)* onto the front of the pattern to capture T2PT5_* variable names.
-            variableName = re.search("(T2)*[A-Z]+[0-9]*(_[A-Z]+)* = ", line).group()[:-3]
+            # For T6.5, I have variable names which don't follow the standard LUA variable pattern. This prepends
+            # a (T6)* onto the front of the pattern to capture T6PT5_* variable names.
+            variableName = re.search("(T6)*[A-Z]+[0-9]*(_[A-Z]+)* = ", line).group()[:-3]
             dataDict[variableName] = {}
 
             # The only variables I care about parsing are all Tables. Table variables always have a "{" bracket
@@ -237,11 +237,11 @@ def parse_data_record(dataDict, dictKeyStack, data_record):
 
         # DKP Before
         elif index == 4:
-            currentTransactionRecord['DKPBefore'] = float(value)
+            currentTransactionRecord['DKPBefore'] = 0 if value == '' else float(value)
 
         # DKP After
         elif index == 5:
-            currentTransactionRecord['DKPAfter'] = float(value)
+            currentTransactionRecord['DKPAfter'] = 0 if value == '' else float(value)
 
         # Itemlink. Currently unused.
         elif index == 6:
