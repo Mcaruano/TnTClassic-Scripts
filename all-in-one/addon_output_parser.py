@@ -220,7 +220,7 @@ def parse_data_record(dataDict, dictKeyStack, data_record):
 
         # Recipient (can also be "" if this record was an Open Roll transaction)
         if index == 1:
-            currentTransactionRecord['Recipient'] = value
+            currentTransactionRecord['Recipient'] = "N/A" if value == '' else value
 
         # Issuer (the person who awarded the DKP)
         elif index == 2:
