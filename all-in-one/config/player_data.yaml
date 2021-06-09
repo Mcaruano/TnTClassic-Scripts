@@ -1,3 +1,16 @@
+Abstinence:
+  class: Hunter
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Akaran:
   class: Warrior
   lottery-lootconfig: []
@@ -11,4 +24,432 @@ Akaran:
   t6-priority-dkp: 0
   t6pt5-lottery-dkp: 0
   t6pt5-priority-dkp: 0
-  
+Aro:
+  class: Hunter
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Ashori:
+  class: Paladin
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Baopi:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Chuunin:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Crazydaisy:
+  class: Shaman
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Dalran:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Demeker:
+  class: Warlock
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Digie:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Ellievyra:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Galm:
+  class: Mage
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Goodjorb:
+  class: Mage
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Hyolin:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Jahmee:
+  class: Shaman
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Justin:
+  class: Warlock
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Kang:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Kinasa:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Malchazor:
+  class: Paladin
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Mitchendo:
+  class: Shaman
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Murduc:
+  class: Warlock
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Nashy:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Pikachau:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Rayas:
+  class: Shaman
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Roodolph:
+  class: Hunter
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Schroumpf:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Sekjr:
+  class: Paladin
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Shnacks:
+  class: Druid
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Sizzleñips:
+  class: Mage
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Solzar:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Sylador:
+  class: Druid
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Vermora:
+  class: Rogue
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Wildshrimp:
+  class: Druid
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Zeion:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
+Zerxx:
+  class: Warrior
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
