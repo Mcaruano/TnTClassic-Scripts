@@ -186,7 +186,13 @@ Goodjorb:
   t6pt5-priority-dkp: 0
 Hyolin:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Defender
+  - Eye of Gruul
+  - Leggings of the Fallen Defender
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Defender
+  - Teeth of Gruul
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
