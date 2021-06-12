@@ -1,7 +1,10 @@
 Abstinence:
   class: Hunter
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Gronn-Stitched Girdle
+  - Magtheridon's Head
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
@@ -331,7 +334,7 @@ Rayas:
 Roodolph:
   class: Hunter
   lottery-lootconfig:
-  - Gronn-stitched Girdle
+  - Gronn-Stitched Girdle
   - Magtheridon's Head
   priority-lootconfig:
   - Dragonspine Trophy
