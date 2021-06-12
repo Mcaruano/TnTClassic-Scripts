@@ -258,6 +258,19 @@ Mitchendo:
   t6-priority-dkp: 0
   t6pt5-lottery-dkp: 0
   t6pt5-priority-dkp: 0
+Mlg:
+  class: Mage
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Murduc:
   class: Warlock
   lottery-lootconfig: []
