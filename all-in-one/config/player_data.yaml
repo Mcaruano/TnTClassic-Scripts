@@ -13,7 +13,12 @@ Abstinence:
   t6pt5-priority-dkp: 0
 Akaran:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Aldori Legacy Defender
+  - Chestguard of the Fallen Defender
+  - Leggings of the Fallen Defender
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
