@@ -422,7 +422,12 @@ Solzar:
   t6pt5-priority-dkp: 0
 Sylador:
   class: Druid
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Defender
+  - Cowl of Nature's Breath
+  - Eye of Gruul
+  - Magtheridon's Head
+  - Teeth of Gruul
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
