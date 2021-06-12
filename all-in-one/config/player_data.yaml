@@ -245,8 +245,13 @@ Kinasa:
   t6pt5-priority-dkp: 0
 Malchazor:
   class: Paladin
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Aldori Legacy Defender
+  - Chestguard of the Fallen Champion
+  - Eye of Magtheridon
+  priority-lootconfig:
+  - Bloodmaw Magus-Blade
+  - Pauldrons of the Fallen Champion
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
