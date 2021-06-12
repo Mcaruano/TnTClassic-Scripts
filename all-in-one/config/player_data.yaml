@@ -288,8 +288,11 @@ Mitchendo:
   t6pt5-priority-dkp: 0
 Mlg:
   class: Mage
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Hero
+  priority-lootconfig:
+  - Bloodmaw Magus-Blade
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
