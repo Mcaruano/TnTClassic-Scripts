@@ -71,12 +71,8 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
 
     for line in lines:
         # This matches the Regional Indicators which are what RaidHelper uses when creating event titles
-        if re.search(":n_: :a_: :x_: :x_:", line) is not None or re.search(":N_: :A_: :X_: :X_:", line) is not None or re.search("Naxx", line) is not None or re.search(":N: :A: :X: :X:", line) is not None:
-            raidData[TIER_KEY] = "T3"
-        if re.search(":a_: :q_: :4_: :0_:", line) is not None or re.search(":A_: :Q_: :4_: :0_:", line) is not None or re.search("AQ40", line) is not None:
-            raidData[TIER_KEY] = "T2.5"
-        if re.search(":b_: :w_: :l_:", line) is not None or re.search(":B_: :W_: :L_:", line) is not None:
-            raidData[TIER_KEY] = "T2"
+        if re.search("Karazhan", line) is not None or re.search("Gruul", line) is not None or re.search("Mag", line) is not None:
+            raidData[TIER_KEY] = "T4"
         
         # Date is in the format: "Thu 2. Sep"
         if re.search(":CMcalendar:", line) is not None:
