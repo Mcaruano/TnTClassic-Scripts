@@ -115,11 +115,10 @@ Dalran:
   t6pt5-priority-dkp: 0
 Demeker:
   class: Warlock
-  lottery-lootconfig:
-  - Leggings of the Fallen Hero
+  lottery-lootconfig: []
+  priority-lootconfig:
   - Magtheridon's Head
   - Pauldrons of the Fallen Hero
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
