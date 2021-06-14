@@ -378,7 +378,10 @@ Roodolph:
   t6pt5-priority-dkp: 0
 Schroumpf:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Defender
+  - Crystalheart Pulse-Staff
+  - Teeth of Gruul
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
