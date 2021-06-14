@@ -130,8 +130,10 @@ Demeker:
   t6pt5-priority-dkp: 0
 Digie:
   class: Rogue
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Champion  
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
