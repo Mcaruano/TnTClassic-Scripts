@@ -342,8 +342,12 @@ Pikachau:
   t6pt5-priority-dkp: 0
 Rayas:
   class: Shaman
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Leggings of the Fallen Champion
+  - Magtheridon's Head
+  priority-lootconfig:
+  - Aegis of the Vindicator
+  - Pauldrons of the Fallen Champion
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
