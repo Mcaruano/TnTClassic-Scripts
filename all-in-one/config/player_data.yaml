@@ -507,8 +507,11 @@ Zeion:
   t6pt5-priority-dkp: 0
 Zerxx:
   class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Girdle of the Endless Pit
+  - Leggings of the Fallen Defender
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
