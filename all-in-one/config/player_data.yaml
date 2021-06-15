@@ -420,6 +420,19 @@ Shnacks:
   t6-priority-dkp: 0
   t6pt5-lottery-dkp: 0
   t6pt5-priority-dkp: 0
+Shran:
+  class: Shaman
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 0
+  t4-priority-dkp: 0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Sizzleñips:
   class: Mage
   lottery-lootconfig: []
