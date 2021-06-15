@@ -384,7 +384,6 @@ Roodolph:
 Schroumpf:
   class: Priest
   lottery-lootconfig:
-  - Chestguard of the Fallen Defender
   - Crystalheart Pulse-Staff
   - Teeth of Gruul
   priority-lootconfig: []
