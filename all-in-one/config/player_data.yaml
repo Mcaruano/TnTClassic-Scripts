@@ -89,7 +89,10 @@ Chuunin:
   t6pt5-priority-dkp: 0
 Crazydaisy:
   class: Shaman
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Champion
+  - Gronn-Stiched Girdle
+  - Pauldrons of the Fallen Champion
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 0
