@@ -314,7 +314,9 @@ Mlg:
   t6pt5-priority-dkp: 0
 Murduc:
   class: Warlock
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Eye of Magtheridon
+  - Magtheridon's Head
   priority-lootconfig:
   - Bloodmaw Magus-Blade
   - Leggings of the Fallen Hero
