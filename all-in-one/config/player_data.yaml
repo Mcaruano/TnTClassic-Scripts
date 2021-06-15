@@ -210,7 +210,9 @@ Hyolin:
 Jahmee:
   class: Shaman
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Pauldrons of the Fallen Champion
+  - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
