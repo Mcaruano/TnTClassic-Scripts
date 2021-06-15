@@ -223,7 +223,11 @@ Jahmee:
 Justin:
   class: Warlock
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Bloodmaw Magus-Blade
+  - Leggings of the Fallen Hero
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
