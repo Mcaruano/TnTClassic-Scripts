@@ -239,8 +239,10 @@ Justin:
   t6pt5-priority-dkp: 0
 Kang:
   class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Pit Lord's Satchel
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
