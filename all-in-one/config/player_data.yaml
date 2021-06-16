@@ -348,7 +348,8 @@ Nashy:
 Pikachau:
   class: Rogue
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 0
   t4-priority-dkp: 0
