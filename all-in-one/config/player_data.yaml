@@ -475,7 +475,6 @@ Solzar:
 Sylador:
   class: Druid
   lottery-lootconfig:
-  - Cowl of Nature's Breath
   - Magtheridon's Head
   - Teeth of Gruul
   priority-lootconfig:
