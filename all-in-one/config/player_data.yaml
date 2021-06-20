@@ -90,9 +90,10 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
-  - Chestguard of the Fallen Champion
   - Gronn-Stitched Girdle
+  - Liar's Tongue Gloves
   - Pauldrons of the Fallen Champion
+  - Pit Lord's Satchel
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 590.0
