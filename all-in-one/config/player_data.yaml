@@ -477,8 +477,12 @@ Shran:
   t6pt5-priority-dkp: 0.0
 Sizzleñips:
   class: Mage
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Hero
+  priority-lootconfig:
+  - Bloodmaw Magus-Blade
+  - Eye of Magtheridon
   rank: Core Raider
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
