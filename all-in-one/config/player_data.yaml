@@ -288,10 +288,10 @@ Malchazor:
   lottery-lootconfig:
   - Aldori Legacy Defender
   - Bloodmaw Magus-Blade
-  - Chestguard of the Fallen Champion
   - Eye of Magtheridon
-  priority-lootconfig:
   - Pauldrons of the Fallen Champion
+  priority-lootconfig:
+  - Chestguard of the Fallen Champion
   rank: Core Raider
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
