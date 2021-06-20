@@ -224,10 +224,10 @@ Jahmee:
   t6pt5-priority-dkp: 0.0
 Justin:
   class: Warlock
-  lottery-lootconfig: []
-  priority-lootconfig:
-  - Bloodmaw Magus-Blade
+  lottery-lootconfig:
   - Magtheridon's Head
+  priority-lootconfig:
+  - Eye of Magtheridon
   - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: -410.0
