@@ -427,7 +427,12 @@ Schroumpf:
   t6pt5-priority-dkp: 0.0
 Sekjr:
   class: Paladin
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Champion
+  - Leggings of the Fallen Champion
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Champion
+  - Pit Lord's Satchel
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 590.0
