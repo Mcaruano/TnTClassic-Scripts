@@ -239,7 +239,8 @@ Justin:
   t6pt5-priority-dkp: 0.0
 Kang:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Pauldrons of the Fallen Defender
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
