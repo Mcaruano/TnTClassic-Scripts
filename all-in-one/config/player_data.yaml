@@ -194,10 +194,8 @@ Goodjorb:
 Hyolin:
   class: Priest
   lottery-lootconfig:
-  - Chestguard of the Fallen Defender
   - Eye of Gruul
   - Leggings of the Fallen Defender
-  - Pauldrons of the Fallen Defender
   - Teeth of Gruul
   priority-lootconfig: []
   rank: Core Raider
