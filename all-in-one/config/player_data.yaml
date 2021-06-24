@@ -98,7 +98,8 @@ Crazydaisy:
   - Liar's Tongue Gloves
   - Pauldrons of the Fallen Champion
   - Pit Lord's Satchel
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 501.5
   t4-priority-dkp: 501.5
