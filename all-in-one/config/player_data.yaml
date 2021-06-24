@@ -377,9 +377,10 @@ Pikachau:
 Rayas:
   class: Shaman
   lottery-lootconfig:
+  - Chestguard of the Fallen Champion
   - Leggings of the Fallen Champion
+  priority-lootconfig:
   - Magtheridon's Head
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: -1410.0
   t4-priority-dkp: 501.5
