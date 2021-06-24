@@ -303,9 +303,9 @@ Mitchendo:
   lottery-lootconfig:
   - Magtheridon's Head
   - Pit Lord's Satchel
-  - Windshear Boots
   priority-lootconfig:
   - Pauldrons of the Fallen Champion
+  - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 501.5
   t4-priority-dkp: 501.5
