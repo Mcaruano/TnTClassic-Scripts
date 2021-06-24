@@ -586,8 +586,9 @@ Zeion:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
+  - Bladespire Warbands
+  - Gauntlets of Martial Perfection
   - Girdle of the Endless Pit
-  - Leggings of the Fallen Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: -410.0
