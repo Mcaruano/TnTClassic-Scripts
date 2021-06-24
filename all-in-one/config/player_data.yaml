@@ -60,8 +60,13 @@ Ashori:
   t6pt5-priority-dkp: 0.0
 Baopi:
   class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Bladespire Warbands
+  - Gauntlets of Martial Perfection
+  - Girdle of the Endless Pit
+  - Pauldrons of the Fallen Defender
+  priority-lootconfig:
+  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 250.75
   t4-priority-dkp: 250.75
