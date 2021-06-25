@@ -201,7 +201,6 @@ Hyolin:
   class: Priest
   lottery-lootconfig:
   - Eye of Gruul
-  - Leggings of the Fallen Defender
   - Teeth of Gruul
   priority-lootconfig: []
   rank: Core Raider
