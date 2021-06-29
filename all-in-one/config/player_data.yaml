@@ -167,6 +167,10 @@ Ellievyra:
 Galm:
   class: Mage
   lottery-lootconfig:
+  - Brute Cloak of the Ogre-Magi
+  - Chestguard of the Fallen Hero
+  - Eredar Wand of Obliteration
+  - Leggings of the Fallen Hero
   - Magtheridon's Head
   - Pauldrons of the Fallen Hero
   priority-lootconfig:
