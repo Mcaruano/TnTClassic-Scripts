@@ -410,7 +410,6 @@ Schroumpf:
   class: Priest
   lottery-lootconfig:
   - Crystalheart Pulse-Staff
-  - Teeth of Gruul
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1091.5
