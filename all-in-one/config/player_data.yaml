@@ -257,7 +257,6 @@ Kinasa:
   class: Priest
   lottery-lootconfig: []
   priority-lootconfig:
-  - Belt of Divine Inspiration
   - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 840.75
