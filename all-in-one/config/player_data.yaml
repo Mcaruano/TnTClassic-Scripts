@@ -524,10 +524,10 @@ Solzar:
 Sylador:
   class: Druid
   lottery-lootconfig:
+  - Chestguard of the Fallen Defender
   - Magtheridon's Head
   - Teeth of Gruul
-  priority-lootconfig:
-  - Chestguard of the Fallen Defender
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1091.5
   t4-priority-dkp: 1091.5
