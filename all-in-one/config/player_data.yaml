@@ -61,6 +61,7 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Bladespire Warbands
+  - Chestguard of the Fallen Defender
   - Girdle of the Endless Pit
   - Pauldrons of the Fallen Defender
   priority-lootconfig:
