@@ -288,10 +288,10 @@ Malchazor:
   class: Paladin
   lottery-lootconfig:
   - Bloodmaw Magus-Blade
+  - Chestguard of the Fallen Champion
   - Eye of Magtheridon
   - Pauldrons of the Fallen Champion
-  priority-lootconfig:
-  - Chestguard of the Fallen Champion
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1091.5
   t4-priority-dkp: 1091.5
