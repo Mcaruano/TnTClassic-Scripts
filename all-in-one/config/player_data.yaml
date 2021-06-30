@@ -343,10 +343,10 @@ Murduc:
   class: Warlock
   lottery-lootconfig:
   - Eye of Magtheridon
+  - Leggings of the Fallen Hero
   - Magtheridon's Head
   priority-lootconfig:
   - Bloodmaw Magus-Blade
-  - Leggings of the Fallen Hero
   - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: 927.77
