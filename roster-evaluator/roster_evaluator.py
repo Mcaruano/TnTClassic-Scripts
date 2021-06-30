@@ -525,7 +525,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
         # TODO: Perform Alt & Bench sanity check
         return raidData, discordAttendeePlayerData
         
-    raidData[NUM_SITS_KEY] = raidData[NUM_ACTIVE_SIGNUPS_KEY] + raidData[NUM_TENTATIVE_SIGNUPS_KEY] + raidData[NUM_BENCH_SIGNUPS_KEY] + len(raidData[MISSING_PLAYERS_KEY]) - 40
+    raidData[NUM_SITS_KEY] = raidData[NUM_ACTIVE_SIGNUPS_KEY] + raidData[NUM_TENTATIVE_SIGNUPS_KEY] + raidData[NUM_BENCH_SIGNUPS_KEY] + len(raidData[MISSING_PLAYERS_KEY]) - 25
     
     # Pull in all items for this tier (using the TIER_KEY) key. Will need to pull this data from the loot.yaml file
     # Iterate over all members, and all items on each member's LootConfigs. Compare each item to see if it's loot for this raid tier and if it is, add this ITEM
