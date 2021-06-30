@@ -568,6 +568,15 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
                         possibleLotteryLoot[lotteryItem].append(playerName)
                     else:
                         possibleLotteryLoot[lotteryItem] = [playerName]
+            # We also want to include players who have this item on Priority so that the logic will be able to take
+            # into acccount players who might not be able to afford it at Priority and will end up needing to roll
+            # for it in the Lottery
+            for priorityItem in playerYamlDataDict[playerName]['priority-lootconfig']:
+                if priorityItem in lootForThisTier:
+                    if priorityItem in possibleLotteryLoot:
+                        possibleLotteryLoot[priorityItem].append(playerName)
+                    else:
+                        possibleLotteryLoot[priorityItem] = [playerName]
 
     # 3.) Iterate over the Core/Reserve raiders and perform the following for each:
         # Determine if they are next up for any of their Priority loot (based on those attending)
@@ -746,7 +755,6 @@ their DKP for the given content tier.
 """
 def determine_odds_for_lottery_item(playerYamlDataDict, contentTier, lotteryDkpKeys, playerToComputeOddsFor, allPlayersInLottery):
     if len(allPlayersInLottery) == 1: return 100
-    odds = 0
     totalTicketsInLottery = 0
     for player in allPlayersInLottery:
         playerLotteryDKP = playerYamlDataDict[player][lotteryDkpKeys[contentTier]]
