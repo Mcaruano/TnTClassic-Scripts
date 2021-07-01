@@ -222,6 +222,7 @@ Jahmee:
   class: Shaman
   lottery-lootconfig: []
   priority-lootconfig:
+  - Leggings of the Fallen Champion
   - Pauldrons of the Fallen Champion
   - Soul-Eater's Handwraps
   rank: Core Raider
