@@ -68,10 +68,10 @@ Baopi:
   lottery-lootconfig:
   - Bladespire Warbands
   - Chestguard of the Fallen Defender
-  - Girdle of the Endless Pit
   - Pauldrons of the Fallen Defender
   priority-lootconfig:
   - Dragonspine Trophy
+  - Girdle of the Endless Pit
   rank: Core Raider
   t4-lottery-dkp: -159.25
   t4-priority-dkp: 714.64
