@@ -238,9 +238,9 @@ Justin:
   class: Warlock
   lottery-lootconfig:
   - Magtheridon's Head
+  - Pauldrons of the Fallen Hero
   priority-lootconfig:
   - Eye of Magtheridon
-  - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: 153.0
   t4-priority-dkp: 927.77
