@@ -50,7 +50,7 @@ Query Doc: https://boto3.amazonaws.com/v1/documentation/api/latest/reference/ser
 KeyConditionExpression Doc: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LegacyConditionalParameters.KeyConditions.html
 FilterExpression Doc: https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/LegacyConditionalParameters.QueryFilter.html
 """
-def query_ddb(tableName, reverse=False):
+def query_ddb_table(tableName, reverse=False):
     ddb_client = boto3.client('dynamodb')
     response = None
     try:
@@ -71,6 +71,30 @@ def query_ddb(tableName, reverse=False):
                 ":dkpUpper":{"N":"3000"},
                 ":dateLower":{"S":"2019-12-01T21:37:34Z"},
                 ":dateUpper":{"S":"2019-12-03T20:16:11Z"}
+            }
+        )
+    except ClientError as e:
+        # Disregard the errors thrown from the ConditionExpression check
+        if e.response['Error']['Code'] != 'ConditionalCheckFailedException':
+            logging.error(e)
+    return response
+
+"""
+This is more stub/example code. The KeyConditionExpression is super specific to the 'Recipient-Timestamp-index'
+index of the 'TransactionHistory' table, which is what was used to test this
+"""
+def query_ddb_index(tableName, indexName, reverse=False):
+    ddb_client = boto3.client('dynamodb')
+    response = None
+    try:
+        response = ddb_client.query(
+            TableName=tableName,
+            IndexName=indexName,
+            Select='ALL_PROJECTED_ATTRIBUTES', # This parameter is only availble if we specify an IndexName
+            ScanIndexForward=not reverse, # If True, will return results Ascending (AKA - not reversed)
+            KeyConditionExpression='Recipient = :recipient', # Can only reference Partition/Sort keys from Indexes
+            ExpressionAttributeValues= { 
+                ":recipient":{"S":"Akaran"}
             }
         )
     except ClientError as e:
