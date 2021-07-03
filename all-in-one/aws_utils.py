@@ -59,7 +59,7 @@ def query_ddb(tableName, reverse=False):
             # IndexName=indexName,
             # Select='ALL_PROJECTED_ATTRIBUTES', # This parameter is only availble if we specify an IndexName
             ScanIndexForward=not reverse, # If True, will return results Ascending (AKA - not reversed)
-            KeyConditionExpression='Recipient = :recipient', # Can only reference Partiion/Sort keys from Indexes
+            KeyConditionExpression='Recipient = :recipient', # Can only reference Partition/Sort keys from Indexes
             FilterExpression='ContentTier = :contentTier AND DKPBefore BETWEEN :dkpLower AND :dkpUpper AND #T BETWEEN :dateLower AND :dateUpper',
             ExpressionAttributeNames= {
                 "#T":"Timestamp" # "Timestamp" is a reserved word
