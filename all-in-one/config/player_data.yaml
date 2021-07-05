@@ -551,8 +551,11 @@ Skypola:
   t6pt5-priority-dkp: 0.0
 Solzar:
   class: Priest
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Belt of Divine Inspiration
+  - Magtheridon's Head
+  priority-lootconfig:
+  - Eye of Magtheridon
   rank: Core Raider
   t4-lottery-dkp: 1304.64
   t4-priority-dkp: 1304.64
