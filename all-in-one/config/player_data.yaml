@@ -481,7 +481,8 @@ Sekjr:
   t6pt5-priority-dkp: 0.0
 Shnacks:
   class: Druid
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Magtheridon's Head
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1517.77
