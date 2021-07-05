@@ -306,6 +306,19 @@ Kromlek:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
+Krumonx:
+  class: Warlock
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Social Member
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Malchazor:
   class: Paladin
   lottery-lootconfig:
