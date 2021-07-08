@@ -145,6 +145,7 @@ Demeker:
   class: Warlock
   lottery-lootconfig: []
   priority-lootconfig:
+  - Chestguard of the Fallen Hero
   - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: 1290.1
