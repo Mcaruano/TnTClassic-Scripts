@@ -584,7 +584,6 @@ Sylador:
   class: Druid
   lottery-lootconfig:
   - Chestguard of the Fallen Defender
-  - Magtheridon's Head
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 440.1
