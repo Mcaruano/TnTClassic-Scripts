@@ -422,8 +422,9 @@ Rayas:
   class: Shaman
   lottery-lootconfig:
   - Chestguard of the Fallen Champion
+  - Teeth of Gruul
+  priority-lootconfig:
   - Leggings of the Fallen Champion
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: -230.0
   t4-priority-dkp: 567.6
