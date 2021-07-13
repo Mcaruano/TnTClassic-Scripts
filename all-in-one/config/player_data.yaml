@@ -577,7 +577,8 @@ Solzar:
   t6pt5-priority-dkp: 0.0
 Sylador:
   class: Druid
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Pit Lord's Satchel
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 30.1
