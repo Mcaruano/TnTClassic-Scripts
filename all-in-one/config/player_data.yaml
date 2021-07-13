@@ -142,9 +142,9 @@ Dalran:
   t6pt5-priority-dkp: 0.0
 Demeker:
   class: Warlock
-  lottery-lootconfig: []
-  priority-lootconfig:
+  lottery-lootconfig:
   - Chestguard of the Fallen Hero
+  priority-lootconfig:
   - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: 1880.1
