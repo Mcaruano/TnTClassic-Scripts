@@ -493,6 +493,7 @@ Shnacks:
   class: Druid
   lottery-lootconfig:
   - Magtheridon's Head
+  - Pauldrons of the Fallen Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1880.1
