@@ -606,7 +606,6 @@ Vermora:
   class: Rogue
   lottery-lootconfig:
   - Chestguard of the Fallen Champion
-  - Leggings of the Fallen Champion
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
