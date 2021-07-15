@@ -129,8 +129,12 @@ Crazydaisy:
   t6pt5-priority-dkp: 0.0
 Dalran:
   class: Warrior
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Bladespire Warbands
+  - Girdle of the Endless Pit
+  - Leggings of the Fallen Defender
+  priority-lootconfig:
+  - Gauntlets of Martial Perfection
   rank: Core Raider
   t4-lottery-dkp: 1262.94
   t4-priority-dkp: 1262.94
