@@ -572,6 +572,7 @@ Solzar:
   class: Priest
   lottery-lootconfig:
   - Magtheridon's Head
+  - Soul-Eater's Handwraps
   priority-lootconfig:
   - Eye of Magtheridon
   rank: Core Raider
