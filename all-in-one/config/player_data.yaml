@@ -206,8 +206,12 @@ Galm:
   t6pt5-priority-dkp: 0.0
 Goodjorb:
   class: Mage
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Bloodmaw Magus-Blade
+  - Eredar Wand of Obliteration
+  - Magtheridon's Head
+  priority-lootconfig:
+  - Pauldrons of the Fallen Hero
   rank: Core Raider
   t4-lottery-dkp: 1598.08
   t4-priority-dkp: 1598.08
