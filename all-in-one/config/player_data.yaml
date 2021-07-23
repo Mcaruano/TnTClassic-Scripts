@@ -95,9 +95,9 @@ Barnabris:
   t6pt5-priority-dkp: 0.0
 Chuunin:
   class: Rogue
-  lottery-lootconfig:
-  - Chestguard of the Fallen Champion
+  lottery-lootconfig: []
   priority-lootconfig:
+  - Chestguard of the Fallen Champion
   - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 1927.87
