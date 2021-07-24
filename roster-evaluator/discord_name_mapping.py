@@ -97,6 +97,7 @@ DISCORD_NAME_MAPPING = {
     "Solljus/Verm": "Vermora",
     "Stephany": "Stephany",
     "Sylador": "Sylador",
+    "Tenfour": "Tenfour",
     "Thejudge": "Thejudge",
     "Venjamen": "Venjamen",
     "Venjamin": "Venjamen",
