@@ -385,12 +385,12 @@ Nashy:
   class: Warrior
   lottery-lootconfig:
   - Chestguard of the Fallen Defender
-  - Gauntlets of Martial Perfection
-  - Girdle of the Endless Pit
   - Leggings of the Fallen Defender
   - Pauldrons of the Fallen Defender
   priority-lootconfig:
   - Dragonspine Trophy
+  - Gauntlets of Martial Perfection
+  - Girdle of the Endless Pit
   rank: Core Raider
   t4-lottery-dkp: 1357.01
   t4-priority-dkp: 1971.13
