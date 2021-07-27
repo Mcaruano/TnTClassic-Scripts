@@ -657,7 +657,9 @@ Zeion:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
+  - Chestguard of the Fallen Defender
   - Girdle of the Endless Pit
+  - Pauldrons of the Fallen Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 394.23
