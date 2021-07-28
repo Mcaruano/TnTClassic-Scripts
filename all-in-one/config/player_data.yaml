@@ -568,6 +568,7 @@ Skypola:
 Solzar:
   class: Priest
   lottery-lootconfig:
+  - Belt of Divine Inspiration
   - Soul-Eater's Handwraps
   priority-lootconfig:
   - Eye of Magtheridon
