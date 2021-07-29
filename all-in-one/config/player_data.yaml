@@ -1,9 +1,19 @@
 Abstinence:
   class: Hunter
   lottery-lootconfig:
+  - Belt of One-Hundred Deaths
+  - Claw of the Phoenix
+  - Leggings of Murderous Intent
   - Magtheridon's Head
+  - Talon of the Phoenix
+  - Thalassian Wildercloak
   priority-lootconfig:
+  - Chestguard of the Vanquished Hero
   - Dragonspine Trophy
+  - Gloves of the Vanquished Hero
+  - Helm of the Vanquished Hero
+  - Pauldrons of the Vanquished Hero
+  - Serpent Spine Longbow
   rank: Core Raider
   t4-lottery-dkp: 834.6
   t4-priority-dkp: 2672.39
