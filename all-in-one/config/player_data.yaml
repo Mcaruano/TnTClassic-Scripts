@@ -121,7 +121,6 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
-  - Gronn-Stitched Girdle
   - Pauldrons of the Fallen Champion
   priority-lootconfig:
   - Dragonspine Trophy
