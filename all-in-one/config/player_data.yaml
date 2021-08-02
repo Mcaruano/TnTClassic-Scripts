@@ -498,7 +498,11 @@ Schroumpf:
   t6pt5-priority-dkp: 0.0
 Sekkondary:
   class: Shaman
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Fallen Champion
+  - Leggings of the Fallen Champion
+  - Matheridon's Head
+  - Pauldrons of the Fallen Chapion
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 745.42
