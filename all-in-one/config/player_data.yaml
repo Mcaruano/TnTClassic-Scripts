@@ -386,6 +386,7 @@ Mlg:
 Murduc:
   class: Warlock
   lottery-lootconfig:
+  - Eredar Wand of Obliteration
   - Eye of Magtheridon
   - Magtheridon's Head
   priority-lootconfig:
