@@ -256,8 +256,9 @@ Jahmee:
 Justin:
   class: Warlock
   lottery-lootconfig:
+  - Chestguard of the Fallen Hero
+  priority-lootconfig:
   - Pauldrons of the Fallen Hero
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1077.77
   t4-priority-dkp: 1421.53
