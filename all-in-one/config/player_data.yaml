@@ -237,10 +237,10 @@ Hyolin:
   t6pt5-priority-dkp: 0.0
 Jahmee:
   class: Shaman
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Soul-Eater's Handwraps
   priority-lootconfig:
   - Leggings of the Fallen Champion
-  - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 2861.53
   t4-priority-dkp: 2139.03
