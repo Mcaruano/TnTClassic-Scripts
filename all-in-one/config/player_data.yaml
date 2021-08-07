@@ -282,9 +282,9 @@ Kang:
 Kinasa:
   class: Priest
   lottery-lootconfig:
-  - Soul-Eater's Handwraps
-  priority-lootconfig:
   - Eye of Magtheridon
+  - Soul-Eater's Handwraps
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2766.96
   t4-priority-dkp: 2766.96
