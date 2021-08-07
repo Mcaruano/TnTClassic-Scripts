@@ -92,7 +92,8 @@ Barnabris:
   - Chestguard of the Fallen Champion
   - Leggings of the Fallen Champion
   - Magtheridon's Head
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Lightfathom Scepter
   rank: Core Raider
   t4-lottery-dkp: 820.78
   t4-priority-dkp: 2188.08
