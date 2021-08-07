@@ -209,7 +209,6 @@ Galm:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
-  - Bloodmaw Magus-Blade
   - Eredar Wand of Obliteration
   - Magtheridon's Head
   priority-lootconfig: []
