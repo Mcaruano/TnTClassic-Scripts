@@ -496,7 +496,6 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Chestguard of the Fallen Champion
-  - Leggings of the Fallen Champion
   - Magtheridon's Head
   priority-lootconfig: []
   rank: Core Raider
