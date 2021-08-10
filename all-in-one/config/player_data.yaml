@@ -369,9 +369,7 @@ Mitchendo:
 Mlg:
   class: Mage
   lottery-lootconfig:
-  - Eredar Wand of Obliteration
   - Magtheridon's Head
-  - Pauldrons of the Fallen Hero
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2432.3
