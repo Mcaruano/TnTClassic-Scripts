@@ -27,6 +27,7 @@ Akaran:
   class: Warrior
   lottery-lootconfig:
   - Leggings of the Fallen Defender
+  - Pauldrons of the Fallen Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1408.02
