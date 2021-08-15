@@ -180,7 +180,8 @@ Digie:
 Ellievyra:
   class: Priest
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Eye of Gruul
   rank: Core Raider
   t4-lottery-dkp: 3022.3
   t4-priority-dkp: 1856.1
