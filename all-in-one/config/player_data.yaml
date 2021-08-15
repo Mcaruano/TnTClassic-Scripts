@@ -121,7 +121,11 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
-  - Pauldrons of the Fallen Champion
+  - Talon of the Phoenix
+  - Rod of the Sun King
+  - Shoulderpads of the Stranger
+  - Thalassian Wildercloak
+  - 'Pattern: Boots of Utter Darkness'
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
