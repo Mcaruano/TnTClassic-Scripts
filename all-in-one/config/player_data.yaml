@@ -612,7 +612,8 @@ Solzar:
 Sylador:
   class: Druid
   lottery-lootconfig: []
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Lightfathom Scepter
   rank: Core Raider
   t4-lottery-dkp: 592.72
   t4-priority-dkp: 2568.95
