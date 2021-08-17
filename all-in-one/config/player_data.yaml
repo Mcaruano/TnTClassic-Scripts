@@ -454,12 +454,12 @@ Murduc:
   t6pt5-priority-dkp: 0.0
 Nashy:
   class: Warrior
-  lottery-lootconfig:
-  - Gauntlets of Martial Perfection
-  - Pauldrons of the Fallen Defender
+  lottery-lootconfig: []
   priority-lootconfig:
   - Dragonspine Trophy
+  - Gauntlets of Martial Perfection
   - Girdle of the Endless Pit
+  - Pauldrons of the Fallen Defender
   rank: Core Raider
   t4-lottery-dkp: 550.99
   t4-priority-dkp: 2500.63
