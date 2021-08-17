@@ -355,9 +355,20 @@ Malchazor:
   lottery-lootconfig:
   - Aldori Legacy Defender
   - Bloodmaw Magus-Blade
+  - Boots of the Resilient
   - Eye of Magtheridon
+  - Fang of the Leviathan
+  - Girdle of the Invulnerable
+  - Leggings of the Vanquished Champion
   - Pauldrons of the Fallen Champion
-  priority-lootconfig: []
+  - Pauldrons of the Vanquished Champion
+  - Phoenix-Wing Cloak
+  - Ring of Sundered Souls
+  - Royal Gauntlets of Silvermoon
+  - The Seal of Danzalar
+  - Wristguards of Determination
+  priority-lootconfig:
+  - Verdant Sphere
   rank: Core Raider
   t4-lottery-dkp: 2568.95
   t4-priority-dkp: 1954.83
