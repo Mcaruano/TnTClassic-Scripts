@@ -26,26 +26,28 @@ Abstinence:
 Akaran:
   class: Warrior
   lottery-lootconfig:
+  - Ancestral Ring of Conquest
   - Boots of the Resilient
+  - Chestguard of the Vanquished Defender
   - Frayed Tether of the Drowned
   - Girdle of the Invulnerable
+  - Gloves of the Vanquished Defender
   - Leggings of the Fallen Defender
+  - Leggings of the Vanquished Defender
   - Mallet of the Tides
   - Pauldrons of the Fallen Defender
+  - Pauldrons of the Vanquished Defender
   - Phoenix-Wing Cloak
   - 'Plans: Red Havoc Boots'
   - Ring of Sundered Souls
   - Royal Gauntlets of Silvermoon
+  - Serpentshrine Shuriken
   - Seventh Ring of the Tirisfalen
   - Spyglass of the Hidden Fleet
   - Verdant Sphere
   - Wristguards of Determination
   priority-lootconfig:
-  - Chestguard of the Vanquished Defender
-  - Gloves of the Vanquished Defender
-  - Leggings of the Vanquished Defender
-  - Pauldrons of the Vanquished Defender
-  - Serpentshrine Shuriken
+  - Belt of One-Hundred Deaths
   rank: Core Raider
   t4-lottery-dkp: 1786.82
   t4-priority-dkp: 3158.95
