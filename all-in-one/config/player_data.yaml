@@ -661,7 +661,16 @@ Solzar:
   t6pt5-priority-dkp: 0.0
 Sylador:
   class: Druid
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
+  - Coral Band of the Revived
+  - Girdle of Zaetar
+  - Grove-Bands of Remulos
+  - Helm of the Vanquished Defender
+  - Orca-Hide Boots
+  - Pauldrons of the Vanquished Defender
+  - Sunshower Light Cloak
+  - Verdant Sphere
   priority-lootconfig:
   - Lightfathom Scepter
   rank: Core Raider
