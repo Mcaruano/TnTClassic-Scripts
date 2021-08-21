@@ -73,13 +73,25 @@ Aro:
 Ashori:
   class: Paladin
   lottery-lootconfig:
+  - Band of the Ranger-General
+  - Belt of One-Hundred Deaths
+  - Bracers of Eradication
   - Bladespire Warbands
   - Chestguard of the Fallen Champion
+  - Chestguard of the Vanquished Champion
   - Girdle of the Endless Pit
+  - Gloves of the Searing Grip
+  - Helm of the Vanquished Champion
+  - Leggings of Murderous Intent
   - Leggings of the Fallen Champion
   - Pauldrons of the Fallen Champion
+  - Pendant of the Perilous
+  - Razor-Scale Battlecloak
+  - Tsunami Talisman
+  - Warboots of Obliteration
   priority-lootconfig:
   - Dragonspine Trophy
+  - Shoulderpads of the Stranger
   rank: Core Raider
   t4-lottery-dkp: 3010.25
   t4-priority-dkp: 3010.25
