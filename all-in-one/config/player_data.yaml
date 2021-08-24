@@ -123,9 +123,9 @@ Barnabris:
   lottery-lootconfig:
   - Chestguard of the Fallen Champion
   - Leggings of the Fallen Champion
-  - Magtheridon's Head
   priority-lootconfig:
   - Lightfathom Scepter
+  - Magtheridon's Head
   rank: Core Raider
   t4-lottery-dkp: 1431.83
   t4-priority-dkp: 2271.53
