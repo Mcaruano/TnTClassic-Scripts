@@ -182,8 +182,15 @@ Dalran:
   t6pt5-priority-dkp: 0.0
 Demeker:
   class: Warlock
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Fang of the Leviathan
+  - Mindstorm Wristbands
+  - Ring of Endless Coils
+  - Royal Cloak of the Sunstriders
+  - Verdant Sphere
+  - Wand of the Forgotten Star
+  priority-lootconfig:
+  - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 2831.41
   t4-priority-dkp: 2002.62
