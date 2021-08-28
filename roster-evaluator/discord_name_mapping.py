@@ -97,6 +97,7 @@ DISCORD_NAME_MAPPING = {
     "Skypola": "Skypola",
     "Snickercakes": "Snickercakes",
     "Solljus/Verm": "Vermora",
+    "SolzaroftheBl": "Solzar",
     "Stephany": "Stephany",
     "Sylador": "Sylador",
     "Tenfour": "Tenfour",
