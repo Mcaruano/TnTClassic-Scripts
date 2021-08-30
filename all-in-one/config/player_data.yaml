@@ -341,9 +341,11 @@ Kang:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Kinasa:
-  class: Priest
-  lottery-lootconfig: []
+Kinastra:
+  class: Shaman
+  lottery-lootconfig:
+  - Brute Cloak of the Ogre-Magi
+  - Pauldrons of the Fallen Champion
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3217.04

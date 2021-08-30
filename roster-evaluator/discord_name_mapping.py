@@ -48,7 +48,7 @@ DISCORD_NAME_MAPPING = {
     "Justin": "Justin",
     "Kang": "Kang",
     "Kiele": "Kiele",
-    "Kinasa": "Kinasa",
+    "Kinasa": "Kinastra",
     "kharagan": "Kharagan",
     "Kortey": "Korteh",
     "Krumson": "Krumonx",
