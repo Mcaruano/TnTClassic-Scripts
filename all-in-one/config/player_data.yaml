@@ -468,10 +468,10 @@ Murduc:
   t6pt5-priority-dkp: 0.0
 Nashy:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Gauntlets of Martial Perfection
   priority-lootconfig:
   - Dragonspine Trophy
-  - Gauntlets of Martial Perfection
   - Girdle of the Endless Pit
   rank: Core Raider
   t4-lottery-dkp: 1325.86
