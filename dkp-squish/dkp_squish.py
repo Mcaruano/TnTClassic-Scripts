@@ -1,7 +1,9 @@
 # coding=utf-8
 
-# This script takes in the current AddOn LUA data and performs the decay. The specific
-# LUA tables which get decayed and output are hard-coded in the code below.
+# This script uses the DKP data contained in the "original_data/TnTDKP.lua" file and uses it
+# to perform the "squish" to determine the seeding for the upcoming raid tier. The output
+# of this calculation is a .lua file with the new PRIORITY and LOTTERY DKP standings of the
+# upcoming raid tier.
 
 from datetime import datetime
 import os
@@ -15,8 +17,11 @@ INPUT_LUA_DATA_FILE_NAME = "TnTDKP.lua"
 OUTPUT_DATA_FOLDER_NAME = "output"
 OUTPUT_LUA_DATA_FILE_NAME = "TnTDKP_squished.lua"
 
-PRIORITY_DKP_TARGET = 5000
-LOTTERY_DKP_TARGET = 5000
+PRIORITY_DKP_TARGET = 2500
+LOTTERY_DKP_TARGET = 2500
+
+PREVIOUS_RAID_TIER = "T4"
+NEXT_RAID_TIER = "T5"
 
 """
 Parses a LUA file into a python dictionary. The Dictionary structure is as follows:
@@ -48,9 +53,9 @@ def parse_addon_lua_file_to_dict(filePath):
         # Regex matches strings such as "PLAYER_PRIORITY_REGISTRY" or "STANDBYEP"
         if re.search("[A-Z]+(_[A-Z]+)* = ", line) is not None:
 
-            # For T2.5, I have variable names which don't follow the standard LUA variable pattern. This prepends
-            # a (T2)* onto the front of the pattern to capture T2PT5_* variable names.
-            variableName = re.search("(T2)*[A-Z]+[0-9]*(_[A-Z]+)* = ", line).group()[:-3]
+            # For T6.5, I have variable names which don't follow the standard LUA variable pattern. This prepends
+            # a (T6)* onto the front of the pattern to capture T6PT5_* variable names.
+            variableName = re.search("(T6)*[A-Z]+[0-9]*(_[A-Z]+)* = ", line).group()[:-3]
             dataDict[variableName] = {}
 
             # The only variables I care about parsing are all Tables. Table variables always have a "{" bracket
@@ -132,33 +137,35 @@ def parse_data_record(dataDict, dictKeyStack, data_record):
         dictForItemID[playerName] = dkp     
 
 def calculate_and_execute_squish(addonDataDict):
+    previousPriorityTableKey = '{}_PRIORITY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
+    previousLotteryTableKey = '{}_LOTTERY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
     # Determine who has the highest Priority DKP
-    highestPriorityDKPRecord = sorted(addonDataDict['T2PT5_PRIORITY_DKP_TABLE'].items(), key=lambda item: item[1], reverse=True)[0]
-    print("PRIORITY - Highest T2.5 DKP record is: {}".format(highestPriorityDKPRecord))
+    highestPriorityDKPRecord = sorted(addonDataDict[previousPriorityTableKey].items(), key=lambda item: item[1], reverse=True)[0]
+    print("PRIORITY - Highest {} DKP record is: {}".format(PREVIOUS_RAID_TIER, highestPriorityDKPRecord))
 
     # Determine the factor to scale the Priority DKP by
     priorityScalar = PRIORITY_DKP_TARGET / highestPriorityDKPRecord[1]
     print("PRIORITY - Squish Scaling Factor = {}".format(priorityScalar))
 
     # Scale all Priority DKP values by the Priority scaling factor, using a precision of 2 decimal places
-    for player in addonDataDict['T2PT5_PRIORITY_DKP_TABLE']:
-        addonDataDict['T2PT5_PRIORITY_DKP_TABLE'][player] = '{:.2f}'.format(addonDataDict['T2PT5_PRIORITY_DKP_TABLE'][player] * priorityScalar)
+    for player in addonDataDict[previousPriorityTableKey]:
+        addonDataDict[previousPriorityTableKey][player] = '{:.2f}'.format(addonDataDict[previousPriorityTableKey][player] * priorityScalar)
 
 
     # Determine who has the highest Lottery DKP
-    highestLotteryDKPRecord = sorted(addonDataDict['T2PT5_LOTTERY_DKP_TABLE'].items(), key=lambda item: item[1], reverse=True)[0]
-    print("LOTTERY - Highest T2.5 DKP record is: {}".format(highestLotteryDKPRecord))
+    highestLotteryDKPRecord = sorted(addonDataDict[previousLotteryTableKey].items(), key=lambda item: item[1], reverse=True)[0]
+    print("LOTTERY - Highest {} DKP record is: {}".format(PREVIOUS_RAID_TIER, highestLotteryDKPRecord))
 
     # Determine the factor to scale the Lottery DKP by
     lotteryScalar = LOTTERY_DKP_TARGET / highestLotteryDKPRecord[1]
     print("LOTTERY - Squish Scaling Factor = {}".format(lotteryScalar))
 
     # Scale all Priority DKP values by the Priority scaling factor, using a precision of 2 decimal places
-    for player in addonDataDict['T2PT5_LOTTERY_DKP_TABLE']:
-        if addonDataDict['T2PT5_LOTTERY_DKP_TABLE'][player] < 0:
+    for player in addonDataDict[previousLotteryTableKey]:
+        if addonDataDict[previousLotteryTableKey][player] < 0:
             print("{} had negative Lottery DKP, not squishing".format(player))
         else:
-            addonDataDict['T2PT5_LOTTERY_DKP_TABLE'][player] = '{:.2f}'.format(addonDataDict['T2PT5_LOTTERY_DKP_TABLE'][player] * lotteryScalar)
+            addonDataDict[previousLotteryTableKey][player] = '{:.2f}'.format(addonDataDict[previousLotteryTableKey][player] * lotteryScalar)
     
     return addonDataDict
 
@@ -166,14 +173,17 @@ def calculate_and_execute_squish(addonDataDict):
 Given the squished data as a dictionary, generate the Lua data tables we desire.
 """
 def generate_squished_addon_lua_data(mergedDataDict, outputFilePath):
+    previousPriorityTableKey = '{}_PRIORITY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
+    previousLotteryTableKey = '{}_LOTTERY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
+
     with open(outputFilePath, "w") as f:
 
-        f.write('T3_PRIORITY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, mergedDataDict['T2PT5_PRIORITY_DKP_TABLE'])
+        f.write('{}_PRIORITY_DKP_TABLE = {\n'.format(NEXT_RAID_TIER))
+        print_dkp_to_file_as_lua_table(f, mergedDataDict[previousPriorityTableKey])
         f.write('}\n')
 
-        f.write('T3_LOTTERY_DKP_TABLE = {\n')
-        print_dkp_to_file_as_lua_table(f, mergedDataDict['T2PT5_LOTTERY_DKP_TABLE'])
+        f.write('{}_LOTTERY_DKP_TABLE = {\n'.format(NEXT_RAID_TIER))
+        print_dkp_to_file_as_lua_table(f, mergedDataDict[previousLotteryTableKey])
         f.write('}\n')
 
 
