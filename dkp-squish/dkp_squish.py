@@ -2,8 +2,9 @@
 
 # This script uses the DKP data contained in the "original_data/TnTDKP.lua" file and uses it
 # to perform the "squish" to determine the seeding for the upcoming raid tier. The output
-# of this calculation is a .lua file with the new PRIORITY and LOTTERY DKP standings of the
-# upcoming raid tier.
+# of this calculation is a .yaml file with the new PRIORITY and LOTTERY DKP standings of the
+# upcoming raid tier already formatted in the way I need to just copy and paste them into
+# the player_data.yaml file
 
 from datetime import datetime
 import os
@@ -15,7 +16,7 @@ ORIGINAL_DATA_FOLDER_NAME = "original_data"
 INPUT_LUA_DATA_FILE_NAME = "TnTDKP.lua"
 
 OUTPUT_DATA_FOLDER_NAME = "output"
-OUTPUT_LUA_DATA_FILE_NAME = "TnTDKP_squished.lua"
+OUTPUT_LUA_DATA_FILE_NAME = "TnTDKP_squished.yaml"
 
 PRIORITY_DKP_TARGET = 2500
 LOTTERY_DKP_TARGET = 2500
@@ -169,24 +170,6 @@ def calculate_and_execute_squish(addonDataDict):
     
     return addonDataDict
 
-"""
-Given the squished data as a dictionary, generate the Lua data tables we desire.
-"""
-def generate_squished_addon_lua_data(mergedDataDict, outputFilePath):
-    previousPriorityTableKey = '{}_PRIORITY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
-    previousLotteryTableKey = '{}_LOTTERY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
-
-    with open(outputFilePath, "w") as f:
-
-        f.write('{}_PRIORITY_DKP_TABLE = {\n'.format(NEXT_RAID_TIER))
-        print_dkp_to_file_as_lua_table(f, mergedDataDict[previousPriorityTableKey])
-        f.write('}\n')
-
-        f.write('{}_LOTTERY_DKP_TABLE = {\n'.format(NEXT_RAID_TIER))
-        print_dkp_to_file_as_lua_table(f, mergedDataDict[previousLotteryTableKey])
-        f.write('}\n')
-
-
 '''
 Transforms the given dkpDict into Lua table format, printing each entry to
 the provided filestream.
@@ -194,6 +177,21 @@ the provided filestream.
 def print_dkp_to_file_as_lua_table(outputFile, dkpDict):
     for player in dkpDict:
         outputFile.write('   ["{}"] = {},\n'.format(player,dkpDict[player]))
+
+
+def print_new_dkp_values_to_yaml_format(mergedDataDict, outputFile):
+    previousPriorityTableKey = '{}_PRIORITY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
+    previousLotteryTableKey = '{}_LOTTERY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
+    upcomingRaidTierPriorityYamlKey = "{}-priority-dkp".format(NEXT_RAID_TIER.lower())
+    upcomingRaidTierLotteryYamlKey = "{}-lottery-dkp".format(NEXT_RAID_TIER.lower())
+
+
+    with open(outputFilePath, "w") as outputFile:
+        for player in sorted(mergedDataDict[previousPriorityTableKey]):
+            outputFile.write('{}:\n'.format(player))
+            outputFile.write('  {}: {}\n'.format(upcomingRaidTierPriorityYamlKey, mergedDataDict[previousPriorityTableKey][player]))
+            outputFile.write('  {}: {}\n'.format(upcomingRaidTierLotteryYamlKey, mergedDataDict[previousLotteryTableKey][player]))
+
 
 
 if __name__ == "__main__":
@@ -210,7 +208,7 @@ if __name__ == "__main__":
     if not os.path.exists(outputFileDirectory):
         os.makedirs(outputFileDirectory)
     outputFilePath = os.path.join(outputFileDirectory, OUTPUT_LUA_DATA_FILE_NAME)
-    generate_squished_addon_lua_data(addonDataDictAfterSquish, outputFilePath)
+    print_new_dkp_values_to_yaml_format(addonDataDictAfterSquish, outputFilePath)
 
     sys.exit(0)
 
