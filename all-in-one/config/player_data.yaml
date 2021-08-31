@@ -749,7 +749,10 @@ Zeion:
   t6pt5-priority-dkp: 0.0
 Zerxx:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Belt of One-Hundred Deaths
+  - Leggings of Murderous Intent
+  - Shoulderpads of the Stranger
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1512.8
