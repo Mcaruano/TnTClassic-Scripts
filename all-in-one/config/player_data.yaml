@@ -294,7 +294,12 @@ Hulkhigginz:
   t6pt5-priority-dkp: 0.0
 Hyolin:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
+  - Gloves of the Vanquished Defender
+  - Helm of the Vanquished Defender
+  - Leggings of the Vanquished Defender
+  - Pauldrons of the Vanquished Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2856.4
