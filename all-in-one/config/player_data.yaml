@@ -298,9 +298,11 @@ Hyolin:
 Jahmee:
   class: Shaman
   lottery-lootconfig:
+  - Ring of Endless Coils
   - Soul-Eater's Handwraps
   priority-lootconfig:
   - Leggings of the Fallen Champion
+  - Leggings of the Vanquished Champion
   rank: Core Raider
   t4-lottery-dkp: 3373.84
   t4-priority-dkp: 2996.7
