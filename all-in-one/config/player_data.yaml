@@ -213,9 +213,19 @@ Digie:
   t6pt5-priority-dkp: 0.0
 Ellievyra:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
+  - Coral Band of the Revived
+  - Gloves of the Vanquished Defender
+  - Helm of the Vanquished Defender
+  - Leggings of the Vanquished Defender
+  - Pauldrons of the Vanquished Defender
+  - Soul-Strider Boots
   priority-lootconfig:
+  - Earring of Soulful Meditation
   - Eye of Gruul
+  - Lightfathom Scepter
+  - Verdant Sphere
   rank: Core Raider
   t4-lottery-dkp: 3373.84
   t4-priority-dkp: 2657.65
