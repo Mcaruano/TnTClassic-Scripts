@@ -763,8 +763,16 @@ Wildshrimp:
   t6pt5-priority-dkp: 0.0
 Zeion:
   class: Priest
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
+  - Gloves of the Vanquished Defender
+  - Helm of the Vanquished Defender
+  - Leggings of the Vanquished Defender
+  - Pauldrons of the Vanquished Defender
+  priority-lootconfig:
+  - Earring of Soulful Meditation
+  - Lightfathom Scepter
+  - Sunshower Light Cloak
   rank: Core Raider
   t4-lottery-dkp: 3373.84
   t4-priority-dkp: 3373.84
