@@ -145,7 +145,6 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
-  - 'Pattern: Boots of Utter Darkness'
   - Rod of the Sun King
   - Shoulderpads of the Stranger
   - Talon of the Phoenix
