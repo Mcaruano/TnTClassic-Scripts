@@ -469,8 +469,16 @@ Murduc:
   class: Warlock
   lottery-lootconfig:
   - Eredar Wand of Obliteration
+  - Fang of the Leviathan
+  - Mindstorm Wristbands
+  - 'Pattern: Boots of Blasting'
+  - Ring of Endless Coils
+  - Royal Cloak of the Sunstriders
+  - Verdant Sphere
+  - Wand of the Forgotten Star
   priority-lootconfig:
   - Bloodmaw Magus-Blade
+  - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 1897.72
   t4-priority-dkp: 2930.14
