@@ -670,9 +670,13 @@ Skypola:
   t6pt5-priority-dkp: 0.0
 Solzar:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Band of Al'ar
+  - Pendant of the Lost Ages
+  - Royal Cloak of the Sunstriders
   priority-lootconfig:
   - Soul-Eater's Handwraps
+  - Wand of the Forgotten Star
   rank: Core Raider
   t4-lottery-dkp: 1029.48
   t4-priority-dkp: 2802.47
