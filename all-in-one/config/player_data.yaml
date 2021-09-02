@@ -145,10 +145,14 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
+  - Gloves of the Vanquished Champion
+  - Helm of the Vanquished Champion
+  - Leggings of the Vanquished Champion
   - Rod of the Sun King
   - Shoulderpads of the Stranger
   - Talon of the Phoenix
   - Thalassian Wildercloak
+  - Tsunami Talisman
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
