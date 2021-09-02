@@ -582,8 +582,12 @@ Schroumpf:
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
+  - Girdle of Fallen Stars
   - Magtheridon's Head
-  priority-lootconfig: []
+  - Sunhawk Leggings
+  - Verdant Sphere
+  priority-lootconfig:
+  - Lightfathom Scepter
   rank: Core Raider
   t4-lottery-dkp: 1055.2
   t4-priority-dkp: 3373.84
