@@ -362,7 +362,13 @@ Justin:
   t6pt5-priority-dkp: 0.0
 Kang:
   class: Warrior
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Band of the Ranger-General
+  - Band of Vile Aggression
+  - Bracers of Eradication
+  - Fang of Vashj
+  - Tsunami Talisman
+  - Warboots of Obliteration
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
