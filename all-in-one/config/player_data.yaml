@@ -340,9 +340,17 @@ Jahmee:
   t6pt5-priority-dkp: 0.0
 Justin:
   class: Warlock
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Fang of the Leviathan
+  - Mindstorm Wristbands
+  - 'Pattern: Boots of Blasting'
+  - Pauldrons of the Vanquished Hero
+  - Ring of Endless Coils
+  - Verdant Sphere
+  - Wand of the Forgotten Star
   priority-lootconfig:
   - Pauldrons of the Fallen Hero
+  - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 1900.69
   t4-priority-dkp: 2930.14
