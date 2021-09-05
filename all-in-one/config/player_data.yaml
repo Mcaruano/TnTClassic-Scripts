@@ -175,10 +175,9 @@ Crazydaisy:
   t6pt5-priority-dkp: 0.0
 Dalran:
   class: Warrior
-  lottery-lootconfig:
-  - Girdle of the Endless Pit
+  lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Core Raider
+  rank: Social Member
   t4-lottery-dkp: 1771.43
   t4-priority-dkp: 2092.01
   t5-lottery-dkp: 0.0
