@@ -835,12 +835,12 @@ Zeion:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
-  - Belt of One-Hundred Deaths
   - Girdle of the Endless Pit
   - Leggings of Murderous Intent
   - Pauldrons of the Fallen Defender
   - Shoulderpads of the Stranger
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Belt of One-Hundred Deaths
   rank: Core Raider
   t4-lottery-dkp: 1787.38
   t4-priority-dkp: 2867.76
