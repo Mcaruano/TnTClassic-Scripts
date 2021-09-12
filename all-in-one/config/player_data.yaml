@@ -285,8 +285,16 @@ Galm:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
-  - Eredar Wand of Obliteration
-  priority-lootconfig: []
+  - Fang of the Leviathan
+  - Mantle of the Elven Kings
+  - Mindstorm Wristbands
+  - Ring of Endless Coils
+  - Vestments of the Sea-Witch
+  priority-lootconfig:
+  - 'Pattern: Boots of Blasting'
+  - Pauldrons of the Vanquished Hero
+  - Verdant Sphere
+  - Wand of the Forgotten Star
   rank: Core Raider
   t4-lottery-dkp: 2482.87
   t4-priority-dkp: 3210.37
