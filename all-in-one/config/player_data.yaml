@@ -782,8 +782,12 @@ Thejudge:
 Vermora:
   class: Rogue
   lottery-lootconfig:
+  - Arcanite Steam-Pistol
   - Chestguard of the Fallen Champion
+  - Gloves of the Vanquished Champion
+  - Pauldrons of the Vanquished Champion
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Dragonspine Trophy
   - Talon of Azshara
   rank: Core Raider
