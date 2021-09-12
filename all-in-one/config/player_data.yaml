@@ -259,12 +259,11 @@ Ellievyra:
 Galm:
   class: Mage
   lottery-lootconfig:
-  - Fang of the Leviathan
-  - Fathomstone
   - Gauntlets of the Sun King
   - Mindstorm Wristbands
   - Royal Cloak of the Sunstriders
   - Serpent-Coil Braid
+  - The Nexus Key
   - Velvet Boots of the Guardian
   - Verdant Sphere
   priority-lootconfig:
