@@ -159,17 +159,16 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
+  - Belt of One-Hundred Deaths
   - Gloves of the Vanquished Champion
   - Helm of the Vanquished Champion
   - Leggings of the Vanquished Champion
-  - Rod of the Sun King
   - Shoulderpads of the Stranger
-  - Talon of the Phoenix
   - Thalassian Wildercloak
   - Tsunami Talisman
   priority-lootconfig:
-  - Belt of One-Hundred Deaths
   - Dragonspine Trophy
+  - Rod of the Sun King
   rank: Core Raider
   t4-lottery-dkp: 2645.19
   t4-priority-dkp: 3457.76
