@@ -572,8 +572,14 @@ Pikachau:
 Rayas:
   class: Shaman
   lottery-lootconfig:
+  - Blackfathom Warbands
   - Chestguard of the Fallen Champion
-  priority-lootconfig: []
+  - Chestguard of the Vanquished Champion
+  - Phoenix-Ring of Rebirth
+  - Verdant Sphere
+  priority-lootconfig:
+  - Lightfathom Scepter
+  - Worldstorm Gauntlets
   rank: Core Raider
   t4-lottery-dkp: 2639.84
   t4-priority-dkp: 2274.86
