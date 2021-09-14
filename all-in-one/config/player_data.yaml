@@ -99,9 +99,9 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
-  - Belt of One-Hundred Deaths
   - Chestguard of the Fallen Defender
   - Chestguard of the Vanquished Defender
+  - Girdle of the Endless Pit
   - Helm of the Vanquished Defender
   - Leggings of the Vanquished Defender
   - Pauldrons of the Vanquished Defender
@@ -109,8 +109,8 @@ Baopi:
   - Tsunami Talisman
   - Warboots of Obliteration
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Dragonspine Trophy
-  - Girdle of the Endless Pit
   rank: Core Raider
   t4-lottery-dkp: 1762.21
   t4-priority-dkp: 2903.44
