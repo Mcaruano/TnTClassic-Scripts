@@ -659,8 +659,14 @@ Sekkondary:
 Shnacks:
   class: Druid
   lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
+  - Cord of Screaming Terrors
+  - Gloves of the Vanquished Defender
+  - Helm of the Vanquished Defender
   - Magtheridon's Head
-  priority-lootconfig: []
+  - Verdant Sphere
+  priority-lootconfig:
+  - Pauldrons of the Vanquished Defender
   rank: Core Raider
   t4-lottery-dkp: 2939.1
   t4-priority-dkp: 2939.1
