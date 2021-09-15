@@ -588,18 +588,8 @@ Rayas:
   t6pt5-priority-dkp: 0.0
 Roodolph:
   class: Hunter
-  lottery-lootconfig:
-  - Claw of the Phoenix
-  - Leggings of Murderous Intent
-  - Talon of the Phoenix
-  - Thalassian Wildercloak
-  priority-lootconfig:
-  - Chestguard of the Vanquished Hero
-  - Dragonspine Trophy
-  - Gloves of the Vanquished Hero
-  - Helm of the Vanquished Hero
-  - Pauldrons of the Vanquished Hero
-  - Serpent Spine Longbow
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2768.12
   t4-priority-dkp: 2999.73
