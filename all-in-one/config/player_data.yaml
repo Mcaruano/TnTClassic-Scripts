@@ -532,6 +532,7 @@ Nashy:
   - Belt of One-Hundred Deaths
   - Bracers of Eradication
   - Chestguard of the Vanquished Defender
+  - Girdle of the Endless Pit
   - Helm of the Vanquished Defender
   - Leggings of Murderous Intent
   - Pauldrons of the Vanquished Defender
@@ -541,7 +542,6 @@ Nashy:
   - Warboots of Obliteration
   priority-lootconfig:
   - Dragonspine Trophy
-  - Girdle of the Endless Pit
   - Rod of the Sun King
   - Talon of Azshara
   rank: Core Raider
