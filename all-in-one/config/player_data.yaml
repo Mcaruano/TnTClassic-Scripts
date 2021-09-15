@@ -745,6 +745,7 @@ Sylador:
   - Chestguard of the Vanquished Defender
   - Coral Band of the Revived
   - Helm of the Vanquished Defender
+  - Leggings of the Fallen Defender
   - Leggings of the Vanquished Defender
   - Orca-Hide Boots
   - Pauldrons of the Vanquished Defender
@@ -752,6 +753,7 @@ Sylador:
   - Verdant Sphere
   priority-lootconfig:
   - Lightfathom Scepter
+  - Magtheridon's Head
   rank: Core Raider
   t4-lottery-dkp: 2122.87
   t4-priority-dkp: 2999.73
