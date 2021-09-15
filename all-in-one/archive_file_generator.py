@@ -156,6 +156,8 @@ that name based on the AddOn output data
 """
 def generate_archive_file_name(addonDataDict):
     GRUULS_LAIR_BOSSES = ["Dragonkiller", "Maulgar"]
+    SSC_BOSSES = ["Unstable", "Below", "Blind", "Karathress", "Tidewalker", "Vashj"]
+    TK_BOSSES = ["Al'ar", "Reaver", "Solarian", "Sunstrider"]
 
     transactionsTables = [
         'T4_PRIORITY_TRANSACTIONS', 'T4_LOTTERY_TRANSACTIONS', 'T4_OPEN_TRANSACTIONS', 
@@ -190,6 +192,10 @@ def generate_archive_file_name(addonDataDict):
                     raidsPresentInTransactions.add('Mag')
                 elif bossName in GRUULS_LAIR_BOSSES:
                     raidsPresentInTransactions.add('Gruul')
+                elif bossName in SSC_BOSSES:
+                    raidsPresentInTransactions.add('SSC')
+                elif bossName in TK_BOSSES:
+                    raidsPresentInTransactions.add('TK')
 
     # Convert mostRecentTransactionTimestamp to proper string format: "2020_02_04"
     filenameDateSegment = mostRecentTransactionTimestamp.strftime("%Y_%m_%d")
@@ -204,6 +210,10 @@ def generate_archive_file_name(addonDataDict):
             raidTiersInOrder.append('Mag')
         if 'Gruul' in raidsPresentInTransactions:
             raidTiersInOrder.append('Gruul')
+        if 'SSC' in raidsPresentInTransactions:
+            raidTiersInOrder.append('SSC')
+        if 'TK' in raidsPresentInTransactions:
+            raidTiersInOrder.append('TK')
         filenameContentSegment = '+'.join(raidTiersInOrder)
 
     # Take the previous two values and produce the archive file name
