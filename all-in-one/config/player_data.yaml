@@ -13,8 +13,8 @@ Abstinence:
   - Pauldrons of the Vanquished Hero
   - Serpent Spine Longbow
   rank: Core Raider
-  t4-lottery-dkp: 1884.83
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 1984.83
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2020.52
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -47,8 +47,8 @@ Akaran:
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
-  t4-lottery-dkp: 1868.91
-  t4-priority-dkp: 2941.65
+  t4-lottery-dkp: 1968.91
+  t4-priority-dkp: 3041.65
   t5-lottery-dkp: 7.19
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -85,8 +85,8 @@ Ashori:
   - Dragonspine Trophy
   - Shoulderpads of the Stranger
   rank: Core Raider
-  t4-lottery-dkp: 1469.62
-  t4-priority-dkp: 2933.75
+  t4-lottery-dkp: 1569.62
+  t4-priority-dkp: 3033.75
   t5-lottery-dkp: -2325.43
   t5-priority-dkp: 2894.98
   t6-lottery-dkp: 0.0
@@ -109,8 +109,8 @@ Baopi:
   - Belt of One-Hundred Deaths
   - Dragonspine Trophy
   rank: Core Raider
-  t4-lottery-dkp: 1999.38
-  t4-priority-dkp: 2969.42
+  t4-lottery-dkp: 2099.38
+  t4-priority-dkp: 3069.42
   t5-lottery-dkp: 116.39
   t5-priority-dkp: 2924.99
   t6-lottery-dkp: 0.0
@@ -130,8 +130,8 @@ Barnabris:
   priority-lootconfig:
   - Lightfathom Scepter
   rank: Core Raider
-  t4-lottery-dkp: 2345.52
-  t4-priority-dkp: 2261.84
+  t4-lottery-dkp: 2445.52
+  t4-priority-dkp: 2361.84
   t5-lottery-dkp: 2404.82
   t5-priority-dkp: 2334.79
   t6-lottery-dkp: 0.0
@@ -145,8 +145,8 @@ Chuunin:
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
-  t4-lottery-dkp: 2878.83
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 2978.83
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2849.13
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -165,8 +165,8 @@ Crazydaisy:
   priority-lootconfig:
   - Rod of the Sun King
   rank: Core Raider
-  t4-lottery-dkp: 2412.65
-  t4-priority-dkp: 2149.73
+  t4-lottery-dkp: 2512.65
+  t4-priority-dkp: 2249.73
   t5-lottery-dkp: 460.67
   t5-priority-dkp: 2241.43
   t6-lottery-dkp: 0.0
@@ -199,8 +199,8 @@ Demeker:
   priority-lootconfig:
   - Vestments of the Sea-Witch
   rank: Core Raider
-  t4-lottery-dkp: 2768.12
-  t4-priority-dkp: 2335.49
+  t4-lottery-dkp: 2868.12
+  t4-priority-dkp: 2435.49
   t5-lottery-dkp: 2757.44
   t5-priority-dkp: 2396.48
   t6-lottery-dkp: 0.0
@@ -215,8 +215,8 @@ Digie:
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2622.59
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 2722.59
   t5-lottery-dkp: 2950.0
   t5-priority-dkp: 2635.73
   t6-lottery-dkp: 0.0
@@ -239,8 +239,8 @@ Ellievyra:
   - Lightfathom Scepter
   - Verdant Sphere
   rank: Core Raider
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2559.9
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 2659.9
   t5-lottery-dkp: 2950.0
   t5-priority-dkp: 2583.21
   t6-lottery-dkp: 0.0
@@ -264,8 +264,8 @@ Galm:
   - Pauldrons of the Fallen Hero
   - Pauldrons of the Vanquished Hero
   rank: Core Raider
-  t4-lottery-dkp: 983.42
-  t4-priority-dkp: 2768.12
+  t4-lottery-dkp: 1083.42
+  t4-priority-dkp: 2868.12
   t5-lottery-dkp: -730.56
   t5-priority-dkp: 2757.44
   t6-lottery-dkp: 0.0
@@ -286,8 +286,8 @@ Goodjorb:
   - Verdant Sphere
   - Wand of the Forgotten Star
   rank: Core Raider
-  t4-lottery-dkp: 2295.37
-  t4-priority-dkp: 2930.05
+  t4-lottery-dkp: 2395.37
+  t4-priority-dkp: 3030.05
   t5-lottery-dkp: 2363.14
   t5-priority-dkp: 2800.78
   t6-lottery-dkp: 0.0
@@ -317,8 +317,8 @@ Hyolin:
   - Pauldrons of the Vanquished Defender
   priority-lootconfig: []
   rank: Core Raider
-  t4-lottery-dkp: 2681.96
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 2781.96
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2684.91
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -333,8 +333,8 @@ Jahmee:
   priority-lootconfig:
   - Leggings of the Fallen Champion
   rank: Core Raider
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2768.12
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 2868.12
   t5-lottery-dkp: 2950.0
   t5-priority-dkp: 757.44
   t6-lottery-dkp: 0.0
@@ -355,8 +355,8 @@ Justin:
   - Pauldrons of the Fallen Hero
   - Vestments of the Sea-Witch
   rank: Core Raider
-  t4-lottery-dkp: 2095.04
-  t4-priority-dkp: 2727.25
+  t4-lottery-dkp: 2195.04
+  t4-priority-dkp: 2827.25
   t5-lottery-dkp: 2196.42
   t5-priority-dkp: 2723.26
   t6-lottery-dkp: 0.0
@@ -374,8 +374,8 @@ Kang:
   priority-lootconfig:
   - Dragonspine Trophy
   rank: Core Raider
-  t4-lottery-dkp: 2368.21
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 2468.21
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2423.99
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -392,8 +392,8 @@ Kinastra:
   - Verdant Sphere
   priority-lootconfig: []
   rank: Core Raider
-  t4-lottery-dkp: 1524.42
-  t4-priority-dkp: 2930.05
+  t4-lottery-dkp: 1624.42
+  t4-priority-dkp: 3030.05
   t5-lottery-dkp: 1720.42
   t5-priority-dkp: 2924.99
   t6-lottery-dkp: 0.0
@@ -419,8 +419,8 @@ Malchazor:
   priority-lootconfig:
   - Verdant Sphere
   rank: Core Raider
-  t4-lottery-dkp: 2277.23
-  t4-priority-dkp: 2727.25
+  t4-lottery-dkp: 2377.23
+  t4-priority-dkp: 2827.25
   t5-lottery-dkp: 2348.13
   t5-priority-dkp: 2723.26
   t6-lottery-dkp: 0.0
@@ -441,8 +441,8 @@ Murduc:
   priority-lootconfig:
   - Vestments of the Sea-Witch
   rank: Core Raider
-  t4-lottery-dkp: 2093.21
-  t4-priority-dkp: 1877.25
+  t4-lottery-dkp: 2193.21
+  t4-priority-dkp: 1977.25
   t5-lottery-dkp: 2194.75
   t5-priority-dkp: 2014.69
   t6-lottery-dkp: 0.0
@@ -469,8 +469,8 @@ Nashy:
   - Rod of the Sun King
   - Talon of Azshara
   rank: Core Raider
-  t4-lottery-dkp: 1490.23
-  t4-priority-dkp: 2525.72
+  t4-lottery-dkp: 1590.23
+  t4-priority-dkp: 2625.72
   t5-lottery-dkp: 1692.08
   t5-priority-dkp: 2554.87
   t6-lottery-dkp: 0.0
@@ -489,8 +489,8 @@ Rayas:
   - Lightfathom Scepter
   - Worldstorm Gauntlets
   rank: Core Raider
-  t4-lottery-dkp: 2745.36
-  t4-priority-dkp: 2435.13
+  t4-lottery-dkp: 2845.36
+  t4-priority-dkp: 2535.13
   t5-lottery-dkp: 2738.26
   t5-priority-dkp: 2479.84
   t6-lottery-dkp: 0.0
@@ -502,8 +502,8 @@ Roodolph:
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
-  t4-lottery-dkp: 2768.12
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 2868.12
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2757.44
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -519,8 +519,8 @@ Sekkondary:
   priority-lootconfig:
   - Lightfathom Scepter
   rank: Core Raider
-  t4-lottery-dkp: 725.8
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 825.8
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 1054.37
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -538,8 +538,8 @@ Shnacks:
   priority-lootconfig:
   - Pauldrons of the Vanquished Defender
   rank: Core Raider
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2930.05
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 3030.05
   t5-lottery-dkp: 950.0
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -555,8 +555,8 @@ Sizzleñips:
   - Bloodmaw Magus-Blade
   - Eye of Magtheridon
   rank: Social Member
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2950.0
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -574,8 +574,8 @@ Solzar:
   - Soul-Eater's Handwraps
   - Wand of the Forgotten Star
   rank: Core Raider
-  t4-lottery-dkp: 1560.0
-  t4-priority-dkp: 2648.84
+  t4-lottery-dkp: 1660.0
+  t4-priority-dkp: 2748.84
   t5-lottery-dkp: 1750.43
   t5-priority-dkp: 2657.4
   t6-lottery-dkp: 0.0
@@ -597,8 +597,8 @@ Sylador:
   - Lightfathom Scepter
   - Magtheridon's Head
   rank: Core Raider
-  t4-lottery-dkp: 2122.87
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 2222.87
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2218.92
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -617,8 +617,8 @@ Vermora:
   - Dragonspine Trophy
   - Talon of Azshara
   rank: Core Raider
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2950.0
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -637,8 +637,8 @@ Wildshrimp:
   - Wildfury Greatstaff
   priority-lootconfig: []
   rank: Core Raider
-  t4-lottery-dkp: 1803.83
-  t4-priority-dkp: 2941.65
+  t4-lottery-dkp: 1553.83
+  t4-priority-dkp: 2691.65
   t5-lottery-dkp: 2303.0
   t5-priority-dkp: 3203.3
   t6-lottery-dkp: 0.0
@@ -658,8 +658,8 @@ Zeion:
   - Lightfathom Scepter
   - Sunshower Light Cloak
   rank: Core Raider
-  t4-lottery-dkp: 2999.73
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 3099.73
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 2950.0
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
@@ -676,8 +676,8 @@ Zerxx:
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
-  t4-lottery-dkp: 1369.15
-  t4-priority-dkp: 2999.73
+  t4-lottery-dkp: 1469.15
+  t4-priority-dkp: 3099.73
   t5-lottery-dkp: 1591.21
   t5-priority-dkp: 2950.0
   t6-lottery-dkp: 0.0
