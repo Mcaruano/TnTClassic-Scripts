@@ -250,17 +250,15 @@ Ellievyra:
 Galm:
   class: Mage
   lottery-lootconfig:
-  - Gauntlets of the Sun King
+  - Chestguard of the Vanquished Hero
+  - Gloves of the Vanquished Hero
+  - Leggings of the Vanquished Hero
   - Mindstorm Wristbands
   - Royal Cloak of the Sunstriders
-  - Serpent-Coil Braid
   - The Nexus Key
   - Verdant Sphere
   priority-lootconfig:
-  - Chestguard of the Vanquished Hero
-  - Gloves of the Vanquished Hero
   - Helm of the Vanquished Hero
-  - Leggings of the Vanquished Hero
   - Pauldrons of the Fallen Hero
   - Pauldrons of the Vanquished Hero
   rank: Core Raider
