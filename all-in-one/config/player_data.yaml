@@ -328,10 +328,12 @@ Hyolin:
 Jahmee:
   class: Shaman
   lottery-lootconfig:
+  - Brute Cloak of the Ogre Magi
   - Ring of Endless Coils
-  - Soul-Eater's Handwraps
+  - Velvet Boots of the Guardian
   priority-lootconfig:
-  - Leggings of the Fallen Champion
+  - Mindstorm Wristbands
+  - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 3099.73
   t4-priority-dkp: 2868.12
