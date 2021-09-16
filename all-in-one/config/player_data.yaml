@@ -210,13 +210,8 @@ Demeker:
 Digie:
   class: Rogue
   lottery-lootconfig:
-  - Arcanite Steam-Pistol
   - Chestguard of the Fallen Champion
-  - Helm of the Vanquished Champion
-  - Leggings of the Vanquished Champion
-  - Ring of Lethality
   - Talon of Azshara
-  - Thalassian Wildercloak
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
