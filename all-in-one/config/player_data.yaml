@@ -629,14 +629,9 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
-  - Chestguard of the Vanquished Defender
-  - Helm of the Vanquished Defender
-  - Leggings of the Vanquished Defender
-  - 'Pattern: Boots of Natural Grace'
-  - Pauldrons of the Vanquished Defender
   - Tsunami Talisman
-  - Wildfury Greatstaff
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Belt of One-Hundred Deaths
   rank: Core Raider
   t4-lottery-dkp: 1553.83
   t4-priority-dkp: 2691.65
