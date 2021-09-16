@@ -141,6 +141,7 @@ Barnabris:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
+  - Belt of One-Hundred Deaths
   - Chestguard of the Fallen Champion
   priority-lootconfig:
   - Dragonspine Trophy
