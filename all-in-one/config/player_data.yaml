@@ -663,12 +663,13 @@ Zeion:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
-  - Girdle of the Endless Pit
   - Leggings of Murderous Intent
   - Shoulderpads of the Stranger
   - Talon of Azshara
+  - Tsunami Talisman
   priority-lootconfig:
   - Belt of One-Hundred Deaths
+  - Girdle of the Endless Pit
   rank: Core Raider
   t4-lottery-dkp: 1163.78
   t4-priority-dkp: 2549.77
