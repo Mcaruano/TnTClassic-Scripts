@@ -533,11 +533,10 @@ Shnacks:
   class: Druid
   lottery-lootconfig:
   - Chestguard of the Vanquished Defender
-  - Cord of Screaming Terrors
   - Helm of the Vanquished Defender
-  - Magtheridon's Head
   - Verdant Sphere
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Magtheridon's Head
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2490.54
