@@ -513,10 +513,12 @@ Roodolph:
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
+  - Aegis of the Vindicator
   - Girdle of Fallen Stars
   - Sunhawk Leggings
   - Verdant Sphere
   priority-lootconfig:
+  - Eye of Gruul
   - Lightfathom Scepter
   rank: Core Raider
   t4-lottery-dkp: 616.93
