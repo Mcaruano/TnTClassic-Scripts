@@ -214,9 +214,8 @@ Digie:
   class: Rogue
   lottery-lootconfig:
   - Chestguard of the Fallen Champion
-  - Talon of Azshara
   priority-lootconfig:
-  - Belt of One-Hundred Deaths
+  - Talon of Azshara
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2229.2
