@@ -70,14 +70,11 @@ Aro:
 Ashori:
   class: Paladin
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Belt of One-Hundred Deaths
   - Chestguard of the Fallen Champion
   - Chestguard of the Vanquished Champion
   - Girdle of the Endless Pit
-  - Gloves of the Searing Grip
   - Leggings of the Fallen Champion
-  - Pendant of the Perilous
   - Tsunami Talisman
   - Warboots of Obliteration
   priority-lootconfig:
