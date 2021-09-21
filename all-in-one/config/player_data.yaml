@@ -607,10 +607,7 @@ Sylador:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Arcanite Steam-Pistol
   - Chestguard of the Fallen Champion
-  - Gloves of the Vanquished Champion
-  - Pauldrons of the Vanquished Champion
   - Talon of Azshara
   priority-lootconfig:
   - Belt of One-Hundred Deaths
