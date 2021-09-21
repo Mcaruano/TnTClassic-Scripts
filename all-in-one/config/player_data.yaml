@@ -139,9 +139,12 @@ Barnabris:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Belt of One-Hundred Deaths
+  - Bloodsea Brigand's Vest
   - Chestguard of the Fallen Champion
+  - Talon of Azshara
+  - Vambraces of Ending
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 2447.01
