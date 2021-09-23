@@ -319,7 +319,8 @@ Hyolin:
   - Chestguard of the Vanquished Defender
   - Gloves of the Vanquished Defender
   - Helm of the Vanquished Defender
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Magtheridon's Head
   rank: Core Raider
   t4-lottery-dkp: 2279.67
   t4-priority-dkp: 2549.77
