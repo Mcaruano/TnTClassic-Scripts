@@ -15,8 +15,8 @@ Abstinence:
   rank: Core Raider
   t4-lottery-dkp: 1602.11
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 2607.44
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 2907.44
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -46,8 +46,8 @@ Akaran:
   rank: Core Raider
   t4-lottery-dkp: 1588.57
   t4-priority-dkp: 2500.4
-  t5-lottery-dkp: -5042.81
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: -4742.81
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -81,8 +81,8 @@ Ashori:
   rank: Core Raider
   t4-lottery-dkp: 1249.18
   t4-priority-dkp: 2493.69
-  t5-lottery-dkp: -1375.43
-  t5-priority-dkp: 3350.73
+  t5-lottery-dkp: -1075.43
+  t5-priority-dkp: 3650.73
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -105,8 +105,8 @@ Baopi:
   rank: Core Raider
   t4-lottery-dkp: 1699.47
   t4-priority-dkp: 2524.01
-  t5-lottery-dkp: 988.9300000000001
-  t5-priority-dkp: 3376.24
+  t5-lottery-dkp: 1288.93
+  t5-priority-dkp: 3676.24
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -125,12 +125,25 @@ Barnabris:
   rank: Core Raider
   t4-lottery-dkp: 1993.69
   t4-priority-dkp: 1922.56
-  t5-lottery-dkp: 1234.1
-  t5-priority-dkp: 2874.57
+  t5-lottery-dkp: 1534.1
+  t5-priority-dkp: 3174.57
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
+Brittany:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Chuunin:
   class: Rogue
   lottery-lootconfig:
@@ -144,8 +157,8 @@ Chuunin:
   rank: Core Raider
   t4-lottery-dkp: 2447.01
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 3311.76
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 3611.76
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -165,8 +178,8 @@ Crazydaisy:
   rank: Core Raider
   t4-lottery-dkp: 2050.75
   t4-priority-dkp: 1827.27
-  t5-lottery-dkp: 1281.57
-  t5-priority-dkp: 2795.22
+  t5-lottery-dkp: 1581.57
+  t5-priority-dkp: 3095.22
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -199,8 +212,8 @@ Demeker:
   rank: Core Raider
   t4-lottery-dkp: 2352.9
   t4-priority-dkp: 1985.17
-  t5-lottery-dkp: 3233.82
-  t5-priority-dkp: 2927.01
+  t5-lottery-dkp: 3533.82
+  t5-priority-dkp: 3227.01
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -214,8 +227,8 @@ Digie:
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2229.2
-  t5-lottery-dkp: 3397.5
-  t5-priority-dkp: 3130.37
+  t5-lottery-dkp: 3697.5
+  t5-priority-dkp: 3430.37
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -237,8 +250,8 @@ Ellievyra:
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2175.91
-  t5-lottery-dkp: 1397.5
-  t5-priority-dkp: 3085.73
+  t5-lottery-dkp: 1697.5
+  t5-priority-dkp: 3385.73
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -259,8 +272,8 @@ Galm:
   rank: Core Raider
   t4-lottery-dkp: 835.91
   t4-priority-dkp: 2352.9
-  t5-lottery-dkp: -1780.56
-  t5-priority-dkp: 3233.82
+  t5-lottery-dkp: -1480.56
+  t5-priority-dkp: 3533.82
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -279,8 +292,8 @@ Goodjorb:
   rank: Core Raider
   t4-lottery-dkp: 1951.06
   t4-priority-dkp: 2490.54
-  t5-lottery-dkp: 1198.67
-  t5-priority-dkp: 3270.66
+  t5-lottery-dkp: 1498.67
+  t5-priority-dkp: 3570.66
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -304,13 +317,12 @@ Hyolin:
   - Chestguard of the Vanquished Defender
   - Gloves of the Vanquished Defender
   - Helm of the Vanquished Defender
-  - Pauldrons of the Vanquished Defender
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2279.67
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 1172.17
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: -527.83
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -326,8 +338,8 @@ Jahmee:
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2352.9
-  t5-lottery-dkp: 1397.5
-  t5-priority-dkp: 1533.82
+  t5-lottery-dkp: 1697.5
+  t5-priority-dkp: 1833.82
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -348,8 +360,8 @@ Justin:
   rank: Core Raider
   t4-lottery-dkp: 1780.78
   t4-priority-dkp: 2318.16
-  t5-lottery-dkp: 2756.96
-  t5-priority-dkp: 3204.77
+  t5-lottery-dkp: 3056.96
+  t5-priority-dkp: 3504.77
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -367,8 +379,8 @@ Kang:
   rank: Core Raider
   t4-lottery-dkp: 2012.98
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 950.39
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 1250.39
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -383,8 +395,8 @@ Kinastra:
   rank: Core Raider
   t4-lottery-dkp: 1295.76
   t4-priority-dkp: 2490.54
-  t5-lottery-dkp: 352.36
-  t5-priority-dkp: 3376.24
+  t5-lottery-dkp: 652.36
+  t5-priority-dkp: 3676.24
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -404,7 +416,6 @@ Malchazor:
   - Pauldrons of the Vanquished Champion
   - Phoenix-Wing Cloak
   - Royal Gauntlets of Silvermoon
-  - Seventh Ring of the Tirisfalen
   - The Seal of Danzalar
   - Wristguards of Determination
   priority-lootconfig:
@@ -412,8 +423,8 @@ Malchazor:
   rank: Core Raider
   t4-lottery-dkp: 1935.65
   t4-priority-dkp: 2318.16
-  t5-lottery-dkp: 885.91
-  t5-priority-dkp: 3204.77
+  t5-lottery-dkp: -814.09
+  t5-priority-dkp: 3504.77
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -434,8 +445,8 @@ Murduc:
   rank: Core Raider
   t4-lottery-dkp: 1779.23
   t4-priority-dkp: 1595.66
-  t5-lottery-dkp: 2755.54
-  t5-priority-dkp: 2602.49
+  t5-lottery-dkp: 3055.54
+  t5-priority-dkp: 2902.49
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -462,8 +473,8 @@ Nashy:
   rank: Core Raider
   t4-lottery-dkp: 1266.7
   t4-priority-dkp: 2146.86
-  t5-lottery-dkp: 2328.27
-  t5-priority-dkp: 3061.64
+  t5-lottery-dkp: 2628.27
+  t5-priority-dkp: 3361.64
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -481,8 +492,8 @@ Rayas:
   rank: Core Raider
   t4-lottery-dkp: 2333.56
   t4-priority-dkp: 2069.86
-  t5-lottery-dkp: 3217.52
-  t5-priority-dkp: 1297.86
+  t5-lottery-dkp: 3517.52
+  t5-priority-dkp: 1597.86
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -504,7 +515,6 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Aegis of the Vindicator
-  - Girdle of Fallen Stars
   - Sunhawk Leggings
   - Verdant Sphere
   priority-lootconfig:
@@ -513,8 +523,8 @@ Sekkondary:
   rank: Core Raider
   t4-lottery-dkp: 616.93
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 1786.21
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 86.21
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -530,8 +540,8 @@ Shnacks:
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2490.54
-  t5-lottery-dkp: 1697.5
-  t5-priority-dkp: 1697.5
+  t5-lottery-dkp: 1997.5
+  t5-priority-dkp: 1997.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -547,8 +557,8 @@ Sizzleñips:
   rank: Social Member
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 3397.5
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 3697.5
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -566,8 +576,8 @@ Solzar:
   rank: Core Raider
   t4-lottery-dkp: 1326.0
   t4-priority-dkp: 2251.51
-  t5-lottery-dkp: 2377.87
-  t5-priority-dkp: 3148.79
+  t5-lottery-dkp: 2677.87
+  t5-priority-dkp: 3448.79
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -580,7 +590,6 @@ Sylador:
   - Helm of the Vanquished Defender
   - Leggings of the Fallen Defender
   - Leggings of the Vanquished Defender
-  - Pauldrons of the Vanquished Defender
   - Sunshower Light Cloak
   - Verdant Sphere
   priority-lootconfig:
@@ -589,8 +598,8 @@ Sylador:
   rank: Core Raider
   t4-lottery-dkp: 1804.44
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 2776.08
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 1076.08
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -609,8 +618,8 @@ Vermora:
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 1397.5
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 1697.5
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -624,8 +633,8 @@ Wildshrimp:
   rank: Core Raider
   t4-lottery-dkp: 1533.26
   t4-priority-dkp: 2500.4
-  t5-lottery-dkp: 2550.05
-  t5-priority-dkp: 3315.31
+  t5-lottery-dkp: 2850.05
+  t5-priority-dkp: 3615.31
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -645,8 +654,8 @@ Zeion:
   rank: Core Raider
   t4-lottery-dkp: 2549.77
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 3397.5
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 3697.5
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -663,8 +672,8 @@ Zerxx:
   rank: Core Raider
   t4-lottery-dkp: 1163.78
   t4-priority-dkp: 2549.77
-  t5-lottery-dkp: 2242.53
-  t5-priority-dkp: 3397.5
+  t5-lottery-dkp: 2542.53
+  t5-priority-dkp: 3697.5
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
