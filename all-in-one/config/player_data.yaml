@@ -221,8 +221,10 @@ Demeker:
 Digie:
   class: Rogue
   lottery-lootconfig:
-  - Chestguard of the Fallen Champion
+  - Magtheridon's Head
   priority-lootconfig:
+  - Chestguard of the Fallen Champion
+  - Gronn-Stitched Girdle
   - Talon of Azshara
   rank: Core Raider
   t4-lottery-dkp: 2549.77
