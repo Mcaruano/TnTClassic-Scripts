@@ -438,7 +438,6 @@ Malchazor:
 Murduc:
   class: Warlock
   lottery-lootconfig:
-  - Eredar Wand of Obliteration
   - Fang of the Leviathan
   - Mindstorm Wristbands
   - 'Pattern: Boots of Blasting'
@@ -447,6 +446,8 @@ Murduc:
   - Verdant Sphere
   - Wand of the Forgotten Star
   priority-lootconfig:
+  - Belt of Divine Inspiration
+  - Eredar Wand of Obliteration
   - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 1779.23
