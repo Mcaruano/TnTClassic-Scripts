@@ -151,10 +151,10 @@ Chubrock:
   t4-priority-dkp: 590.0
   t5-lottery-dkp: 330.0
   t5-priority-dkp: 330.0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Chuunin:
   class: Rogue
   lottery-lootconfig:
@@ -535,7 +535,7 @@ Searious:
   rank: Reserve Raider
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
-  t5-lottery-dkp: 590.0
+  t5-lottery-dkp: 330.0
   t5-priority-dkp: 330.0
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
