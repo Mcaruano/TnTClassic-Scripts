@@ -46,6 +46,11 @@ PRIO_NEXT_UP_LIST_KEY = "PrioNextUpList"
 PRIO_SECOND_UP_LIST_KEY = "PrioSecondUpList"
 LOTTERY_ODDS_LIST_KEY = "LotteryOddsList"
 
+TITLE_LINE_NUMBER = 2
+DATE_LINE_NUMBER = 6
+MIN_LOTTERY_ODDS_REQUIRED_TO_NOT_BE_DESIGNATED_AS_PROPOSED_SIT = 50
+MIN_LOTTERY_ODDS_REQUIRED_FOR_MUST_KEEP_DESIGNATION = 50
+
 '''
 Parse the raw roster.txt file and saturate the raidData and playerData dicts. Only the
 "IsBench", "IsTentative", "Role", and "ClassSignedUpAs" playerData keys will be saturated here.
@@ -71,14 +76,19 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
     raidData[PROPOSED_SITS_KEY] = []
     raidData[MUST_KEEP_KEY] = []
 
+    lineIndex = 1
     for line in lines:
         # This matches the Regional Indicators which are what RaidHelper uses when creating event titles
-        if re.search("Karazhan", line) is not None or re.search("Gruul", line) is not None or re.search("Mag", line) is not None:
-            raidData[TIER_KEY] = "T4"
+        if lineIndex == TITLE_LINE_NUMBER:
+            if re.search("Karazhan", line) is not None or re.search("Gruul", line) is not None or re.search("Mag", line) is not None:
+                raidData[TIER_KEY] = "T4"
+            elif re.search(":S: :S: :C:", line) is not None or re.search(":T: :K:", line) is not None:
+                raidData[TIER_KEY] = "T5"
         
-        # Date is in the format: "Thu 2. Sep"
-        if re.search(":CMcalendar:", line) is not None:
-            raidData[DATE_KEY] = re.search("[A-Za-z]+ [0-9]+. [A-Za-z]+", line).group()
+        if lineIndex == DATE_LINE_NUMBER:
+            # Date is in the format: "Thu 2. Sep"
+            if re.search(":CMcalendar:", line) is not None:
+                raidData[DATE_KEY] = re.search("[A-Za-z]+ [0-9]+. [A-Za-z]+", line).group()
 
         if re.search(":signups: [0-9]+", line) is not None:
             raidData[NUM_ACTIVE_SIGNUPS_KEY] = int(re.search("[0-9]+", line).group())
@@ -441,15 +451,7 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
             playerData[playerName] = {}
             playerData[playerName] = instantiate_player_record(playerData[playerName], "Enhancement", "DPS", False, False, False, isAlt, isSocial)
         
-    # 1.) Evaluate the line after the "Leader" line to determine which raid tier this is for (for LootConfig lookups)
-        # Aggregate this as well as a few other items into a RaidData dictionary, containing the following:
-            # - Content tier
-            # - Number of Tanks
-            # - Number of healers
-            # - Number of DPS
-            # - Number of Active Roster signups
-            # - Number of Bench signups
-            # - Number of Tentative Signups
+        lineIndex += 1
 
     ######## Dictionary structure will end up as follows ########
         # Player:
@@ -517,24 +519,20 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
             socialPlayers.add(playerName)
     raidData[NUM_ALTS_KEY] = len(altPlayers)
 
-    # UP-FRONT CHECK. If the Active Signups + Tentative Signups + Bench Signups + Missing Signups are <= 40, we do NOT need to perform all of the evaluations that follow.
+    # UP-FRONT CHECK. If the Active Signups + Tentative Signups + Bench Signups + Missing Signups are <= 25, we do NOT need to perform all of the evaluations that follow.
     # HOWEVER, we should still perform an "alt & bench sanity" check to confirm that the players on alts and the players on the bench
     # aren't up for a piece of loot.
     if raidData[NUM_ACTIVE_SIGNUPS_KEY] + raidData[NUM_TENTATIVE_SIGNUPS_KEY] + raidData[NUM_BENCH_SIGNUPS_KEY] + len(raidData[MISSING_PLAYERS_KEY]) <= 25:
         raidData[NUM_SITS_KEY] = 0
         # TODO: Perform Alt & Bench sanity check
         return raidData, discordAttendeePlayerData
-        
+    
+    # Determine the number of people who need to sit and store it in the dict. This doesn't actually get used in the evaluation that follows
     raidData[NUM_SITS_KEY] = raidData[NUM_ACTIVE_SIGNUPS_KEY] + raidData[NUM_TENTATIVE_SIGNUPS_KEY] + raidData[NUM_BENCH_SIGNUPS_KEY] + len(raidData[MISSING_PLAYERS_KEY]) - 25
     
-    # Pull in all items for this tier (using the TIER_KEY) key. Will need to pull this data from the loot.yaml file
-    # Iterate over all members, and all items on each member's LootConfigs. Compare each item to see if it's loot for this raid tier and if it is, add this ITEM
-    # to a new Dictionary of Lists, and add the PLAYER to this item's list
+    # Pull in all items for this tier (using the TIER_KEY) from the loot.yaml file
     scriptPath = os.path.realpath(__file__)
     scriptDir = os.path.dirname(scriptPath)
-
-
-    # Load the loot.yaml file from the all-in-one/ repo
     repoDir = os.path.abspath(os.path.join(scriptDir, os.pardir))
     allInOneGitRepoFilePath = os.path.join(repoDir, 'all-in-one', ALL_IN_ONE_CONFIG_FOLDER_NAME, LOOT_FILE_NAME)
     lootYamlDataDict = {}
@@ -547,7 +545,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
         if lootYamlDataDict[itemID]['content-tier'] == raidData[TIER_KEY]:
             lootForThisTier.add(lootYamlDataDict[itemID]['item-name'])
     
-    # Create a dict of lists containing all items desired by players at Priority, and a list of who desires them
+    # Create a dict of lists containing all items desired by players at Priority (for this raid tier - already filtered), and a list of who desires them
     possiblePriorityLoot = {}
     for playerName in discordAttendeePlayerData.keys():
         if playerName in playerYamlDataDict:
@@ -558,7 +556,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
                     else:
                         possiblePriorityLoot[priorityItem] = [playerName]
 
-    # Create a dict of lists containing all items desired by players at Lottery, and a list of who desires them
+    # Create a dict of lists containing all items desired by players at Lottery (for this raid tier - already filtered), and a list of who desires them
     possibleLotteryLoot = {}
     for playerName in discordAttendeePlayerData.keys():
         if playerName in playerYamlDataDict:        
@@ -569,7 +567,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
                     else:
                         possibleLotteryLoot[lotteryItem] = [playerName]
             # We also want to include players who have this item on Priority so that the logic will be able to take
-            # into acccount players who might not be able to afford it at Priority and will end up needing to roll
+            # into account players who might not be able to afford it at Priority and will end up needing to roll
             # for it in the Lottery
             for priorityItem in playerYamlDataDict[playerName]['priority-lootconfig']:
                 if priorityItem in lootForThisTier:
@@ -578,12 +576,14 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
                     else:
                         possibleLotteryLoot[priorityItem] = [playerName]
 
+
     # 3.) Iterate over the Core/Reserve raiders and perform the following for each:
-        # Determine if they are next up for any of their Priority loot (based on those attending)
-        # Determine their odds for Each item on their Lottery (based on those attending) [USE VERY HIGH PRECISION]
-        # If they have 0 for both Priority AND Lottery, then they are instantly candidates for sitting. Add them to their own list though for tracking
+        # a.) Determine if they are next up for any of their Priority loot (based on those attending)
+        # b.) Determine their odds for Each item on their Lottery (based on those attending)
+        # c.) If they have 0 for both Priority AND Lottery, then they are instantly candidates for sitting. Add them to their own list though for tracking
     prioDkpKeys = {'T4': 't4-priority-dkp', 'T5': 't5-priority-dkp', 'T6': 't6-priority-dkp', "T6.5": 't6pt5-priority-dkp'}
     lotteryDkpKeys = {'T4': 't4-lottery-dkp', 'T5': 't5-lottery-dkp', 'T6': 't6-lottery-dkp', "T6.5": 't6pt5-lottery-dkp'}
+    tiedPriorityLoot = {}
     for coreOrReserveMember in playersSignedUp:
 
         # This is the logic block for performing the Lottery evaluation for this player
@@ -594,7 +594,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
 
             odds = determine_odds_for_lottery_item(playerYamlDataDict, raidData[TIER_KEY], lotteryDkpKeys, coreOrReserveMember, possibleLotteryLoot[lotteryItem])
 
-            # Insert this as a tuple in the player's ODDS_LIST, and do it 
+            # Insert this as a tuple in the player's ODDS_LIST, and do it in a sorted manner where the highest odds are at the top
             bisect.insort(discordAttendeePlayerData[coreOrReserveMember][LOTTERY_ODDS_LIST_KEY], (odds, lotteryItem))
             
         # After we've finished evaluating the odds for each of the given player's Lottery items, the result will be
@@ -614,17 +614,25 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
 
             # Among all attending players who want the given item at Priority, determine the top two with priority DKP
             highestPrioWinner, secondHighestPrioWinner = determine_highest_prio_winners_for_item(playerYamlDataDict, raidData[TIER_KEY], prioDkpKeys, possiblePriorityLoot[priorityItem])
-            # If the player is next up or second-in-line for the given item at Priority, add the item to their corresponding List
-            if coreOrReserveMember == highestPrioWinner:
-                discordAttendeePlayerData[coreOrReserveMember][PRIO_NEXT_UP_LIST_KEY].append(priorityItem)
-            elif coreOrReserveMember == secondHighestPrioWinner:
-                discordAttendeePlayerData[coreOrReserveMember][PRIO_SECOND_UP_LIST_KEY].append(priorityItem)
+
+            # If the highestPrioWinner and SecondHighestPrioWinner have tied DKP, then this means this particular item has multiple people tied for it.
+            # For these cases, we want to evaluate who is tied for the item and store that in the tiedPriorityLoot dict
+            if highestPrioWinner != "Not Set" and secondHighestPrioWinner != "Not Set" and playerYamlDataDict[highestPrioWinner][prioDkpKeys[raidData[TIER_KEY]]] == playerYamlDataDict[secondHighestPrioWinner][prioDkpKeys[raidData[TIER_KEY]]]:
+                tiedPriorityLoot = determine_if_prio_item_is_tied_and_record_in_dict(playerYamlDataDict, discordAttendeePlayerData, tiedPriorityLoot, priorityItem, prioDkpKeys[raidData[TIER_KEY]])
+
+            # If there's a tie for this item at Priority, we won't mark anyone as "PRIO_NEXT_UP" or "PRIO_SECOND_UP" for it
+            if priorityItem not in tiedPriorityLoot:
+                # If the player is next up or second-in-line for the given item at Priority, add the item to their corresponding List
+                if coreOrReserveMember == highestPrioWinner:
+                    discordAttendeePlayerData[coreOrReserveMember][PRIO_NEXT_UP_LIST_KEY].append(priorityItem)
+                elif coreOrReserveMember == secondHighestPrioWinner:
+                    discordAttendeePlayerData[coreOrReserveMember][PRIO_SECOND_UP_LIST_KEY].append(priorityItem)
 
     # 4.) Based on the above evaluation, pull out only the subset of those players who are NOT up for an item at Priority.
         # In this new subset, associate each player with the item on Lottery which they have the HIGHEST odds at
         # Sort this subset by this highest-odds value, ascending (lowest odds at top)
         # This will actually constitute the list of players who should be sat.
-    playersNotUpForPriorityItems = set(filter(lambda playerName: not discordAttendeePlayerData[playerName][PRIO_NEXT_UP_LIST_KEY], discordAttendeePlayerData))
+    playersNotUpForPriorityItems = set(filter(lambda playerName: not discordAttendeePlayerData[playerName][PRIO_NEXT_UP_LIST_KEY] and not player_is_tied_for_something_at_prio(playerName, tiedPriorityLoot), discordAttendeePlayerData))
     playersNotUpForPriorityItems.difference_update(absentPlayers) # Take the above set and subtract out those who marked Absent
 
     potentialCandidatesForSitting = [] # This will be a list of Tuples of Tuples of the format (<odds>, (<playerName>, <itemName>))
@@ -640,38 +648,46 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
                 # Once we've found an item to record, break out
                 if highestOddsLotteryItem != "Nothing": break
 
+                # If this item was on this player's Lottery config AND nobody can afford it at Priority, only
+                # then do we consider this item's odds for the "highest lottery odds" determination
                 if itemName in possiblePriorityLoot:
                     highestPrioWinner, _ = determine_highest_prio_winners_for_item(playerYamlDataDict, raidData[TIER_KEY], prioDkpKeys, possiblePriorityLoot[itemName])
                     if highestPrioWinner == "Not Set":
                         highestOddsLotteryItem = itemName
                         highestLotteryItemOdds = odds
+
+                # This item was not present on anyone's Priority, so there's no need to confirm whether or not
+                # there is an eligible priority recipient for it and we can just use it's odds in the determination
                 else:
                     highestOddsLotteryItem = itemName
                     highestLotteryItemOdds = odds
 
-            # If no potential Lottery item was identified for this player, insert a record indicating so
+            # If not a single Lottery item was identified for this player, insert a record indicating so
             if highestOddsLotteryItem == "Nothing":
                 # Just because it was determined that the player cannot win anything on Lottery does not mean the player
                 # had nothing on Lottery. We want to set the correct message based on this fact
                 if len(discordAttendeePlayerData[player][LOTTERY_ODDS_LIST_KEY]) > 0:
-                    bisect.insort(potentialCandidatesForSitting, (0, (player, "Can't win any of their Lottery items")))
+                    bisect.insort(potentialCandidatesForSitting, (0, (player, "Can't win any of their Lottery items"))) # AKA someone else will take it at Priority first
                 else:
                     bisect.insort(potentialCandidatesForSitting, (0, (player, "Has nothing on Lottery")))
             else:
                 bisect.insort(potentialCandidatesForSitting, (highestLotteryItemOdds, (player, highestOddsLotteryItem)))
 
-    # Consider now the Zero-Odds candidates from step 3, and the sorted Ascending Lottery odds from Step 4, and check the roles of these players
+    # Iterate over the potentialCandidatesForSitting and suggest to sit players whose highest Lottery odds
+    # fail to meet the minimum threshold required. Remember the "potentialCandidatesForSitting" list only contains
+    # a single record per potential player to be sat, and that record contains their HIGHEST lottery odds
     proposedCandidatesForSitting = []
     for odds, playerAndItemRecord in potentialCandidatesForSitting:
-        if odds <= 100:
+        if odds <= MIN_LOTTERY_ODDS_REQUIRED_TO_NOT_BE_DESIGNATED_AS_PROPOSED_SIT:
             proposedCandidatesForSitting.append((odds, playerAndItemRecord))
     raidData[PROPOSED_SITS_KEY] = proposedCandidatesForSitting
 
-    # Aggregate the list of players who we must keep due to them being up for loot
-    # Begin with the players with high odds for Lottery
+    # Aggregate the list of players who we must keep due to them being up for loot. Begin with the players
+    # with high odds for an item at Lottery. Remember the "potentialCandidatesForSitting" list only contains a
+    # single record per potential player to be sat, and that record contains their HIGHEST lottery odds
     mustKeepPlayers = []
     for odds, playerAndItemRecord in potentialCandidatesForSitting:
-        if odds >= 50:
+        if odds >= MIN_LOTTERY_ODDS_REQUIRED_FOR_MUST_KEEP_DESIGNATION:
             mustKeepPlayers.append(("LOTTERY", odds, playerAndItemRecord))
 
     # Then aggregate the list of players who are next up for items at Priority
@@ -685,7 +701,7 @@ def perform_evaluation(raidData, discordAttendeePlayerData, playerYamlDataDict):
                 mustKeepPlayers.append(("PRIORITY", 100.00, (player, prioItemName)))
     raidData[MUST_KEEP_KEY] = mustKeepPlayers
 
-    return raidData, discordAttendeePlayerData
+    return raidData, discordAttendeePlayerData, tiedPriorityLoot
 
 """
 Simply confirms whether or not the player has enough Priority DKP to even take an item at Priority
@@ -694,6 +710,49 @@ for the given Content Tier.
 def player_can_afford_prio_item(playerYamlDataDict, playerName, contentTier, prioDkpKeys):
     itemCosts = {'T4': 1000, 'T5': 2000, 'T6': 3000, "T6.5": 4000}
     return playerYamlDataDict[playerName][prioDkpKeys[contentTier]] >= itemCosts[contentTier]
+
+"""
+Simply returns True if the given player is tied at Priority for ANY item in
+the tiedPriorityLootDict
+"""
+def player_is_tied_for_something_at_prio(playerName, tiedPriorityLootDict):
+    for priorityItem in tiedPriorityLootDict.keys():
+        if playerName in tiedPriorityLootDict[priorityItem]:
+            return True
+    return False
+
+"""
+For a given item, identifies all members who are tied for it and saturates the tiedPriorityLoot dict
+with a list of those members
+"""
+def determine_if_prio_item_is_tied_and_record_in_dict(playerYamlDataDict, discordAttendeePlayerData, tiedPriorityLoot, priorityItem, contentTierDKPKey):
+    # This analysis only needs to be performed once for each item. If it's already present
+    # in the dict, then there's no need to perform this evaluation again
+    if priorityItem in tiedPriorityLoot:
+        return tiedPriorityLoot
+    
+    tiedPriorityLoot[priorityItem] = []
+    tiedPriorityPlayers = []
+    for playerName in discordAttendeePlayerData.keys():
+        if playerName in playerYamlDataDict and priorityItem in playerYamlDataDict[playerName]['priority-lootconfig']:
+            playerPrioDKP = playerYamlDataDict[playerName][contentTierDKPKey]
+
+            # If the list is empty, we need to initialize it
+            if not tiedPriorityPlayers:
+                tiedPriorityPlayers.append(playerName)
+
+            # If their Priority DKP is higher than the first player (read: any player) currently in the
+            # tiedPriorityPlayers list, completely clear out the list and add only this player.
+            elif playerPrioDKP > playerYamlDataDict[tiedPriorityPlayers[0]][contentTierDKPKey]:
+                tiedPriorityPlayers = []
+                tiedPriorityPlayers.append(playerName)
+
+            # If the player's DKP is equivalent to the first player (read: any player) in the list, append them to the list
+            elif playerPrioDKP == playerYamlDataDict[tiedPriorityPlayers[0]][contentTierDKPKey]:
+                tiedPriorityPlayers.append(playerName)
+            
+    tiedPriorityLoot[priorityItem] = tiedPriorityPlayers
+    return tiedPriorityLoot
 
 """
 Given a list of players and a given content tier, return the two players with the highest
@@ -778,7 +837,7 @@ def determine_odds_for_lottery_item(playerYamlDataDict, contentTier, lotteryDkpK
 - Number of Alts: 
 - Number of Players that need to sit: 
 """
-def generate_report_file(scriptDir, updatedRaidData, updatedPlayerData):
+def generate_report_file(scriptDir, updatedRaidData, updatedPlayerData, tiedPriorityLootDict):
 
     # Generate the output directory if it doesn't exist
     outputFileDirectory = os.path.join(scriptDir, OUTPUT_FOLDER_NAME)
@@ -800,6 +859,22 @@ def generate_report_file(scriptDir, updatedRaidData, updatedPlayerData):
         f.write('**Number of Alts:** {} {}\n'.format(updatedRaidData[NUM_ALTS_KEY], list(filter(lambda playerName: updatedPlayerData[playerName][IS_ALT_KEY], updatedPlayerData))))
 
         f.write('**Number of Players *Potentially* needing to be Sat:** {}\n'.format(updatedRaidData[NUM_SITS_KEY]))
+
+        # Write a summary of all of the players tied at Priority to the output file
+        f.write('-\n')
+        f.write('**The following players are all TIED for an item at Priority:**\n')
+        allTiedPlayers = set()
+        for tiedPriorityItem in tiedPriorityLootDict.keys():
+            for playerName in tiedPriorityLootDict[tiedPriorityItem]:
+                allTiedPlayers.add(playerName)
+        for playerName in allTiedPlayers:
+            f.write('  {}\n'.format(playerName))
+        f.write('**Here is the detailed summary of which items are currently tied, and by whom:**\n')
+        for tiedPriorityItem in tiedPriorityLootDict.keys():
+            f.write('  {}:'.format(tiedPriorityItem))
+            for playerName in tiedPriorityLootDict[tiedPriorityItem]:
+                f.write(' {}'.format(playerName))
+            f.write('\n')
         
         # Write the "Must Keeps" to the output file
         f.write('-\n')
@@ -863,9 +938,9 @@ if __name__ == "__main__":
     inputFilePath = os.path.join(scriptDir, INPUT_DATA_FOLDER_NAME, INPUT_DATA_FILE_NAME)
     raidData, playerData = parse_raw_roster_input_and_saturate_dicts(inputFilePath, playerYamlDataDict)
 
-    updatedRaidData, updatedPlayerData = perform_evaluation(raidData, playerData, playerYamlDataDict)
+    updatedRaidData, updatedPlayerData, tiedPriorityLootDict = perform_evaluation(raidData, playerData, playerYamlDataDict)
 
-    generate_report_file(scriptDir, updatedRaidData, updatedPlayerData)
+    generate_report_file(scriptDir, updatedRaidData, updatedPlayerData, tiedPriorityLootDict)
 
     sys.exit(0)
 
