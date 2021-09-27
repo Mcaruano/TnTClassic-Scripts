@@ -547,6 +547,7 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Aegis of the Vindicator
+  - Chestguard of the Vanquished Champion
   - Sunhawk Leggings
   - Verdant Sphere
   priority-lootconfig:
