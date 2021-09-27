@@ -425,6 +425,7 @@ Malchazor:
   - Chestguard of the Vanquished Champion
   - Fang of the Leviathan
   - Girdle of the Invulnerable
+  - Gloves of the Vanquished Champion
   - Helm of the Vanquished Champion
   - Leggings of the Vanquished Champion
   - Pauldrons of the Vanquished Champion
@@ -433,7 +434,6 @@ Malchazor:
   - The Seal of Danzalar
   - Wristguards of Determination
   priority-lootconfig:
-  - Leggings of the Fallen Champion
   - Verdant Sphere
   rank: Core Raider
   t4-lottery-dkp: 525.65
