@@ -530,8 +530,11 @@ Roodolph:
   t6pt5-priority-dkp: 0.0
 Searious:
   class: Hunter
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Band of the Ranger General
+  priority-lootconfig:
+  - Dragonspine Trophy
+  - Serpent Spine Longbow
   rank: Reserve Raider
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
