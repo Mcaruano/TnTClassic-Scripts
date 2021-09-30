@@ -310,7 +310,9 @@ Galm:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
+  - Chestguard of the Fallen Hero
   - Fang of the Leviathan
+  - Leggings of the Fallen Hero
   - Mindstorm Wristbands
   - Ring of Endless Coils
   - Vestments of the Sea-Witch
