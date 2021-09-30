@@ -229,6 +229,8 @@ Demeker:
   - Verdant Sphere
   - Wand of the Forgotten Star
   priority-lootconfig:
+  - Bloodmaw Magus-Blade
+  - Brute Cloak of the Ogre-Magi
   - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 2501.47
