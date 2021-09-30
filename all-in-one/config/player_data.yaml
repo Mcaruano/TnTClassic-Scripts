@@ -723,12 +723,13 @@ Zeion:
   class: Priest
   lottery-lootconfig:
   - Chestguard of the Vanquished Defender
+  - Eye of Gruul
   - Helm of the Vanquished Defender
   - Leggings of the Vanquished Defender
   - Sunshower Light Cloak
   priority-lootconfig:
-  - Earring of Soulful Meditation
   - Lightfathom Scepter
+  - Magtheridon's Head
   rank: Core Raider
   t4-lottery-dkp: 2668.8
   t4-priority-dkp: 2668.8
