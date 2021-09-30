@@ -469,7 +469,6 @@ Murduc:
   lottery-lootconfig:
   - Fang of the Leviathan
   - Mindstorm Wristbands
-  - 'Pattern: Boots of Blasting'
   - Ring of Endless Coils
   - Royal Cloak of the Sunstriders
   - Verdant Sphere
@@ -477,6 +476,7 @@ Murduc:
   priority-lootconfig:
   - Belt of Divine Inspiration
   - Eredar Wand of Obliteration
+  - 'Pattern: Boots of Blasting'
   - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 2013.85
