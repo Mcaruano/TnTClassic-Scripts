@@ -371,6 +371,7 @@ Jahmee:
 Justin:
   class: Warlock
   lottery-lootconfig:
+  - Eredar Wand of Obliteration
   - Fang of the Leviathan
   - Mindstorm Wristbands
   - 'Pattern: Boots of Blasting'
