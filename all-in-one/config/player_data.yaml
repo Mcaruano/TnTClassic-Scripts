@@ -309,12 +309,12 @@ Goodjorb:
   lottery-lootconfig:
   - Fang of the Leviathan
   - Leggings of the Fallen Hero
-  - Mindstorm Wristbands
   - Ring of Endless Coils
   - Vestments of the Sea-Witch
-  priority-lootconfig:
-  - Verdant Sphere
   - Wand of the Forgotten Star
+  priority-lootconfig:
+  - Mindstorm Wristbands
+  - Verdant Sphere
   rank: Core Raider
   t4-lottery-dkp: 1749.9
   t4-priority-dkp: 2208.46
