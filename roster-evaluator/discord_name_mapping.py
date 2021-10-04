@@ -67,6 +67,7 @@ DISCORD_NAME_MAPPING = {
     "MLG": "Mlg",
     "Murduc": "Murduc",
     "Nashy": "Nashy",
+    "NukeJr(Searious)": "Searious",
     "NukeJr(Seario": "Searious",
     "Peacard": "Peacard",
     "Phi": "Phi",
