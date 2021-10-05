@@ -305,12 +305,13 @@ Galm:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
-  - Fang of the Leviathan
   - Leggings of the Fallen Hero
   - Ring of Endless Coils
+  - Sextant of Unstable Currents
   - Vestments of the Sea-Witch
   - Wand of the Forgotten Star
   priority-lootconfig:
+  - Fang of the Leviathan
   - Mindstorm Wristbands
   - Verdant Sphere
   rank: Core Raider
