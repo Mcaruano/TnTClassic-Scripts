@@ -648,9 +648,9 @@ Solzar:
   - Pendant of the Lost Ages
   - Royal Cloak of the Sunstriders
   - The Nexus Key
-  - Wand of the Forgotten Star
   priority-lootconfig:
   - Soul-Eater's Handwraps
+  - Wand of the Forgotten Star
   rank: Core Raider
   t4-lottery-dkp: 1885.81
   t4-priority-dkp: 2554.49
