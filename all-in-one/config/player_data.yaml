@@ -355,8 +355,9 @@ Jahmee:
   class: Shaman
   lottery-lootconfig:
   - Brute Cloak of the Ogre-Magi
-  - Ring of Endless Coils
+  - Verdant Sphere
   priority-lootconfig:
+  - Ring of Endless Coils
   - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 2769.98
