@@ -149,8 +149,15 @@ Brittany:
   t6pt5-priority-dkp: 0.0
 Chubrock:
   class: Mage
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Eredar Wand of Obliteration
+  - Eye of Magtheridon
+  - Leggings of the Fallen Hero
+  - Magtheridon's Head
+  - Pauldrons of the Fallen Hero
+  - Pit Lord's Satchel
+  priority-lootconfig:
+  - Bloodmaw Magus-Blade
   rank: Reserve Raider
   t4-lottery-dkp: 1517.77
   t4-priority-dkp: 1517.77
