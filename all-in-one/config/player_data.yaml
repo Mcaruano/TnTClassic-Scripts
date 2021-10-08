@@ -290,8 +290,7 @@ Galm:
   - Royal Cloak of the Sunstriders
   - The Nexus Key
   - Verdant Sphere
-  priority-lootconfig:
-  - Pauldrons of the Fallen Hero
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2121.72
   t4-priority-dkp: 3217.75
