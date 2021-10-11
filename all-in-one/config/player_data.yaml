@@ -171,6 +171,7 @@ Chuunin:
   class: Rogue
   lottery-lootconfig:
   - Chestguard of the Fallen Champion
+  - Helm of the Vanquished Champion
   - Talon of Azshara
   - Vambraces of Ending
   priority-lootconfig:
