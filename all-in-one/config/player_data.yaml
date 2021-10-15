@@ -411,7 +411,6 @@ Kangbuff:
 Kinastra:
   class: Shaman
   lottery-lootconfig:
-  - Ring of Endless Coils
   - The Nexus Key
   - Verdant Sphere
   priority-lootconfig: []
