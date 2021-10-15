@@ -662,10 +662,10 @@ Solzar:
   class: Priest
   lottery-lootconfig:
   - Band of Al'ar
-  - Pendant of the Lost Ages
-  - Royal Cloak of the Sunstriders
-  - The Nexus Key
+  - Chest of the Vanquished Defender
+  - Helm of the Vanquished Defender
   priority-lootconfig:
+  - Royal Cloak of the Sunstriders
   - Soul-Eater's Handwraps
   rank: Core Raider
   t4-lottery-dkp: 2104.44
