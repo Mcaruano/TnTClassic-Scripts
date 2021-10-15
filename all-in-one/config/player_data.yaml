@@ -242,7 +242,12 @@ Demeker:
 Digie:
   class: Rogue
   lottery-lootconfig:
+  - Band of the Ranger-General
+  - Helm of the Vanquished Champion
+  - Leggings of the Vanquished Champion
   - Magtheridon's Head
+  - Thalassian Wildercloak
+  - Verdant Sphere
   priority-lootconfig:
   - Chestguard of the Fallen Champion
   - Gronn-Stitched Girdle
