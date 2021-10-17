@@ -1,8 +1,10 @@
 Abstinence:
   class: Hunter
   lottery-lootconfig:
+  - Band of the Ranger-General
   - Claw of the Phoenix
   - Thalassian Wildercloak
+  - Verdant Sphere
   priority-lootconfig:
   - Chestguard of the Vanquished Hero
   - Helm of the Vanquished Hero
