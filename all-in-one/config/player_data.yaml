@@ -349,10 +349,11 @@ Hyolin:
 Jahmee:
   class: Shaman
   lottery-lootconfig:
-  - Brute Cloak of the Ogre-Magi
   - Chestguard of the Vanquished Champion
   priority-lootconfig:
+  - Brute Cloak of the Ogre-Magi
   - Ring of Endless Coils
+  - The Nexus Key
   rank: Core Raider
   t4-lottery-dkp: 2929.08
   t4-priority-dkp: 1976.33
