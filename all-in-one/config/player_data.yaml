@@ -659,7 +659,6 @@ Sizzleñips:
 Solzar:
   class: Priest
   lottery-lootconfig:
-  - Band of Al'ar
   - Chestguard of the Vanquished Defender
   - Helm of the Vanquished Defender
   priority-lootconfig:
