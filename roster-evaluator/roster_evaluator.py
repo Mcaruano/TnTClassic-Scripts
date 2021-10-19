@@ -82,7 +82,7 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
         if lineIndex == TITLE_LINE_NUMBER:
             if re.search("Karazhan", line) is not None or re.search("Gruul", line) is not None or re.search("Mag", line) is not None:
                 raidData[TIER_KEY] = "T4"
-            elif re.search(":S: :S: :C:", line) is not None or re.search(":T: :K:", line) is not None:
+            elif re.search(":S: :S: :C:", line) is not None or re.search("SSC", line) is not None or re.search(":T: :K:", line) is not None or re.search("TK", line) is not None:
                 raidData[TIER_KEY] = "T5"
         
         if lineIndex == DATE_LINE_NUMBER:
