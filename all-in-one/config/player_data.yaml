@@ -476,10 +476,10 @@ Murduc:
   - Ring of Endless Coils
   - Royal Cloak of the Sunstriders
   - Verdant Sphere
-  - Wand of the Forgotten Star
   priority-lootconfig:
   - Eredar Wand of Obliteration
   - Vestments of the Sea-Witch
+  - Wand of the Forgotten Star
   rank: Core Raider
   t4-lottery-dkp: 2526.86
   t4-priority-dkp: 1708.53
