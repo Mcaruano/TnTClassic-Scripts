@@ -300,13 +300,13 @@ Galm:
 Goodjorb:
   class: Mage
   lottery-lootconfig:
-  - Ring of Endless Coils
-  - Sextant of Unstable Currents
-  - Vestments of the Sea-Witch
-  - Wand of the Forgotten Star
+  - Chestguard of the Vanquished Hero
+  - Gloves of the Vanquished Hero
+  - Helm of the Vanquished Hero
+  - Leggings of the Vanquished Hero
+  - Pauldrons of the Vanquished Hero
   priority-lootconfig:
-  - Fang of the Leviathan
-  - Mindstorm Wristbands
+  - The Nexus Key
   - Pit Lord's Satchel
   rank: Core Raider
   t4-lottery-dkp: 1279.93
