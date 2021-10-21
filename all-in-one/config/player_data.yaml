@@ -165,7 +165,6 @@ Chubrock:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Chestguard of the Fallen Champion
   - Gloves of the Vanquished Champion
   - Pauldrons of the Vanquished Champion
   - Talon of Azshara
