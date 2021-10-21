@@ -282,11 +282,12 @@ Galm:
   class: Mage
   lottery-lootconfig:
   - Chestguard of the Vanquished Hero
-  - Mindstorm Wristbands
+  - Pit Lord's Satchel
   - Royal Cloak of the Sunstriders
   - The Nexus Key
   - Verdant Sphere
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Mindstorm Wristbands
   rank: Core Raider
   t4-lottery-dkp: 2034.44
   t4-priority-dkp: 2826.33
