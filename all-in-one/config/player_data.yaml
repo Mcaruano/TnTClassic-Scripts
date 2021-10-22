@@ -409,6 +409,8 @@ Kangbuff:
 Kinastra:
   class: Shaman
   lottery-lootconfig:
+  - Chestguard of the Vanquished Champion
+  - Mindstorm Wristbands
   - The Nexus Key
   - Verdant Sphere
   priority-lootconfig: []
