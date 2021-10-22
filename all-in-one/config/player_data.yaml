@@ -10,7 +10,7 @@ Abstinence:
   rank: Core Raider
   t4-lottery-dkp: 3024.41
   t4-priority-dkp: 2669.08
-  t5-lottery-dkp: 50.18000000000001
+  t5-lottery-dkp: 50.18
   t5-priority-dkp: 1189.35
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -172,7 +172,7 @@ Chuunin:
   rank: Core Raider
   t4-lottery-dkp: 3465.45
   t4-priority-dkp: 2519.08
-  t5-lottery-dkp: 889.5899999999999
+  t5-lottery-dkp: 889.59
   t5-priority-dkp: 5862.6
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -191,7 +191,7 @@ Crazydaisy:
   rank: Core Raider
   t4-lottery-dkp: 2644.47
   t4-priority-dkp: 3141.94
-  t5-lottery-dkp: -75.8900000000001
+  t5-lottery-dkp: -75.89
   t5-priority-dkp: 5548.2
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -306,7 +306,7 @@ Goodjorb:
   t4-lottery-dkp: 1869.93
   t4-priority-dkp: 2874.04
   t5-lottery-dkp: 2714.79
-  t5-priority-dkp: 4096.389999999999
+  t5-priority-dkp: 4096.39
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -609,7 +609,7 @@ Sekkondary:
   rank: Core Raider
   t4-lottery-dkp: 2510.13
   t4-priority-dkp: 3519.08
-  t5-lottery-dkp: -22.50999999999999
+  t5-lottery-dkp: -22.51
   t5-priority-dkp: 5862.6
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -625,8 +625,8 @@ Shnacks:
   rank: Core Raider
   t4-lottery-dkp: 3519.08
   t4-priority-dkp: 2638.17
-  t5-lottery-dkp: 4975.190000000001
-  t5-priority-dkp: 4975.190000000001
+  t5-lottery-dkp: 4975.19
+  t5-priority-dkp: 4975.19
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -765,7 +765,7 @@ Zerxx:
   rank: Core Raider
   t4-lottery-dkp: 2795.59
   t4-priority-dkp: 3519.08
-  t5-lottery-dkp: 5259.690000000001
+  t5-lottery-dkp: 5259.69
   t5-priority-dkp: 5862.6
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
