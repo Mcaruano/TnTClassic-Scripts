@@ -598,6 +598,7 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Aegis of the Vindicator
+  - Helm of the Vanquished Champion
   - Verdant Sphere
   priority-lootconfig:
   - Eye of Gruul
