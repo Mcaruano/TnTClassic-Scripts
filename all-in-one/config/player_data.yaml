@@ -443,15 +443,13 @@ Malchazor:
   - Bloodmaw Magus-Blade
   - Boots of the Resilient
   - Chestguard of the Vanquished Champion
-  - Fang of the Leviathan
   - Gloves of the Vanquished Champion
   - Helm of the Vanquished Champion
   - Leggings of the Vanquished Champion
   - Phoenix-Wing Cloak
-  - Royal Cloak of the Sunstriders
-  - Royal Gauntlets of Silvermoon
   - Wristguards of Determination
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Royal Cloak of the Sunstriders
   rank: Core Raider
   t4-lottery-dkp: 2154.5
   t4-priority-dkp: 3398.19
