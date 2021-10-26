@@ -570,6 +570,10 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Chestguard of Vanquished Hero
+  - Helm of Vanquished Hero
+  - Gloves of Vanquished Hero
+  - Vambraces of Ending
   priority-lootconfig:
   - Dragonspine Trophy
   - Serpent Spine Longbow
