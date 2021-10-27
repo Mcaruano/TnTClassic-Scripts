@@ -752,7 +752,6 @@ Zeion:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
-  - Leggings of Murderous Intent
   - Shoulderpads of the Stranger
   - Talon of Azshara
   priority-lootconfig:
