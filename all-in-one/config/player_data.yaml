@@ -479,15 +479,11 @@ Murduc:
 Nashy:
   class: Warrior
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Belt of One-Hundred Deaths
-  - Bracers of Eradication
   - Chestguard of the Vanquished Defender
   - Helm of the Vanquished Defender
   - Leggings of Murderous Intent
-  - Leggings of the Vanquished Defender
   - Rod of the Sun King
-  - Serpent Spine Longbow
   - Tsunami Talisman
   priority-lootconfig:
   - Dragonspine Trophy
