@@ -587,12 +587,12 @@ Seion:
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
+  - Eye of Gruul
   - Helm of the Vanquished Champion
-  - Lightfathom Scepter
   - Verdant Sphere
   priority-lootconfig:
   - Aegis of the Vindicator
-  - Eye of Gruul
+  - Lightfathom Scepter
   rank: Core Raider
   t4-lottery-dkp: 2723.61
   t4-priority-dkp: 3581.22
