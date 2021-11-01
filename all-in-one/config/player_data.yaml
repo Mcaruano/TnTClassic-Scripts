@@ -291,8 +291,10 @@ Goodjorb:
   class: Mage
   lottery-lootconfig:
   - Chestguard of the Vanquished Hero
+  - Gauntlets of the Sun King
   - Helm of the Vanquished Hero
   - Leggings of the Vanquished Hero
+  - Velvet Boots of the Guardian
   priority-lootconfig:
   - Pit Lord's Satchel
   - The Nexus Key
