@@ -736,9 +736,7 @@ Zeion:
   t6pt5-priority-dkp: 0.0
 Zerxx:
   class: Warrior
-  lottery-lootconfig:
-  - Shoulderpads of the Stranger
-  - Talon of Azshara
+  lottery-lootconfig: []
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   - Girdle of the Endless Pit
