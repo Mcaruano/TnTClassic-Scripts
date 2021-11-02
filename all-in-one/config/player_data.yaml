@@ -236,12 +236,11 @@ Digie:
   - Band of the Ranger-General
   - Helm of the Vanquished Champion
   - Leggings of the Vanquished Champion
-  - Magtheridon's Head
   - Rod of the Sun King
   - Verdant Sphere
   priority-lootconfig:
-  - Gronn-Stitched Girdle
   - Talon of Azshara
+  - Magtheridon's Head
   rank: Core Raider
   t4-lottery-dkp: 3044.04
   t4-priority-dkp: 2309.01
