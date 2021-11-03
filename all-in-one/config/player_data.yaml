@@ -343,7 +343,6 @@ Jahmee:
 Justin:
   class: Warlock
   lottery-lootconfig:
-  - Eredar Wand of Obliteration
   - Fang of the Leviathan
   - Mindstorm Wristbands
   - 'Pattern: Boots of Blasting'
@@ -351,6 +350,7 @@ Justin:
   - Verdant Sphere
   - Wand of the Forgotten Star
   priority-lootconfig:
+  - Eredar Wand of Obliteration
   - Helm of the Vanquished Hero
   rank: Core Raider
   t4-lottery-dkp: 2754.02
