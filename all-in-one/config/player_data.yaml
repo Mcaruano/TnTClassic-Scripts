@@ -540,10 +540,10 @@ Searious:
   - Chestguard of the Vanquished Hero
   - Helm of the Vanquished Hero
   - Pauldrons of the Vanquished Hero
-  - Vambraces of Ending
   priority-lootconfig:
   - Dragonspine Trophy
   - Serpent Spine Longbow
+  - Vambraces of Ending
   rank: Reserve Raider
   t4-lottery-dkp: 2672.39
   t4-priority-dkp: 2672.39
