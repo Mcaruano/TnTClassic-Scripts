@@ -56,10 +56,10 @@ Ashori:
   - Chestguard of the Fallen Champion
   - Chestguard of the Vanquished Champion
   - Girdle of the Endless Pit
-  - Tsunami Talisman
   - Warboots of Obliteration
   priority-lootconfig:
   - Dragonspine Trophy
+  - Tsunami Talisman
   rank: Core Raider
   t4-lottery-dkp: 1939.39
   t4-priority-dkp: 3022.9
