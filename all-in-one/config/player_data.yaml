@@ -95,7 +95,7 @@ Baopi:
   rank: Core Raider
   t4-lottery-dkp: 2463.35
   t4-priority-dkp: 3624.32
-  t5-lottery-dkp: 582.0799999999999
+  t5-lottery-dkp: 582.08
   t5-priority-dkp: 6410.7
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -114,7 +114,7 @@ Barnabris:
   rank: Reserve Raider
   t4-lottery-dkp: 3116.34
   t4-priority-dkp: 3089.51
-  t5-lottery-dkp: 4297.780000000001
+  t5-lottery-dkp: 4297.78
   t5-priority-dkp: 5960.49
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -146,8 +146,8 @@ Chubrock:
   rank: Reserve Raider
   t4-lottery-dkp: 2058.27
   t4-priority-dkp: 2672.39
-  t5-lottery-dkp: 5024.219999999999
-  t5-priority-dkp: 5024.219999999999
+  t5-lottery-dkp: 5024.22
+  t5-priority-dkp: 5024.22
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -250,8 +250,8 @@ Ellievyra:
   rank: Core Raider
   t4-lottery-dkp: 2024.13
   t4-priority-dkp: 3493.04
-  t5-lottery-dkp: -221.4100000000001
-  t5-priority-dkp: 4601.139999999999
+  t5-lottery-dkp: -221.41
+  t5-priority-dkp: 4601.14
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -286,7 +286,7 @@ Goodjorb:
   t4-lottery-dkp: 2442.52
   t4-priority-dkp: 1167.99
   t5-lottery-dkp: -1555.57
-  t5-priority-dkp: 5142.639999999999
+  t5-priority-dkp: 5142.64
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -330,7 +330,7 @@ Jahmee:
   t4-lottery-dkp: 3634.04
   t4-priority-dkp: 2945.67
   t5-lottery-dkp: 5664.43
-  t5-priority-dkp: 4828.440000000001
+  t5-priority-dkp: 4828.44
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -430,7 +430,7 @@ Malchazor:
   rank: Core Raider
   t4-lottery-dkp: 2648.13
   t4-priority-dkp: 3546.69
-  t5-lottery-dkp: 595.9100000000001
+  t5-lottery-dkp: 595.91
   t5-priority-dkp: 4901.04
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -548,7 +548,7 @@ Searious:
   t4-lottery-dkp: 2672.39
   t4-priority-dkp: 2672.39
   t5-lottery-dkp: 1409.22
-  t5-priority-dkp: 5109.219999999999
+  t5-priority-dkp: 5109.22
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -641,7 +641,7 @@ Sylador:
   rank: Core Raider
   t4-lottery-dkp: 2975.79
   t4-priority-dkp: 2634.04
-  t5-lottery-dkp: 180.0700000000001
+  t5-lottery-dkp: 180.07
   t5-priority-dkp: 6418.73
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -706,7 +706,7 @@ Zeion:
   rank: Core Raider
   t4-lottery-dkp: 3634.04
   t4-priority-dkp: 3190.34
-  t5-lottery-dkp: 66.0999999999999
+  t5-lottery-dkp: 66.10
   t5-priority-dkp: 4418.73
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
