@@ -694,6 +694,7 @@ Weedster:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Helm of the Vanquished Defender
   - Tsunami Talisman
   priority-lootconfig:
   - Belt of One-Hundred Deaths
