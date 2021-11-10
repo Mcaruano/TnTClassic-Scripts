@@ -583,7 +583,8 @@ Shnacks:
   class: Druid
   lottery-lootconfig:
   - Helm of the Vanquished Defender
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 3088.93
   t4-priority-dkp: 2547.93
