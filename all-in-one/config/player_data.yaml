@@ -577,7 +577,9 @@ Shnacks:
   class: Druid
   lottery-lootconfig:
   - Helm of the Vanquished Defender
+  - Pit Lord's Satchel
   priority-lootconfig:
+  - Brute Cloak of the Ogre-Magi
   - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 3973.93
