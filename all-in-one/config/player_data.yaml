@@ -154,6 +154,8 @@ Chubrock:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
+  - Arcanite Steam-Pistol
+  - Band of the Ranger-General
   - Talon of Azshara
   - Vambraces of Ending
   priority-lootconfig:
