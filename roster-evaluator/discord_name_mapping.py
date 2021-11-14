@@ -17,6 +17,7 @@ DISCORD_NAME_MAPPING = {
     "Barlen": "Barlen",
     "BERZERK": "Berzerk",
     "Blisterz": "Sofakinglulz",
+    "Brittany": "Brittany",
     "barnabris(": "Barnabris",
     "barnabris(hul": "Barnabris",
     "barnabris(hulk)": "Barnabris",
