@@ -302,7 +302,12 @@ Hulkhigginz:
   t6pt5-priority-dkp: 0.0
 Hyolin:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Earring of Soulful Meditation
+  - Lightfathom Scepter
+  - Luminescent Rod of the Naaru
+  - Sunshower Light Cloak
+  - Verdant Sphere
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3304.24
