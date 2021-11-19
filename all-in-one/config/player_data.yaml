@@ -240,10 +240,8 @@ Digie:
   t6pt5-priority-dkp: 0.0
 Ellievyra:
   class: Priest
-  lottery-lootconfig:
-  - Chestguard of the Vanquished Defender
-  priority-lootconfig:
-  - Lightfathom Scepter
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2214.68
   t4-priority-dkp: 2425.97
@@ -609,11 +607,8 @@ Sizzleñips:
   t6pt5-priority-dkp: 0.0
 Solzar:
   class: Priest
-  lottery-lootconfig:
-  - Helm of the Vanquished Defender
-  priority-lootconfig:
-  - Royal Cloak of the Sunstriders
-  - Soul-Eater's Handwraps
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3044.38
   t4-priority-dkp: 3296.58
