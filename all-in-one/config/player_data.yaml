@@ -566,8 +566,8 @@ Seion:
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
+  priority-lootconfig:
   - Verdant Sphere
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2441.16
   t4-priority-dkp: 3245.34
