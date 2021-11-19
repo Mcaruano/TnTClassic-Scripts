@@ -338,10 +338,10 @@ Justin:
   class: Warlock
   lottery-lootconfig:
   - Fang of the Leviathan
-  - Mindstorm Wristbands
   - Ring of Endless Coils
   priority-lootconfig:
   - Eredar Wand of Obliteration
+  - Mindstorm Wristbands
   - Wand of the Forgotten Star
   rank: Core Raider
   t4-lottery-dkp: 3168.31
