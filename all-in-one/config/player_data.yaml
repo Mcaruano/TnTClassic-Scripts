@@ -625,6 +625,19 @@ Solzar:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
+Spookyremi:
+  class: Warlock
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Sylador:
   class: Druid
   lottery-lootconfig:
@@ -638,6 +651,19 @@ Sylador:
   t4-priority-dkp: 2758.54
   t5-lottery-dkp: 1966.13
   t5-priority-dkp: 5797.45
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
+Velyris:
+  class: Priest
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Reserve Raider
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -716,19 +742,6 @@ Zerxx:
   t4-priority-dkp: 2650.16
   t5-lottery-dkp: 5529.94
   t5-priority-dkp: 5797.45
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-goodjorb:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
