@@ -537,9 +537,11 @@ Rotheart:
 Searious:
   class: Hunter
   lottery-lootconfig:
-  - Helm of the Vanquished Hero
+  - Thalassian Wildercloak
+  - Verdant Sphere
   priority-lootconfig:
   - Dragonspine Trophy
+  - Helm of the Vanquished Hero
   - Serpent Spine Longbow
   rank: Reserve Raider
   t4-lottery-dkp: 2782.09
