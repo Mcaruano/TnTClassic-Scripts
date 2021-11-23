@@ -95,6 +95,7 @@ DISCORD_NAME_MAPPING = {
     "sekdar(sekjr": "Sekkondary",
     "sekdar(sekjr)": "Sekkondary",
     "sekdar(sekkon": "Sekkondary",
+    "sekdar(sekkondary)": "Sekkondary",
     "Sheol/Soupz": "Sheol",
     "Shnacks": "Shnacks",
     "Simptease": "Wildshrimp",
