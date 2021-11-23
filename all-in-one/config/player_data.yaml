@@ -266,12 +266,8 @@ Galm:
   t6pt5-priority-dkp: 0.0
 Goodjorb:
   class: Mage
-  lottery-lootconfig:
-  - Gauntlets of the Sun King
-  - Helm of the Vanquished Hero
-  - Velvet Boots of the Guardian
-  priority-lootconfig:
-  - The Nexus Key
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2640.92
   t4-priority-dkp: 1858.2
