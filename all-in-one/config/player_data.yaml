@@ -135,7 +135,6 @@ Chubrock:
   - Eredar Wand of Obliteration
   - Eye of Magtheridon
   - Magtheridon's Head
-  - Mindstorm Wristbands
   - Pauldrons of the Fallen Hero
   - Pauldrons of the Vanquished Hero
   - Pit Lord's Satchel
@@ -143,6 +142,7 @@ Chubrock:
   priority-lootconfig:
   - Bloodmaw Magus-Blade
   - Fang of the Leviathan
+  - Mindstorm Wristbands
   rank: Reserve Raider
   t4-lottery-dkp: 2404.95
   t4-priority-dkp: 2782.09
