@@ -123,8 +123,8 @@ Brittany:
   rank: Not Set
   t4-lottery-dkp: 0.0
   t4-priority-dkp: 0.0
-  t5-lottery-dkp: 571.4300000000001
-  t5-priority-dkp: 571.4300000000001
+  t5-lottery-dkp: 571.43
+  t5-priority-dkp: 571.43
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -242,7 +242,7 @@ Ellievyra:
   t4-lottery-dkp: 2383.98
   t4-priority-dkp: 2563.57
   t5-lottery-dkp: 2875.58
-  t5-priority-dkp: 4161.219999999999
+  t5-priority-dkp: 4161.22
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -267,7 +267,7 @@ Goodjorb:
   class: Mage
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Core Raider
+  rank: Social Member
   t4-lottery-dkp: 2640.92
   t4-priority-dkp: 1858.2
   t5-lottery-dkp: 1863.77
@@ -412,7 +412,7 @@ Malchazor:
   rank: Core Raider
   t4-lottery-dkp: 2767.19
   t4-priority-dkp: 3319.03
-  t5-lottery-dkp: -83.46000000000004
+  t5-lottery-dkp: -83.46
   t5-priority-dkp: 6045.4
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
@@ -620,7 +620,7 @@ Solzar:
   class: Priest
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Core Raider
+  rank: Social Member
   t4-lottery-dkp: 3089.22
   t4-priority-dkp: 3303.59
   t5-lottery-dkp: 5513.04
