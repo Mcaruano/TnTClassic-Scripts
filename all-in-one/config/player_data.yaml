@@ -236,7 +236,14 @@ Digie:
   t6pt5-priority-dkp: 0.0
 Ellievyra:
   class: Priest
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
+  - Eye of Magtheridon
+  - Helm of the Vanquished Defender
+  - Leggings of the Vanquished Defender
+  - Pauldrons of the Vanquished Defender
+  - Royal Cloak of the Sunstriders
+  - Soul-Eater's Handwraps
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2383.98
