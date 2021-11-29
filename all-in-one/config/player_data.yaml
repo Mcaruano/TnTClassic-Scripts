@@ -91,8 +91,8 @@ Baopi:
   rank: Core Raider
   t4-lottery-dkp: 2393.72
   t4-priority-dkp: 3956.7
-  t5-lottery-dkp: 3213.02
-  t5-priority-dkp: 6792.52
+  t5-lottery-dkp: 3393.02
+  t5-priority-dkp: 6972.52
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -599,12 +599,12 @@ Shlarred:
   rank: Not Set
   t4-lottery-dkp: 0.0
   t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Shnacks:
   class: Druid
   lottery-lootconfig: []
