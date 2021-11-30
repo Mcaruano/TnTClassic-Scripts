@@ -17,11 +17,9 @@ Abstinence:
 Akaran:
   class: Warrior
   lottery-lootconfig:
-  - Boots of the Resilient
   - Chestguard of the Vanquished Defender
   - Cloak of the Pit Stalker
   - Phoenix-Wing Cloak
-  - Verdant Sphere
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
