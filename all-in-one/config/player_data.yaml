@@ -200,10 +200,7 @@ Dalran:
 Demeker:
   class: Warlock
   lottery-lootconfig:
-  - Fang of the Leviathan
   - Mindstorm Wristbands
-  - Ring of Endless Coils
-  - Royal Cloak of the Sunstriders
   - Wand of the Forgotten Star
   priority-lootconfig:
   - Vestments of the Sea-Witch
