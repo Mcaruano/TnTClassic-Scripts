@@ -729,10 +729,10 @@ Weedster:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Chestguard of the Vanquished Defender
   - Helm of the Vanquished Defender
   - Tsunami Talisman
-  priority-lootconfig:
-  - Belt of One-Hundred Deaths
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3168.14
   t4-priority-dkp: 3358.54
