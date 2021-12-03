@@ -161,7 +161,7 @@ def calculate_and_execute_squish(addonDataDict):
     lotteryScalar = LOTTERY_DKP_TARGET / highestLotteryDKPRecord[1]
     print("LOTTERY - Squish Scaling Factor = {}".format(lotteryScalar))
 
-    # Scale all Priority DKP values by the Priority scaling factor, using a precision of 2 decimal places
+    # Scale all Lottery DKP values by the Lottery scaling factor, using a precision of 2 decimal places
     for player in addonDataDict[previousLotteryTableKey]:
         if addonDataDict[previousLotteryTableKey][player] < 0:
             print("{} had negative Lottery DKP, not squishing".format(player))
