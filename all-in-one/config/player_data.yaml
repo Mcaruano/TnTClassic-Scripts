@@ -532,6 +532,7 @@ Rotheart:
 Searious:
   class: Hunter
   lottery-lootconfig:
+  - Magtheridon's Head
   - Thalassian Wildercloak
   - Verdant Sphere
   priority-lootconfig:
