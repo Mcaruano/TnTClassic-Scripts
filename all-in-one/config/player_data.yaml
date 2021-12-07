@@ -491,9 +491,10 @@ Onetotemman:
 Rayas:
   class: Shaman
   lottery-lootconfig:
-  - Verdant Sphere
+  - Sunshower Light Cloak
   priority-lootconfig:
   - Lightfathom Scepter
+  - Verdant Sphere
   rank: Core Raider
   t4-lottery-dkp: 2884.64
   t4-priority-dkp: 3284.21
