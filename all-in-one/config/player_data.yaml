@@ -212,7 +212,6 @@ Demeker:
 Digie:
   class: Rogue
   lottery-lootconfig:
-  - Leggings of the Vanquished Champion
   - Rod of the Sun King
   - Verdant Sphere
   priority-lootconfig:
