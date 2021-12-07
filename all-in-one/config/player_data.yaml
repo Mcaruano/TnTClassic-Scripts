@@ -635,8 +635,18 @@ Solzar:
   t6pt5-priority-dkp: 0.0
 Spookyremi:
   class: Warlock
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Fathomstone
+  - Helm of the Vanquished Hero
+  - Mindstorm Bands
+  - 'Pattern: Boots of Blasting'
+  - Ring of Endless Coils
+  - The Nexus Key
+  - Verdant Sphere
+  - Wand of the Forgotten Star
+  priority-lootconfig:
+  - Fang of the Leviathan
+  - Vestments of the Sea-Witch
   rank: Reserve Raider
   t4-lottery-dkp: 927.77
   t4-priority-dkp: 927.77
