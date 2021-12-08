@@ -751,7 +751,6 @@ Zerxx:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
-  - Chestguard of the Vanquished Defender
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
