@@ -130,13 +130,14 @@ Chubrock:
   lottery-lootconfig:
   - Eredar Wand of Obliteration
   - Eye of Magtheridon
+  - Fang of the Leviathan
   - Pauldrons of the Fallen Hero
   - Pit Lord's Satchel
   - Wand of the Forgotten Star
   priority-lootconfig:
   - Bloodmaw Magus-Blade
-  - Fang of the Leviathan
   - Mindstorm Wristbands
+  - The Nexus Key
   rank: Reserve Raider
   t4-lottery-dkp: 1815.35
   t4-priority-dkp: 2937.84
