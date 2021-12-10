@@ -176,7 +176,6 @@ Crazydaisy:
   class: Shaman
   lottery-lootconfig:
   - Belt of One-Hundred Deaths
-  - Thalassian Wildercloak
   priority-lootconfig:
   - Rod of the Sun King
   rank: Core Raider
