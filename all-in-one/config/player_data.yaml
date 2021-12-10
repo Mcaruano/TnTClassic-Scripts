@@ -245,9 +245,7 @@ Ellievyra:
   t6pt5-priority-dkp: 0.0
 Galm:
   class: Mage
-  lottery-lootconfig:
-  - Royal Cloak of the Sunstriders
-  - Verdant Sphere
+  lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2033.71
