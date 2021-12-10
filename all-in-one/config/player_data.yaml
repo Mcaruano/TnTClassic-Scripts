@@ -549,9 +549,9 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Magtheridon's Head
-  - Verdant Sphere
   priority-lootconfig:
   - Dragonspine Trophy
+  - Verdant Sphere
   rank: Reserve Raider
   t4-lottery-dkp: 2436.34
   t4-priority-dkp: 2436.34
