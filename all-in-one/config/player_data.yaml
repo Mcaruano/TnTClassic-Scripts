@@ -675,8 +675,8 @@ Sylador:
   lottery-lootconfig:
   - Chestguard of the Vanquished Defender
   - Helm of the Vanquished Defender
+  priority-lootconfig:
   - Verdant Sphere
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3662.46
   t4-priority-dkp: 3510.82
