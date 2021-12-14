@@ -740,6 +740,7 @@ Wildshrimp:
   class: Druid
   lottery-lootconfig:
   - Chestguard of the Vanquished Defender
+  - Thalassian Wildercloak
   - Tsunami Talisman
   priority-lootconfig: []
   rank: Core Raider
