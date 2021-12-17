@@ -643,6 +643,8 @@ Solzar:
 Spookyremi:
   class: Warlock
   lottery-lootconfig:
+  - Brute Cloak of the Ogre-Magi
+  - Eredar wand of obliteration
   - Fathomstone
   - Mindstorm Wristbands
   - Ring of Endless Coils
