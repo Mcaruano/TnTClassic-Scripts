@@ -114,10 +114,10 @@ Barnabris:
   priority-lootconfig:
   - Lightfathom Scepter
   rank: Reserve Raider
-  t4-lottery-dkp: 3166.11
-  t4-priority-dkp: 3155.98
-  t5-lottery-dkp: 5890.66
-  t5-priority-dkp: 6517.76
+  t4-lottery-dkp: 3756.11
+  t4-priority-dkp: 3745.98
+  t5-lottery-dkp: 6520.66
+  t5-priority-dkp: 7147.76
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -164,8 +164,8 @@ Chuunin:
   rank: Core Raider
   t4-lottery-dkp: 3936.73
   t4-priority-dkp: 3678.86
-  t5-lottery-dkp: 2689.52
-  t5-priority-dkp: 5440.58
+  t5-lottery-dkp: 2869.52
+  t5-priority-dkp: 5620.58
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -747,10 +747,10 @@ Zeion:
   - Eye of Gruul
   priority-lootconfig: []
   rank: Core Raider
-  t4-lottery-dkp: 3361.34
-  t4-priority-dkp: 3194.0
-  t5-lottery-dkp: 2849.68
-  t5-priority-dkp: 5936.28
+  t4-lottery-dkp: 3951.34
+  t4-priority-dkp: 3784.0
+  t5-lottery-dkp: 3479.68
+  t5-priority-dkp: 6566.28
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
