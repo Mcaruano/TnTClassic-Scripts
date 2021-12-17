@@ -145,7 +145,7 @@ Chubrock:
   priority-lootconfig:
   - Mindstorm Wristbands
   - The Nexus Key
-  rank: Reserve Raider
+  rank: Core Raider
   t4-lottery-dkp: -4.649999999999977
   t4-priority-dkp: 3588.66
   t5-lottery-dkp: 380.44
@@ -252,7 +252,7 @@ Galm:
   class: Mage
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Core Raider
+  rank: Social Member
   t4-lottery-dkp: 2230.15
   t4-priority-dkp: 3333.35
   t5-lottery-dkp: 2825.77
@@ -653,7 +653,7 @@ Spookyremi:
   - Bloodmaw Magus-Blade
   - Fang of the Leviathan
   - Vestments of the Sea-Witch
-  rank: Reserve Raider
+  rank: Core Raider
   t4-lottery-dkp: 1880.1
   t4-priority-dkp: 1880.1
   t5-lottery-dkp: 910.22
@@ -685,7 +685,7 @@ Velyris:
   - Sunshower Light Cloak
   priority-lootconfig:
   - Lightfathom Scepter
-  rank: Reserve Raider
+  rank: Core Raider
   t4-lottery-dkp: 880.1
   t4-priority-dkp: 1880.1
   t5-lottery-dkp: -2514.0
