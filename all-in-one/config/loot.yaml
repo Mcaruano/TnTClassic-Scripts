@@ -559,3 +559,594 @@
 33058:
   content-tier: T5
   item-name: Band of the Vigilant
+30861:
+  content-tier: T6
+  item-name: Furious Shackles
+30862:
+  content-tier: T6
+  item-name: Blessed Adamantite Bracers
+30863:
+  content-tier: T6
+  item-name: Deadly Cuffs
+30864:
+  content-tier: T6
+  item-name: Bracers of the Pathfinder
+30865:
+  content-tier: T6
+  item-name: Tracker's Blade
+30866:
+  content-tier: T6
+  item-name: Blood-stained Pauldrons
+30868:
+  content-tier: T6
+  item-name: Rejuvenating Bracers
+30869:
+  content-tier: T6
+  item-name: Howling Wind Bracers
+30870:
+  content-tier: T6
+  item-name: Cuffs of Devastation
+30871:
+  content-tier: T6
+  item-name: Bracers of Martyrdom
+30872:
+  content-tier: T6
+  item-name: Chronicle of Dark Secrets
+30873:
+  content-tier: T6
+  item-name: Stillwater Boots
+30874:
+  content-tier: T6
+  item-name: The Unbreakable Will
+30878:
+  content-tier: T6
+  item-name: Glimmering Steel Mantle
+30879:
+  content-tier: T6
+  item-name: Don Alejandro's Money Belt
+30880:
+  content-tier: T6
+  item-name: Quickstrider Moccasins
+30881:
+  content-tier: T6
+  item-name: Blade of Infamy
+30882:
+  content-tier: T6
+  item-name: Bastion of Light
+30883:
+  content-tier: T6
+  item-name: Pillar of Ferocity
+30884:
+  content-tier: T6
+  item-name: Hatefury Mantle
+30885:
+  content-tier: T6
+  item-name: Archbishop's Slippers
+30886:
+  content-tier: T6
+  item-name: Enchanted Leather Sandals
+30887:
+  content-tier: T6
+  item-name: Golden Links of Restoration
+30888:
+  content-tier: T6
+  item-name: Anetheron's Noose
+30889:
+  content-tier: T6
+  item-name: Kaz'rogal's Hardened Heart
+30891:
+  content-tier: T6
+  item-name: Black Featherlight Boots
+30892:
+  content-tier: T6
+  item-name: Beast-tamer's Shoulders
+30893:
+  content-tier: T6
+  item-name: Sun-touched Chain Leggings
+30894:
+  content-tier: T6
+  item-name: Blue Suede Shoes
+30895:
+  content-tier: T6
+  item-name: Angelista's Sash
+30896:
+  content-tier: T6
+  item-name: Glory of the Defender
+30897:
+  content-tier: T6
+  item-name: Girdle of Hope
+30898:
+  content-tier: T6
+  item-name: Shady Dealer's Pantaloons
+30899:
+  content-tier: T6
+  item-name: Don Rodrigo's Poncho
+30900:
+  content-tier: T6
+  item-name: Bow-stitched leggings
+30901:
+  content-tier: T6
+  item-name: Boundless Agony
+30902:
+  content-tier: T6
+  item-name: Cataclysm's Edge
+30903:
+  content-tier: T6
+  item-name: Legguards of Endless Rage
+30904:
+  content-tier: T6
+  item-name: Savior's Grasp
+30905:
+  content-tier: T6
+  item-name: Midnight Chestguard
+30906:
+  content-tier: T6
+  item-name: Bristleblitz Striker
+30907:
+  content-tier: T6
+  item-name: Mail of Fevered Pursuit
+30908:
+  content-tier: T6
+  item-name: Apostle of Argus
+30909:
+  content-tier: T6
+  item-name: Antonidas's Aegis of Rapt Concentration
+30910:
+  content-tier: T6
+  item-name: Tempest of Chaos
+30911:
+  content-tier: T6
+  item-name: Scepter of Purification
+30912:
+  content-tier: T6
+  item-name: Leggings of Eternity
+30913:
+  content-tier: T6
+  item-name: Robes of Rhonin
+30914:
+  content-tier: T6
+  item-name: Belt of the Crescent Moon
+30915:
+  content-tier: T6
+  item-name: Belt of Seething Fury
+30916:
+  content-tier: T6
+  item-name: Leggings of Channeled Elements
+30917:
+  content-tier: T6
+  item-name: Razorfury Mantle
+30918:
+  content-tier: T6
+  item-name: Hammer of Atonement
+30919:
+  content-tier: T6
+  item-name: Valestalker Girdle
+31089:
+  content-tier: T6
+  item-name: Chestguard of the Forgotten Conqueror
+31090:
+  content-tier: T6
+  item-name: Chestguard of the Forgotten Vanquisher
+31091:
+  content-tier: T6
+  item-name: Chestguard of the Forgotten Protector
+31092:
+  content-tier: T6
+  item-name: Gloves of the Forgotten Conqueror
+31093:
+  content-tier: T6
+  item-name: Gloves of the Forgotten Vanquisher
+31094:
+  content-tier: T6
+  item-name: Gloves of the Forgotten Protector
+31095:
+  content-tier: T6
+  item-name: Helm of the Forgotten Protector
+31096:
+  content-tier: T6
+  item-name: Helm of the Forgotten Vanquisher
+31097:
+  content-tier: T6
+  item-name: Helm of the Forgotten Conqueror
+31098:
+  content-tier: T6
+  item-name: Leggings of the Forgotten Conqueror
+31099:
+  content-tier: T6
+  item-name: Leggings of the Forgotten Vanquisher
+31100:
+  content-tier: T6
+  item-name: Leggings of the Forgotten Protector
+31101:
+  content-tier: T6
+  item-name: Pauldrons of the Forgotten Conqueror
+31102:
+  content-tier: T6
+  item-name: Pauldrons of the Forgotten Vanquisher
+31103:
+  content-tier: T6
+  item-name: Pauldrons of the Forgotten Protector
+32232:
+  content-tier: T6
+  item-name: Eternium Shell Bracers
+32234:
+  content-tier: T6
+  item-name: Fists of Mukoa
+32235:
+  content-tier: T6
+  item-name: Cursed Vision of Sargeras
+32236:
+  content-tier: T6
+  item-name: Rising Tide
+32237:
+  content-tier: T6
+  item-name: The Maelstrom's Fury
+32238:
+  content-tier: T6
+  item-name: Ring of Calming Waves
+32239:
+  content-tier: T6
+  item-name: Slippers of the Seacaller
+32240:
+  content-tier: T6
+  item-name: Guise of the Tidal Lurker
+32241:
+  content-tier: T6
+  item-name: Helm of Soothing Currents
+32242:
+  content-tier: T6
+  item-name: Boots of Oceanic Fury
+32243:
+  content-tier: T6
+  item-name: Pearl Inlaid Boots
+32245:
+  content-tier: T6
+  item-name: Tide-stomper's Greaves
+32247:
+  content-tier: T6
+  item-name: Ring of Captured Storms
+32248:
+  content-tier: T6
+  item-name: Halberd of Desolation
+32250:
+  content-tier: T6
+  item-name: Pauldrons of Abyssal Fury
+32251:
+  content-tier: T6
+  item-name: Wraps of Precise Flight
+32252:
+  content-tier: T6
+  item-name: Nether Shadow Tunic
+32253:
+  content-tier: T6
+  item-name: Legionkiller
+32254:
+  content-tier: T6
+  item-name: The Brutalizer
+32255:
+  content-tier: T6
+  item-name: Felstone Bulwark
+32256:
+  content-tier: T6
+  item-name: Waistwrap of Infinity
+32257:
+  content-tier: T6
+  item-name: Idol of the White Stag
+32258:
+  content-tier: T6
+  item-name: Naturalist's Preserving Cinch
+32259:
+  content-tier: T6
+  item-name: Bands of the Coming Storm
+32260:
+  content-tier: T6
+  item-name: Choker of Endless Nightmares
+32261:
+  content-tier: T6
+  item-name: Band of the Abyssal Lord
+32262:
+  content-tier: T6
+  item-name: Siphon of the Nathrezim
+32263:
+  content-tier: T6
+  item-name: Praetorian's Legguards
+32264:
+  content-tier: T6
+  item-name: Shoulders of the Hidden Predator
+32265:
+  content-tier: T6
+  item-name: Shadow-walker's Cord
+32266:
+  content-tier: T6
+  item-name: Ring of Deceitful Intent
+32268:
+  content-tier: T6
+  item-name: Myrmidon's Treads
+32269:
+  content-tier: T6
+  item-name: Messenger of Fate
+32270:
+  content-tier: T6
+  item-name: Focused Mana Bindings
+32271:
+  content-tier: T6
+  item-name: Kilt of Immortal Nature
+32273:
+  content-tier: T6
+  item-name: Amice of Brilliant Light
+32275:
+  content-tier: T6
+  item-name: Spiritwalker Gauntlets
+32276:
+  content-tier: T6
+  item-name: Flashfire Girdle
+32278:
+  content-tier: T6
+  item-name: Grips of Silent Justice
+32279:
+  content-tier: T6
+  item-name: The Seeker's Wristguards
+32280:
+  content-tier: T6
+  item-name: Gauntlets of Enforcement
+32323:
+  content-tier: T6
+  item-name: Shadowmoon Destroyer's Drape
+32324:
+  content-tier: T6
+  item-name: Insidious Bands
+32325:
+  content-tier: T6
+  item-name: Rifle of the Stoic Guardian
+32326:
+  content-tier: T6
+  item-name: Twisted Blades of Zarek
+32327:
+  content-tier: T6
+  item-name: Robe of the Shadow Council
+32328:
+  content-tier: T6
+  item-name: Botanist's Gloves of Growth
+32329:
+  content-tier: T6
+  item-name: Cowl of Benevolence
+32330:
+  content-tier: T6
+  item-name: Totem of Ancestral Guidance
+32331:
+  content-tier: T6
+  item-name: Cloak of the Illidari Council
+32332:
+  content-tier: T6
+  item-name: Torch of the Damned
+32333:
+  content-tier: T6
+  item-name: Girdle of Stability
+32334:
+  content-tier: T6
+  item-name: Vest of Mounting Assault
+32335:
+  content-tier: T6
+  item-name: Unstoppable Aggressor's Ring
+32336:
+  content-tier: T6
+  item-name: Black Bow of the Betrayer
+32337:
+  content-tier: T6
+  item-name: Shroud of Forgiveness
+32338:
+  content-tier: T6
+  item-name: Blood-cursed Shoulderpads
+32339:
+  content-tier: T6
+  item-name: Belt of Primal Majesty
+32340:
+  content-tier: T6
+  item-name: Garments of Temperance
+32341:
+  content-tier: T6
+  item-name: Leggings of Divine Retribution
+32342:
+  content-tier: T6
+  item-name: Girdle of Mighty Resolve
+32343:
+  content-tier: T6
+  item-name: Wand of Prismatic Focus
+32344:
+  content-tier: T6
+  item-name: Staff of Immaculate Recovery
+32345:
+  content-tier: T6
+  item-name: Dreadboots of the Legion
+32346:
+  content-tier: T6
+  item-name: Boneweave Girdle
+32347:
+  content-tier: T6
+  item-name: Grips of Damnation
+32348:
+  content-tier: T6
+  item-name: Soul Cleaver
+32349:
+  content-tier: T6
+  item-name: Translucent Spellthread Necklace
+32350:
+  content-tier: T6
+  item-name: Touch of Inspiration
+32351:
+  content-tier: T6
+  item-name: Elunite Empowered Bracers
+32352:
+  content-tier: T6
+  item-name: Naturewarden's Treads
+32353:
+  content-tier: T6
+  item-name: Gloves of Unfailing Faith
+32354:
+  content-tier: T6
+  item-name: Crown of Empowered Fate
+32361:
+  content-tier: T6
+  item-name: Blind-Seers Icon
+32362:
+  content-tier: T6
+  item-name: Pendant of Titans
+32363:
+  content-tier: T6
+  item-name: Naaru-Blessed Life Rod
+32365:
+  content-tier: T6
+  item-name: Heartshatter Breastplate
+32366:
+  content-tier: T6
+  item-name: Shadowmaster's Boots
+32367:
+  content-tier: T6
+  item-name: Leggings of Devastation
+32368:
+  content-tier: T6
+  item-name: Tome of the Lightbringer
+32369:
+  content-tier: T6
+  item-name: Blade of Savagery
+32370:
+  content-tier: T6
+  item-name: Nadina's Pendant of Purity
+32373:
+  content-tier: T6
+  item-name: Helm of the Illidari Shatterer
+32374:
+  content-tier: T6
+  item-name: Zhar'doom, Greatstaff of the Devourer
+32375:
+  content-tier: T6
+  item-name: Bulwark of Azzinoth
+32376:
+  content-tier: T6
+  item-name: Forest Prowler's Helm
+32377:
+  content-tier: T6
+  item-name: Mantle of Darkness
+32471:
+  content-tier: T6
+  item-name: Shard of Azzinoth
+32483:
+  content-tier: T6
+  item-name: The Skull of Gul'dan
+32496:
+  content-tier: T6
+  item-name: Memento of Tyrande
+32497:
+  content-tier: T6
+  item-name: Stormrage Signet Ring
+32500:
+  content-tier: T6
+  item-name: Crystal Spire of Karabor
+32501:
+  content-tier: T6
+  item-name: Shadowmoon Insignia
+32505:
+  content-tier: T6
+  item-name: Madness of the Betrayer
+32510:
+  content-tier: T6
+  item-name: Softstep Boots of Tracking
+32512:
+  content-tier: T6
+  item-name: Girdle of Lordaeron's Fallen
+32513:
+  content-tier: T6
+  item-name: Wristbands of Divine Influence
+32517:
+  content-tier: T6
+  item-name: The Wavemender's Mantle
+32518:
+  content-tier: T6
+  item-name: Veil of Turning Leaves
+32519:
+  content-tier: T6
+  item-name: Belt of Divine Guidance
+32521:
+  content-tier: T6
+  item-name: Faceplate of the Impenetrable
+32524:
+  content-tier: T6
+  item-name: Shroud of the Highborne
+32525:
+  content-tier: T6
+  item-name: Cowl of the Illidari High Lord
+32526:
+  content-tier: T6
+  item-name: Band of Devastation
+32527:
+  content-tier: T6
+  item-name: Ring of Ancient Knowledge
+32528:
+  content-tier: T6
+  item-name: Blessed Band of Karabor
+32589:
+  content-tier: T6
+  item-name: Hellfire-Encased Pendant
+32590:
+  content-tier: T6
+  item-name: Nethervoid Cloak
+32591:
+  content-tier: T6
+  item-name: Choker of Serrated Blades
+32592:
+  content-tier: T6
+  item-name: Chestguard of Relentless Storms
+32606:
+  content-tier: T6
+  item-name: Girdle of the Lightbearer
+32609:
+  content-tier: T6
+  item-name: Boots of the Divine Light
+32737:
+  content-tier: T6
+  item-name: 'Plans: Swiftsteel Shoulders'
+32739:
+  content-tier: T6
+  item-name: 'Plans: Dawnsteel Shoulders'
+32745:
+  content-tier: T6
+  item-name: 'Pattern: Shoulderpads of Renewed Life'
+32747:
+  content-tier: T6
+  item-name: 'Pattern: Swiftstrike Shoulders'
+32749:
+  content-tier: T6
+  item-name: 'Pattern: Shoulders of Lightning Reflexes'
+32753:
+  content-tier: T6
+  item-name: 'Pattern: Swiftheal Mantle'
+32755:
+  content-tier: T6
+  item-name: 'Pattern: Mantle of Nimble Thought'
+32827:
+  content-tier: T6
+  item-name: Warglaive of Azzinoth
+32828:
+  content-tier: T6
+  item-name: Warglaive of Azzinoth
+32943:
+  content-tier: T6
+  item-name: Swiftsteel Bludgeon
+32945:
+  content-tier: T6
+  item-name: Fist of Molten Fury
+32946:
+  content-tier: T6
+  item-name: Claw of Molten Fury
+34009:
+  content-tier: T6
+  item-name: Hammer of Judgement
+34010:
+  content-tier: T6
+  item-name: Pepe's Shroud of Pacification
+34011:
+  content-tier: T6
+  item-name: Illidari Runeshield
+34012:
+  content-tier: T6
+  item-name: Shroud of the Final Stand
