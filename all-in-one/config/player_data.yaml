@@ -405,9 +405,20 @@ Malchazor:
   lottery-lootconfig:
   - Bloodmaw Magus-Blade
   - Boots of the Resilient
+  - Bulwark of Azzinoth
+  - Girdle of Mighty Resolve
+  - Hammer of Judgement
+  - Kaz'rogal's Hardened Heart
   - Leggings of the Vanquished Champion
+  - The Seeker's Wristguards
+  - Tide-stomper's Greaves
   - Wristguards of Determination
   priority-lootconfig:
+  - Chestguard of the Forgotten Conquerer
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of the Forgotten Conquerer
+  - Pauldrons of the Forgotten Conquerer
   - Royal Cloak of the Sunstriders
   rank: Core Raider
   t4-lottery-dkp: 3579.51
