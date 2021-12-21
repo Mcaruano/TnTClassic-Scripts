@@ -689,11 +689,20 @@ Sylador:
 Velyris:
   class: Priest
   lottery-lootconfig:
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
+  - Bracers of Martyrdom
+  - Chestguard of the Forgotten Conqueror
   - Chestguard of the Vanquished Defender
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
   - Helm of the Vanquished Defender
+  - Leggings of Eternity
   - Sunshower Light Cloak
+  - Verdant Sphere
   priority-lootconfig:
   - Lightfathom Scepter
+  - Memento of Tyrande
   rank: Core Raider
   t4-lottery-dkp: 880.1
   t4-priority-dkp: 1880.1
