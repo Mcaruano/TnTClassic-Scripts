@@ -575,7 +575,11 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Coral Band of the Revived
-  priority-lootconfig: []
+  - 'Pattern: Living Earth Bindings'
+  - 'Pattern: Living Earth Shoulders'
+  priority-lootconfig:
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
   rank: Core Raider
   t4-lottery-dkp: 3154.41
   t4-priority-dkp: 3574.2
