@@ -60,9 +60,15 @@ Aro:
 Ashori:
   class: Paladin
   lottery-lootconfig:
+  - Band of Devastation
   - Belt of One-Hundred Deaths
+  - Chestguard of the Forgotten Conqueror
+  - Leggings of the Forgotten Conqueror
+  - Shadowmoon Destroyer's Drape
+  - Torch of the Damned
   priority-lootconfig:
   - Dragonspine Trophy
+  - Dreadboots of the Legion
   - Tsunami Talisman
   rank: Core Raider
   t4-lottery-dkp: 2091.02
