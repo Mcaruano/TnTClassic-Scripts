@@ -691,9 +691,13 @@ Spookyremi:
 Sylador:
   class: Druid
   lottery-lootconfig:
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
   - Chestguard of the Vanquished Defender
   - Helm of the Vanquished Defender
-  priority-lootconfig: []
+  - Scepter of Purification
+  priority-lootconfig:
+  - Shroud of the Highborne
   rank: Core Raider
   t4-lottery-dkp: 3703.09
   t4-priority-dkp: 3574.2
