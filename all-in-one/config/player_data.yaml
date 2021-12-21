@@ -762,8 +762,15 @@ Zerxx:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Chestguard of the Forgotten Protector
+  - Choker of Serrated Blades
+  - Dreadboots of the Legion
+  - Grips of Silent Justice
+  - Helm of the Illidari Shatterer
+  - Pauldrons of the Forgotten Protector
   priority-lootconfig:
   - Belt of One-Hundred Deaths
+  - Leggings of Divine Retribution
   rank: Core Raider
   t4-lottery-dkp: 3252.69
   t4-priority-dkp: 3006.14
