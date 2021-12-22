@@ -96,11 +96,11 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Dragonspine Trophy
   - Tsunami Talisman
   - Warboots of Obliteration
   priority-lootconfig:
   - Belt of One-Hundred Deaths
-  - Dragonspine Trophy
   rank: Core Raider
   t4-lottery-dkp: 3129.65
   t4-priority-dkp: 3945.53
