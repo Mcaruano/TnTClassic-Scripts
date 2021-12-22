@@ -556,9 +556,16 @@ Salchant:
 Searious:
   class: Hunter
   lottery-lootconfig:
+  - Bow-Stitched Leggings
+  - Don Alejandro's Money Belt
+  - Insidious Bands
   - Magtheridon's Head
   priority-lootconfig:
+  - Blade of Infamy
+  - Blade of Infamy
+  - Bristleblitz Striker
   - Dragonspine Trophy
+  - Madness of the Betrayer
   - Verdant Sphere
   rank: Reserve Raider
   t4-lottery-dkp: 2350.26
