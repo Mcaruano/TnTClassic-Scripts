@@ -181,7 +181,7 @@ Crazydaisy:
   lottery-lootconfig:
   - Belt of One-Hundred Deaths
   - Rod of the Sun King
-  priority-lootconfig:
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3746.08
   t4-priority-dkp: 3861.29
@@ -556,7 +556,7 @@ Salchant:
 Searious:
   class: Hunter
   lottery-lootconfig:
-  - Bow-Stitched Leggings
+  - Bow-stitched Leggings
   - Don Alejandro's Money Belt
   - Insidious Bands
   - Magtheridon's Head
