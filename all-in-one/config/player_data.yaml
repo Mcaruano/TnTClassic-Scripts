@@ -180,8 +180,8 @@ Crazydaisy:
   class: Shaman
   lottery-lootconfig:
   - Belt of One-Hundred Deaths
-  priority-lootconfig:
   - Rod of the Sun King
+  priority-lootconfig:
   rank: Core Raider
   t4-lottery-dkp: 3746.08
   t4-priority-dkp: 3861.29
