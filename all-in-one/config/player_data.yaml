@@ -571,15 +571,19 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Bow-stitched Leggings
-  - Don Alejandro's Money Belt
-  - Insidious Bands
+  - Bristleblitz Striker
+  - Chestguard of the Fallen Protector
+  - Gloves of the Fallen Protector
+  - Leggings of the Fallen Protector
+  - Madness of the Betrayer
   - Magtheridon's Head
+  - Pauldrons of the Fallen Protector
   priority-lootconfig:
   - Blade of Infamy
   - Blade of Infamy
-  - Bristleblitz Striker
+  - Don Alejandro's Money Belt
   - Dragonspine Trophy
-  - Madness of the Betrayer
+  - Insidious Bands
   - Verdant Sphere
   rank: Reserve Raider
   t4-lottery-dkp: 2350.26
