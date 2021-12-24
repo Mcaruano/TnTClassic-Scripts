@@ -412,12 +412,12 @@ Kurister:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
+  - Antonidas's Aegis of Rapt Concentration
   - Bloodmaw Magus-Blade
   - Boots of the Resilient
   - Bulwark of Azzinoth
   - Girdle of Mighty Resolve
   - Hammer of Judgement
-  - Kaz'rogal's Hardened Heart
   - The Seeker's Wristguards
   - Tide-stomper's Greaves
   - Wristguards of Determination
