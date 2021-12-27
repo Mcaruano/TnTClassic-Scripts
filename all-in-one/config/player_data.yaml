@@ -75,12 +75,12 @@ Ashori:
   class: Paladin
   lottery-lootconfig:
   - Band of Devastation
-  - Belt of One-Hundred Deaths
   - Chestguard of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
   - Shadowmoon Destroyer's Drape
   - Torch of the Damned
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Dragonspine Trophy
   - Dreadboots of the Legion
   rank: Core Raider
