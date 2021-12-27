@@ -192,9 +192,16 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
+  - Bow-Stitched Leggings
   - Belt of One-Hundred Deaths
+  - Fists of Mukoa
+  - Madness of the Betrayer
+  - Midnight Chestguard
   - Rod of the Sun King
-  priority-lootconfig: []
+  - Shadowmoon Destroyer's Drape
+  - Stormrage Signet Ring
+  priority-lootconfig:
+  - Cursed Vision of Sargeras
   rank: Core Raider
   t4-lottery-dkp: 3746.08
   t4-priority-dkp: 3861.29
