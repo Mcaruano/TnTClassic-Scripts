@@ -125,10 +125,8 @@ Baopi:
 Barnabris:
   class: Shaman
   lottery-lootconfig:
-  - Chestguard of the Fallen Champion
   - Chestguard of the Vanquished Champion
   - Helm of the Vanquished Champion
-  - Leggings of the Fallen Champion
   - Leggings of the Vanquished Champion
   priority-lootconfig:
   - Lightfathom Scepter
