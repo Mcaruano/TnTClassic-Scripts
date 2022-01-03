@@ -155,7 +155,6 @@ Chubrock:
   class: Mage
   lottery-lootconfig:
   - Eredar Wand of Obliteration
-  - Fang of the Leviathan
   - Wand of the Forgotten Star
   priority-lootconfig:
   - Mindstorm Wristbands
