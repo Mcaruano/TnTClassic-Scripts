@@ -456,7 +456,6 @@ Mekanina:
 Murduc:
   class: Warlock
   lottery-lootconfig:
-  - Fang of the Leviathan
   - Mindstorm Wristbands
   - Ring of Endless Coils
   - Royal Cloak of the Sunstriders
