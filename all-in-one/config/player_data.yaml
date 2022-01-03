@@ -686,6 +686,7 @@ Spookyremi:
   class: Warlock
   lottery-lootconfig:
   - Brute Cloak of the Ogre-Magi
+  - Fang of the Leviathan
   - Fathomstone
   - Mindstorm Wristbands
   - Ring of Endless Coils
@@ -694,7 +695,6 @@ Spookyremi:
   - Wand of the Forgotten Star
   priority-lootconfig:
   - Bloodmaw Magus-Blade
-  - Fang of the Leviathan
   - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 1232.39
