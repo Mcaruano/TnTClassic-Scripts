@@ -57,19 +57,6 @@ Albynonurse:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Aro:
-  class: Hunter
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Social Member
-  t4-lottery-dkp: 6.82
-  t4-priority-dkp: 6.82
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
 Ashori:
   class: Paladin
   lottery-lootconfig:
@@ -87,19 +74,6 @@ Ashori:
   t4-priority-dkp: 3348.57
   t5-lottery-dkp: 4239.14
   t5-priority-dkp: 6004.38
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Bankdude:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 2811.38
-  t4-priority-dkp: 2474.08
-  t5-lottery-dkp: 4370.99
-  t5-priority-dkp: 6401.6
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -270,45 +244,6 @@ Ellievyra:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Galm:
-  class: Mage
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Social Member
-  t4-lottery-dkp: 1164.16
-  t4-priority-dkp: 1740.03
-  t5-lottery-dkp: 1475.07
-  t5-priority-dkp: 2237.2
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Goodjorb:
-  class: Mage
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Social Member
-  t4-lottery-dkp: 846.61
-  t4-priority-dkp: 595.7
-  t5-lottery-dkp: 597.48
-  t5-priority-dkp: 1985.57
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Hulkhigginz:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 2763.2
-  t4-priority-dkp: 2758.7
-  t5-lottery-dkp: 5086.43
-  t5-priority-dkp: 5364.68
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
 Hyolin:
   class: Priest
   lottery-lootconfig:
@@ -373,19 +308,6 @@ Kang:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Kangbuff:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 56.77
-  t5-priority-dkp: 56.77
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
 Kinastra:
   class: Shaman
   lottery-lootconfig:
@@ -397,19 +319,6 @@ Kinastra:
   t4-priority-dkp: 3348.34
   t5-lottery-dkp: 4989.36
   t5-priority-dkp: 6400.02
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Kurister:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 189.13
-  t4-priority-dkp: 189.13
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -438,19 +347,6 @@ Malchazor:
   t4-priority-dkp: 3335.54
   t5-lottery-dkp: 1861.06
   t5-priority-dkp: 6102.81
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Mekanina:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -502,19 +398,6 @@ Nynisa:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Onetotemman:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 1401.34
-  t4-priority-dkp: 2015.46
-  t5-lottery-dkp: 2889.63
-  t5-priority-dkp: 2317.92
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
 Rayas:
   class: Shaman
   lottery-lootconfig:
@@ -525,19 +408,6 @@ Rayas:
   t4-priority-dkp: 3317.11
   t5-lottery-dkp: 4298.45
   t5-priority-dkp: 4314.28
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Roodolph:
-  class: Hunter
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Social Member
-  t4-lottery-dkp: 174.71
-  t4-priority-dkp: 189.32
-  t5-lottery-dkp: 199.27
-  t5-priority-dkp: 211.43
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -593,19 +463,6 @@ Searious:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Seion:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 2849.82
-  t4-priority-dkp: 2775.57
-  t5-lottery-dkp: 3737.14
-  t5-priority-dkp: 5106.68
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
@@ -619,19 +476,6 @@ Sekkondary:
   t4-priority-dkp: 3155.86
   t5-lottery-dkp: 3169.28
   t5-priority-dkp: 5102.33
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Shlarred:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -664,19 +508,6 @@ Sizzleñips:
   t4-priority-dkp: 599.29
   t5-lottery-dkp: 1031.37
   t5-priority-dkp: 1031.37
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Solzar:
-  class: Priest
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Social Member
-  t4-lottery-dkp: 1179.48
-  t4-priority-dkp: 1248.2
-  t5-lottery-dkp: 1767.35
-  t5-priority-dkp: 1976.53
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -771,19 +602,6 @@ Vermora:
   t4-lottery-dkp: 3121.11
   t4-priority-dkp: 2738.61
   t5-lottery-dkp: 2574.39
-  t5-priority-dkp: 6401.6
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Weedster:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 2811.38
-  t4-priority-dkp: 2474.08
-  t5-lottery-dkp: 4370.99
   t5-priority-dkp: 6401.6
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
