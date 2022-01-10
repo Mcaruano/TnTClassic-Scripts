@@ -118,6 +118,7 @@ DISCORD_NAME_MAPPING = {
     "Tenfour": "Tenfour",
     "Thaladred(Cra": "Crazydaisy",
     "Thejudge": "Thejudge",
+    "Thorinix": "Thorinix",
     "Velyris": "Velyris",
     "Venjamen": "Venjamen",
     "Venjamin": "Venjamen",

@@ -458,10 +458,18 @@ Mekanina:
 Murduc:
   class: Warlock
   lottery-lootconfig:
+  - Chronicle of Dark Secrets
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of the Forgotten Conqueror
   - Mindstorm Wristbands
+  - Pauldrons of the Forgotten Conqueror
   - Verdant Sphere
   priority-lootconfig:
+  - Tempest of Chaos
+  - The Skull of Gul'dan
   - Vestments of the Sea-Witch
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 3287.09
   t4-priority-dkp: 2262.73
