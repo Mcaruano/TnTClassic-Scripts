@@ -382,9 +382,9 @@ Kangbuff:
 Kinastra:
   class: Shaman
   lottery-lootconfig:
-  - Mindstorm Wristbands
   - The Nexus Key
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 3834.86
   t4-priority-dkp: 3939.22
