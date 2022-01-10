@@ -600,7 +600,6 @@ Seion:
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
-  - Coral Band of the Revived
   - Crystal Spire of Karabor
   - Memento of Tyrande
   priority-lootconfig:
