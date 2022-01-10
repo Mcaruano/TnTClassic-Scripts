@@ -220,9 +220,18 @@ Dalran:
 Demeker:
   class: Warlock
   lottery-lootconfig:
+  - Chronicle of Dark Secrets
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of the Forgotten Conqueror
   - Mindstorm Wristbands
+  - Pauldrons of the Forgotten Conqueror
+  - Tempest of Chaos
+  - The Nexus Key
+  - Ring of Ancient Knowledge
+  priority-lootconfig:
+  - The Skull of Gul'dan
   - Wand of the Forgotten Star
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3927.2
   t4-priority-dkp: 3521.22
