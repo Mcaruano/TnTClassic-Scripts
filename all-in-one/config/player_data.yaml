@@ -482,10 +482,10 @@ Sekkondary:
   t6pt5-priority-dkp: 0.0
 Shnacks:
   class: Druid
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Vestments of the Sea-Witch
   priority-lootconfig:
   - Brute Cloak of the Ogre-Magi
-  - Vestments of the Sea-Witch
   rank: Core Raider
   t4-lottery-dkp: 2807.75
   t4-priority-dkp: 3227.43
