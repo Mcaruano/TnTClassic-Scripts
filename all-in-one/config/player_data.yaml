@@ -1,4 +1,4 @@
-Abstinence:
+Abjection:
   class: Hunter
   lottery-lootconfig:
   - Band of the Ranger-General
@@ -94,7 +94,7 @@ Baopi:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Barnabris:
+Barnabae:
   class: Shaman
   lottery-lootconfig:
   - Chestguard of the Vanquished Champion
@@ -120,21 +120,6 @@ Brittany:
   t4-priority-dkp: 0.0
   t5-lottery-dkp: 183.19
   t5-priority-dkp: 183.19
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Chubrock:
-  class: Mage
-  lottery-lootconfig:
-  - Wand of the Forgotten Star
-  priority-lootconfig:
-  - Mindstorm Wristbands
-  rank: Core Raider
-  t4-lottery-dkp: 329.05
-  t4-priority-dkp: 3753.41
-  t5-lottery-dkp: 3958.8
-  t5-priority-dkp: 5862.06
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -259,7 +244,7 @@ Hyolin:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Jahmee:
+Jaamii:
   class: Shaman
   lottery-lootconfig: []
   priority-lootconfig:
@@ -274,7 +259,7 @@ Jahmee:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Justin:
+Justinjr:
   class: Warlock
   lottery-lootconfig:
   - Fang of the Leviathan
@@ -305,7 +290,7 @@ Kang:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Kinastra:
+Kinestra:
   class: Shaman
   lottery-lootconfig:
   - The Nexus Key
@@ -316,6 +301,21 @@ Kinastra:
   t4-priority-dkp: 3938.34
   t5-lottery-dkp: 6169.36
   t5-priority-dkp: 7580.02
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
+Lilchub:
+  class: Mage
+  lottery-lootconfig:
+  - Wand of the Forgotten Star
+  priority-lootconfig:
+  - Mindstorm Wristbands
+  rank: Core Raider
+  t4-lottery-dkp: 329.05
+  t4-priority-dkp: 3753.41
+  t5-lottery-dkp: 3958.8
+  t5-priority-dkp: 5862.06
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -371,7 +371,7 @@ Murduc:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Nashy:
+Nashborne:
   class: Warrior
   lottery-lootconfig:
   - Belt of One-Hundred Deaths
@@ -402,7 +402,7 @@ Nynisa:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Rayas:
+Rayashaman:
   class: Shaman
   lottery-lootconfig:
   - Sunshower Light Cloak
@@ -463,6 +463,20 @@ Searious:
   t4-priority-dkp: 2961.13
   t5-lottery-dkp: 4579.57
   t5-priority-dkp: 3906.96
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
+Seion:
+  class: Priest
+  lottery-lootconfig:
+  - Eye of Gruul
+  priority-lootconfig: []
+  rank: Core Raider
+  t4-lottery-dkp: 3942.73
+  t4-priority-dkp: 3855.38
+  t5-lottery-dkp: 5576.63
+  t5-priority-dkp: 7187.86
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
@@ -620,20 +634,6 @@ Wildshrimp:
   t4-priority-dkp: 3939.07
   t5-lottery-dkp: 4142.26
   t5-priority-dkp: 7575.5
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Zeion:
-  class: Priest
-  lottery-lootconfig:
-  - Eye of Gruul
-  priority-lootconfig: []
-  rank: Core Raider
-  t4-lottery-dkp: 3942.73
-  t4-priority-dkp: 3855.38
-  t5-lottery-dkp: 5576.63
-  t5-priority-dkp: 7187.86
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
