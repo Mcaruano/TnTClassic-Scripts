@@ -30,7 +30,20 @@ Abjection:
 Akaran:
   class: Warrior
   lottery-lootconfig:
+  - Band of the Abyssal Lord
+  - Bulwark of Azzinoth
+  - Chestguard of the Forgotten Protector
   - Chestguard of the Vanquished Defender
+  - Eternium Shell Bracers
+  - Faceplate of the Impenetrable
+  - Gauntlets of Enforcement
+  - Leggings of the Forgotten Protector
+  - Legionkiller
+  - Myrmidon's Treads
+  - Pauldrons of the Forgotten Protector
+  - Pendant of Titans
+  - Pepe's Shroud of Pacification
+  - Ring of Deceitful Intent
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   - Blade of Savagery
