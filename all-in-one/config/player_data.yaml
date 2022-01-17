@@ -135,9 +135,18 @@ Chuunin:
   class: Rogue
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Blade of Savagery
+  - Chestguard of the Forgotten Vanquisher
+  - Gloves of the Forgotten Vanquisher
+  - Leggings of the Forgotten Vanquisher
+  - Pauldrons of the Forgotten Vanquisher
+  - Stormrage Signet Ring
   - Talon of Azshara
   - Vambraces of Ending
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Blade of Infamy
+  - Cursed Vision of Sargeras
+  - Insidious Bands
   rank: Core Raider
   t4-lottery-dkp: 3007.33
   t4-priority-dkp: 2872.73
