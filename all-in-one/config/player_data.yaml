@@ -396,9 +396,22 @@ Murduc:
 Nashborne:
   class: Warrior
   lottery-lootconfig:
+  - Band of the Ranger-General
   - Belt of One-Hundred Deaths
-  - Rod of the Sun King
+  - Chestguard of the Forgotten Protector
+  - Choker of Serrated Blades
+  - Deadly Cuffs
+  - Dreadboots of the Legion
+  - Gloves of the Forgotten Protector
+  - Grips of Silent Justice
+  - Helm of the Forgotten Protector
+  - Leggings of Divine Retribution
+  - Madness of the Betrayer
+  - Pauldrons of the Forgotten Protector
+  - Shadowmoon Destroyer's Drape
+  - Stormrage Signet Ring
   - Tsunami Talisman
+  - Unstoppable Aggressor's Ring
   priority-lootconfig:
   - Dragonspine Trophy
   - Talon of Azshara
