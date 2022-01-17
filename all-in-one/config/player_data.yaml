@@ -208,8 +208,11 @@ Demeker:
   t6pt5-priority-dkp: 0.0
 Digie:
   class: Rogue
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Leggings of the Forgotten Vanquisher
+  - Shadowmaster's Boots
+  priority-lootconfig:
+  - Cursed Vision of Sargeras
   rank: Core Raider
   t4-lottery-dkp: 3942.73
   t4-priority-dkp: 3525.53
