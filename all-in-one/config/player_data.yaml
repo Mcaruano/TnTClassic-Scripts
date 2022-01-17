@@ -304,6 +304,11 @@ Justinjr:
   class: Warlock
   lottery-lootconfig:
   - Fang of the Leviathan
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of the Forgotten Conqueror
+  - Pauldrons of the Forgotten Conqueror
+  - Ring of Captured Storms
   priority-lootconfig:
   - Mindstorm Wristbands
   rank: Core Raider
