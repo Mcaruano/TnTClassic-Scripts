@@ -505,8 +505,17 @@ Searious:
 Seion:
   class: Priest
   lottery-lootconfig:
+  - Chestguard of the Forgotten Conqueror
   - Eye of Gruul
-  priority-lootconfig: []
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of Eternity
+  - Nadina's Pendant of Purity
+  - Pauldrons of the Forgotten Conqueror
+  - Shroud of the Highborne
+  priority-lootconfig:
+  - Crystal Spire of Karabor
+  - Memento of Tyrande
   rank: Core Raider
   t4-lottery-dkp: 3942.73
   t4-priority-dkp: 3855.38
