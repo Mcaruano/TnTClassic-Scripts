@@ -352,9 +352,14 @@ Kinestra:
 Lilchub:
   class: Mage
   lottery-lootconfig:
+  - Cuffs of Devastation
+  - Leggings of the Forgotten Vanquisher
+  - Slippers of the Seacaller
+  - Waistwrap of Infinity
   - Wand of the Forgotten Star
   priority-lootconfig:
   - Mindstorm Wristbands
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 329.05
   t4-priority-dkp: 3753.41
