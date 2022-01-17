@@ -570,9 +570,16 @@ Sekkondary:
 Shnacks:
   class: Druid
   lottery-lootconfig:
+  - Chestguard of the Forgotten Vanquisher
+  - Helm of the Forgotten Vanquisher
+  - Pauldrons of the Forgotten Vanquisher
+  - Leggings of Channeled Elements
+  - Slippers of the Seacaller
+  - The Skull of Gul'dan
   - Vestments of the Sea-Witch
   priority-lootconfig:
   - Brute Cloak of the Ogre-Magi
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 3397.75
   t4-priority-dkp: 3817.43
