@@ -247,9 +247,6 @@ Digie:
 Ellievyra:
   class: Priest
   lottery-lootconfig:
-  - Belt of the Forgotten Conqueror
-  - Boots of the Forgotten Conqueror
-  - Bracers of the Forgotten Conqueror
   - Chestguard of the Forgotten Conqueror
   - Gloves of the Forgotten Conqueror
   - Helm of the Forgotten Conqueror
