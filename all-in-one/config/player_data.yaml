@@ -723,8 +723,9 @@ Zerxx:
   lottery-lootconfig:
   - Band of the Ranger-General
   - Chestguard of the Forgotten Protector
-  - Cursed Vision of Sargeras
   - Dreadboots of the Legion
+  - Gloves of the Forgotten Protector
+  - Helm of the Forgotten Protector
   - Pauldrons of the Forgotten Protector
   priority-lootconfig:
   - Leggings of Divine Retribution
