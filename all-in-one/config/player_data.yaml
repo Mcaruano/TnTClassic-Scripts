@@ -666,6 +666,10 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Chestguard of the Forgotten Vanquisher
+  - Gloves of the Forgotten Vanquisher
+  - Leggings of the Forgotten Vanquisher
+  - Pauldrons of the Forgotten Vanquisher
   - Thalassian Wildercloak
   priority-lootconfig: []
   rank: Core Raider
