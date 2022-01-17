@@ -215,9 +215,21 @@ Digie:
 Ellievyra:
   class: Priest
   lottery-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Chestguard of the Forgotten Conqueror
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of Devastation
+  - Leggings of the Forgotten Conqueror
   - Mindstorm Wristbands
+  - Pauldrons of the Forgotten Conqueror
   - Royal Cloak of the Sunstriders
-  priority-lootconfig: []
+  - Waistwrap of Infinity
+  priority-lootconfig:
+  - Ring of Ancient Knowledge
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2248.64
   t4-priority-dkp: 3683.36
