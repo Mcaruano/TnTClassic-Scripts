@@ -232,10 +232,13 @@ Demeker:
 Digie:
   class: Rogue
   lottery-lootconfig:
+  - Don Alejandro's Money Belt
   - Leggings of the Forgotten Vanquisher
+  - Ring of Deceitful Intent
   - Shadowmaster's Boots
   priority-lootconfig:
   - Cursed Vision of Sargeras
+  - Helm of the Forgotten Vanquisher
   rank: Core Raider
   t4-lottery-dkp: 3351.32
   t4-priority-dkp: 2996.7
