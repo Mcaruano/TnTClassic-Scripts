@@ -271,11 +271,18 @@ Ellievyra:
 Hyolin:
   class: Priest
   lottery-lootconfig:
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
+  - Chestguard of the Forgotten Conqueror
+  - Crystal Spire of Karabor
   - Earring of Soulful Meditation
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of Eternity
   - Lightfathom Scepter
-  - Luminescent Rod of the Naaru
-  - Verdant Sphere
-  priority-lootconfig: []
+  - Pauldrons of the Forgotten Conqueror
+  priority-lootconfig:
+  - Memento of Tyrande
   rank: Core Raider
   t4-lottery-dkp: 3334.28
   t4-priority-dkp: 3288.21
