@@ -476,8 +476,17 @@ Nynisa:
 Rayashaman:
   class: Shaman
   lottery-lootconfig:
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
+  - Botanist's Gloves of Growth
+  - Chestguard of Forgotten Protector
+  - Helm of Forgotten Protector
+  - Leggings of Forgotten Protector
+  - Pauldrons of Forgotten Protector
+  - Shroud of the Highborne
   - Sunshower Light Cloak
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Crystal Spire of Karabor
   rank: Core Raider
   t4-lottery-dkp: 3170.34
   t4-priority-dkp: 3321.04
