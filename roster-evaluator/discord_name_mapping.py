@@ -36,7 +36,7 @@ DISCORD_NAME_MAPPING = {
     "hulkhigginz": "Barnabae",
     "Jahmee": "Jaamii",
     "Justin": "Justinjr",
-    "Kang": "Kang",
+    "Kang": "Kangdude",
     "Kiele": "Kiele",
     "Kinasa": "Kinestra",
     "Kinastra": "Kinestra",
