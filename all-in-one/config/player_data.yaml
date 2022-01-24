@@ -347,6 +347,10 @@ Kangdude:
 Kinestra:
   class: Shaman
   lottery-lootconfig:
+  - Chestguard of the Forgotten Protector
+  - Gloves of the Forgotten Protector
+  - Helm of the Forgotten Protector
+  - Pauldrons of the Forgotten Protector
   - The Nexus Key
   priority-lootconfig:
   - Zhar'doom, Greatstaff of the Devourer
