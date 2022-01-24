@@ -440,7 +440,6 @@ Nashborne:
   - Gloves of the Forgotten Protector
   - Grips of Silent Justice
   - Helm of the Forgotten Protector
-  - Leggings of Divine Retribution
   - Madness of the Betrayer
   - Pauldrons of the Forgotten Protector
   - Shadowmoon Destroyer's Drape
@@ -449,6 +448,7 @@ Nashborne:
   - Unstoppable Aggressor's Ring
   priority-lootconfig:
   - Dragonspine Trophy
+  - Leggings of Divine Retribution
   - Talon of Azshara
   rank: Core Raider
   t4-lottery-dkp: 2330.52
