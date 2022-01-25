@@ -589,9 +589,10 @@ Seion:
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
-  - Crystal Spire of Karabor
-  - Memento of Tyrande
-  - Shroud of the Highborne
+  - Chestguard of the Forgotten Protector
+  - Helm of the Forgotten Protector
+  - Leggings of the Forgotten Protector
+  - Pauldrons of the Forgotten Protector
   priority-lootconfig:
   - Blessed Band of Karabor
   - Blessed Band of Karabor
