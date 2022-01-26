@@ -299,9 +299,16 @@ Hyolin:
   t6pt5-priority-dkp: 0.0
 Jaamii:
   class: Shaman
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Flashfire Girdle
+  - Leggings of Channeled Elements
+  - Slippers of the Sea Caller
   priority-lootconfig:
   - Brute Cloak of the Ogre-Magi
+  - Gloves of the Forgotten Protector
+  - Helm of the Forgotten Protector
+  - Pauldrons of the Forgotten Protector
+  - Ring of Ancestral Knowledge
   - Ring of Endless Coils
   rank: Core Raider
   t4-lottery-dkp: 3349.1
