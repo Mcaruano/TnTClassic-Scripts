@@ -92,7 +92,6 @@ Ashori:
 Baopi:
   class: Warrior
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Cataclysm's Edge
   - Dragonspine Trophy
   - Dreadboots of the Legion
