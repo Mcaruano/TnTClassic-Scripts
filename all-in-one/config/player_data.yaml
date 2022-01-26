@@ -651,9 +651,19 @@ Spookyremi:
   class: Warlock
   lottery-lootconfig:
   - Brute Cloak of the Ogre-Magi
+  - Chestguard of the Forgotten Conqueror
+  - Chronicle of Dark Secrets
+  - Gloves of the Forgotten Conqueror
+  - Helm of the Forgotten Conqueror
+  - Leggings of the Forgotten Conqueror
+  - Pauldrons of the Forgotten Conqueror
+  - Slippers of the Seacaller
+  - Tempest of Chaos
   - Wand of the Forgotten Star
   priority-lootconfig:
+  - The Skull of Guldan
   - Vestments of the Sea-Witch
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2636.95
   t4-priority-dkp: 3158.95
