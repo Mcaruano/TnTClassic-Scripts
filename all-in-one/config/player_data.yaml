@@ -115,7 +115,15 @@ Baopi:
 Barnabae:
   class: Shaman
   lottery-lootconfig:
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
+  - Chestguard of the Forgotten Protector
+  - Crystal Spire of Karabor 
+  - Helm of the Forgotten Protector
   - Helm of the Vanquished Champion
+  - Leggings of the Forgotten Protector
+  - Memento of Tyrande
+  - Pauldrons of the Forgotten Protector
   priority-lootconfig:
   - Lightfathom Scepter
   rank: Reserve Raider
