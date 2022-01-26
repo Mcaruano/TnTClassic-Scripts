@@ -725,13 +725,13 @@ Velyris:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Belt of One-Hundred Deaths
   - Blade of Infamy
+  - Blade of Savagery
   - Insidious Bands
   - Stormrage Signet Ring
   - Talon of Azshara
   priority-lootconfig:
-  - Blade of Savagery
+  - Belt of One-Hundred Deaths
   - Cursed Vision of Sargeras
   rank: Core Raider
   t4-lottery-dkp: 3772.77
