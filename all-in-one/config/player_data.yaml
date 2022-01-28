@@ -787,8 +787,7 @@ Zerxx:
   - Gloves of the Forgotten Protector
   - Helm of the Forgotten Protector
   - Pauldrons of the Forgotten Protector
-  priority-lootconfig:
-  - Belt of One-Hundred Deaths
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1469.01
   t4-priority-dkp: 1389.98
