@@ -767,9 +767,12 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Chestguard of the Fallen Defender
+  - Leggings of the Fallen Defender
   - Shadowmoon Insignia
   - Thalassian Wildercloak
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Chestguard of the Forgotten Vanquisher
   - Gloves of the Forgotten Vanquisher
   - Leggings of the Forgotten Vanquisher
