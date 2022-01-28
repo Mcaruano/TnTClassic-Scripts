@@ -691,12 +691,10 @@ Spookyremi:
 Sylador:
   class: Druid
   lottery-lootconfig:
-  - Belt of Primal Majesty
   - Blessed Band of Karabor
   - Blessed Band of Karabor
   - Botanist's Gloves of Growth
   - Crystal Spire of Karabor
-  - Leggings of Eternity
   - Memento of Tyrande
   - Scepter of Purification
   priority-lootconfig:
