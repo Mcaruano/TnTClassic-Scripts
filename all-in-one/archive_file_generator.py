@@ -158,6 +158,8 @@ def generate_archive_file_name(addonDataDict):
     GRUULS_LAIR_BOSSES = ["Dragonkiller", "Maulgar"]
     SSC_BOSSES = ["Unstable", "Below", "Blind", "Karathress", "Tidewalker", "Vashj"]
     TK_BOSSES = ["Al'ar", "Reaver", "Solarian", "Sunstrider"]
+    HYJAL_BOSSES = ["Winterchill", "Anetheron", "Kaz'rogal", "Azgalor", "Archimonde"]
+    BT_BOSSES = ["Naj'entus", "Supremus", "Akama", "Gorefiend", "Bloodboil", "Anger", "Shahraz", "Shatterer", "Stormrage"]
 
     transactionsTables = [
         'T4_PRIORITY_TRANSACTIONS', 'T4_LOTTERY_TRANSACTIONS', 'T4_OPEN_TRANSACTIONS', 
@@ -196,6 +198,10 @@ def generate_archive_file_name(addonDataDict):
                     raidsPresentInTransactions.add('SSC')
                 elif bossName in TK_BOSSES:
                     raidsPresentInTransactions.add('TK')
+                elif bossName in HYJAL_BOSSES:
+                    raidsPresentInTransactions.add('Hyjal')
+                elif bossName in BT_BOSSES:
+                    raidsPresentInTransactions.add('BT')
 
     # Convert mostRecentTransactionTimestamp to proper string format: "2020_02_04"
     filenameDateSegment = mostRecentTransactionTimestamp.strftime("%Y_%m_%d")
@@ -214,6 +220,10 @@ def generate_archive_file_name(addonDataDict):
             raidTiersInOrder.append('SSC')
         if 'TK' in raidsPresentInTransactions:
             raidTiersInOrder.append('TK')
+        if 'Hyjal' in raidsPresentInTransactions:
+            raidTiersInOrder.append('Hyjal')
+        if 'BT' in raidsPresentInTransactions:
+            raidTiersInOrder.append('BT')
         filenameContentSegment = '+'.join(raidTiersInOrder)
 
     # Take the previous two values and produce the archive file name
