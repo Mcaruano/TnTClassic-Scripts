@@ -84,6 +84,8 @@ def parse_raw_roster_input_and_saturate_dicts(filePath, playerYamlDataDict):
                 raidData[TIER_KEY] = "T4"
             elif re.search(":S: :S: :C:", line) is not None or re.search("SSC", line) is not None or re.search(":T: :K:", line) is not None or re.search("TK", line) is not None:
                 raidData[TIER_KEY] = "T5"
+            elif re.search(":B: :T:", line) is not None or re.search("BT", line) is not None or re.search(":H: :Y: :J: :A: :L:", line) is not None or re.search("T6", line) is not None:
+                raidData[TIER_KEY] = "T5"
         
         if lineIndex == DATE_LINE_NUMBER:
             # Date is in the format: "Thu 2. Sep"

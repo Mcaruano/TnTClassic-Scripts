@@ -233,6 +233,19 @@ Demeker:
   t6-priority-dkp: 3307.5
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
+Despia:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t4-lottery-dkp: 2019.52
+  t4-priority-dkp: 2019.52
+  t5-lottery-dkp: 89.15
+  t5-priority-dkp: 89.15
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Digitalz:
   class: Rogue
   lottery-lootconfig:
@@ -482,19 +495,6 @@ Nashborne:
   t5-priority-dkp: 4796.29
   t6-lottery-dkp: 2684.72
   t6-priority-dkp: 3912.25
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Nynisa:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 2019.52
-  t4-priority-dkp: 2019.52
-  t5-lottery-dkp: 89.15
-  t5-priority-dkp: 89.15
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Pudsey:
