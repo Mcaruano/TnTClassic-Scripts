@@ -90,22 +90,24 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Cataclysm's Edge
+  - Chestguard of the Fallen Defender
   - Dragonspine Trophy
   - Dreadboots of the Legion
   - Grips of Silent Justice
   - Madness of the Betrayer
+  - Pauldrons of the Fallen Defender
   - Pauldrons of the Forgotten Protector
+  - Stormrage Signet Ring
   - Tsunami Talisman
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   - Leggings of Divine Retribution
-  - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 3040.22
   t4-priority-dkp: 3347.93
   t5-lottery-dkp: 5342.69
   t5-priority-dkp: 6510.63
-  t6-lottery-dkp: 4251.969999999999
+  t6-lottery-dkp: 4251.97
   t6-priority-dkp: 4899.42
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
