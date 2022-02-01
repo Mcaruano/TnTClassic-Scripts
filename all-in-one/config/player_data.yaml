@@ -251,11 +251,15 @@ Despia:
 Digitalz:
   class: Rogue
   lottery-lootconfig:
+  - Chestguard of the Vanquished Champion
+  - Leggings of the Vanquished Champion
+  - Pauldrons of the Vanquished Champion
   - Don Alejandro's Money Belt
   - Ring of Deceitful Intent
   - Shadowmaster's Boots
   priority-lootconfig:
   - Cursed Vision of Sargeras
+  - Thalassian Wildercloak
   rank: Core Raider
   t4-lottery-dkp: 3349.1
   t4-priority-dkp: 3092.89
