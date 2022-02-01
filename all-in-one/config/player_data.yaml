@@ -454,11 +454,11 @@ Murduc:
   - Gloves of the Forgotten Conqueror
   - Helm of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
-  - Mindstorm Wristbands
   - Pauldrons of the Forgotten Conqueror
   priority-lootconfig:
   - Tempest of Chaos
   - The Skull of Gul'dan
+  - Verdant Sphere
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2247.11
