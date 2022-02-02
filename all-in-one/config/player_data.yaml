@@ -297,9 +297,10 @@ Hyolin:
   - Gloves of the Forgotten Conqueror
   - Helm of the Forgotten Conqueror
   - Leggings of Eternity
-  - Lightfathom Scepter
+  - Luminescent Rod of the Naaru
   - Pauldrons of the Forgotten Conqueror
   priority-lootconfig:
+  - Lightfathom Scepter
   - Memento of Tyrande
   rank: Core Raider
   t4-lottery-dkp: 2836.27
