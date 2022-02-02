@@ -249,10 +249,12 @@ Despia:
 Digitalz:
   class: Rogue
   lottery-lootconfig:
+  - Arcanite Steam-Pistol
   - Chestguard of the Vanquished Champion
   - Leggings of the Vanquished Champion
   - Pauldrons of the Vanquished Champion
   - Ring of Deceitful Intent
+  - Rod of the Sun King
   - Shadowmaster's Boots
   priority-lootconfig:
   - Cursed Vision of Sargeras
