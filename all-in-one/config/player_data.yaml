@@ -321,9 +321,13 @@ Jaamii:
   class: Shaman
   lottery-lootconfig:
   - Chestguard of the Forgotten Protector
+  - Chestguard of the Vanquished Champion
   - Gloves of the Forgotten Protector
   - Helm of the Forgotten Protector
+  - Helm of the Vanquished Champion
   - Leggings of Channeled Elements
+  - Leggings of the Vanquished Champion
+  - Pauldrons of the Vanquished Champion
   - Slippers of the Seacaller
   priority-lootconfig:
   - Brute Cloak of the Ogre-Magi
