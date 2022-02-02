@@ -691,8 +691,13 @@ Sylador:
   - Blessed Band of Karabor
   - Blessed Band of Karabor
   - Botanist's Gloves of Growth
+  - Chestguard of the Vanquished Defender
   - Crystal Spire of Karabor
+  - Gloves of the Vanquished Defender
+  - Helm of the Vanquished Defender
+  - Leggings of the Vanquished Defender
   - Memento of Tyrande
+  - Pauldrons of the Vanquished Defender
   priority-lootconfig:
   - Shroud of the Highborne
   rank: Core Raider
