@@ -314,14 +314,14 @@ Hyolin:
 Jaamii:
   class: Shaman
   lottery-lootconfig:
-  - Flashfire Girdle
+  - Chestguard of the Forgotten Protector
+  - Gloves of the Forgotten Protector
+  - Helm of the Forgotten Protector
   - Leggings of Channeled Elements
   - Slippers of the Seacaller
   priority-lootconfig:
   - Brute Cloak of the Ogre-Magi
-  - Chestguard of the Forgotten Protector
-  - Gloves of the Forgotten Protector
-  - Helm of the Forgotten Protector
+  - Flashfire Girdle
   - Ring of Ancient Knowledge
   - Ring of Endless Coils
   rank: Core Raider
