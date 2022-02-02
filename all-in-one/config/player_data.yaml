@@ -22,8 +22,8 @@ Abjection:
   t4-priority-dkp: 2783.63
   t5-lottery-dkp: 4059.27
   t5-priority-dkp: 4740.52
-  t6-lottery-dkp: 1264.56
-  t6-priority-dkp: 4188.0
+  t6-lottery-dkp: 2579.56
+  t6-priority-dkp: 5503.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Akaran:
@@ -41,7 +41,6 @@ Akaran:
   - Pauldrons of the Forgotten Protector
   - Pauldrons of the Vanquished Defender
   - Pepe's Shroud of Pacification
-  - Ring of Deceitful Intent
   priority-lootconfig:
   - Blade of Savagery
   rank: Core Raider
@@ -49,8 +48,8 @@ Akaran:
   t4-priority-dkp: 2844.83
   t5-lottery-dkp: -3172.81
   t5-priority-dkp: 4089.86
-  t6-lottery-dkp: -10457.0
-  t6-priority-dkp: 3813.01
+  t6-lottery-dkp: -12142.0
+  t6-priority-dkp: 5128.01
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Albynonurse:
@@ -69,7 +68,6 @@ Albynonurse:
 Ashori:
   class: Paladin
   lottery-lootconfig:
-  - Band of Devastation
   - Band of the Ranger-General
   - Chestguard of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
@@ -84,8 +82,8 @@ Ashori:
   t4-priority-dkp: 2844.56
   t5-lottery-dkp: 4406.04
   t5-priority-dkp: 5327.5
-  t6-lottery-dkp: 4015.94
-  t6-priority-dkp: 4525.8
+  t6-lottery-dkp: 2330.94
+  t6-priority-dkp: 5840.8
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Baopi:
@@ -109,8 +107,8 @@ Baopi:
   t4-priority-dkp: 2845.74
   t5-lottery-dkp: 4541.29
   t5-priority-dkp: 5534.04
-  t6-lottery-dkp: 4094.42
-  t6-priority-dkp: 4644.76
+  t6-lottery-dkp: 5409.42
+  t6-priority-dkp: 5959.76
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Barnabae:
@@ -132,8 +130,8 @@ Barnabae:
   t4-priority-dkp: 2428.44
   t5-lottery-dkp: 2860.39
   t5-priority-dkp: 5487.77
-  t6-lottery-dkp: 3118.62
-  t6-priority-dkp: 4618.32
+  t6-lottery-dkp: 4433.62
+  t6-priority-dkp: 5933.32
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Brittany:
@@ -168,8 +166,8 @@ Chuunin:
   t4-priority-dkp: 2288.19
   t5-lottery-dkp: 4321.99
   t5-priority-dkp: 5071.64
-  t6-lottery-dkp: 3967.08
-  t6-priority-dkp: 1828.44
+  t6-lottery-dkp: 5282.08
+  t6-priority-dkp: 3143.44
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Crazydaisy:
@@ -191,8 +189,8 @@ Crazydaisy:
   t4-priority-dkp: 2818.74
   t5-lottery-dkp: 3288.52
   t5-priority-dkp: 5511.53
-  t6-lottery-dkp: 816.89
-  t6-priority-dkp: 4632.03
+  t6-lottery-dkp: 2131.89
+  t6-priority-dkp: 5947.03
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Dalran:
@@ -227,8 +225,8 @@ Demeker:
   t4-priority-dkp: 2658.97
   t5-lottery-dkp: 5091.06
   t5-priority-dkp: 3184.22
-  t6-lottery-dkp: 4413.76
-  t6-priority-dkp: 3291.62
+  t6-lottery-dkp: 5728.76
+  t6-priority-dkp: 4606.62
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Despia:
@@ -261,8 +259,8 @@ Digitalz:
   t4-priority-dkp: 2628.96
   t5-lottery-dkp: 4008.93
   t5-priority-dkp: 4770.21
-  t6-lottery-dkp: 3785.44
-  t6-priority-dkp: 1655.14
+  t6-lottery-dkp: 5100.440000000001
+  t6-priority-dkp: 2970.14
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Ellievyra:
@@ -285,8 +283,8 @@ Ellievyra:
   t4-priority-dkp: 2711.35
   t5-lottery-dkp: 2780.72
   t5-priority-dkp: 5355.53
-  t6-lottery-dkp: 3072.23
-  t6-priority-dkp: 4374.03
+  t6-lottery-dkp: 4387.23
+  t6-priority-dkp: 5689.03
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Hyolin:
@@ -309,8 +307,8 @@ Hyolin:
   t4-priority-dkp: 2807.98
   t5-lottery-dkp: 3836.02
   t5-priority-dkp: 5240.28
-  t6-lottery-dkp: 3684.76
-  t6-priority-dkp: 4645.25
+  t6-lottery-dkp: 4999.76
+  t6-priority-dkp: 5960.25
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Jaamii:
@@ -331,8 +329,8 @@ Jaamii:
   t4-priority-dkp: 2776.0
   t5-lottery-dkp: 4964.59
   t5-priority-dkp: 4155.77
-  t6-lottery-dkp: 4340.22
-  t6-priority-dkp: 1301.19
+  t6-lottery-dkp: 5655.22
+  t6-priority-dkp: 2616.19
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Justin:
@@ -353,7 +351,6 @@ Justinjr:
   lottery-lootconfig:
   - Fang of the Leviathan
   - Gloves of the Forgotten Conqueror
-  - Helm of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
   - Pauldrons of the Forgotten Conqueror
   - Ring of Captured Storms
@@ -365,8 +362,8 @@ Justinjr:
   t4-priority-dkp: 2181.88
   t5-lottery-dkp: 4375.8
   t5-priority-dkp: 4554.47
-  t6-lottery-dkp: 3998.67
-  t6-priority-dkp: 1530.79
+  t6-lottery-dkp: 2313.67
+  t6-priority-dkp: 2845.79
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kangdude:
@@ -381,15 +378,14 @@ Kangdude:
   t4-priority-dkp: 2080.09
   t5-lottery-dkp: 4474.87
   t5-priority-dkp: 5534.86
-  t6-lottery-dkp: 4055.92
-  t6-priority-dkp: 4645.25
+  t6-lottery-dkp: 5370.92
+  t6-priority-dkp: 5960.25
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kinestra:
   class: Shaman
   lottery-lootconfig:
   - Chestguard of the Forgotten Protector
-  - Gloves of the Forgotten Protector
   - Helm of the Forgotten Protector
   - Pauldrons of the Forgotten Protector
   - The Nexus Key
@@ -400,8 +396,8 @@ Kinestra:
   t4-priority-dkp: 2844.45
   t5-lottery-dkp: 4797.66
   t5-priority-dkp: 5355.53
-  t6-lottery-dkp: 4243.48
-  t6-priority-dkp: 4644.76
+  t6-lottery-dkp: 2558.48
+  t6-priority-dkp: 5959.76
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Lilchub:
@@ -419,8 +415,8 @@ Lilchub:
   t4-priority-dkp: 2747.91
   t5-lottery-dkp: 3643.74
   t5-priority-dkp: 3409.0
-  t6-lottery-dkp: 3573.2
-  t6-priority-dkp: 3420.87
+  t6-lottery-dkp: 4888.2
+  t6-priority-dkp: 4735.87
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Malchazor:
@@ -429,7 +425,6 @@ Malchazor:
   - Antonidas's Aegis of Rapt Concentration
   - Bulwark of Azzinoth
   - Girdle of Mighty Resolve
-  - Hammer of Judgement
   - The Seeker's Wristguards
   - Tide-stomper's Greaves
   - Wristguards of Determination
@@ -443,15 +438,14 @@ Malchazor:
   t4-priority-dkp: 2837.76
   t5-lottery-dkp: 675.66
   t5-priority-dkp: 3933.89
-  t6-lottery-dkp: 1849.65
-  t6-priority-dkp: 1173.42
+  t6-lottery-dkp: 164.6500000000001
+  t6-priority-dkp: 2488.42
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Murduc:
   class: Warlock
   lottery-lootconfig:
   - Chronicle of Dark Secrets
-  - Gloves of the Forgotten Conqueror
   - Helm of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
   - Pauldrons of the Forgotten Conqueror
@@ -465,8 +459,8 @@ Murduc:
   t4-priority-dkp: 1792.59
   t5-lottery-dkp: 4964.99
   t5-priority-dkp: 3847.43
-  t6-lottery-dkp: 4340.71
-  t6-priority-dkp: 3673.48
+  t6-lottery-dkp: 2655.71
+  t6-priority-dkp: 4988.48
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Nashborne:
@@ -494,8 +488,8 @@ Nashborne:
   t4-priority-dkp: 2041.42
   t5-lottery-dkp: 2246.57
   t5-priority-dkp: 4076.85
-  t6-lottery-dkp: 2762.26
-  t6-priority-dkp: 3805.66
+  t6-lottery-dkp: 4077.26
+  t6-priority-dkp: 5120.66
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Pudsey:
@@ -530,8 +524,8 @@ Rayashaman:
   t4-priority-dkp: 2828.14
   t5-lottery-dkp: 4437.0
   t5-priority-dkp: 4445.27
-  t6-lottery-dkp: 4034.2
-  t6-priority-dkp: 4017.64
+  t6-lottery-dkp: 5349.2
+  t6-priority-dkp: 5332.639999999999
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Rotheart:
@@ -582,8 +576,8 @@ Searious:
   t4-priority-dkp: 2334.34
   t5-lottery-dkp: 3967.78
   t5-priority-dkp: 3616.67
-  t6-lottery-dkp: 3761.26
-  t6-priority-dkp: 3540.32
+  t6-lottery-dkp: 5076.26
+  t6-priority-dkp: 4855.32
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Seion:
@@ -592,7 +586,6 @@ Seion:
   - Chestguard of the Forgotten Conqueror
   - Eye of Gruul
   - Gloves of the Forgotten Conqueror
-  - Helm of the Forgotten Conqueror
   - Nadina's Pendant of Purity
   - Pauldrons of the Forgotten Conqueror
   - Shroud of the Highborne
@@ -604,8 +597,8 @@ Seion:
   t4-priority-dkp: 2801.14
   t5-lottery-dkp: 4488.26
   t5-priority-dkp: 5240.28
-  t6-lottery-dkp: 1513.82
-  t6-priority-dkp: 4526.78
+  t6-lottery-dkp: -171.18
+  t6-priority-dkp: 5841.78
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sekkondary:
@@ -622,8 +615,8 @@ Sekkondary:
   t4-priority-dkp: 2743.97
   t5-lottery-dkp: 3847.58
   t5-priority-dkp: 5240.28
-  t6-lottery-dkp: 1141.67
-  t6-priority-dkp: 4254.58
+  t6-lottery-dkp: 2456.67
+  t6-priority-dkp: 5569.58
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Shnacks:
@@ -641,8 +634,8 @@ Shnacks:
   t4-priority-dkp: 2167.21
   t5-lottery-dkp: 4754.02
   t5-priority-dkp: 5355.53
-  t6-lottery-dkp: -1030.36
-  t6-priority-dkp: 4607.55
+  t6-lottery-dkp: 284.6400000000001
+  t6-priority-dkp: 5922.55
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sizzleñips:
@@ -684,8 +677,8 @@ Spookyremi:
   t4-priority-dkp: 2282.34
   t5-lottery-dkp: 2559.85
   t5-priority-dkp: 4564.7
-  t6-lottery-dkp: 2943.9
-  t6-priority-dkp: 4086.66
+  t6-lottery-dkp: 4258.9
+  t6-priority-dkp: 5401.66
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sylador:
@@ -696,7 +689,6 @@ Sylador:
   - Botanist's Gloves of Growth
   - Crystal Spire of Karabor
   - Memento of Tyrande
-  - Scepter of Purification
   priority-lootconfig:
   - Shroud of the Highborne
   rank: Core Raider
@@ -704,8 +696,8 @@ Sylador:
   t4-priority-dkp: 2743.97
   t5-lottery-dkp: 3365.15
   t5-priority-dkp: 4526.64
-  t6-lottery-dkp: 3411.81
-  t6-priority-dkp: 4064.64
+  t6-lottery-dkp: 1726.81
+  t6-priority-dkp: 5379.639999999999
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Thorinix:
@@ -740,8 +732,8 @@ Velyris:
   t4-priority-dkp: 2282.34
   t5-lottery-dkp: -3434.0
   t5-priority-dkp: 4367.24
-  t6-lottery-dkp: -1711.5
-  t6-priority-dkp: 3972.6
+  t6-lottery-dkp: -396.5
+  t6-priority-dkp: 5287.6
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Vermora:
@@ -760,8 +752,8 @@ Vermora:
   t4-priority-dkp: 2526.17
   t5-lottery-dkp: 3537.04
   t5-priority-dkp: 5534.86
-  t6-lottery-dkp: 3511.51
-  t6-priority-dkp: 4645.25
+  t6-lottery-dkp: 4826.51
+  t6-priority-dkp: 5960.25
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Wildshrimp:
@@ -778,8 +770,8 @@ Wildshrimp:
   t4-priority-dkp: 2844.83
   t5-lottery-dkp: 3739.5
   t5-priority-dkp: 5531.67
-  t6-lottery-dkp: -4730.61
-  t6-priority-dkp: 2093.29
+  t6-lottery-dkp: -3415.61
+  t6-priority-dkp: 3408.29
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Zerxx:
@@ -797,7 +789,7 @@ Zerxx:
   t4-priority-dkp: 1181.48
   t5-lottery-dkp: 5490.1
   t5-priority-dkp: 5534.86
-  t6-lottery-dkp: 4645.25
-  t6-priority-dkp: 2095.25
+  t6-lottery-dkp: 5960.25
+  t6-priority-dkp: 3410.25
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
