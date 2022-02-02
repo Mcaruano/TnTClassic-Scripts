@@ -116,14 +116,19 @@ Barnabae:
   - Blessed Band of Karabor
   - Blessed Band of Karabor
   - Chestguard of the Forgotten Protector
+  - Chestguard of the Vanquished Champion
+  - Chestguard of the Vanquished Champion
   - Crystal Spire of Karabor
+  - Gloves of the Vanquished Champion
   - Helm of the Forgotten Protector
   - Helm of the Vanquished Champion
   - Leggings of the Forgotten Protector
+  - Leggings of the Vanquished Champion
+  - Leggings of the Vanquished Champion
   - Memento of Tyrande
   - Pauldrons of the Forgotten Protector
-  priority-lootconfig:
-  - Lightfathom Scepter
+  - Pauldrons of the Vanquished Champion
+  priority-lootconfig: []
   rank: Reserve Raider
   t4-lottery-dkp: 2431.2
   t4-priority-dkp: 2428.44
