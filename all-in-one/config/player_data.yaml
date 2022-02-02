@@ -387,8 +387,8 @@ Kinestra:
   - Chestguard of the Forgotten Protector
   - Helm of the Forgotten Protector
   - Pauldrons of the Forgotten Protector
-  - The Nexus Key
   priority-lootconfig:
+  - The Nexus Key
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2798.14
