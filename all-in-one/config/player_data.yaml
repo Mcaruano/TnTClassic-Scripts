@@ -169,11 +169,11 @@ Chuunin:
   - Choker of Endless Nightmares
   - Shadowmoon Destroyer's Drape
   - Stormrage Signet Ring
-  - Talon of Azshara
   priority-lootconfig:
   - Blade of Infamy
   - Cursed Vision of Sargeras
   - Shadowmaster's Boots
+  - Talon of Azshara
   rank: Core Raider
   t4-lottery-dkp: 2358.46
   t4-priority-dkp: 2288.19
