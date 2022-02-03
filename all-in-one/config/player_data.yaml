@@ -177,7 +177,6 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
-  - Belt of One-Hundred Deaths
   - Bow-stitched Leggings
   - Fists of Mukoa
   - Madness of the Betrayer
@@ -186,6 +185,7 @@ Crazydaisy:
   - Thalassian Wildercloak
   - Verdant Sphere
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Cursed Vision of Sargeras
   - Stormrage Signet Ring
   rank: Core Raider
