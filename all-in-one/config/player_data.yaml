@@ -415,12 +415,16 @@ Kinestra:
 Lilchub:
   class: Mage
   lottery-lootconfig:
+  - Anetheron's Noose
+  - Chronicle of Dark Secrets
+  - Cloak of the Illidari Council 
   - Cuffs of Devastation
+  - Ring of Ancient Knowledge
   - Slippers of the Seacaller
-  - Waistwrap of Infinity
   - Wand of the Forgotten Star
   priority-lootconfig:
-  - Zhar'doom, Greatstaff of the Devourer
+  - Tempest of Chaos
+  - Verdant Sphere
   rank: Core Raider
   t4-lottery-dkp: 960.37
   t4-priority-dkp: 2747.91
