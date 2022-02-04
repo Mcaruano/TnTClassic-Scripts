@@ -1,12 +1,10 @@
 Abjection:
   class: Hunter
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Blade of Infamy
   - Boundless Agony
   - Chestguard of the Forgotten Protector
   - Choker of Serrated Blades
-  - Cursed Vision of Sargeras
   - Don Alejandro's Money Belt
   - Gloves of the Forgotten Protector
   - Insidious Bands
@@ -15,7 +13,9 @@ Abjection:
   - Shadowmoon Destroyer's Drape
   - Stormrage Signet Ring
   priority-lootconfig:
+  - Band of the Ranger-General
   - Bristleblitz Striker
+  - Cursed Vision of Sargeras
   rank: Core Raider
   t4-lottery-dkp: 3400.01
   t4-priority-dkp: 3373.63
