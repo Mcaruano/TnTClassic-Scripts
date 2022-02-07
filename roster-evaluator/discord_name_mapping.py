@@ -47,6 +47,7 @@ DISCORD_NAME_MAPPING = {
     "Kortey": "Korteh",
     "Krumson": "Krumonx",
     "Malchazor": "Malchazor",
+    "Metasyn": "Metasyn",
     "Murduc": "Murduc",
     "Nashy": "Nashborne",
     "NukeJr(Searious)": "Searious",
