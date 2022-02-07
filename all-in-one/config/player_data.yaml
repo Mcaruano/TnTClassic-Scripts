@@ -605,12 +605,12 @@ Seion:
   lottery-lootconfig:
   - Chestguard of the Forgotten Conqueror
   - Gloves of the Forgotten Conqueror
+  - Memento of Tyrande
   - Nadina's Pendant of Purity
   - Pauldrons of the Forgotten Conqueror
   - Shroud of the Highborne
   priority-lootconfig:
   - Crystal Spire of Karabor
-  - Memento of Tyrande
   rank: Core Raider
   t4-lottery-dkp: 2436.73
   t4-priority-dkp: 3391.14
