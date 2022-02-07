@@ -806,12 +806,13 @@ Zerxx:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Dreadboots of the Legion
   - Grips of Silent Justice
   - Pauldrons of the Forgotten Protector
+  - Stormrage Signet Ring
   priority-lootconfig:
   - Belt of One-Hundred Deaths
-  - Dreadboots of the Legion
-  - Stormrage Signet Ring
+  - Madness of the Betrayer
   rank: Core Raider
   t4-lottery-dkp: 1562.86
   t4-priority-dkp: 1505.76
