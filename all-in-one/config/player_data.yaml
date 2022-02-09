@@ -224,13 +224,12 @@ Demeker:
   - Gloves of the Forgotten Conqueror
   - Helm of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
-  - Mindstorm Wristbands
   - Pauldrons of the Forgotten Conqueror
   - Ring of Ancient Knowledge
-  - Tempest of Chaos
-  - The Nexus Key
   priority-lootconfig:
+  - Tempest of Chaos
   - The Skull of Gul'dan
+  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2914.74
   t4-priority-dkp: 2761.62
