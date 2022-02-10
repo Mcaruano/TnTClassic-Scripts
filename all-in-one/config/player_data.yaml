@@ -2,19 +2,19 @@ Abjection:
   class: Hunter
   lottery-lootconfig:
   - Boundless Agony
+  - Bristleblitz Striker
   - Chestguard of the Forgotten Protector
   - Choker of Serrated Blades
   - Don Alejandro's Money Belt
   - Gloves of the Forgotten Protector
   - Insidious Bands
-  - Madness of the Betrayer
   - Pauldrons of the Forgotten Protector
   - Shadowmoon Destroyer's Drape
   - Stormrage Signet Ring
   priority-lootconfig:
   - Band of the Ranger-General
-  - Bristleblitz Striker
   - Cursed Vision of Sargeras
+  - Madness of the Betrayer
   rank: Core Raider
   t4-lottery-dkp: 2890.01
   t4-priority-dkp: 2867.59
