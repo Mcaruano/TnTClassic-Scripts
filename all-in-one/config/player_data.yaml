@@ -66,11 +66,11 @@ Ashori:
   lottery-lootconfig:
   - Chestguard of the Forgotten Conqueror
   - Leggings of the Forgotten Conqueror
-  - Shadowmoon Destroyer's Drape
   - Torch of the Damned
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   - Dragonspine Trophy
+  - Shadowmoon Destroyer's Drape
   rank: Core Raider
   t4-lottery-dkp: 2490.35
   t4-priority-dkp: 2919.38
