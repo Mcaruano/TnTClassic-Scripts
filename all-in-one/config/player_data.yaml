@@ -381,9 +381,11 @@ Kangdude:
 Kinestra:
   class: Shaman
   lottery-lootconfig:
+  - Leggings of Channeled Elements
+  - Ring of Ancient Knowledge
+  priority-lootconfig:
   - Helm of the Forgotten Protector
   - Pauldrons of the Forgotten Protector
-  priority-lootconfig:
   - The Nexus Key
   rank: Core Raider
   t4-lottery-dkp: 3469.92
