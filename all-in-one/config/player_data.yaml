@@ -585,12 +585,12 @@ Searusdots:
   rank: Not Set
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
   t6-lottery-dkp: 550.0
   t6-priority-dkp: 550.0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Seion:
   class: Priest
   lottery-lootconfig:
@@ -764,10 +764,10 @@ Vermora:
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   rank: Core Raider
-  t4-lottery-dkp: 1968.45
-  t4-priority-dkp: 2648.74
-  t5-lottery-dkp: 2899.48
-  t5-priority-dkp: 6297.63
+  t4-lottery-dkp: 2558.45
+  t4-priority-dkp: 3238.74
+  t5-lottery-dkp: 3489.48
+  t5-priority-dkp: 6887.63
   t6-lottery-dkp: 6335.03
   t6-priority-dkp: 4298.71
   t6pt5-lottery-dkp: 0.0
