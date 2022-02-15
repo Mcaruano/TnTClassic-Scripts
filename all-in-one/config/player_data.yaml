@@ -155,13 +155,13 @@ Chuunin:
   class: Rogue
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Blade of Infamy
   - Blade of Savagery
   - Choker of Endless Nightmares
   - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
   - Stormrage Signet Ring
   priority-lootconfig:
-  - Blade of Infamy
   - Cursed Vision of Sargeras
   - Talon of Azshara
   rank: Core Raider
