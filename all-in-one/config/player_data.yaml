@@ -787,10 +787,11 @@ Zerxx:
   - Band of the Ranger-General
   - Dreadboots of the Legion
   - Grips of Silent Justice
+  - Madness of the Betrayer
   - Pauldrons of the Forgotten Protector
-  - Stormrage Signet Ring
   priority-lootconfig:
   - Belt of One-Hundred Deaths
+  - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 1829.93
   t4-priority-dkp: 1781.4
