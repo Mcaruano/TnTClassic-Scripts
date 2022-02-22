@@ -558,16 +558,13 @@ Salchant:
 Searious:
   class: Hunter
   lottery-lootconfig:
-  - Bow-stitched Leggings
-  - Don Alejandro's Money Belt
-  - Gloves of the Forgotten Protector
-  - Insidious Bands
-  - Pauldrons of the Forgotten Protector
+  - Blade of Infamy
+  - Blade of Infamy
   - Shadowmaster's Boots
   priority-lootconfig:
-  - Blade of Infamy
-  - Blade of Infamy
   - Dragonspine Trophy
+  - Gloves of the Forgotten Protector
+  - Pauldrons of the Forgotten Protector
   rank: Reserve Raider
   t4-lottery-dkp: 2505.56
   t4-priority-dkp: 2778.06
