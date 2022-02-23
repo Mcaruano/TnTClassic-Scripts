@@ -781,11 +781,11 @@ Wildshrimp:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Dreadboots of the Legion
   - Madness of the Betrayer
-  priority-lootconfig:
   - Stormrage Signet Ring
+  priority-lootconfig:
+  - Cursed Vision of Sargeras
   rank: Core Raider
   t4-lottery-dkp: 2056.94
   t4-priority-dkp: 2015.69
