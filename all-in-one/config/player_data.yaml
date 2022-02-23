@@ -29,11 +29,11 @@ Akaran:
   - Bulwark of Azzinoth
   - Eternium Shell Bracers
   - Leggings of the Vanquished Defender
-  - Pauldrons of the Forgotten Protector
   - Praetorian's Legguards
   - Talon of Azshara
   priority-lootconfig:
   - Blade of Savagery
+  - Pauldrons of the Forgotten Protector
   rank: Core Raider
   t4-lottery-dkp: 2967.88
   t4-priority-dkp: 3037.19
