@@ -772,8 +772,8 @@ Zerxx:
   lottery-lootconfig:
   - Dreadboots of the Legion
   - Madness of the Betrayer
+  priority-lootconfig:
   - Stormrage Signet Ring
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2646.94
   t4-priority-dkp: 2605.69
