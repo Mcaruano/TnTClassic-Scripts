@@ -133,7 +133,7 @@ Barnabae:
   t5-lottery-dkp: 4135.08
   t5-priority-dkp: 6976.86
   t6-lottery-dkp: 7601.03
-  t6-priority-dkp: 8522.029999999999
+  t6-priority-dkp: 8522.03
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Brittany:
@@ -288,7 +288,7 @@ Hyolin:
   t5-lottery-dkp: 4671.02
   t5-priority-dkp: 5750.15
   t6-lottery-dkp: 3231.21
-  t6-priority-dkp: 8538.560000000001
+  t6-priority-dkp: 8538.56
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Jaamii:
@@ -340,7 +340,7 @@ Justinjr:
   t4-priority-dkp: 2857.72
   t5-lottery-dkp: 6447.51
   t5-priority-dkp: 6557.23
-  t6-lottery-dkp: 4131.610000000001
+  t6-lottery-dkp: 4131.61
   t6-priority-dkp: 6625.9
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -356,8 +356,8 @@ Kangdude:
   t4-priority-dkp: 3157.54
   t5-lottery-dkp: 5328.34
   t5-priority-dkp: 5979.32
-  t6-lottery-dkp: 5626.639999999999
-  t6-priority-dkp: 8538.560000000001
+  t6-lottery-dkp: 5626.64
+  t6-priority-dkp: 8538.56
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kinestra:
@@ -410,7 +410,7 @@ Malchazor:
   t4-priority-dkp: 3622.85
   t5-lottery-dkp: 4175.15
   t5-priority-dkp: 6176.12
-  t6-lottery-dkp: 9.650000000000091
+  t6-lottery-dkp: 9.65
   t6-priority-dkp: 1238.93
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -467,7 +467,7 @@ Nashborne:
   t4-lottery-dkp: 2248.18
   t4-priority-dkp: 2206.02
   t5-lottery-dkp: 1785.84
-  t5-priority-dkp: 4909.860000000001
+  t5-priority-dkp: 4909.86
   t6-lottery-dkp: -335.33
   t6-priority-dkp: 8022.95
   t6pt5-lottery-dkp: 0.0
@@ -591,7 +591,7 @@ Seion:
   t5-lottery-dkp: 6516.57
   t5-priority-dkp: 6978.4
   t6-lottery-dkp: -383.0
-  t6-priority-dkp: 8465.810000000001
+  t6-priority-dkp: 8465.81
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sekkondary:
@@ -605,7 +605,7 @@ Sekkondary:
   rank: Core Raider
   t4-lottery-dkp: 3495.0
   t4-priority-dkp: 3565.25
-  t5-lottery-dkp: 5120.110000000001
+  t5-lottery-dkp: 5120.11
   t5-priority-dkp: 5975.4
   t6-lottery-dkp: 6386.93
   t6-priority-dkp: 6131.14
