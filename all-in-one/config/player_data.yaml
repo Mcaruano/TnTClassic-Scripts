@@ -30,7 +30,6 @@ Akaran:
   - Eternium Shell Bracers
   - Leggings of the Vanquished Defender
   - Praetorian's Legguards
-  - Talon of Azshara
   priority-lootconfig:
   - Blade of Savagery
   rank: Core Raider
@@ -782,18 +781,5 @@ Zerxx:
   t5-priority-dkp: 5459.32
   t6-lottery-dkp: 2988.56
   t6-priority-dkp: 3972.55
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-akaran:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
