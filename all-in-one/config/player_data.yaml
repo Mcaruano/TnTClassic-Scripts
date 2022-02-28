@@ -398,6 +398,7 @@ Lilchub:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
+  - Bulwark of Azzinoth
   - Girdle of Mighty Resolve
   - The Seeker's Wristguards
   - Tide-stomper's Greaves
