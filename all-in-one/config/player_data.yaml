@@ -426,10 +426,10 @@ Murduc:
   lottery-lootconfig:
   - Leggings of the Forgotten Conqueror
   - Pauldrons of the Forgotten Conqueror
+  - Ring of Ancient Knowledge
   priority-lootconfig:
   - Tempest of Chaos
   - The Skull of Gul'dan
-  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2771.09
   t4-priority-dkp: 2533.83
