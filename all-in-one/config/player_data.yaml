@@ -607,9 +607,9 @@ Shnacks:
   lottery-lootconfig:
   - Anetheron's Noose
   - Leggings of Channeled Elements
-  - The Skull of Gul'dan
   - Vestments of the Sea-Witch
-  priority-lootconfig: []
+  priority-lootconfig:
+  - The Skull of Gul'dan
   rank: Core Raider
   t4-lottery-dkp: 2935.61
   t4-priority-dkp: 2729.39
