@@ -769,8 +769,8 @@ Zerxx:
   class: Warrior
   lottery-lootconfig:
   - Dreadboots of the Legion
-  - Madness of the Betrayer
   priority-lootconfig:
+  - Band of the Ranger-General
   - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 2249.9
