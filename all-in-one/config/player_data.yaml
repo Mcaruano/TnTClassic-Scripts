@@ -24,6 +24,7 @@ Abjection:
 Akaran:
   class: Warrior
   lottery-lootconfig:
+  - Cataclysm's Edge
   - Eternium Shell Bracers
   - Leggings of the Vanquished Defender
   - Praetorian's Legguards
