@@ -439,8 +439,6 @@ Murduc:
 Nashborne:
   class: Warrior
   lottery-lootconfig:
-  - Belt of One-Hundred Deaths
-  - Choker of Serrated Blades
   - Dreadboots of the Legion
   - Gloves of the Forgotten Protector
   - Grips of Silent Justice
@@ -450,6 +448,7 @@ Nashborne:
   - Stormrage Signet Ring
   - Tsunami Talisman
   priority-lootconfig:
+  - Belt of One-Hundred Deaths
   - Dragonspine Trophy
   - Leggings of Divine Retribution
   rank: Core Raider
