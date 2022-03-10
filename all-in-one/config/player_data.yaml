@@ -130,19 +130,6 @@ Barnabae:
   t6-priority-dkp: 9022.42
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Bomheals:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Brittany:
   class: Not Set
   lottery-lootconfig: []
@@ -272,35 +259,9 @@ Ellievyra:
   t5-lottery-dkp: 4953.58
   t5-priority-dkp: 6096.03
   t6-lottery-dkp: 559.9
-  t6-priority-dkp: 8914.029999999999
+  t6-priority-dkp: 8914.03
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Faerly:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
-Hunben:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Hyolin:
   class: Priest
   lottery-lootconfig:
@@ -386,19 +347,6 @@ Kangdude:
   t6-priority-dkp: 9034.36
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Kines:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Kinestra:
   class: Shaman
   lottery-lootconfig:
@@ -415,18 +363,6 @@ Kinestra:
   t6-priority-dkp: 5625.75
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Lctricbgaloo:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
   t6pt5-priority-dkp: 0
 Lilchub:
   class: Mage
@@ -446,19 +382,6 @@ Lilchub:
   t6-priority-dkp: 8491.1
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Loopfish:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Malchazor:
   class: Paladin
   lottery-lootconfig:
@@ -543,32 +466,6 @@ Nekryss:
   t6-priority-dkp: 5391.24
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Pudsey:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Qynome:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Rayashaman:
   class: Shaman
   lottery-lootconfig:
@@ -590,32 +487,6 @@ Rayashaman:
   t6-priority-dkp: 8755.89
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Reminosc:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
-Rngeezus:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Rotheart:
   class: Not Set
   lottery-lootconfig: []
