@@ -844,6 +844,7 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Madness of the Betrayer
   - Ring of Deceitful Intent
   - Shadowmoon Insignia
   - Thalassian Wildercloak
