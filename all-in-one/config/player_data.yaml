@@ -629,8 +629,8 @@ Spookyremi:
   - Leggings of the Forgotten Conqueror
   - Ring of Ancient Knowledge
   - Tempest of Chaos
-  - Wand of the Forgotten Star
   priority-lootconfig:
+  - Wand of the Forgotten Star
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2572.73
