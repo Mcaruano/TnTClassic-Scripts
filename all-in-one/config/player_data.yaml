@@ -284,11 +284,10 @@ Jaamii:
   class: Shaman
   lottery-lootconfig:
   - Leggings of Channeled Elements
-  - Leggings of the Vanquished Champion
   - Slippers of the Seacaller
   priority-lootconfig:
   - Flashfire Girdle
-  - Ring of Endless Coils
+  - Sextant of Unstable Currents
   rank: Core Raider
   t4-lottery-dkp: 3156.04
   t4-priority-dkp: 2685.66
