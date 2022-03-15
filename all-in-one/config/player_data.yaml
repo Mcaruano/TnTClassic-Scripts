@@ -737,7 +737,9 @@ Wildshrimp:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
+  - Chestguard of the Forgotten Protector
   - Dreadboots of the Legion
+  - Tsunami Talisman
   priority-lootconfig:
   - Band of the Ranger-General
   - Stormrage Signet Ring
