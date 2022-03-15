@@ -246,9 +246,9 @@ Ellievyra:
   class: Priest
   lottery-lootconfig:
   - Helm of the Forgotten Conqueror
+  - Nethervoid Cloak
   - Pauldrons of the Forgotten Conqueror
   - Ring of Ancient Knowledge
-  - Royal Cloak of the Sunstriders
   priority-lootconfig:
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
