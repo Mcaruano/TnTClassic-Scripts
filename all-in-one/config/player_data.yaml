@@ -326,6 +326,7 @@ Kangdude:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Madness of the Betrayer
   - Stormrage Signet Ring
   priority-lootconfig: []
   rank: Core Raider
