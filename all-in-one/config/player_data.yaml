@@ -739,10 +739,10 @@ Zerxx:
   class: Warrior
   lottery-lootconfig:
   - Chestguard of the Forgotten Protector
-  - Dreadboots of the Legion
   - Tsunami Talisman
   priority-lootconfig:
   - Band of the Ranger-General
+  - Dreadboots of the Legion
   - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 2553.32
