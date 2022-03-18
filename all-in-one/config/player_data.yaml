@@ -123,7 +123,7 @@ Barnabae:
   t5-lottery-dkp: 5575.01
   t5-priority-dkp: 7320.21
   t6-lottery-dkp: 9208.45
-  t6-priority-dkp: 9774.060000000001
+  t6-priority-dkp: 9774.06
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Brittany:
@@ -174,7 +174,7 @@ Crazydaisy:
   t5-lottery-dkp: 5541.04
   t5-priority-dkp: 7423.46
   t6-lottery-dkp: 6774.33
-  t6-priority-dkp: 8647.779999999999
+  t6-priority-dkp: 8647.78
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Dalran:
@@ -206,7 +206,7 @@ Demeker:
   t5-lottery-dkp: 7264.89
   t5-priority-dkp: 6545.72
   t6-lottery-dkp: 3030.89
-  t6-priority-dkp: 9273.689999999999
+  t6-priority-dkp: 9273.69
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Despia:
@@ -251,7 +251,7 @@ Ellievyra:
   t4-priority-dkp: 3694.98
   t5-lottery-dkp: 6393.54
   t5-priority-dkp: 7364.63
-  t6-lottery-dkp: -419.0899999999999
+  t6-lottery-dkp: -419.09
   t6-priority-dkp: 9681.93
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -381,7 +381,7 @@ Lilchub:
   t5-lottery-dkp: 6719.02
   t5-priority-dkp: 5743.08
   t6-lottery-dkp: 4514.92
-  t6-priority-dkp: 9322.439999999999
+  t6-priority-dkp: 9322.44
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Malchazor:
@@ -397,7 +397,7 @@ Malchazor:
   t4-priority-dkp: 3742.66
   t5-lottery-dkp: 5599.62
   t5-priority-dkp: 6828.45
-  t6-lottery-dkp: 4546.389999999999
+  t6-lottery-dkp: 4546.39
   t6-priority-dkp: 2301.32
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -427,7 +427,7 @@ Murduc:
   t4-priority-dkp: 3348.47
   t5-lottery-dkp: 7217.34
   t5-priority-dkp: 6041.55
-  t6-lottery-dkp: 4528.030000000001
+  t6-lottery-dkp: 4528.03
   t6-priority-dkp: 6417.7
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -554,7 +554,7 @@ Seion:
   t5-lottery-dkp: 7037.54
   t5-priority-dkp: 7321.16
   t6-lottery-dkp: 4263.74
-  t6-priority-dkp: 9739.529999999999
+  t6-priority-dkp: 9739.53
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sekkondary:
@@ -589,7 +589,7 @@ Shnacks:
   t4-priority-dkp: 3489.76
   t5-lottery-dkp: 7137.77
   t5-priority-dkp: 7364.63
-  t6-lottery-dkp: 5801.280000000001
+  t6-lottery-dkp: 5801.28
   t6-priority-dkp: 7602.49
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -644,7 +644,7 @@ Sylador:
   rank: Core Raider
   t4-lottery-dkp: 3720.53
   t4-priority-dkp: 3707.28
-  t5-lottery-dkp: 5105.360000000001
+  t5-lottery-dkp: 5105.36
   t5-priority-dkp: 7052.0
   t6-lottery-dkp: 8187.57
   t6-priority-dkp: 5883.79
