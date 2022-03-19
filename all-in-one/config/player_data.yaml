@@ -295,11 +295,11 @@ Justin:
 Justinjr:
   class: Warlock
   lottery-lootconfig:
-  - Gloves of the Forgotten Conqueror
   - Ring of Ancient Knowledge
   - The Nexus Key
   priority-lootconfig:
   - Fang of the Leviathan
+  - Gloves of the Forgotten Conqueror
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 3351.51
