@@ -320,7 +320,7 @@ Justinjr:
   t5-lottery-dkp: 6995.12
   t5-priority-dkp: 7062.51
   t6-lottery-dkp: -1022.21
-  t6-priority-dkp: 8609.59
+  t6-priority-dkp: 7731.16
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kangdude:
@@ -574,6 +574,19 @@ Sekkondary:
   t6-priority-dkp: 8305.75
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
+Shemamigams:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Shnacks:
   class: Druid
   lottery-lootconfig:
@@ -627,7 +640,7 @@ Spookyremi:
   t5-lottery-dkp: 6310.23
   t5-priority-dkp: 5366.36
   t6-lottery-dkp: -742.45
-  t6-priority-dkp: 7731.16
+  t6-priority-dkp: 8609.59
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sylador:
