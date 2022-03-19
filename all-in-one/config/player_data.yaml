@@ -126,19 +126,6 @@ Barnabae:
   t6-priority-dkp: 9774.06
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Brittany:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 36.07
-  t5-priority-dkp: 36.07
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
 Chuunin:
   class: Rogue
   lottery-lootconfig:
@@ -337,19 +324,6 @@ Kangdude:
   t5-priority-dkp: 6707.6
   t6-lottery-dkp: 7995.92
   t6-priority-dkp: 9784.21
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Kines:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 2183.0
-  t5-priority-dkp: 2183.0
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kinestra:
@@ -574,19 +548,6 @@ Sekkondary:
   t6-priority-dkp: 8305.75
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Shemamigams:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
 Shnacks:
   class: Druid
   lottery-lootconfig:
@@ -674,19 +635,6 @@ Thorinix:
   t5-priority-dkp: 5069.46
   t6-lottery-dkp: 0.0
   t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
-Tongsta:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
-  t6-lottery-dkp: 165.0
-  t6-priority-dkp: 165.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Velyris:
