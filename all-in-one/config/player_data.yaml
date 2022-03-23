@@ -260,12 +260,8 @@ Hyolin:
   t6pt5-priority-dkp: 0.0
 Jaamii:
   class: Shaman
-  lottery-lootconfig:
-  - Leggings of Channeled Elements
-  - Slippers of the Seacaller
-  priority-lootconfig:
-  - Flashfire Girdle
-  - Sextant of Unstable Currents
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3184.13
   t4-priority-dkp: 2784.31
