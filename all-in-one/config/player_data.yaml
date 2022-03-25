@@ -656,10 +656,7 @@ Vermora:
   class: Rogue
   lottery-lootconfig:
   - Blade of Savagery
-  - Gloves of the Vanquished Champion
   - Insidious Bands
-  - Pauldrons of the Vanquished Champion
-  - Shadowmaster's Boots
   priority-lootconfig:
   - Belt of One-Hundred Deaths
   - Shadowmoon Destroyer's Drape
