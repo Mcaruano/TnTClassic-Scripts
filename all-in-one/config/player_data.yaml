@@ -131,7 +131,7 @@ Chuunin:
   - Blade of Savagery
   - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
-  priority-lootconfig: []
+  priority-lootconfig:
   - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 3617.61
