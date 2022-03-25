@@ -128,12 +128,11 @@ Barnabae:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Blade of Savagery
   - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
-  - Stormrage Signet Ring
   priority-lootconfig: []
+  - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 3617.61
   t4-priority-dkp: 3595.08
