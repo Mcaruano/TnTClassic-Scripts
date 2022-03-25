@@ -356,7 +356,8 @@ Malchazor:
   - Girdle of Mighty Resolve
   - The Seeker's Wristguards
   - Tide-stomper's Greaves
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Tempest of Chaos
   rank: Core Raider
   t4-lottery-dkp: 3009.42
   t4-priority-dkp: 3181.26
