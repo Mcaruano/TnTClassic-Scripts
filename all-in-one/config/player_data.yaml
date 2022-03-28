@@ -685,9 +685,7 @@ Wildshrimp:
 Zerxx:
   class: Warrior
   lottery-lootconfig:
-  - Choker of Endless Nightmares
   - Tsunami Talisman
-  - Unstoppable Aggressor's Ring
   priority-lootconfig:
   - Band of the Ranger-General
   - Stormrage Signet Ring
