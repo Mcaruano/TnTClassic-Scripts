@@ -669,10 +669,9 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Pillar of Ferocity
   - Shadowmoon Insignia
-  - Thalassian Wildercloak
   priority-lootconfig:
-  - Belt of One-Hundred Deaths
   - Shadowmaster's Boots
   rank: Core Raider
   t4-lottery-dkp: 2924.79
