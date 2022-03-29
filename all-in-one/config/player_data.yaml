@@ -209,6 +209,7 @@ Despia:
 Digitalz:
   class: Rogue
   lottery-lootconfig:
+  - Don Alejandro's Money Belt
   - Rod of the Sun King
   - Shadowmaster's Boots
   priority-lootconfig:
