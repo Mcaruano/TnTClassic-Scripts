@@ -516,8 +516,8 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Chestguard of the Forgotten Protector
+  priority-lootconfig:
   - Shroud of the Highborne
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3738.84
   t4-priority-dkp: 3770.01
