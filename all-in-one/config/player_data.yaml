@@ -125,10 +125,10 @@ Barnabae:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
-  - Blade of Savagery
   - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Blade of Savagery
   rank: Core Raider
   t4-lottery-dkp: 3664.97
   t4-priority-dkp: 3645.82
