@@ -237,11 +237,11 @@ Hyolin:
   lottery-lootconfig:
   - Blessed Band of Karabor
   - Blessed Band of Karabor
-  - Crystal Spire of Karabor
   - Luminescent Rod of the Naaru
   - Naaru-Blessed Life Rod
   - Scepter of Purification
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Crystal Spire of Karabor
   rank: Core Raider
   t4-lottery-dkp: 3795.16
   t4-priority-dkp: 3787.46
