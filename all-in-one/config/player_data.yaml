@@ -679,19 +679,3 @@ Wildshrimp:
   t6-priority-dkp: 8193.12
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Zerxx:
-  class: Warrior
-  lottery-lootconfig:
-  - Tsunami Talisman
-  priority-lootconfig:
-  - Band of the Ranger-General
-  - Stormrage Signet Ring
-  rank: Core Raider
-  t4-lottery-dkp: 1994.33
-  t4-priority-dkp: 1978.77
-  t5-lottery-dkp: 4246.0
-  t5-priority-dkp: 3615.21
-  t6-lottery-dkp: 3023.26
-  t6-priority-dkp: 3394.37
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
