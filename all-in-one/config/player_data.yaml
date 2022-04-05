@@ -649,11 +649,11 @@ Velyris:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Blade of Savagery
   - Insidious Bands
+  - Shadowmoon Destroyer's Drape
   priority-lootconfig:
   - Belt of One-Hundred Deaths
-  - Shadowmoon Destroyer's Drape
+  - Blade of Savagery
   rank: Core Raider
   t4-lottery-dkp: 2524.98
   t4-priority-dkp: 3154.06
