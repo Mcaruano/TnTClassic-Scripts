@@ -580,6 +580,7 @@ Solljus:
 Spookyremi:
   class: Warlock
   lottery-lootconfig:
+  - Anetheron's Noose
   - Cloak of the Illidari Council
   - Leggings of the Forgotten Conqueror
   - Ring of Ancient Knowledge
