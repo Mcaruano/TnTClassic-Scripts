@@ -471,10 +471,10 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Blade of Infamy
-  - Shadowmaster's Boots
+  - Pauldrons of the Forgotten Protector
   priority-lootconfig:
   - Dragonspine Trophy
-  - Pauldrons of the Forgotten Protector
+  - Shadowmaster's Boots
   rank: Reserve Raider
   t4-lottery-dkp: 2885.63
   t4-priority-dkp: 2972.98
