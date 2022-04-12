@@ -680,6 +680,8 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Apostle of Argus
+  - Choker of Serrated Blades
   - Pillar of Ferocity
   - Shadowmoon Insignia
   priority-lootconfig:
