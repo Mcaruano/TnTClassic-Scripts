@@ -185,7 +185,6 @@ Demacian:
 Demeker:
   class: Warlock
   lottery-lootconfig:
-  - Ring of Ancient Knowledge
   - Tempest of Chaos
   - The Skull of Gul'dan
   priority-lootconfig:
