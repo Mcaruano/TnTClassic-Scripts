@@ -16,8 +16,8 @@ Abjection:
   t4-priority-dkp: 3321.64
   t5-lottery-dkp: 3589.18
   t5-priority-dkp: 2969.01
-  t6-lottery-dkp: 3456.58
-  t6-priority-dkp: 9606.94
+  t6-lottery-dkp: 3796.58
+  t6-priority-dkp: 9946.94
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Akaran:
@@ -31,8 +31,8 @@ Akaran:
   t4-priority-dkp: 3333.69
   t5-lottery-dkp: 369.78
   t5-priority-dkp: 3595.19
-  t6-lottery-dkp: -12342.0
-  t6-priority-dkp: 7098.73
+  t6-lottery-dkp: -12002.0
+  t6-priority-dkp: 7438.73
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Albynonurse:
@@ -60,8 +60,8 @@ Ashori:
   t4-priority-dkp: 2811.63
   t5-lottery-dkp: 3657.46
   t5-priority-dkp: 3838.86
-  t6-lottery-dkp: 5943.78
-  t6-priority-dkp: 9673.44
+  t6-lottery-dkp: 6283.78
+  t6-priority-dkp: 10013.44
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Babyshrimp:
@@ -92,8 +92,8 @@ Baopi:
   t4-priority-dkp: 3333.88
   t5-lottery-dkp: 2929.78
   t5-priority-dkp: 3879.53
-  t6-lottery-dkp: 7599.57
-  t6-priority-dkp: 8365.75
+  t6-lottery-dkp: 7939.57
+  t6-priority-dkp: 8705.75
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Barnabae:
@@ -136,8 +136,8 @@ Chuunin:
   t4-priority-dkp: 3224.11
   t5-lottery-dkp: 3024.94
   t5-priority-dkp: 3172.52
-  t6-lottery-dkp: 7598.46
-  t6-priority-dkp: 5827.37
+  t6-lottery-dkp: 7938.46
+  t6-priority-dkp: 6167.37
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Crazydaisy:
@@ -153,8 +153,8 @@ Crazydaisy:
   t4-priority-dkp: 3328.56
   t5-lottery-dkp: 2892.46
   t5-priority-dkp: 3875.09
-  t6-lottery-dkp: 8820.63
-  t6-priority-dkp: 9798.59
+  t6-lottery-dkp: 9160.63
+  t6-priority-dkp: 10138.59
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Dalran:
@@ -177,12 +177,12 @@ Demacian:
   rank: Not Set
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Demeker:
   class: Warlock
   lottery-lootconfig:
@@ -195,8 +195,8 @@ Demeker:
   t4-priority-dkp: 3297.11
   t5-lottery-dkp: 3792.33
   t5-priority-dkp: 3416.91
-  t6-lottery-dkp: 866.54
-  t6-priority-dkp: 10125.32
+  t6-lottery-dkp: -1343.46
+  t6-priority-dkp: 10465.32
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Despia:
@@ -224,8 +224,8 @@ Digitalz:
   t4-priority-dkp: 3291.19
   t5-lottery-dkp: 1325.84
   t5-priority-dkp: 3088.0
-  t6-lottery-dkp: 6710.81
-  t6-priority-dkp: 9803.14
+  t6-lottery-dkp: 7050.81
+  t6-priority-dkp: 10143.14
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Ellievyra:
@@ -239,8 +239,8 @@ Ellievyra:
   t4-priority-dkp: 3307.41
   t5-lottery-dkp: 3337.47
   t5-priority-dkp: 3844.39
-  t6-lottery-dkp: -152.08
-  t6-priority-dkp: 10338.41
+  t6-lottery-dkp: 187.92
+  t6-priority-dkp: 10678.41
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Goodjorb:
@@ -284,8 +284,8 @@ Hyolin:
   t4-priority-dkp: 3326.44
   t5-lottery-dkp: 3082.0
   t5-priority-dkp: 3427.95
-  t6-lottery-dkp: 816.62
-  t6-priority-dkp: 8224.31
+  t6-lottery-dkp: 1156.62
+  t6-priority-dkp: 8564.31
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Jaamii:
@@ -297,8 +297,8 @@ Jaamii:
   t4-priority-dkp: 3088.52
   t5-lottery-dkp: 2586.18
   t5-priority-dkp: 3608.18
-  t6-lottery-dkp: 7810.61
-  t6-priority-dkp: 8402.34
+  t6-lottery-dkp: 8150.61
+  t6-priority-dkp: 8742.34
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Justin:
@@ -328,8 +328,8 @@ Justinjr:
   t4-priority-dkp: 3087.01
   t5-lottery-dkp: 3651.49
   t5-priority-dkp: 3686.67
-  t6-lottery-dkp: 4656.62
-  t6-priority-dkp: 7477.74
+  t6-lottery-dkp: 4996.62
+  t6-priority-dkp: 7817.74
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kangdude:
@@ -344,8 +344,8 @@ Kangdude:
   t4-priority-dkp: 3183.13
   t5-lottery-dkp: 3292.72
   t5-priority-dkp: 3501.41
-  t6-lottery-dkp: 9458.31
-  t6-priority-dkp: 10391.81
+  t6-lottery-dkp: 9798.31
+  t6-priority-dkp: 10731.81
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kinestra:
@@ -358,8 +358,8 @@ Kinestra:
   t4-priority-dkp: 3333.61
   t5-lottery-dkp: 2595.01
   t5-priority-dkp: 2704.84
-  t6-lottery-dkp: 7565.46
-  t6-priority-dkp: 7313.38
+  t6-lottery-dkp: 7905.46
+  t6-priority-dkp: 7653.38
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Lilchub:
@@ -374,8 +374,8 @@ Lilchub:
   t4-priority-dkp: 3314.61
   t5-lottery-dkp: 3507.37
   t5-priority-dkp: 2997.92
-  t6-lottery-dkp: 5091.21
-  t6-priority-dkp: 8308.39
+  t6-lottery-dkp: 5431.21
+  t6-priority-dkp: 8648.39
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Malchazor:
@@ -391,8 +391,8 @@ Malchazor:
   t4-priority-dkp: 3332.3
   t5-lottery-dkp: 2923.04
   t5-priority-dkp: 3564.49
-  t6-lottery-dkp: 4657.64
-  t6-priority-dkp: 6485.7
+  t6-lottery-dkp: 4997.64
+  t6-priority-dkp: 6825.7
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Metasyn:
@@ -419,8 +419,8 @@ Murduc:
   t4-priority-dkp: 3126.53
   t5-lottery-dkp: 3767.5
   t5-priority-dkp: 3153.73
-  t6-lottery-dkp: 5480.56
-  t6-priority-dkp: 8634.47
+  t6-lottery-dkp: 3270.56
+  t6-priority-dkp: 8974.47
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Nashborne:
@@ -441,8 +441,8 @@ Nashborne:
   t4-priority-dkp: 2878.1
   t5-lottery-dkp: 1849.1
   t5-priority-dkp: 2850.58
-  t6-lottery-dkp: 6195.4
-  t6-priority-dkp: 8895.4
+  t6-lottery-dkp: 6535.4
+  t6-priority-dkp: 9235.4
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Nekryss:
@@ -471,8 +471,8 @@ Rayashaman:
   t4-priority-dkp: 3330.41
   t5-lottery-dkp: 3663.55
   t5-priority-dkp: 3665.17
-  t6-lottery-dkp: 3910.26
-  t6-priority-dkp: 10268.25
+  t6-lottery-dkp: 4250.26
+  t6-priority-dkp: 10608.25
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Rotheart:
@@ -513,8 +513,8 @@ Searious:
   t4-priority-dkp: 2117.03
   t5-lottery-dkp: 3482.57
   t5-priority-dkp: 3413.45
-  t6-lottery-dkp: 7800.85
-  t6-priority-dkp: 8621.93
+  t6-lottery-dkp: 5590.85
+  t6-priority-dkp: 8961.93
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Searusdots:
@@ -541,8 +541,8 @@ Seion:
   t4-priority-dkp: 3325.09
   t5-lottery-dkp: 3673.64
   t5-priority-dkp: 3821.69
-  t6-lottery-dkp: 3500.22
-  t6-priority-dkp: 10368.49
+  t6-lottery-dkp: 3840.22
+  t6-priority-dkp: 10708.49
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sekkondary:
@@ -555,8 +555,8 @@ Sekkondary:
   t4-priority-dkp: 2723.83
   t5-lottery-dkp: 3225.97
   t5-priority-dkp: 3500.16
-  t6-lottery-dkp: 5692.17
-  t6-priority-dkp: 7452.55
+  t6-lottery-dkp: 6032.17
+  t6-priority-dkp: 5242.55
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Shnacks:
@@ -572,8 +572,8 @@ Shnacks:
   t4-priority-dkp: 3200.29
   t5-lottery-dkp: 3725.96
   t5-priority-dkp: 3844.39
-  t6-lottery-dkp: 5762.7
-  t6-priority-dkp: 7410.56
+  t6-lottery-dkp: 6102.7
+  t6-priority-dkp: 7750.56
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sizzleñips:
@@ -621,8 +621,8 @@ Spookyremi:
   t4-priority-dkp: 3222.95
   t5-lottery-dkp: 3293.98
   t5-priority-dkp: 2801.28
-  t6-lottery-dkp: 2614.29
-  t6-priority-dkp: 9778.66
+  t6-lottery-dkp: 2954.29
+  t6-priority-dkp: 10118.66
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Sylador:
@@ -641,8 +641,8 @@ Sylador:
   t4-priority-dkp: 3313.83
   t5-lottery-dkp: 2665.04
   t5-priority-dkp: 3681.19
-  t6-lottery-dkp: 9558.35
-  t6-priority-dkp: 8355.77
+  t6-lottery-dkp: 9898.35
+  t6-priority-dkp: 8695.77
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Thorinix:
@@ -672,8 +672,8 @@ Velyris:
   t4-priority-dkp: 3222.95
   t5-lottery-dkp: 1315.29
   t5-priority-dkp: 3649.81
-  t6-lottery-dkp: -152.24
-  t6-priority-dkp: 10259.38
+  t6-lottery-dkp: 187.76
+  t6-priority-dkp: 10599.38
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Vermora:
@@ -689,8 +689,8 @@ Vermora:
   t4-priority-dkp: 3270.95
   t5-lottery-dkp: 459.61
   t5-priority-dkp: 3879.7
-  t6-lottery-dkp: 6801.14
-  t6-priority-dkp: 8565.51
+  t6-lottery-dkp: 7141.14
+  t6-priority-dkp: 8905.51
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Wildshrimp:
@@ -706,7 +706,7 @@ Wildshrimp:
   t4-priority-dkp: 3333.69
   t5-lottery-dkp: 2885.07
   t5-priority-dkp: 3879.06
-  t6-lottery-dkp: 1993.01
-  t6-priority-dkp: 9889.4
+  t6-lottery-dkp: 2333.01
+  t6-priority-dkp: 10229.4
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
