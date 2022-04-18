@@ -24,7 +24,6 @@ Akaran:
   class: Warrior
   lottery-lootconfig:
   - Bulwark of Azzinoth
-  - Cataclysm's Edge
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3311.48
