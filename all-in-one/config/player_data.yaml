@@ -695,11 +695,9 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
-  - Apostle of Argus
-  - Pillar of Ferocity
-  - Shadowmoon Insignia
-  priority-lootconfig:
   - Shadowmaster's Boots
+  - Shadowmoon Insignia
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3129.43
   t4-priority-dkp: 3333.69
