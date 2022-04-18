@@ -217,8 +217,7 @@ Digitalz:
   lottery-lootconfig:
   - Rod of the Sun King
   - Shadowmaster's Boots
-  priority-lootconfig:
-  - Cursed Vision of Sargeras
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3334.06
   t4-priority-dkp: 3291.19
