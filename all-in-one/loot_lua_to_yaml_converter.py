@@ -13,9 +13,9 @@ import os
 import re
 import yaml
 
-CONTENT_TIER = "T6"
-LUA_FILE_PATH = "/Users/Melanie/Git Repositories/TnTDKP/TnTDKP/TierSixLoot.lua"
-OUTPUT_FILE_PATH = "/Users/Melanie/Git Repositories/TnTClassic-Scripts/all-in-one/TierSixLoot.yaml"
+CONTENT_TIER = "T6PT5"
+LUA_FILE_PATH = "/Users/Melanie/Git Repositories/TnTDKP/TnTDKP/TierSixPointFiveLoot.lua"
+OUTPUT_FILE_PATH = "/Users/Melanie/Git Repositories/TnTClassic-Scripts/all-in-one/TierSixPointFiveLoot.yaml"
 
 """
 Parses a loot LUA file of the following format:
