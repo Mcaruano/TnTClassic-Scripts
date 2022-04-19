@@ -382,7 +382,6 @@ Malchazor:
   class: Paladin
   lottery-lootconfig:
   - Girdle of Mighty Resolve
-  - The Seeker's Wristguards
   - Tide-stomper's Greaves
   priority-lootconfig:
   - Tempest of Chaos
