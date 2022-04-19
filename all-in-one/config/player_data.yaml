@@ -23,10 +23,21 @@ Abjection:
 Akaran:
   class: Warrior
   lottery-lootconfig:
+  - Borderland Fortress Grips
   - Bulwark of Azzinoth
   - Chestguard of the Forgotten Protector
+  - Collar of the Pit Lord
+  - Crimson Paragon's Cover
+  - Crown of Dath'Remar
+  - Dragonscale-Encrusted Longblade
+  - Felstrength Legplates
   - Pauldrons of the Forgotten Protector
-  priority-lootconfig: []
+  - Ring of Hardened Resolve
+  - Steely Naaru Sliver
+  priority-lootconfig:
+  - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
   rank: Core Raider
   t4-lottery-dkp: 2814.76
   t4-priority-dkp: 2833.64
