@@ -24,6 +24,8 @@ Akaran:
   class: Warrior
   lottery-lootconfig:
   - Bulwark of Azzinoth
+  - Chestguard of the Forgotten Protector
+  - Pauldrons of the Forgotten Protector
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2814.76
