@@ -513,8 +513,7 @@ Salchant:
   t6pt5-priority-dkp: 0.0
 Searious:
   class: Hunter
-  lottery-lootconfig:
-  - Blade of Infamy
+  lottery-lootconfig: []
   priority-lootconfig:
   - Insidious Bands
   - Shadowmaster's Boots
