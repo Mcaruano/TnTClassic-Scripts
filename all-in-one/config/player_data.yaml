@@ -638,12 +638,18 @@ Sylador:
   lottery-lootconfig:
   - Blessed Band of Karabor
   - Blessed Band of Karabor
+  - Book of Highborn Hymns
+  - Breeches of Natural Aggression
   - Chestguard of the Vanquished Defender
+  - Cowl of Ursol the Wise
   - Crystal Spire of Karabor
   - Leggings of the Vanquished Defender
   - Memento of Tyrande
   - Pauldrons of the Vanquished Defender
-  priority-lootconfig: []
+  - Spaulders of Reclamation
+  - Tranquil Majesty Wraps
+  priority-lootconfig:
+  - Hammer of Sanctification
   rank: Core Raider
   t4-lottery-dkp: 2822.63
   t4-priority-dkp: 2816.76
