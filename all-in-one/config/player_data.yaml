@@ -162,7 +162,16 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
+  - Band of Ruinous Delight
+  - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
   - Choker of Endless Nightmares
+  - Hand of the Deceiver
+  - Harness of Carnal Instinct
+  - Leggings of the Immortal Night
+  - Mantle of the Golden Forest
+  - Mounting Vengeance
   - Shadowmoon Destroyer's Drape
   priority-lootconfig:
   - Cursed Vision of Sargeras
