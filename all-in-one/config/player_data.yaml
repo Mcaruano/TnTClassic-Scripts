@@ -711,6 +711,14 @@ Velyris:
 Vermora:
   class: Rogue
   lottery-lootconfig:
+  - Blackened Naaru Sliver
+  - Cloak of Unforgivable Sin
+  - Duplicitous Guise
+  - Golden Bow of Quel'Thalas
+  - Hand of the Deceiver
+  - Harness of Carnal Instinct
+  - Leggings of the Immortal Night
+  - Muramasa
   - Shadowmoon Destroyer's Drape
   priority-lootconfig:
   - Belt of One-Hundred Deaths
