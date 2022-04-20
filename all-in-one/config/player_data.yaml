@@ -688,7 +688,6 @@ Velyris:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
   priority-lootconfig:
   - Belt of One-Hundred Deaths
