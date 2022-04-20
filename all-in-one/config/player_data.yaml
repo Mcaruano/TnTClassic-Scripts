@@ -139,6 +139,13 @@ Barnabae:
 Chuunin:
   class: Rogue
   lottery-lootconfig:
+  - Band of Ruinous Delight
+  - Blackened Naaru Sliver
+  - Cloak of Unforgivable Sin
+  - Duplicitous Guise
+  - Golden Bow of Quel'Thalas
+  - Harness of Carnal Instinct
+  - Leggings of the Immortal Night
   - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
   priority-lootconfig:
