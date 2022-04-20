@@ -405,10 +405,10 @@ Malchazor:
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Metasyn:
-  class: Not Set
+  class: Druid
   lottery-lootconfig: []
   priority-lootconfig: []
-  rank: Not Set
+  rank: Reserve Raider
   t4-lottery-dkp: 1149.65
   t4-priority-dkp: 1149.65
   t5-lottery-dkp: 1847.94
