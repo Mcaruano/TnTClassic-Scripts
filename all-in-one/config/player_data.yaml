@@ -528,7 +528,9 @@ Salchant:
   t6pt5-priority-dkp: 0.0
 Searious:
   class: Hunter
-  lottery-lootconfig: []
+  lottery-lootconfig:
+  - Black Bow of the Betrayer
+  - Cursed Vision of Sargeras
   priority-lootconfig:
   - Insidious Bands
   - Shadowmaster's Boots
