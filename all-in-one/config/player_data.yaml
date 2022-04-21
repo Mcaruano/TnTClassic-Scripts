@@ -387,8 +387,15 @@ Kangdude:
 Kinestra:
   class: Shaman
   lottery-lootconfig:
+  - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
   - Ring of Ancient Knowledge
-  priority-lootconfig: []
+  - Ring of Omnipotence
+  - Tattered Cape of Antonidas
+  priority-lootconfig:
+  - Shifting Naaru Sliver
+  - Sunflare
   rank: Core Raider
   t4-lottery-dkp: 2825.82
   t4-priority-dkp: 2833.57
