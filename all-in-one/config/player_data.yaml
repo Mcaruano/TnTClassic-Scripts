@@ -423,9 +423,17 @@ Lilchub:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
+  - 'Design: Pendant of Sunfire'
   - Girdle of Mighty Resolve
+  - Helm of Burning Righteousness
+  - Heroic Judicator's Chestguard
+  - Legplates of the Holy Juggernaut
+  - Pauldrons of Perseverance
+  - Sword Breaker's Bulwark
   - Tide-stomper's Greaves
   priority-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
   - Tempest of Chaos
   rank: Core Raider
   t4-lottery-dkp: 2742.75
