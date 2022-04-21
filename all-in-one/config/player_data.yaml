@@ -242,9 +242,16 @@ Despia:
 Digitalz:
   class: Rogue
   lottery-lootconfig:
+  - Belt of the Forgotten Vanquisher
+  - Boots of the Forgotten Vanquisher
+  - Bracers of the Forgotten Vanquisher
+  - Cloak of Unforgivable Sin
+  - 'Design: Hard Khorium Band'
+  - 'Design: Hard Khorium Choker'
   - Rod of the Sun King
   - Shadowmaster's Boots
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Hand of the Deceiver
   rank: Core Raider
   t4-lottery-dkp: 2833.95
   t4-priority-dkp: 2797.51
