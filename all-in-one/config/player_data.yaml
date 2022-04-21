@@ -316,8 +316,11 @@ Hyolin:
   t6pt5-priority-dkp: 0.0
 Jaamii:
   class: Shaman
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Siphon of the Nathrezim
+  - Siphon of the Nathrezim
+  priority-lootconfig:
+  - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 2833.95
   t4-priority-dkp: 2625.24
