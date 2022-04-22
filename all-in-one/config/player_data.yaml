@@ -322,6 +322,7 @@ Hyolin:
 Jaamii:
   class: Shaman
   lottery-lootconfig:
+  - Bow-stitched Leggings
   - Siphon of the Nathrezim
   - Siphon of the Nathrezim
   priority-lootconfig:
