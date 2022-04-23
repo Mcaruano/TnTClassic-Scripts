@@ -379,7 +379,7 @@ Kangdude:
   t5-lottery-dkp: 2798.81
   t5-priority-dkp: 2976.2
   t6-lottery-dkp: 10093.56
-  t6-priority-dkp: 10887.04
+  t6-priority-dkp: 7887.04
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
 Kinestra:
@@ -530,12 +530,12 @@ Reminosc:
   rank: Not Set
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Rotheart:
   class: Not Set
   lottery-lootconfig: []
@@ -747,12 +747,12 @@ Venatir:
   rank: Not Set
   t4-lottery-dkp: 590.0
   t4-priority-dkp: 590.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Vermora:
   class: Rogue
   lottery-lootconfig:
