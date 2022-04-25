@@ -163,17 +163,20 @@ Crazydaisy:
   lottery-lootconfig:
   - Band of Ruinous Delight
   - Belt of the Forgotten Protector
+  - Blackened Naaru Sliver
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Choker of Endless Nightmares
+  - Cloak of Unforgivable Sin
+  - Cursed Vision of Sargeras
+  - Duplicitous Guise
   - Hand of the Deceiver
   - Harness of Carnal Instinct
   - Leggings of the Immortal Night
   - Mantle of the Golden Forest
   - Mounting Vengeance
   - Shadowmoon Destroyer's Drape
-  priority-lootconfig:
-  - Cursed Vision of Sargeras
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 3413.09
   t4-priority-dkp: 3419.28
