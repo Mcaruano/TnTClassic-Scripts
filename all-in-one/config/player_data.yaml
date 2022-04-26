@@ -168,15 +168,16 @@ Crazydaisy:
   - Bracers of the Forgotten Protector
   - Choker of Endless Nightmares
   - Cloak of Unforgivable Sin
-  - Cursed Vision of Sargeras
   - Duplicitous Guise
   - Hand of the Deceiver
   - Harness of Carnal Instinct
   - Leggings of the Immortal Night
   - Mantle of the Golden Forest
   - Mounting Vengeance
+  - Shadowmaster's Boots
   - Shadowmoon Destroyer's Drape
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Cursed Vision of Sargeras
   rank: Core Raider
   t4-lottery-dkp: 2901.13
   t4-priority-dkp: 2906.39
