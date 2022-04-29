@@ -61,6 +61,7 @@ Albynonurse:
 Ashori:
   class: Paladin
   lottery-lootconfig:
+  - Cursed Vision of Sargeras
   - Torch of the Damned
   priority-lootconfig:
   - Belt of One-Hundred Deaths
