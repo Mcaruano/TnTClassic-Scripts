@@ -326,11 +326,11 @@ Jaamii:
   class: Shaman
   lottery-lootconfig:
   - Bow-stitched Leggings
+  - Madness of the Betrayer
   - Siphon of the Nathrezim
   - Siphon of the Nathrezim
   priority-lootconfig:
   - Dragonspine Trophy
-  - Madness of the Betrayer
   - Stormrage Signet Ring
   rank: Core Raider
   t4-lottery-dkp: 3500.36
