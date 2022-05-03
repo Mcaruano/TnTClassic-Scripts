@@ -303,8 +303,12 @@ Hipon:
 Hyolin:
   class: Priest
   lottery-lootconfig:
+  - Belt of the Forgotten Conqueror
   - Blessed Band of Karabor
   - Blessed Band of Karabor
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Golden Staff of the Sin'dorei
   - Luminescent Rod of the Naaru
   - Naaru-Blessed Life Rod
   - Shroud of the Highborne
