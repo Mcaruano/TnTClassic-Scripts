@@ -525,12 +525,8 @@ Nekryss:
   t6pt5-priority-dkp: 0.0
 Rayashaman:
   class: Shaman
-  lottery-lootconfig:
-  - Blessed Band of Karabor
-  - Blessed Band of Karabor
-  - Helm of the Forgotten Protector
-  priority-lootconfig:
-  - Crystal Spire of Karabor
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2961.87
   t4-priority-dkp: 2973.06
@@ -744,13 +740,8 @@ Thorinix:
   t6pt5-priority-dkp: 0.0
 Velyris:
   class: Priest
-  lottery-lootconfig:
-  - Blessed Band of Karabor
-  - Blessed Band of Karabor
-  priority-lootconfig:
-  - Crystal Spire of Karabor
-  - Lightfathom Scepter
-  - Memento of Tyrande
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2874.12
   t4-priority-dkp: 2907.07
