@@ -623,9 +623,10 @@ Sekkondary:
   - Belt of the Forgotten Protector
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
-  - Chestguard of the Forgotten Protector
   - 'Pattern: Sun-Drenched Scale Chestguard'
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Chestguard of the Forgotten Protector
+  - Crystal Spire of Karabor
   rank: Core Raider
   t4-lottery-dkp: 1658.94
   t4-priority-dkp: 1672.77
