@@ -1,10 +1,18 @@
 Abjection:
   class: Hunter
   lottery-lootconfig:
+  - Belt of the Forgotten Protector
+  - Blackened Naaru Sliver
   - Boneweave Girdle
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
   - Chestguard of the Forgotten Protector
   - Choker of Endless Nightmares
+  - Cloak of Unforgivable Sin
   - Shadowmoon Destroyer's Drape
+  - Shiv of Exsanguination
+  - Shiv of Exsanguination
+  - Shivering Felspine
   - Stormrage Signet Ring
   priority-lootconfig:
   - Cursed Vision of Sargeras
