@@ -773,9 +773,11 @@ Thorinix:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Velyris:
-  class: Priest
-  lottery-lootconfig: []
+Velyri:
+  class: Shaman
+  lottery-lootconfig:
+  - Botanist's Gloves of Growth
+  - Shroud of the Highborne
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 2874.12
