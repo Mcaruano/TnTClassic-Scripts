@@ -68,9 +68,19 @@ Albynonurse:
 Ashori:
   class: Paladin
   lottery-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Blackened Naaru Sliver
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Clutch of Demise
   - Cursed Vision of Sargeras
+  - Helm of the Forgotten Conqueror
+  - Pauldrons of Berserking
+  - 'Plans: Hard Khorium Battlefists'
   - Torch of the Damned
+  - Warharness of Reckelss Fury
   priority-lootconfig:
+  - Apolyon, the Soul-Render
   - Belt of One-Hundred Deaths
   - Shadowmoon Destroyer's Drape
   rank: Core Raider
