@@ -545,8 +545,8 @@ Nekryss:
   t6-priority-dkp: 7653.93
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
-Rayashaman:
-  class: Shaman
+Rayapaladin:
+  class: Paladin
   lottery-lootconfig: []
   priority-lootconfig: []
   rank: Core Raider
