@@ -210,9 +210,16 @@ Demacian:
 Demeker:
   class: Warlock
   lottery-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Leggings of Calamity
+  - 'Pattern: Sunfire Robe'
   - Tempest of Chaos
-  - The Skull of Gul'dan
+  - Wand of the Demonsoul
   priority-lootconfig:
+  - Shifting Naaru Sliver
+  - The Skull of Gul'dan
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 2974.39
