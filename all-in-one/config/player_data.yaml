@@ -796,8 +796,20 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Belt of the Forgotten Vanquisher
+  - Boots of the Forgotten Vanquisher
+  - Bracers of the Forgotten Vanquisher
+  - Collar of the Pit Lord
+  - Crimson Paragon's Cover
+  - Harness of Carnal Instinct
+  - Ring of Harden Resolve
+  - Shadowed Gauntlets of Paroxysm
   - Shadowmoon Insignia
-  priority-lootconfig: []
+  - Shoulderpads of Vehemence
+  - Stanchion of Primal Instinct
+  - Steely Naaru Sliver
+  priority-lootconfig:
+  - Leggings of the Immortal Night
   rank: Core Raider
   t4-lottery-dkp: 2849.64
   t4-priority-dkp: 2975.08
