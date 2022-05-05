@@ -611,9 +611,21 @@ Searusdots:
 Seion:
   class: Priest
   lottery-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Blessed Band of Karabor
+  - Blessed Band of Karabor
+  - Book of Highborne Hymns
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Cowl of Lights Purity
+  - Handguards of the Dawn
   - Memento of Tyrande
+  - Pantaloons of Calming Strife
+  - Robes of Faltered Light
+  - Shawl of Wonderment
   priority-lootconfig:
   - Crystal Spire of Karabor
+  - Hammer of Sanctification
   rank: Core Raider
   t4-lottery-dkp: 2854.4
   t4-priority-dkp: 2969.8
