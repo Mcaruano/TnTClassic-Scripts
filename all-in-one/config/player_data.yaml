@@ -542,8 +542,13 @@ Nekryss:
   t6pt5-priority-dkp: 0.0
 Rayapaladin:
   class: Paladin
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Shroud of the Highborne
+  priority-lootconfig:
+  - Memento of Tyrande
   rank: Core Raider
   t4-lottery-dkp: 3551.87
   t4-priority-dkp: 3563.06
