@@ -461,6 +461,7 @@ Loopfish:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
+  - Bracers of the Forgotten Conqueror
   - 'Design: Pendant of Sunfire'
   - Girdle of Mighty Resolve
   - Helm of Burning Righteousness
@@ -470,7 +471,6 @@ Malchazor:
   - Sword Breaker's Bulwark
   priority-lootconfig:
   - Belt of the Forgotten Conqueror
-  - Bracers of the Forgotten Conqueror
   - Tempest of Chaos
   rank: Core Raider
   t4-lottery-dkp: 2909.41
