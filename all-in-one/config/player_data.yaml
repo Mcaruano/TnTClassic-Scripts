@@ -495,8 +495,16 @@ Metasyn:
 Murduc:
   class: Warlock
   lottery-lootconfig:
+  - 'Pattern: Sunfire Robe'
+  - Leggings of Calamity
   - Ring of Ancient Knowledge
+  - Ring of Omnipotence
+  - Shifting Naaru Sliver
+  - Wand of the Demonsoul
   priority-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
   - The Skull of Gul'dan
   rank: Core Raider
   t4-lottery-dkp: 3492.82
