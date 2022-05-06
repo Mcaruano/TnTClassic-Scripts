@@ -47,7 +47,7 @@ Akaran:
   t4-priority-dkp: 3565.08
   t5-lottery-dkp: 227.09
   t5-priority-dkp: 2207.89
-  t6-lottery-dkp: -9707.0
+  t6-lottery-dkp: -12707.0
   t6-priority-dkp: 9108.77
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
@@ -800,8 +800,8 @@ Vermora:
   class: Rogue
   lottery-lootconfig:
   - Belt of the Forgotten Vanquisher
-  - Boots of the Forgotten Vanquisher
   - Blackened Naaru Sliver
+  - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
   - Cloak of Unforgivable Sin
   - Duplicitous Guise
