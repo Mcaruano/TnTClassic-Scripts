@@ -6,7 +6,6 @@ Abjection:
   - Boneweave Girdle
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
-  - Chestguard of the Forgotten Protector
   - Choker of Endless Nightmares
   - Cloak of Unforgivable Sin
   - Shadowmoon Destroyer's Drape
@@ -15,6 +14,7 @@ Abjection:
   - Shivering Felspine
   - Stormrage Signet Ring
   priority-lootconfig:
+  - Chestguard of the Forgotten Protector
   - Thalassian Wildercloak
   rank: Core Raider
   t4-lottery-dkp: 3560.87
