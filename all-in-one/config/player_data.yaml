@@ -799,7 +799,10 @@ Venatir:
 Vermora:
   class: Rogue
   lottery-lootconfig:
+  - Belt of the Forgotten Vanquisher
+  - Boots of the Forgotten Vanquisher
   - Blackened Naaru Sliver
+  - Bracers of the Forgotten Vanquisher
   - Cloak of Unforgivable Sin
   - Duplicitous Guise
   - Golden Bow of Quel'Thalas
