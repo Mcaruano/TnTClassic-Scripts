@@ -364,8 +364,16 @@ Jaamii:
   t6pt5-priority-dkp: 0.0
 Justin:
   class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Fel Conquerer Raiments
+  - Heart of the Pit
+  - Leggings of Calamity
+  - Ring of Omnipotence
+  priority-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Shifting Naaru Sliver
   rank: Not Set
   t4-lottery-dkp: 122.88
   t4-priority-dkp: 122.88
