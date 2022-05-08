@@ -105,7 +105,7 @@ Babyshrimp:
 Baopi:
   class: Warrior
   lottery-lootconfig:
-  - Apoloyn, the Soul-Render
+  - Apolyon, the Soul-Render
   - Band of Ruinous Delight
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
@@ -115,7 +115,7 @@ Baopi:
   priority-lootconfig:
   - Belt of the Forgotten Protector
   - Belt of One-Hundred Deaths
-  - Blackened Naaru Silver
+  - Blackened Naaru Sliver
   rank: Core Raider
   t4-lottery-dkp: 3533.57
   t4-priority-dkp: 3565.2
@@ -455,7 +455,7 @@ Lilchub:
   - Heart of the Pit
   - Leggings of Calamity
   - Robes of Faltered Light
-  - Shifting Naaru Silver
+  - Shifting Naaru Sliver
   - Tattered Cape of Antonidas
   - Wand of the Demonsoul
   priority-lootconfig:
@@ -636,9 +636,9 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Black Bow of the Betrayer
-  - Boots of Forgotten Protector
-  - Bracers of Forgotten Protector
-  - Cloak of Unforgiveable Sin
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
+  - Cloak of Unforgivable Sin
   - Clutch of Demise
   - Cursed Vision of Sargeras
   - Golden Bow of Quel'Thalas
@@ -647,8 +647,8 @@ Searious:
   - Shiv of Exsanguination
   - Thalassian Ranger Gauntlets
   priority-lootconfig:
-  - Belt of Forgotten Protector
-  - Blackended Naaru Sliver
+  - Belt of the Forgotten Protector
+  - Blackened Naaru Sliver
   - Coif of Alleria
   - Leggings of the Immortal Night
   - Shadowmaster's Boots
