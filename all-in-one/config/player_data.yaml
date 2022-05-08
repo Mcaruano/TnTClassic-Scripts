@@ -431,8 +431,20 @@ Kinestra:
 Lilchub:
   class: Mage
   lottery-lootconfig:
+  - Amulet of Unfettered Magics
+  - Belt of the Forgotten Vanquisher
+  - Boots of the Forgotten Vanquisher
+  - Bracers of the Forgotten Vanquisher
   - Cuffs of Devastation
-  priority-lootconfig: []
+  - Handguards of the Dawn
+  - Heart of the Pit
+  - Leggings of Calamity
+  - Robes of Faltered Light
+  - Shifting Naaru Silver
+  - Tattered Cape of Antonidas
+  - Wand of the Demonsoul
+  priority-lootconfig:
+  - Sunflare
   rank: Core Raider
   t4-lottery-dkp: 3337.24
   t4-priority-dkp: 3553.36
