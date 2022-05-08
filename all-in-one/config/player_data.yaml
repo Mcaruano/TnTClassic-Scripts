@@ -629,8 +629,21 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Black Bow of the Betrayer
+  - Boots of Forgotten Protector
+  - Bracers of Forgotten Protector
+  - Cloak of Unforgiveable Sin
+  - Clutch of Demise
   - Cursed Vision of Sargeras
+  - Golden Bow of Quel'Thalas
+  - Harness of Carnal Instinct
+  - Shiv of Exsanguination
+  - Shiv of Exsanguination
+  - Thalassian Ranger Gauntlets
   priority-lootconfig:
+  - Belt of Forgotten Protector
+  - Blackended Naaru Sliver
+  - Coif of Alleria
+  - Leggings of the Immortal Night
   - Shadowmaster's Boots
   rank: Reserve Raider
   t4-lottery-dkp: 3386.42
