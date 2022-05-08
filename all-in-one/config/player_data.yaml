@@ -105,10 +105,17 @@ Babyshrimp:
 Baopi:
   class: Warrior
   lottery-lootconfig:
+  - Apoloyn, the Soul-Render
+  - Band of Ruinous Delight
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
+  - Cloak of Unforgivable Sin
   - Dragonspine Trophy
   - Dreadboots of the Legion
   priority-lootconfig:
+  - Belt of the Forgotten Protector
   - Belt of One-Hundred Deaths
+  - Blackened Naaru Silver
   rank: Core Raider
   t4-lottery-dkp: 3533.57
   t4-priority-dkp: 3565.2
