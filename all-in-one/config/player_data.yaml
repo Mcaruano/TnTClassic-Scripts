@@ -371,16 +371,8 @@ Jaamii:
   t6pt5-priority-dkp: 0.0
 Justin:
   class: Not Set
-  lottery-lootconfig:
-  - Fel Conquerer Raiments
-  - Heart of the Pit
-  - Leggings of Calamity
-  - Ring of Omnipotence
-  priority-lootconfig:
-  - Belt of the Forgotten Conqueror
-  - Boots of the Forgotten Conqueror
-  - Bracers of the Forgotten Conqueror
-  - Shifting Naaru Sliver
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Not Set
   t4-lottery-dkp: 104.45
   t4-priority-dkp: 104.45
@@ -393,9 +385,17 @@ Justin:
 Justinjr:
   class: Warlock
   lottery-lootconfig:
+  - Fel Conquerer Raiments
+  - Heart of the Pit
+  - Leggings of Calamity
+  - Ring of Omnipotence
   - The Nexus Key
   priority-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
   - Fang of the Leviathan
+  - Shifting Naaru Sliver
   - Tempest of Chaos
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
