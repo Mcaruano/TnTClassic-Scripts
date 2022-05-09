@@ -741,11 +741,23 @@ Sekkondary:
 Shnacks:
   class: Druid
   lottery-lootconfig:
+  - Amulet of Unfettered Magics
   - Anetheron's Noose
+  - 'Pattern: Sunfire Robe'
+  - Belt of the Forgotten Vanquisher
+  - Boots of the Forgotten Vanquisher
+  - Bracers of the Forgotten Vanquisher
+  - Dark Conjuror's Collar
+  - Handguards of Defiled Worlds
+  - Leggings of Calamity
   - Ring of Ancient Knowledge
   - Ring of Ancient Knowledge
+  - Ring of Omnipotence
+  - Sunflare
+  - Tattered Cape of Antonidas
   - Vestments of the Sea-Witch
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Shifting Naaru Sliver
   rank: Core Raider
   t4-lottery-dkp: 3001.27
   t4-priority-dkp: 2960.68
