@@ -411,8 +411,12 @@ Kangdude:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Belt of the Forgotten Protector
+  - Bracers of the Forgotten Protector
+  - 'Plans: Hard Khorium Battleplate'
   - Stormrage Signet Ring
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Boots of the Forgotten Protector
   rank: Core Raider
   t4-lottery-dkp: 2969.82
   t4-priority-dkp: 2951.72
