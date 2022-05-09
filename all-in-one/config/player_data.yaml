@@ -353,11 +353,15 @@ Hyolin:
 Jaamii:
   class: Shaman
   lottery-lootconfig:
+  - Belt of the Forgotten Protector
   - Bow-stitched Leggings
+  - Leggings of the Immortal Night
   - Madness of the Betrayer
   - Siphon of the Nathrezim
   - Siphon of the Nathrezim
   priority-lootconfig:
+  - Blackened Naaru Sliver
+  - Clutch of Demise
   - Dragonspine Trophy
   - Stormrage Signet Ring
   rank: Core Raider
