@@ -841,9 +841,18 @@ Thorinix:
 Velyri:
   class: Shaman
   lottery-lootconfig:
+  - Band of Lucent Beams
+  - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
   - Botanist's Gloves of Growth
+  - Bracers of the Forgotten Protector
+  - Chain Links of the Tumultuous Storm
+  - Cowl of Gul'dan
+  - Gauntlets of the Ancient Shadowmoon
   - Shroud of the Highborne
-  priority-lootconfig: []
+  - Sunglow Vest
+  priority-lootconfig:
+  - Hammer of Sanctification
   rank: Core Raider
   t4-lottery-dkp: 2944.5
   t4-priority-dkp: 2972.51
