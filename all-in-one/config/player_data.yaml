@@ -549,6 +549,12 @@ Murduc:
 Nashborne:
   class: Warrior
   lottery-lootconfig:
+  - Blackened Naaru Sliver
+  - Boots of the Forgotten Protector
+  - Bracers of the Forgotten Protector
+  - Cloak of Unforgivable Sin 
+  - Crown of Anasterian
+  - Golden Bow of Quel'Thalas
   - Grips of Silent Justice
   - Helm of the Forgotten Protector
   - Serpent Spine Longbow
@@ -556,7 +562,10 @@ Nashborne:
   - Stormrage Signet Ring
   - Tsunami Talisman
   priority-lootconfig:
+  - Band of Ruinous Delight
   - Belt of One-Hundred Deaths
+  - Belt of the Forgotten Protector
+  - Muramasa
   rank: Core Raider
   t4-lottery-dkp: 2799.55
   t4-priority-dkp: 2069.99
