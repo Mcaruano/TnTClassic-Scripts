@@ -522,7 +522,15 @@ Malchazor:
 Metasyn:
   class: Druid
   lottery-lootconfig:
+  - Band of Lucent Beams
   - Blessed Band of Karabor
+  - Book of Highborne Hymns
+  - Boots of the Forgotten Vanquisher
+  - Breeches of Natural Aggression
+  - Brooch of the Highborne
+  - Glimmering Naaru Sliver
+  - Leather Gauntlets of the Sun
+  - Shawl of Wonderment
   priority-lootconfig: []
   rank: Reserve Raider
   t4-lottery-dkp: 1696.71
