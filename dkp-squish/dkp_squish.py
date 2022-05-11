@@ -22,7 +22,7 @@ PRIORITY_DKP_TARGET = 5000
 LOTTERY_DKP_TARGET = 5000
 
 PREVIOUS_RAID_TIER = "T6"
-NEXT_RAID_TIER = "T6.5"
+NEXT_RAID_TIER = "T6PT5"
 
 """
 Parses a LUA file into a python dictionary. The Dictionary structure is as follows:
@@ -182,16 +182,14 @@ def print_dkp_to_file_as_lua_table(outputFile, dkpDict):
 def print_new_dkp_values_to_yaml_format(mergedDataDict, outputFile):
     previousPriorityTableKey = '{}_PRIORITY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
     previousLotteryTableKey = '{}_LOTTERY_DKP_TABLE'.format(PREVIOUS_RAID_TIER)
-    upcomingRaidTierPriorityYamlKey = "{}-priority-dkp".format(NEXT_RAID_TIER.lower())
     upcomingRaidTierLotteryYamlKey = "{}-lottery-dkp".format(NEXT_RAID_TIER.lower())
-
+    upcomingRaidTierPriorityYamlKey = "{}-priority-dkp".format(NEXT_RAID_TIER.lower())
 
     with open(outputFilePath, "w") as outputFile:
         for player in sorted(mergedDataDict[previousPriorityTableKey]):
             outputFile.write('{}:\n'.format(player))
-            outputFile.write('  {}: {}\n'.format(upcomingRaidTierPriorityYamlKey, mergedDataDict[previousPriorityTableKey][player]))
             outputFile.write('  {}: {}\n'.format(upcomingRaidTierLotteryYamlKey, mergedDataDict[previousLotteryTableKey][player]))
-
+            outputFile.write('  {}: {}\n'.format(upcomingRaidTierPriorityYamlKey, mergedDataDict[previousPriorityTableKey][player]))
 
 
 if __name__ == "__main__":
