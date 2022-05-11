@@ -656,21 +656,21 @@ Salchant:
 Searious:
   class: Hunter
   lottery-lootconfig:
+  - Belt of the Forgotten Protector
   - Black Bow of the Betrayer
+  - Blackened Naaru Sliver
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Cloak of Unforgivable Sin
   - Clutch of Demise
   - Cursed Vision of Sargeras
-  - Golden Bow of Quel'Thalas
-  - Harness of Carnal Instinct
   - Shiv of Exsanguination
   - Shiv of Exsanguination
   - Thalassian Ranger Gauntlets
   priority-lootconfig:
-  - Belt of the Forgotten Protector
-  - Blackened Naaru Sliver
   - Coif of Alleria
+  - Golden Bow of Quel'Thalas
+  - Harness of Carnal Instinct
   - Leggings of the Immortal Night
   - Shadowmaster's Boots
   rank: Reserve Raider
