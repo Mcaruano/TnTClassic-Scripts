@@ -4,7 +4,6 @@ Abjection:
   - Band of Ruinous Delight
   - Belt of the Forgotten Protector
   - Blackened Naaru Sliver
-  - Bladed Chaos Tunic
   - Boneweave Girdle
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
@@ -19,6 +18,7 @@ Abjection:
   - Stormrage Signet Ring
   - Thalassian Ranger Gauntlets
   priority-lootconfig:
+  - Bladed Chaos Tunic
   - Chestguard of the Forgotten Protector
   - Leggings of the Immortal Night
   - Thalassian Wildercloak
