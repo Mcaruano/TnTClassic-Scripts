@@ -20,7 +20,7 @@ Abjection:
   - Thalassian Ranger Gauntlets
   priority-lootconfig:
   - Chestguard of the Forgotten Protector
-  - Leggings of Immortal Night
+  - Leggings of the Immortal Night
   - Thalassian Wildercloak
   rank: Core Raider
   t4-lottery-dkp: 3026.74
@@ -361,7 +361,7 @@ Jaamii:
   - Bow-stitched Leggings
   - Leggings of the Immortal Night
   - Madness of the Betrayer
-  - Shoulders of the Forgotten Protector
+  - Pauldrons of the Forgotten Protector
   - Siphon of the Nathrezim
   - Siphon of the Nathrezim
   priority-lootconfig:
@@ -823,7 +823,7 @@ Spookyremi:
   - Tempest of Chaos
   - Wand of the Demonsoul
   priority-lootconfig:
-  - Shifting Naaru Silver
+  - Shifting Naaru Sliver
   - Sunflare
   - Wand of the Forgotten Star
   - Zhar'doom, Greatstaff of the Devourer
