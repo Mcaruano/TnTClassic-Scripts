@@ -800,9 +800,24 @@ Solljus:
 Spookyremi:
   class: Warlock
   lottery-lootconfig:
+  - Amice of the Convoker
+  - Amulet of Unfettered Magics
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
+  - Bracers of the Forgotten Conqueror
+  - Dark Conjuror's Collar
+  - Handguards of Defiled Worlds
+  - Heart of the Pit
+  - Leggings of Calamity
+  - 'Pattern: Sunfire Robe'
   - Ring of Ancient Knowledge
+  - Ring of Omnipotence
+  - Tattered Cape of Antonidas
   - Tempest of Chaos
+  - Wand of the Demonsoul
   priority-lootconfig:
+  - Shifting Naaru Silver
+  - Sunflare
   - Wand of the Forgotten Star
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
