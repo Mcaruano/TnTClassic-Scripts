@@ -1,20 +1,26 @@
 Abjection:
   class: Hunter
   lottery-lootconfig:
+  - Band of Ruinous Delight
   - Belt of the Forgotten Protector
   - Blackened Naaru Sliver
+  - Bladed Chaos Tunic
   - Boneweave Girdle
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Choker of Endless Nightmares
   - Cloak of Unforgivable Sin
+  - Clutch of Demise
+  - Coif of Alleria
+  - Crux of the Apocalypse
+  - Hand of the Deceiver
   - Shadowmoon Destroyer's Drape
-  - Shiv of Exsanguination
-  - Shiv of Exsanguination
   - Shivering Felspine
   - Stormrage Signet Ring
+  - Thalassian Ranger Gauntlets
   priority-lootconfig:
   - Chestguard of the Forgotten Protector
+  - Leggings of Immortal Night
   - Thalassian Wildercloak
   rank: Core Raider
   t4-lottery-dkp: 3026.74
