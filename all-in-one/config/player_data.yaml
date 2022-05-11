@@ -919,17 +919,16 @@ Vermora:
   - Blackened Naaru Sliver
   - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
-  - Cloak of Unforgivable Sin
   - Duplicitous Guise
   - Golden Bow of Quel'Thalas
-  - Hand of the Deceiver
-  - Harness of Carnal Instinct
-  - Leggings of the Immortal Night
   - Murumasa
   - Shadowmoon Destroyer's Drape
   priority-lootconfig:
-  - Belt of One-Hundred Deaths
   - Blade of Savagery
+  - Cloak of Unforgivable Sin
+  - Hand of the Deceiver
+  - Harness of Carnal Instinct
+  - Leggings of the Immortal Night
   rank: Core Raider
   t4-lottery-dkp: 2310.67
   t4-priority-dkp: 2547.93
