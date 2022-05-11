@@ -725,11 +725,11 @@ Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Archon's Gavel
-  - Belt of the Forgotten Protector
-  - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - 'Pattern: Sun-Drenched Scale Chestguard'
   priority-lootconfig:
+  - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
   - Chestguard of the Forgotten Protector
   - Crystal Spire of Karabor
   rank: Core Raider
