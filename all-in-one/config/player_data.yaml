@@ -843,16 +843,17 @@ Spookyremi:
 Sylador:
   class: Druid
   lottery-lootconfig:
+  - Archon's Gavel
+  - Band of Lucent Beams    
   - Blessed Band of Karabor
   - Blessed Band of Karabor
   - Book of Highborne Hymns
-  - Breeches of Natural Aggression
   - Cover of Ursol the Wise
   - Crystal Spire of Karabor
   - Memento of Tyrande
   - Spaulders of Reclamation
-  - Tranquil Majesty Wraps
   priority-lootconfig:
+  - Golden Staff of the Sin'dorei
   - Hammer of Sanctification
   rank: Core Raider
   t4-lottery-dkp: 2570.03
