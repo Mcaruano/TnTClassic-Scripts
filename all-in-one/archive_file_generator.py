@@ -160,6 +160,7 @@ def generate_archive_file_name(addonDataDict):
     TK_BOSSES = ["Al'ar", "Reaver", "Solarian", "Sunstrider"]
     HYJAL_BOSSES = ["Winterchill", "Anetheron", "Kaz'rogal", "Azgalor", "Archimonde"]
     BT_BOSSES = ["Naj'entus", "Supremus", "Akama", "Gorefiend", "Bloodboil", "Anger", "Shahraz", "Shatterer", "Stormrage"]
+    SUNWELL_BOSSES = ["Corruptor"]
 
     transactionsTables = [
         'T4_PRIORITY_TRANSACTIONS', 'T4_LOTTERY_TRANSACTIONS', 'T4_OPEN_TRANSACTIONS', 
@@ -202,6 +203,8 @@ def generate_archive_file_name(addonDataDict):
                     raidsPresentInTransactions.add('Hyjal')
                 elif bossName in BT_BOSSES:
                     raidsPresentInTransactions.add('BT')
+                elif bossName in SUNWELL_BOSSES:
+                    raidsPresentInTransactions.add('SWP')
 
     # Convert mostRecentTransactionTimestamp to proper string format: "2020_02_04"
     filenameDateSegment = mostRecentTransactionTimestamp.strftime("%Y_%m_%d")
@@ -224,6 +227,8 @@ def generate_archive_file_name(addonDataDict):
             raidTiersInOrder.append('Hyjal')
         if 'BT' in raidsPresentInTransactions:
             raidTiersInOrder.append('BT')
+        if 'SWP' in raidsPresentInTransactions:
+            raidTiersInOrder.append('SWP')
         filenameContentSegment = '+'.join(raidTiersInOrder)
 
     # Take the previous two values and produce the archive file name
