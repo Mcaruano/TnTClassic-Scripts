@@ -532,12 +532,15 @@ Metasyn:
   lottery-lootconfig:
   - Band of Lucent Beams
   - Blessed Band of Karabor
-  - Book of Highborne Hymns
   - Breeches of Natural Aggression
   - Brooch of the Highborne
+  - Cowl of Light's Purity
   - Glimmering Naaru Sliver
+  - 'Pattern: Robe of Eternal Light'
   - Shawl of Wonderment
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Book of Highborne Hymns
+  - Hammer of Sanctification
   rank: Reserve Raider
   t4-lottery-dkp: 1442.2
   t4-priority-dkp: 1442.2
