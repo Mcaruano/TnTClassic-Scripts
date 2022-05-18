@@ -347,15 +347,21 @@ Hipon:
 Hyolin:
   class: Priest
   lottery-lootconfig:
-  - Belt of the Forgotten Conqueror
   - Blessed Band of Karabor
   - Blessed Band of Karabor
-  - Boots of the Forgotten Conqueror
   - Bracers of the Forgotten Conqueror
-  - Golden Staff of the Sin'dorei
+  - Cowl of Light's Purity
+  - Handguards of the Dawn
+  - Pantaloons of Calming Strife
+  - Robes of Faltered Light
+  - Shawl of Wonderment
   - Shroud of the Highborne
+  - Wand of Cleansing Light
   priority-lootconfig:
+  - Belt of the Forgotten Conqueror
+  - Boots of the Forgotten Conqueror
   - Crystal Spire of Karabor
+  - Golden Staff of the Sin'dorei
   rank: Core Raider
   t4-lottery-dkp: 2188.77
   t4-priority-dkp: 2186.67
