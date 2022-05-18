@@ -29,8 +29,8 @@ Abjection:
   t5-priority-dkp: 1119.76
   t6-lottery-dkp: 2087.11
   t6-priority-dkp: 5972.73
-  t6pt5-lottery-dkp: 3139.31
-  t6pt5-priority-dkp: 5134.41
+  t6pt5-lottery-dkp: 5494.31
+  t6pt5-priority-dkp: 7489.41
 Akaran:
   class: Warrior
   lottery-lootconfig:
@@ -54,8 +54,8 @@ Akaran:
   t5-priority-dkp: 1355.92
   t6-lottery-dkp: -10942.0
   t6-priority-dkp: 6869.13
-  t6pt5-lottery-dkp: -8587.0
-  t6pt5-priority-dkp: 2204.8
+  t6pt5-lottery-dkp: -6232.0
+  t6pt5-priority-dkp: 4559.8
 Albynonurse:
   class: Not Set
   lottery-lootconfig: []
@@ -92,8 +92,8 @@ Ashori:
   t5-priority-dkp: 1447.82
   t6-lottery-dkp: 6433.55
   t6-priority-dkp: 7840.19
-  t6pt5-lottery-dkp: 5508.51
-  t6pt5-priority-dkp: 6113.97
+  t6pt5-lottery-dkp: 7863.51
+  t6pt5-priority-dkp: 8468.970000000001
 Babyshrimp:
   class: Not Set
   lottery-lootconfig: []
@@ -111,7 +111,6 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Apolyon, the Soul-Render
-  - Band of Ruinous Delight
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Cloak of Unforgivable Sin
@@ -130,8 +129,8 @@ Baopi:
   t5-priority-dkp: 1463.16
   t6-lottery-dkp: 7058.03
   t6-priority-dkp: 7347.0
-  t6pt5-lottery-dkp: 5849.09
-  t6pt5-priority-dkp: 5855.38
+  t6pt5-lottery-dkp: 4204.09
+  t6pt5-priority-dkp: 8210.380000000001
 Barnabae:
   class: Shaman
   lottery-lootconfig:
@@ -182,8 +181,8 @@ Chuunin:
   t5-priority-dkp: 1196.51
   t6-lottery-dkp: 7057.61
   t6-priority-dkp: 6389.64
-  t6pt5-lottery-dkp: 5849.09
-  t6pt5-priority-dkp: 5353.33
+  t6pt5-lottery-dkp: 8204.09
+  t6pt5-priority-dkp: 7708.33
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
@@ -191,7 +190,6 @@ Crazydaisy:
   - Belt of the Forgotten Protector
   - Blackened Naaru Sliver
   - Boots of the Forgotten Protector
-  - Bracers of the Forgotten Protector
   - Cloak of Unforgivable Sin
   - Coif of Alleria
   - Hand of the Deceiver
@@ -207,8 +205,8 @@ Crazydaisy:
   t5-priority-dkp: 1461.5
   t6-lottery-dkp: 5676.17
   t6-priority-dkp: 6321.36
-  t6pt5-lottery-dkp: 5095.65
-  t6pt5-priority-dkp: 5317.22
+  t6pt5-lottery-dkp: 3450.65
+  t6pt5-priority-dkp: 7672.22
 Dalran:
   class: Warrior
   lottery-lootconfig: []
@@ -256,8 +254,8 @@ Demeker:
   t5-priority-dkp: 1288.68
   t6-lottery-dkp: 3467.52
   t6-priority-dkp: 8010.61
-  t6pt5-lottery-dkp: 3891.83
-  t6pt5-priority-dkp: 6203.6
+  t6pt5-lottery-dkp: 6246.83
+  t6pt5-priority-dkp: 8558.6
 Despia:
   class: Not Set
   lottery-lootconfig: []
@@ -274,8 +272,6 @@ Despia:
 Digitalz:
   class: Rogue
   lottery-lootconfig:
-  - Belt of the Forgotten Vanquisher
-  - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
   - Cloak of Unforgivable Sin
   - 'Design: Hard Khorium Choker'
@@ -290,8 +286,8 @@ Digitalz:
   t5-priority-dkp: 1164.64
   t6-lottery-dkp: 6722.84
   t6-priority-dkp: 7889.1
-  t6pt5-lottery-dkp: 5666.52
-  t6pt5-priority-dkp: 6139.84
+  t6pt5-lottery-dkp: 21.52
+  t6pt5-priority-dkp: 8494.84
 Ellievyra:
   class: Priest
   lottery-lootconfig:
@@ -305,7 +301,6 @@ Ellievyra:
   - Pantaloons of Growing Strife
   - Ring of Ancient Knowledge
   - Ring of Omnipotence
-  - Wand of the Demonsoul
   priority-lootconfig:
   - Shifting Naaru Sliver
   - Zhar'doom, Greatstaff of the Devourer
@@ -316,8 +311,8 @@ Ellievyra:
   t5-priority-dkp: 1449.9
   t6-lottery-dkp: 4134.5
   t6-priority-dkp: 8090.98
-  t6pt5-lottery-dkp: 4255.57
-  t6pt5-priority-dkp: 6245.51
+  t6pt5-lottery-dkp: 2610.57
+  t6pt5-priority-dkp: 8600.51
 Goodjorb:
   class: Not Set
   lottery-lootconfig: []
@@ -359,7 +354,6 @@ Hyolin:
   - Wand of Cleansing Light
   priority-lootconfig:
   - Belt of the Forgotten Conqueror
-  - Boots of the Forgotten Conqueror
   - Crystal Spire of Karabor
   - Golden Staff of the Sin'dorei
   rank: Core Raider
@@ -369,8 +363,8 @@ Hyolin:
   t5-priority-dkp: 1292.85
   t6-lottery-dkp: 4499.84
   t6-priority-dkp: 7293.65
-  t6pt5-lottery-dkp: 4454.35
-  t6pt5-priority-dkp: 5827.29
+  t6pt5-lottery-dkp: 6809.35
+  t6pt5-priority-dkp: 4182.29
 Jaamii:
   class: Shaman
   lottery-lootconfig:
@@ -394,8 +388,8 @@ Jaamii:
   t5-priority-dkp: 1360.82
   t6-lottery-dkp: 4970.13
   t6-priority-dkp: 7360.8
-  t6pt5-lottery-dkp: 4711.06
-  t6pt5-priority-dkp: 5862.51
+  t6pt5-lottery-dkp: 7066.06
+  t6pt5-priority-dkp: 8217.51
 Justin:
   class: Not Set
   lottery-lootconfig: []
@@ -420,7 +414,6 @@ Justinjr:
   priority-lootconfig:
   - Belt of the Forgotten Conqueror
   - Boots of the Forgotten Conqueror
-  - Bracers of the Forgotten Conqueror
   - Fang of the Leviathan
   - Shifting Naaru Sliver
   - Zhar'doom, Greatstaff of the Devourer
@@ -431,8 +424,8 @@ Justinjr:
   t5-priority-dkp: 1390.43
   t6-lottery-dkp: 4616.98
   t6-priority-dkp: 4844.58
-  t6pt5-lottery-dkp: 4518.29
-  t6pt5-priority-dkp: 4542.74
+  t6pt5-lottery-dkp: 6873.29
+  t6pt5-priority-dkp: 2897.74
 Kangdude:
   class: Warrior
   lottery-lootconfig:
@@ -440,7 +433,6 @@ Kangdude:
   - Belt of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Felfury Legplates
-  - 'Plans: Hard Khorium Battleplate'
   - Stormrage Signet Ring
   priority-lootconfig:
   - Boots of the Forgotten Protector
@@ -451,8 +443,8 @@ Kangdude:
   t5-priority-dkp: 1320.56
   t6-lottery-dkp: 7759.05
   t6-priority-dkp: 6780.01
-  t6pt5-lottery-dkp: 6231.36
-  t6pt5-priority-dkp: 5557.98
+  t6pt5-lottery-dkp: 4586.360000000001
+  t6pt5-priority-dkp: 7912.98
 Kinestra:
   class: Shaman
   lottery-lootconfig:
@@ -472,12 +464,11 @@ Kinestra:
   t5-priority-dkp: 1020.12
   t6-lottery-dkp: 7045.17
   t6-priority-dkp: 6950.08
-  t6pt5-lottery-dkp: 5842.14
-  t6pt5-priority-dkp: 5647.15
+  t6pt5-lottery-dkp: 8197.14
+  t6pt5-priority-dkp: 8002.15
 Lilchub:
   class: Mage
   lottery-lootconfig:
-  - Amulet of Unfettered Magics
   - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
   - Cuffs of Devastation
@@ -497,8 +488,8 @@ Lilchub:
   t5-priority-dkp: 1130.66
   t6-lottery-dkp: 2427.25
   t6-priority-dkp: 7325.35
-  t6pt5-lottery-dkp: -88.63
-  t6pt5-priority-dkp: 5844.23
+  t6pt5-lottery-dkp: -1733.63
+  t6pt5-priority-dkp: 8199.23
 Loopfish:
   class: Not Set
   lottery-lootconfig: []
@@ -533,15 +524,14 @@ Malchazor:
   t5-priority-dkp: 1344.35
   t6-lottery-dkp: 4382.46
   t6-priority-dkp: 6637.93
-  t6pt5-lottery-dkp: 4390.4
-  t6pt5-priority-dkp: 5483.52
+  t6pt5-lottery-dkp: 6745.4
+  t6pt5-priority-dkp: 7838.52
 Metasyn:
   class: Druid
   lottery-lootconfig:
   - Band of Lucent Beams
   - Blessed Band of Karabor
   - Breeches of Natural Aggression
-  - Brooch of the Highborne
   - Cowl of Light's Purity
   - Glimmering Naaru Sliver
   - 'Pattern: Robe of Eternal Light'
@@ -556,8 +546,8 @@ Metasyn:
   t5-priority-dkp: 819.94
   t6-lottery-dkp: 1846.57
   t6-priority-dkp: 3688.95
-  t6pt5-lottery-dkp: 3008.18
-  t6pt5-priority-dkp: 3936.37
+  t6pt5-lottery-dkp: 1363.18
+  t6pt5-priority-dkp: 6291.37
 Murduc:
   class: Warlock
   lottery-lootconfig:
@@ -578,8 +568,8 @@ Murduc:
   t5-priority-dkp: 1189.42
   t6-lottery-dkp: 5297.11
   t6-priority-dkp: 7448.33
-  t6pt5-lottery-dkp: 4888.99
-  t6pt5-priority-dkp: 2508.43
+  t6pt5-lottery-dkp: 7243.99
+  t6pt5-priority-dkp: 4863.43
 Nashborne:
   class: Warrior
   lottery-lootconfig:
@@ -605,8 +595,8 @@ Nashborne:
   t5-priority-dkp: 1075.1
   t6-lottery-dkp: 2518.58
   t6-priority-dkp: 7546.76
-  t6pt5-lottery-dkp: 3374.7
-  t6pt5-priority-dkp: 2560.16
+  t6pt5-lottery-dkp: 5729.7
+  t6pt5-priority-dkp: 4915.16
 Nekryss:
   class: Not Set
   lottery-lootconfig: []
@@ -635,8 +625,8 @@ Rayapaladin:
   t5-priority-dkp: 1382.31
   t6-lottery-dkp: 5666.6
   t6-priority-dkp: 5897.02
-  t6pt5-lottery-dkp: 5090.56
-  t6pt5-priority-dkp: 5094.73
+  t6pt5-lottery-dkp: 7445.56
+  t6pt5-priority-dkp: 7449.73
 Reminosc:
   class: Not Set
   lottery-lootconfig: []
@@ -703,8 +693,8 @@ Searious:
   t5-priority-dkp: 1287.38
   t6-lottery-dkp: 6172.21
   t6-priority-dkp: 5877.59
-  t6pt5-lottery-dkp: 5366.25
-  t6pt5-priority-dkp: 5084.47
+  t6pt5-lottery-dkp: 7721.25
+  t6pt5-priority-dkp: 7439.47
 Searusdots:
   class: Not Set
   lottery-lootconfig: []
@@ -743,17 +733,15 @@ Seion:
   t5-priority-dkp: 1441.35
   t6-lottery-dkp: 5511.96
   t6-priority-dkp: 8102.33
-  t6pt5-lottery-dkp: 5006.22
-  t6pt5-priority-dkp: 6251.75
+  t6pt5-lottery-dkp: 7361.22
+  t6pt5-priority-dkp: 8606.75
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
   - Archon's Gavel
   - Bracers of the Forgotten Protector
-  - 'Pattern: Sun-Drenched Scale Chestguard'
   priority-lootconfig:
   - Belt of the Forgotten Protector
-  - Boots of the Forgotten Protector
   - Chestguard of the Forgotten Protector
   - Crystal Spire of Karabor
   rank: Core Raider
@@ -763,15 +751,13 @@ Sekkondary:
   t5-priority-dkp: 1320.08
   t6-lottery-dkp: 6338.65
   t6-priority-dkp: 6040.85
-  t6pt5-lottery-dkp: 5457.08
-  t6pt5-priority-dkp: 5170.07
+  t6pt5-lottery-dkp: 3812.08
+  t6pt5-priority-dkp: 3525.07
 Shnacks:
   class: Druid
   lottery-lootconfig:
   - Amulet of Unfettered Magics
   - Anetheron's Noose
-  - Belt of the Forgotten Vanquisher
-  - Boots of the Forgotten Vanquisher
   - Dark Conjuror's Collar
   - Handguards of Defiled Worlds
   - 'Pattern: Sunfire Robe'
@@ -790,8 +776,8 @@ Shnacks:
   t5-priority-dkp: 1449.9
   t6-lottery-dkp: 6365.25
   t6-priority-dkp: 6986.75
-  t6pt5-lottery-dkp: -1563.01
-  t6pt5-priority-dkp: 5666.33
+  t6pt5-lottery-dkp: -3208.01
+  t6pt5-priority-dkp: 8021.33
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
@@ -852,8 +838,8 @@ Spookyremi:
   t5-priority-dkp: 1056.51
   t6-lottery-dkp: 2266.86
   t6-priority-dkp: 7879.87
-  t6pt5-lottery-dkp: 3237.09
-  t6pt5-priority-dkp: 6134.93
+  t6pt5-lottery-dkp: 5592.09
+  t6pt5-priority-dkp: 8489.93
 Sylador:
   class: Druid
   lottery-lootconfig:
@@ -875,8 +861,8 @@ Sylador:
   t5-priority-dkp: 1388.36
   t6-lottery-dkp: 7796.79
   t6-priority-dkp: 7343.23
-  t6pt5-lottery-dkp: 6251.75
-  t6pt5-priority-dkp: 5853.59
+  t6pt5-lottery-dkp: 8606.75
+  t6pt5-priority-dkp: 8208.59
 Thorinix:
   class: Not Set
   lottery-lootconfig: []
@@ -893,7 +879,6 @@ Thorinix:
 Velyri:
   class: Shaman
   lottery-lootconfig:
-  - Band of Lucent Beams
   - Belt of the Forgotten Protector
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
@@ -910,8 +895,8 @@ Velyri:
   t5-priority-dkp: 1376.52
   t6-lottery-dkp: 1966.93
   t6-priority-dkp: 8061.17
-  t6pt5-lottery-dkp: 3073.98
-  t6pt5-priority-dkp: 6229.9
+  t6pt5-lottery-dkp: 1428.98
+  t6pt5-priority-dkp: 8584.9
 Venatir:
   class: Not Set
   lottery-lootconfig: []
@@ -928,7 +913,6 @@ Venatir:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Belt of the Forgotten Vanquisher
   - Blackened Naaru Sliver
   - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
@@ -949,13 +933,12 @@ Vermora:
   t5-priority-dkp: 1463.23
   t6-lottery-dkp: 6756.9
   t6-priority-dkp: 7422.34
-  t6pt5-lottery-dkp: 5685.06
-  t6pt5-priority-dkp: 5895.06
+  t6pt5-lottery-dkp: 4040.06
+  t6pt5-priority-dkp: 8250.060000000001
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
   - Boots of the Forgotten Vanquisher
-  - Bracers of the Forgotten Vanquisher
   - Collar of the Pit Lord
   - Crimson Paragon's Cover
   - Harness of Carnal Instinct
@@ -974,5 +957,5 @@ Wildshrimp:
   t5-priority-dkp: 1462.99
   t6-lottery-dkp: 3377.5
   t6-priority-dkp: 7921.63
-  t6pt5-lottery-dkp: 442.71
-  t6pt5-priority-dkp: 6156.78
+  t6pt5-lottery-dkp: -1202.29
+  t6pt5-priority-dkp: 8511.779999999999
