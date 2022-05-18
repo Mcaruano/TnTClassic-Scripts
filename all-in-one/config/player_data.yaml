@@ -428,9 +428,11 @@ Kangdude:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
+  - Band of Ruinous Delight
   - Belt of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Felfury Legplates
+  - 'Schematic: Mayhem Projection Goggles'
   - Stormrage Signet Ring
   priority-lootconfig:
   - Boots of the Forgotten Protector
