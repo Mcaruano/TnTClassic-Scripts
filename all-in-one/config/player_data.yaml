@@ -550,11 +550,13 @@ Murduc:
   lottery-lootconfig:
   - Belt of the Forgotten Conqueror
   - Boots of the Forgotten Conqueror
+  - Handguards of Defiled Worlds
   - Ring of Ancient Knowledge
   - Ring of Omnipotence
   - Shifting Naaru Sliver
   - Wand of the Demonsoul
   priority-lootconfig:
+  - Dark Conjuror's Collar
   - Leggings of Calamity
   - 'Pattern: Sunfire Robe'
   - The Skull of Gul'dan
