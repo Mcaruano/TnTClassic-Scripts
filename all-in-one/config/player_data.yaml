@@ -18,7 +18,6 @@ Abjection:
   - Stormrage Signet Ring
   - Thalassian Ranger Gauntlets
   priority-lootconfig:
-  - Bladed Chaos Tunic
   - Chestguard of the Forgotten Protector
   - Leggings of the Immortal Night
   - Thalassian Wildercloak
@@ -30,7 +29,7 @@ Abjection:
   t6-lottery-dkp: 2087.11
   t6-priority-dkp: 5972.73
   t6pt5-lottery-dkp: 5494.31
-  t6pt5-priority-dkp: 7489.41
+  t6pt5-priority-dkp: 3489.41
 Akaran:
   class: Warrior
   lottery-lootconfig:
@@ -187,7 +186,6 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
-  - Band of Ruinous Delight
   - Blackened Naaru Sliver
   - Cloak of Unforgivable Sin
   - Coif of Alleria
@@ -427,8 +425,8 @@ Justinjr:
 Kangdude:
   class: Warrior
   lottery-lootconfig:
-  - Band of the Ranger-General
   - Band of Ruinous Delight
+  - Band of the Ranger-General
   - Belt of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Felfury Legplates
@@ -452,7 +450,6 @@ Kinestra:
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Ring of Ancient Knowledge
-  - Ring of Omnipotence
   - Tattered Cape of Antonidas
   priority-lootconfig:
   - Shifting Naaru Sliver
@@ -464,7 +461,7 @@ Kinestra:
   t5-priority-dkp: 1020.12
   t6-lottery-dkp: 7045.17
   t6-priority-dkp: 6950.08
-  t6pt5-lottery-dkp: 8197.14
+  t6pt5-lottery-dkp: 4197.14
   t6pt5-priority-dkp: 8002.15
 Lilchub:
   class: Mage
