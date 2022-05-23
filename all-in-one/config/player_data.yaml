@@ -425,14 +425,15 @@ Justinjr:
 Kangdude:
   class: Warrior
   lottery-lootconfig:
-  - Band of Ruinous Delight
   - Band of the Ranger-General
   - Belt of the Forgotten Protector
+  - Borderlands Paingrips
   - Bracers of the Forgotten Protector
   - Felfury Legplates
   - 'Schematic: Mayhem Projection Goggles'
   - Stormrage Signet Ring
   priority-lootconfig:
+  - Band of Ruinous Delight
   - Boots of the Forgotten Protector
   rank: Core Raider
   t4-lottery-dkp: 1823.84
