@@ -269,6 +269,7 @@ Despia:
 Digitalz:
   class: Rogue
   lottery-lootconfig:
+  - Bracers of the Forgotten Conqueror
   - Cloak of Unforgivable Sin
   - 'Design: Hard Khorium Choker'
   - Rod of the Sun King
