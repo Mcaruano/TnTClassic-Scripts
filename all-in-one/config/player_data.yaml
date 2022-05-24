@@ -670,7 +670,6 @@ Searious:
   class: Hunter
   lottery-lootconfig:
   - Black Bow of the Betrayer
-  - Blackened Naaru Sliver
   - Boots of the Forgotten Protector
   - Bracers of the Forgotten Protector
   - Cloak of Unforgivable Sin
@@ -683,6 +682,7 @@ Searious:
   - Thalassian Ranger Gauntlets
   priority-lootconfig:
   - Belt of the Forgotten Protector
+  - Blackened Naaru Sliver
   - Coif of Alleria
   - Harness of Carnal Instinct
   - Shadowmaster's Boots
