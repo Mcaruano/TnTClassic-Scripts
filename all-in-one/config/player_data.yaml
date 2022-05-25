@@ -93,7 +93,7 @@ Ashori:
   t6-lottery-dkp: 5468.52
   t6-priority-dkp: 6664.16
   t6pt5-lottery-dkp: 9038.98
-  t6pt5-priority-dkp: 9553.619999999999
+  t6pt5-priority-dkp: 9553.62
 Babyshrimp:
   class: Not Set
   lottery-lootconfig: []
@@ -252,7 +252,7 @@ Demeker:
   t6-lottery-dkp: 2947.39
   t6-priority-dkp: 6809.02
   t6pt5-lottery-dkp: 7664.81
-  t6pt5-priority-dkp: 9629.810000000001
+  t6pt5-priority-dkp: 9629.81
 Despia:
   class: Not Set
   lottery-lootconfig: []
@@ -384,7 +384,7 @@ Jaamii:
   t6-lottery-dkp: 4224.61
   t6-priority-dkp: 6256.68
   t6pt5-lottery-dkp: 8361.15
-  t6pt5-priority-dkp: 9339.880000000001
+  t6pt5-priority-dkp: 9339.88
 Justin:
   class: Not Set
   lottery-lootconfig: []
@@ -680,7 +680,7 @@ Searious:
   t5-priority-dkp: 1094.27
   t6-lottery-dkp: 5246.38
   t6-priority-dkp: 4995.95
-  t6pt5-lottery-dkp: 8918.060000000001
+  t6pt5-lottery-dkp: 8918.06
   t6pt5-priority-dkp: 8678.55
 Searusdots:
   class: Not Set
@@ -763,8 +763,8 @@ Shnacks:
   t5-priority-dkp: 1232.41
   t6-lottery-dkp: 5410.46
   t6-priority-dkp: 5938.74
-  t6pt5-lottery-dkp: -853.0100000000002
-  t6pt5-priority-dkp: 9173.130000000001
+  t6pt5-lottery-dkp: -853.01
+  t6pt5-priority-dkp: 9173.13
 Sizzleñips:
   class: Mage
   lottery-lootconfig:
@@ -826,7 +826,7 @@ Spookyremi:
   t6-lottery-dkp: 1926.83
   t6-priority-dkp: 6697.89
   t6pt5-lottery-dkp: 7108.28
-  t6pt5-priority-dkp: 9571.439999999999
+  t6pt5-priority-dkp: 9571.44
 Sylador:
   class: Druid
   lottery-lootconfig:
