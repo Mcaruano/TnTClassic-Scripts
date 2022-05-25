@@ -499,13 +499,12 @@ Loopfish:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
-  - Bracers of the Forgotten Conqueror
   - 'Design: Pendant of Sunfire'
   - Girdle of Mighty Resolve
   - Helm of Burning Righteousness
   - Legplates of the Holy Juggernaut
-  - Pauldrons of Perseverance
   priority-lootconfig:
+  - Bracers of the Forgotten Conqueror
   - Tempest of Chaos
   rank: Core Raider
   t4-lottery-dkp: 1826.71
