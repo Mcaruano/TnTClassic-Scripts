@@ -36,12 +36,10 @@ Akaran:
   - Borderland Fortress Grips
   - Bulwark of Azzinoth
   - Chestguard of the Forgotten Protector
-  - Collar of the Pit Lord
   - Crimson Paragon's Cover
   - Crown of Anasterian
   - Dragonscale-Encrusted Longblade
   - Felfury Legplates
-  - Ring of Hardened Resolve
   - Steely Naaru Sliver
   - Sword Breaker's Bulwark
   priority-lootconfig:
@@ -924,6 +922,8 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
+  - Collar of the Pit Lord
+  - Ring of Hardened Resolve    
   - Shadowed Gauntlets of Paroxysm
   - Shadowmoon Insignia
   - Stanchion of Primal Instinct
