@@ -924,14 +924,12 @@ Vermora:
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
-  - Collar of the Pit Lord
-  - Harness of Carnal Instinct
-  - Ring of Hardened Resolve
   - Shadowed Gauntlets of Paroxysm
   - Shadowmoon Insignia
   - Stanchion of Primal Instinct
   - Steely Naaru Sliver
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Harness of Carnal Instinct
   rank: Core Raider
   t4-lottery-dkp: 1795.51
   t4-priority-dkp: 1860.99
