@@ -11,7 +11,6 @@ Abjection:
   - Cloak of Unforgivable Sin
   - Clutch of Demise
   - Coif of Alleria
-  - Crux of the Apocalypse
   - Hand of the Deceiver
   - Shadowmoon Destroyer's Drape
   - Shivering Felspine
@@ -28,7 +27,7 @@ Abjection:
   t5-priority-dkp: 951.8
   t6-lottery-dkp: 1774.04
   t6-priority-dkp: 5076.82
-  t6pt5-lottery-dkp: 7025.16
+  t6pt5-lottery-dkp: 3025.16
   t6pt5-priority-dkp: 5321.0
 Akaran:
   class: Warrior
@@ -500,7 +499,6 @@ Malchazor:
   lottery-lootconfig:
   - 'Design: Pendant of Sunfire'
   - Girdle of Mighty Resolve
-  - Helm of Burning Righteousness
   - Legplates of the Holy Juggernaut
   priority-lootconfig:
   - Bracers of the Forgotten Conqueror
@@ -512,7 +510,7 @@ Malchazor:
   t5-priority-dkp: 1142.7
   t6-lottery-dkp: 3725.09
   t6-priority-dkp: 5642.24
-  t6pt5-lottery-dkp: 4088.59
+  t6pt5-lottery-dkp: 88.59
   t6pt5-priority-dkp: 5017.74
 Metasyn:
   class: Druid
@@ -665,7 +663,6 @@ Searious:
   - Leggings of the Immortal Night
   - Shiv of Exsanguination
   - Shiv of Exsanguination
-  - Thalassian Ranger Gauntlets
   priority-lootconfig:
   - Belt of the Forgotten Protector
   - Blackened Naaru Sliver
@@ -679,7 +676,7 @@ Searious:
   t5-priority-dkp: 1094.27
   t6-lottery-dkp: 5246.38
   t6-priority-dkp: 4995.95
-  t6pt5-lottery-dkp: 8918.06
+  t6pt5-lottery-dkp: 4918.06
   t6pt5-priority-dkp: 8678.55
 Searusdots:
   class: Not Set
@@ -710,7 +707,6 @@ Seion:
   - Robes of Faltered Light
   priority-lootconfig:
   - Crystal Spire of Karabor
-  - Hammer of Sanctification
   rank: Core Raider
   t4-lottery-dkp: 1798.0
   t4-priority-dkp: 1858.24
@@ -719,7 +715,7 @@ Seion:
   t6-lottery-dkp: 4685.17
   t6-priority-dkp: 6886.98
   t6pt5-lottery-dkp: 4612.04
-  t6pt5-priority-dkp: 9670.74
+  t6pt5-priority-dkp: 5670.74
 Sekkondary:
   class: Shaman
   lottery-lootconfig:
@@ -923,7 +919,7 @@ Wildshrimp:
   class: Druid
   lottery-lootconfig:
   - Collar of the Pit Lord
-  - Ring of Hardened Resolve    
+  - Ring of Hardened Resolve
   - Shadowed Gauntlets of Paroxysm
   - Shadowmoon Insignia
   - Stanchion of Primal Instinct
