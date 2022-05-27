@@ -286,15 +286,11 @@ Digitalz:
 Ellievyra:
   class: Priest
   lottery-lootconfig:
-  - Amulet of Unfettered Magics
   - Belt of the Forgotten Conqueror
   - Boots of the Forgotten Conqueror
   - Bracers of the Forgotten Conqueror
-  - Handguards of Defiled Worlds
-  - Heart of the Pit
   - Pantaloons of Growing Strife
   - Ring of Ancient Knowledge
-  - Ring of Omnipotence
   priority-lootconfig:
   - Shifting Naaru Sliver
   - Zhar'doom, Greatstaff of the Devourer
