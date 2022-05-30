@@ -187,15 +187,17 @@ Chuunin:
 Crazydaisy:
   class: Shaman
   lottery-lootconfig:
+  - Belt of the Forgotten Protector
   - Blackened Naaru Sliver
+  - Boots of the Forgotten Protector
   - Cloak of Unforgivable Sin
   - Coif of Alleria
   - Hand of the Deceiver
   - Harness of Carnal Instinct
-  - Leggings of the Immortal Night
   - Mantle of the Golden Forest
   - Shadowmoon Destroyer's Drape
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Leggings of the Immortal Night
   rank: Core Raider
   t4-lottery-dkp: 1578.46
   t4-priority-dkp: 1580.45
