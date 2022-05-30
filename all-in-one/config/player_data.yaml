@@ -32,18 +32,22 @@ Abjection:
 Akaran:
   class: Warrior
   lottery-lootconfig:
+  - Blade of Life's Inevitability
+  - Boots of the Forgotten Protector
   - Borderland Fortress Grips
   - Bulwark of Azzinoth
   - Chestguard of the Forgotten Protector
-  - Crimson Paragon's Cover
   - Crown of Anasterian
   - Dragonscale-Encrusted Longblade
-  - Felfury Legplates
+  - Pauldrons of Perseverance
+  - Ring of Hardened Resolve
+  - 'Schematic: Mayhem Projection Goggles'
   - Steely Naaru Sliver
   - Sword Breaker's Bulwark
+  - Warharness of Reckless Fury
   priority-lootconfig:
   - Belt of the Forgotten Protector
-  - Boots of the Forgotten Protector
+  - Felfury Legplates
   rank: Core Raider
   t4-lottery-dkp: 1575.79
   t4-priority-dkp: 1581.84
