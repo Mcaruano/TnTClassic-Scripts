@@ -32,7 +32,6 @@ Abjection:
 Akaran:
   class: Warrior
   lottery-lootconfig:
-  - Boots of the Forgotten Protector
   - Borderland Fortress Grips
   - Bulwark of Azzinoth
   - Chestguard of the Forgotten Protector
@@ -46,6 +45,7 @@ Akaran:
   - Warharness of Reckless Fury
   priority-lootconfig:
   - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
   rank: Core Raider
   t4-lottery-dkp: 1575.79
   t4-priority-dkp: 1581.84
