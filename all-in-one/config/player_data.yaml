@@ -710,9 +710,7 @@ Seion:
   t6pt5-priority-dkp: 7175.13
 Sekkondary:
   class: Shaman
-  lottery-lootconfig:
-  - Archon's Gavel
-  - Brooch of the Highborne
+  lottery-lootconfig: []
   priority-lootconfig:
   - Chestguard of the Forgotten Protector
   - Crystal Spire of Karabor
