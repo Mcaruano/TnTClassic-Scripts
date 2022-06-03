@@ -551,7 +551,6 @@ Murduc:
 Nashborne:
   class: Warrior
   lottery-lootconfig:
-  - Blackened Naaru Sliver
   - Boots of the Forgotten Protector
   - Cloak of Unforgivable Sin
   - Crown of Anasterian
@@ -564,6 +563,7 @@ Nashborne:
   priority-lootconfig:
   - Band of Ruinous Delight
   - Belt of One-Hundred Deaths
+  - Blackened Naaru Sliver
   - Muramasa
   rank: Core Raider
   t4-lottery-dkp: 1461.39
