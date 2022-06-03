@@ -289,13 +289,11 @@ Ellievyra:
   class: Priest
   lottery-lootconfig:
   - Belt of the Forgotten Conqueror
-  - Boots of the Forgotten Conqueror
   - Bracers of the Forgotten Conqueror
   - Pantaloons of Growing Strife
-  - Ring of Ancient Knowledge
   priority-lootconfig:
+  - Boots of the Forgotten Conqueror
   - Shifting Naaru Sliver
-  - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 1534.5
   t4-priority-dkp: 1574.68
