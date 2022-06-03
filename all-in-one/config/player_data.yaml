@@ -809,14 +809,11 @@ Spookyremi:
 Sylador:
   class: Druid
   lottery-lootconfig:
-  - Archon's Gavel
   - Blessed Band of Karabor
   - Blessed Band of Karabor
-  - Book of Highborne Hymns
   - Crystal Spire of Karabor
   - Memento of Tyrande
-  priority-lootconfig:
-  - Hammer of Sanctification
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1578.32
   t4-priority-dkp: 1576.44
