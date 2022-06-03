@@ -15,7 +15,6 @@ Abjection:
   - Shadowmoon Destroyer's Drape
   - Shivering Felspine
   - Stormrage Signet Ring
-  - Thalassian Ranger Gauntlets
   priority-lootconfig:
   - Chestguard of the Forgotten Protector
   - Leggings of the Immortal Night
@@ -27,8 +26,8 @@ Abjection:
   t5-priority-dkp: 809.03
   t6-lottery-dkp: 1507.93
   t6-priority-dkp: 4315.3
-  t6pt5-lottery-dkp: 4926.389999999999
-  t6pt5-priority-dkp: 6877.85
+  t6pt5-lottery-dkp: 926.39
+  t6pt5-priority-dkp: 2877.85
 Akaran:
   class: Warrior
   lottery-lootconfig:
@@ -305,7 +304,7 @@ Ellievyra:
   t6-lottery-dkp: 2987.17
   t6-priority-dkp: 5845.73
   t6pt5-lottery-dkp: 2842.88
-  t6pt5-priority-dkp: 10570.62
+  t6pt5-priority-dkp: 6570.62
 Goodjorb:
   class: Not Set
   lottery-lootconfig: []
@@ -796,7 +795,6 @@ Spookyremi:
   - Ring of Omnipotence
   - Tattered Cape of Antonidas
   - Tempest of Chaos
-  - Wand of the Demonsoul
   priority-lootconfig:
   - Shifting Naaru Sliver
   - Sunflare
@@ -809,7 +807,7 @@ Spookyremi:
   t5-priority-dkp: 763.33
   t6-lottery-dkp: 1637.81
   t6-priority-dkp: 5693.21
-  t6pt5-lottery-dkp: 8397.04
+  t6pt5-lottery-dkp: 4397.04
   t6pt5-priority-dkp: 10490.72
 Sylador:
   class: Druid
@@ -818,11 +816,9 @@ Sylador:
   - Blessed Band of Karabor
   - Blessed Band of Karabor
   - Book of Highborne Hymns
-  - Cover of Ursol the Wise
   - Crystal Spire of Karabor
   - Memento of Tyrande
   priority-lootconfig:
-  - Golden Staff of the Sin'dorei
   - Hammer of Sanctification
   rank: Core Raider
   t4-lottery-dkp: 1578.32
@@ -831,8 +827,8 @@ Sylador:
   t5-priority-dkp: 1003.09
   t6-lottery-dkp: 5633.18
   t6-priority-dkp: 5305.49
-  t6pt5-lottery-dkp: 10575.13
-  t6pt5-priority-dkp: 10287.45
+  t6pt5-lottery-dkp: 6575.13
+  t6pt5-priority-dkp: 6287.45
 Thorinix:
   class: Not Set
   lottery-lootconfig: []
@@ -846,6 +842,19 @@ Thorinix:
   t6-priority-dkp: 0.0
   t6pt5-lottery-dkp: 0.0
   t6pt5-priority-dkp: 0.0
+Tongcatsu:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Velyri:
   class: Shaman
   lottery-lootconfig:
@@ -924,3 +933,16 @@ Wildshrimp:
   t6-priority-dkp: 5723.38
   t6pt5-lottery-dkp: -4492.29
   t6pt5-priority-dkp: 7106.51
+ellievyra:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
