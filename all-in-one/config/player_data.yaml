@@ -647,19 +647,18 @@ Salchant:
 Searious:
   class: Hunter
   lottery-lootconfig:
-  - Black Bow of the Betrayer
-  - Bracers of the Forgotten Protector
-  - Cloak of Unforgivable Sin
   - Clutch of Demise
-  - Cursed Vision of Sargeras
-  - Leggings of the Immortal Night
   - Shiv of Exsanguination
   - Shiv of Exsanguination
   priority-lootconfig:
   - Belt of the Forgotten Protector
   - Blackened Naaru Sliver
+  - Bracers of the Forgotten Protector
+  - Cloak of Unforgivable Sin
   - Coif of Alleria
+  - Cursed Vision of Sargeras
   - Harness of Carnal Instinct
+  - Leggings of the Immortal Night
   - Shadowmaster's Boots
   rank: Reserve Raider
   t4-lottery-dkp: 1502.58
