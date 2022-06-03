@@ -515,7 +515,6 @@ Metasyn:
   - 'Pattern: Robe of Eternal Light'
   - Shawl of Wonderment
   priority-lootconfig:
-  - Book of Highborne Hymns
   - Hammer of Sanctification
   rank: Reserve Raider
   t4-lottery-dkp: 1041.99
@@ -525,7 +524,7 @@ Metasyn:
   t6-lottery-dkp: 1334.14
   t6-priority-dkp: 2665.27
   t6pt5-lottery-dkp: -2131.3
-  t6pt5-priority-dkp: 8902.26
+  t6pt5-priority-dkp: 5502.26
 Murduc:
   class: Warlock
   lottery-lootconfig:
@@ -843,12 +842,12 @@ Tongcatsu:
   rank: Not Set
   t4-lottery-dkp: 0.0
   t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
 Velyri:
   class: Shaman
   lottery-lootconfig:
@@ -891,8 +890,8 @@ Vermora:
   - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
   - 'Design: Hard Khorium Choker'
-  - Duplicitous Guise
   - Dragonscale-Encrusted Longblade
+  - Duplicitous Guise
   - Golden Bow of Quel'Thalas
   - Muramasa
   - Shadowmoon Destroyer's Drape
@@ -937,9 +936,9 @@ ellievyra:
   rank: Not Set
   t4-lottery-dkp: 0.0
   t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
+  t5-lottery-dkp: 0.0
+  t5-priority-dkp: 0.0
+  t6-lottery-dkp: 0.0
+  t6-priority-dkp: 0.0
+  t6pt5-lottery-dkp: 0.0
+  t6pt5-priority-dkp: 0.0
