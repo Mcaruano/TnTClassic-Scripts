@@ -677,13 +677,13 @@ Seion:
   - Book of Highborne Hymns
   - Boots of the Forgotten Conqueror
   - Bracers of the Forgotten Conqueror
-  - Cowl of Light's Purity
-  - Handguards of the Dawn
   - Memento of Tyrande
   - Pantaloons of Calming Strife
-  - Robes of Faltered Light
   priority-lootconfig:
+  - Cowl of Light's Purity
   - Crystal Spire of Karabor
+  - Handguards of the Dawn
+  - Robes of Faltered Light
   rank: Core Raider
   t4-lottery-dkp: 1299.05
   t4-priority-dkp: 1342.58
