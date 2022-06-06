@@ -183,18 +183,8 @@ Chuunin:
   t6pt5-priority-dkp: 8437.12
 Crazydaisy:
   class: Shaman
-  lottery-lootconfig:
-  - Belt of the Forgotten Protector
-  - Blackened Naaru Sliver
-  - Boots of the Forgotten Protector
-  - Cloak of Unforgivable Sin
-  - Coif of Alleria
-  - Hand of the Deceiver
-  - Harness of Carnal Instinct
-  - Mantle of the Golden Forest
-  - Shadowmoon Destroyer's Drape
-  priority-lootconfig:
-  - Leggings of the Immortal Night
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1341.69
   t4-priority-dkp: 1343.38
@@ -492,7 +482,6 @@ Loopfish:
 Malchazor:
   class: Paladin
   lottery-lootconfig:
-  - 'Design: Pendant of Sunfire'
   - Girdle of Mighty Resolve
   - Legplates of the Holy Juggernaut
   priority-lootconfig:
