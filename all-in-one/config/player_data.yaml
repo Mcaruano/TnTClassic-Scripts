@@ -797,10 +797,15 @@ Spookyremi:
 Sylador:
   class: Druid
   lottery-lootconfig:
+  - Band of Lucent Beams
   - Blessed Band of Karabor
   - Blessed Band of Karabor
+  - Boots of the Forgotten Vanquisher
+  - Bracers of the Forgotten Vanquisher
+  - Breeches of Natural Splendor
   - Crystal Spire of Karabor
   - Memento of Tyrande
+  - Spaulders of Reclamation
   priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1341.57
