@@ -280,10 +280,9 @@ Ellievyra:
   lottery-lootconfig:
   - Belt of the Forgotten Conqueror
   - Bracers of the Forgotten Conqueror
-  - Pantaloons of Growing Strife
+  - Pantaloons of Calming Strife
   priority-lootconfig:
   - Boots of the Forgotten Conqueror
-  - Shifting Naaru Sliver
   rank: Core Raider
   t4-lottery-dkp: 1304.33
   t4-priority-dkp: 1338.48
@@ -923,16 +922,3 @@ Wildshrimp:
   t6-priority-dkp: 4864.87
   t6pt5-lottery-dkp: -4492.29
   t6pt5-priority-dkp: 6040.53
-ellievyra:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0.0
-  t5-priority-dkp: 0.0
-  t6-lottery-dkp: 0.0
-  t6-priority-dkp: 0.0
-  t6pt5-lottery-dkp: 0.0
-  t6pt5-priority-dkp: 0.0
