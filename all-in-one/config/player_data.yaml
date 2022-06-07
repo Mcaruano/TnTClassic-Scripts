@@ -799,13 +799,13 @@ Sylador:
   - Band of Lucent Beams
   - Blessed Band of Karabor
   - Blessed Band of Karabor
-  - Boots of the Forgotten Vanquisher
-  - Bracers of the Forgotten Vanquisher
   - Breeches of Natural Splendor
   - Crystal Spire of Karabor
   - Memento of Tyrande
   - Spaulders of Reclamation
-  priority-lootconfig: []
+  priority-lootconfig:
+  - Boots of the Forgotten Vanquisher
+  - Bracers of the Forgotten Vanquisher
   rank: Core Raider
   t4-lottery-dkp: 1341.57
   t4-priority-dkp: 1339.97
