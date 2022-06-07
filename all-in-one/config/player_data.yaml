@@ -577,10 +577,10 @@ Nekryss:
 Rayapaladin:
   class: Paladin
   lottery-lootconfig:
+  - Shroud of the Highborne
+  priority-lootconfig:
   - Belt of the Forgotten Conqueror
   - Boots of the Forgotten Conqueror
-  - Shroud of the Highborne
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1339.59
   t4-priority-dkp: 1343.81
