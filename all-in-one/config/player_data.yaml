@@ -378,7 +378,7 @@ Justin:
   t6pt5-priority-dkp: 0.0
 Justinjr:
   class: Warlock
-  lottery-lootconfig:
+  lottery-lootconfig: []
   priority-lootconfig:
   - Amulet of Unfettered Magics
   - Fang of the Leviathan
