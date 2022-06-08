@@ -379,13 +379,14 @@ Justin:
 Justinjr:
   class: Warlock
   lottery-lootconfig:
+  priority-lootconfig:
+  - Amulet of Unfettered Magics
+  - Fang of the Leviathan
   - Fel Conquerer Raiments
   - Leggings of Calamity
   - Ring of Omnipotence
-  - The Nexus Key
-  priority-lootconfig:
-  - Fang of the Leviathan
   - Shifting Naaru Sliver
+  - Tattered Cape of Antonidas
   - Zhar'doom, Greatstaff of the Devourer
   rank: Core Raider
   t4-lottery-dkp: 1296.96
