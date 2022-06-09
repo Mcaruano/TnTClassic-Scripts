@@ -43,7 +43,6 @@ Akaran:
   - Sword Breaker's Bulwark
   - Warharness of Reckless Fury
   priority-lootconfig:
-  - Belt of the Forgotten Protector
   - Boots of the Forgotten Protector
   rank: Core Raider
   t4-lottery-dkp: 1339.42
@@ -261,8 +260,7 @@ Digitalz:
   - 'Design: Hard Khorium Choker'
   - Rod of the Sun King
   - Shadowmaster's Boots
-  priority-lootconfig:
-  - Hand of the Deceiver
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1344.65
   t4-priority-dkp: 1334.72
@@ -352,6 +350,7 @@ Jaamii:
   - Blackened Naaru Sliver
   - Cursed Vision of Sargeras
   - Dragonspine Trophy
+  - Hand of the Deceiver
   - Shadowmoon Destroyer's Drape
   - Stormrage Signet Ring
   rank: Core Raider
@@ -627,6 +626,7 @@ Searious:
   - Shiv of Exsanguination
   priority-lootconfig:
   - Blackened Naaru Sliver
+  - Belt of the Forgotten Protector
   - Cloak of Unforgivable Sin
   - Coif of Alleria
   - Cursed Vision of Sargeras
@@ -902,43 +902,3 @@ Wildshrimp:
   t6-priority-dkp: 4864.87
   t6pt5-lottery-dkp: -10137.29
   t6pt5-priority-dkp: 8395.529999999999
-akaran:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
-digitalz:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig: []
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
-searious:
-  class: Not Set
-  lottery-lootconfig: []
-  priority-lootconfig:
-  - Belt of the Forgotten Protector
-  rank: Not Set
-  t4-lottery-dkp: 0.0
-  t4-priority-dkp: 0.0
-  t5-lottery-dkp: 0
-  t5-priority-dkp: 0
-  t6-lottery-dkp: 0
-  t6-priority-dkp: 0
-  t6pt5-lottery-dkp: 0
-  t6pt5-priority-dkp: 0
