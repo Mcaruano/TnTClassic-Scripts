@@ -403,11 +403,11 @@ Kangdude:
   - Belt of the Forgotten Protector
   - Borderland Paingrips
   - Felfury Legplates
-  - Golden Bow of Quel'Thalas
   - 'Schematic: Mayhem Projection Goggles'
   - Stormrage Signet Ring
   priority-lootconfig:
   - Band of Ruinous Delight
+  - Golden Bow of Quel'Thalas
   rank: Core Raider
   t4-lottery-dkp: 2821.55
   t4-priority-dkp: 1113.25
