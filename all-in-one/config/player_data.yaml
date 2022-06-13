@@ -224,12 +224,12 @@ Demeker:
   - Boots of the Forgotten Conqueror
   - Leggings of Calamity
   - 'Pattern: Sunfire Robe'
-  - Tempest of Chaos
-  priority-lootconfig:
   - Shifting Naaru Sliver
   - Sunflare
+  - Tempest of Chaos
   - The Skull of Gul'dan
   - Zhar'doom, Greatstaff of the Devourer
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1142.66
   t4-priority-dkp: -440.46
