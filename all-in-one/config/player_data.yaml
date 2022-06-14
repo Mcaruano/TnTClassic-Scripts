@@ -106,16 +106,16 @@ Baopi:
   class: Warrior
   lottery-lootconfig:
   - Apolyon, the Soul-Render
-  - Belt of the Forgotten Protector
-  - Borderland Paingrips
-  - Bracers of the Forgotten Protector
   - Cloak of Unforgivable Sin
-  - Crown of Anasterian
   - Dragonspine Trophy
   - Dreadboots of the Legion
   priority-lootconfig:
   - Belt of One-Hundred Deaths
+  - Belt of the Forgotten Protector
+  - Borderland Paingrips
+  - Bracers of the Forgotten Protector
   - Blackened Naaru Sliver
+  - Crown of Anasterian
   rank: Core Raider
   t4-lottery-dkp: 1132.78
   t4-priority-dkp: 1142.93
