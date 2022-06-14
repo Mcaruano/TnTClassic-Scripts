@@ -443,10 +443,10 @@ Lilchub:
   - Heart of the Pit
   - Leggings of Calamity
   - Robes of Faltered Light
-  - Shifting Naaru Sliver
   - Tattered Cape of Antonidas
   - Wand of the Demonsoul
   priority-lootconfig:
+  - Shifting Naaru Sliver
   - Sunflare
   rank: Core Raider
   t4-lottery-dkp: 1069.84
