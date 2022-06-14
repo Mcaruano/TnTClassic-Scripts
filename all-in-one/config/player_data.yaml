@@ -756,16 +756,16 @@ Spookyremi:
   - Belt of the Forgotten Conqueror
   - Boots of the Forgotten Conqueror
   - Bracers of the Forgotten Conqueror
-  - Dark Conjuror's Collar
-  - Handguards of Defiled Worlds
   - Heart of the Pit
   - Leggings of Calamity
   - 'Pattern: Sunfire Robe'
   - Ring of Ancient Knowledge
   - Ring of Omnipotence
+  - Shifting Naaru Sliver
   - Tempest of Chaos
   priority-lootconfig:
-  - Shifting Naaru Sliver
+  - Dark Conjuror's Collar
+  - Handguards of Defiled Worlds
   - Sunflare
   - Wand of the Forgotten Star
   - Zhar'doom, Greatstaff of the Devourer
