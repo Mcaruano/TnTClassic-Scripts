@@ -421,11 +421,15 @@ Kinestra:
   class: Shaman
   lottery-lootconfig:
   - Belt of the Forgotten Protector
+  - Chain Links of the Tumultuous Storm
+  - Cowl of Gul'dan
+  - 'Design: Pendant of Sunfire'
+  - Garments of Serene Shores
   - Ring of Ancient Knowledge
-  - Tattered Cape of Antonidas
   priority-lootconfig:
   - Shifting Naaru Sliver
   - Sunflare
+  - Tattered Cape of Antonidas
   rank: Core Raider
   t4-lottery-dkp: 1141.07
   t4-priority-dkp: 1142.87
