@@ -495,11 +495,11 @@ Metasyn:
   lottery-lootconfig:
   - Band of Lucent Beams
   - Blessed Band of Karabor
-  - Cowl of Light's Purity
   - 'Pattern: Robe of Eternal Light'
-  - Shawl of Wonderment
   priority-lootconfig:
+  - Cowl of Light's Purity
   - Hammer of Sanctification
+  - Shawl of Wonderment
   rank: Reserve Raider
   t4-lottery-dkp: 752.84
   t4-priority-dkp: 752.84
