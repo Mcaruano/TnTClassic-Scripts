@@ -33,7 +33,6 @@ Akaran:
   - Bulwark of Azzinoth
   - Chestguard of the Forgotten Protector
   - Crown of Anasterian
-  - Dragonscale-Encrusted Longblade
   - Pauldrons of Perseverance
   - Ring of Hardened Resolve
   - 'Schematic: Mayhem Projection Goggles'
@@ -41,7 +40,7 @@ Akaran:
   - Sword Breaker's Bulwark
   - Warharness of Reckless Fury
   priority-lootconfig:
-  - Boots of the Forgotten Protector
+  - Dragonscale-Encrusted Longblade
   rank: Core Raider
   t4-lottery-dkp: 1138.51
   t4-priority-dkp: 1142.88
