@@ -467,10 +467,10 @@ Loopfish:
   t6pt5-priority-dkp: 0.0
 Malchazor:
   class: Paladin
-  lottery-lootconfig:
+  lottery-lootconfig: []
+  priority-lootconfig:
   - Girdle of Mighty Resolve
   - Legplates of the Holy Juggernaut
-  priority-lootconfig:
   - Tempest of Chaos
   rank: Core Raider
   t4-lottery-dkp: 1121.83
