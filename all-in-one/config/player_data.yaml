@@ -332,13 +332,16 @@ Jaamii:
   class: Shaman
   lottery-lootconfig:
   - Belt of the Forgotten Protector
+  - Boots of the Forgotten Protector
   - Bow-stitched Leggings
   - Bracers of the Forgotten Protector
+  - Harness of Carnal Instinct
   - Leggings of the Immortal Night
   - Madness of the Betrayer
   - Siphon of the Nathrezim
   - Siphon of the Nathrezim
   priority-lootconfig:
+  - Coif of Alleria
   - Cursed Vision of Sargeras
   - Dragonspine Trophy
   - Hand of the Deceiver
