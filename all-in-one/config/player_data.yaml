@@ -1,22 +1,7 @@
 Abjection:
   class: Hunter
-  lottery-lootconfig:
-  - Band of Ruinous Delight
-  - Blackened Naaru Sliver
-  - Boneweave Girdle
-  - Choker of Endless Nightmares
-  - Cloak of Unforgivable Sin
-  - Clutch of Demise
-  - Coif of Alleria
-  - Hand of the Deceiver
-  - Shadowmoon Destroyer's Drape
-  - Stormrage Signet Ring
-  priority-lootconfig:
-  - Belt of the Forgotten Protector
-  - Bracers of the Forgotten Protector
-  - Chestguard of the Forgotten Protector
-  - Leggings of the Immortal Night
-  - Thalassian Wildercloak
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1141.53
   t4-priority-dkp: 1140.51
@@ -101,17 +86,8 @@ Babyshrimp:
   t6pt5-priority-dkp: 7136.2
 Baopi:
   class: Warrior
-  lottery-lootconfig:
-  - Apolyon, the Soul-Render
-  - Cloak of Unforgivable Sin
-  - Dragonspine Trophy
-  - Dreadboots of the Legion
-  priority-lootconfig:
-  - Belt of One-Hundred Deaths
-  - Belt of the Forgotten Protector
-  - Blackened Naaru Sliver
-  - Borderland Paingrips
-  - Crown of Anasterian
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1132.78
   t4-priority-dkp: 1142.93
