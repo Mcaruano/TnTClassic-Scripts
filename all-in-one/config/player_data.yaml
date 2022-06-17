@@ -423,7 +423,6 @@ Kinestra:
   priority-lootconfig:
   - Shifting Naaru Sliver
   - Sunflare
-  - Tattered Cape of Antonidas
   rank: Core Raider
   t4-lottery-dkp: 1141.07
   t4-priority-dkp: 1142.87
@@ -432,7 +431,7 @@ Kinestra:
   t6-lottery-dkp: 3677.62
   t6-priority-dkp: 3627.99
   t6pt5-lottery-dkp: 9695.43
-  t6pt5-priority-dkp: 4881.68
+  t6pt5-priority-dkp: 881.68
 Lilchub:
   class: Mage
   lottery-lootconfig:
@@ -636,7 +635,7 @@ Searious:
   t6-lottery-dkp: 3221.93
   t6-priority-dkp: 3068.14
   t6pt5-lottery-dkp: 3111.8
-  t6pt5-priority-dkp: 7987.95
+  t6pt5-priority-dkp: 3987.95
 Searusdots:
   class: Not Set
   lottery-lootconfig: []
@@ -826,8 +825,7 @@ Velyri:
   - Glimmering Naaru Sliver
   - Shroud of the Highborne
   - Sunglow Vest
-  priority-lootconfig:
-  - Hammer of Sanctification
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 1110.52
   t4-priority-dkp: 1121.08
@@ -836,7 +834,7 @@ Velyri:
   t6-lottery-dkp: 1026.75
   t6-priority-dkp: 4207.98
   t6pt5-lottery-dkp: 4250.44
-  t6pt5-priority-dkp: 11985.87
+  t6pt5-priority-dkp: 7985.87
 Venatir:
   class: Not Set
   lottery-lootconfig: []
