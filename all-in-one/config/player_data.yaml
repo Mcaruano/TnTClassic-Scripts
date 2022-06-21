@@ -832,20 +832,20 @@ Venatir:
 Vermora:
   class: Rogue
   lottery-lootconfig:
-  - Blackened Naaru Sliver
   - Blade of Life's Inevitability
   - Boots of the Forgotten Vanquisher
   - Bracers of the Forgotten Vanquisher
   - Dragonscale-Encrusted Longblade
-  - Duplicitous Guise
   - Golden Bow of Quel'Thalas
-  - Muramasa
   - Shadowmoon Destroyer's Drape
   priority-lootconfig:
+  - Blackened Naaru Sliver
   - Blade of Savagery
   - Cloak of Unforgivable Sin
+  - Duplicitous Guise
   - Hand of the Deceiver
   - Harness of Carnal Instinct
+  - Muramasa
   rank: Core Raider
   t4-lottery-dkp: 871.46
   t4-priority-dkp: 960.95
