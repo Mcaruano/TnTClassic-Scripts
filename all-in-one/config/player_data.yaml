@@ -152,8 +152,12 @@ Chuunin:
   t6pt5-priority-dkp: 9799.05
 Crazydaisy:
   class: Shaman
-  lottery-lootconfig: []
-  priority-lootconfig: []
+  lottery-lootconfig:
+  - Belt of the Forgotten Vanquisher
+  - Boots of the Forgotten Vanquisher
+  - Mantle of the Golden Forest
+  priority-lootconfig:
+  - Hand of the Deceiver
   rank: Core Raider
   t4-lottery-dkp: 969.37
   t4-priority-dkp: 970.59
