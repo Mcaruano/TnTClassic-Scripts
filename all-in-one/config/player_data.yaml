@@ -756,11 +756,14 @@ Sylador:
   - Band of Lucent Beams
   - Blessed Band of Karabor
   - Blessed Band of Karabor
-  - Breeches of Natural Splendor
+  - Breeches of Natural Aggression
+  - Brooch of the Highborne
   - Crystal Spire of Karabor
+  - Glimmering Naaru Slive
   - Memento of Tyrande
   priority-lootconfig:
   - Bracers of the Forgotten Vanquisher
+  - Sunglow Vest
   rank: Core Raider
   t4-lottery-dkp: 969.28
   t4-priority-dkp: 968.12
