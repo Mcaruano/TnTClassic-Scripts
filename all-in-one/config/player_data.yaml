@@ -806,10 +806,10 @@ Velyri:
   - Bracers of the Forgotten Protector
   - Chain Links of the Tumultuous Storm
   - Cowl of Gul'dan
-  - Glimmering Naaru Sliver
   - Shroud of the Highborne
+  priority-lootconfig:
+  - Glimmering Naaru Sliver
   - Sunglow Vest
-  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 943.94
   t4-priority-dkp: 952.92
