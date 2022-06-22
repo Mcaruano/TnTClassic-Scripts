@@ -125,20 +125,8 @@ Barnabae:
   t6pt5-priority-dkp: 542.86
 Chuunin:
   class: Rogue
-  lottery-lootconfig:
-  - Band of Ruinous Delight
-  - Blackened Naaru Sliver
-  - Bracers of the Forgotten Vanquisher
-  - Duplicitous Guise
-  - Golden Bow of Quel'Thalas
-  - Muramasa
-  - Shadowmaster's Boots
-  - Shadowmoon Destroyer's Drape
-  priority-lootconfig:
-  - Blade of Savagery
-  - Cloak of Unforgivable Sin
-  - Harness of Carnal Instinct
-  - Leggings of the Immortal Night
+  lottery-lootconfig: []
+  priority-lootconfig: []
   rank: Core Raider
   t4-lottery-dkp: 818.76
   t4-priority-dkp: 816.46
