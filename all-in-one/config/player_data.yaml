@@ -57,7 +57,6 @@ Ashori:
   - Torch of the Damned
   - Warharness of Reckless Fury
   priority-lootconfig:
-  - Apolyon, the Soul-Render
   - Belt of One-Hundred Deaths
   - Shadowmoon Destroyer's Drape
   rank: Core Raider
@@ -68,7 +67,7 @@ Ashori:
   t6-lottery-dkp: 2854.6
   t6-priority-dkp: 3478.74
   t6pt5-lottery-dkp: 2876.4
-  t6pt5-priority-dkp: 12491.55
+  t6pt5-priority-dkp: 8491.55
 Babyshrimp:
   class: Not Set
   lottery-lootconfig: []
@@ -80,7 +79,7 @@ Babyshrimp:
   t5-priority-dkp: 649.14
   t6-lottery-dkp: 1498.62
   t6-priority-dkp: 3514.87
-  t6pt5-lottery-dkp: -7782.290000000001
+  t6pt5-lottery-dkp: -7782.29
   t6pt5-priority-dkp: 8067.52
 Baopi:
   class: Warrior
@@ -94,7 +93,7 @@ Baopi:
   t6-lottery-dkp: 3131.69
   t6-priority-dkp: 3259.9
   t6pt5-lottery-dkp: 5252.71
-  t6pt5-priority-dkp: 8976.810000000001
+  t6pt5-priority-dkp: 8976.81
 Barnabae:
   class: Shaman
   lottery-lootconfig:
@@ -245,6 +244,19 @@ Ellievyra:
   t6-priority-dkp: 3590.01
   t6pt5-lottery-dkp: 4404.12
   t6pt5-priority-dkp: 6693.43
+Emraku:
+  class: Not Set
+  lottery-lootconfig: []
+  priority-lootconfig: []
+  rank: Not Set
+  t4-lottery-dkp: 0.0
+  t4-priority-dkp: 0.0
+  t5-lottery-dkp: 0
+  t5-priority-dkp: 0
+  t6-lottery-dkp: 0
+  t6-priority-dkp: 0
+  t6pt5-lottery-dkp: 0
+  t6pt5-priority-dkp: 0
 Goodjorb:
   class: Not Set
   lottery-lootconfig: []
@@ -359,7 +371,6 @@ Kangdude:
   class: Warrior
   lottery-lootconfig:
   - Band of the Ranger-General
-  - Borderland Paingrips
   - Felfury Legplates
   - 'Schematic: Mayhem Projection Goggles'
   - Stormrage Signet Ring
@@ -373,7 +384,7 @@ Kangdude:
   t5-priority-dkp: 585.94
   t6-lottery-dkp: 3442.73
   t6-priority-dkp: 3008.33
-  t6pt5-lottery-dkp: 4680.79
+  t6pt5-lottery-dkp: 680.79
   t6pt5-priority-dkp: 10156.84
 Kinestra:
   class: Shaman
@@ -455,7 +466,6 @@ Metasyn:
   - 'Pattern: Robe of Eternal Light'
   priority-lootconfig:
   - Cowl of Light's Purity
-  - Hammer of Sanctification
   rank: Reserve Raider
   t4-lottery-dkp: 639.91
   t4-priority-dkp: 639.91
@@ -464,7 +474,7 @@ Metasyn:
   t6-lottery-dkp: 819.33
   t6-priority-dkp: 1636.81
   t6pt5-lottery-dkp: 4518.37
-  t6pt5-priority-dkp: 6037.31
+  t6pt5-priority-dkp: 2037.31
 Murduc:
   class: Warlock
   lottery-lootconfig:
@@ -498,7 +508,6 @@ Nashborne:
   priority-lootconfig:
   - Band of Ruinous Delight
   - Belt of One-Hundred Deaths
-  - Blackened Naaru Sliver
   - Golden Bow of Quel'Thalas
   rank: Core Raider
   t4-lottery-dkp: 897.47
@@ -508,7 +517,7 @@ Nashborne:
   t6-lottery-dkp: 1117.5
   t6-priority-dkp: 3348.54
   t6pt5-lottery-dkp: 5788.09
-  t6pt5-priority-dkp: 8024.71
+  t6pt5-priority-dkp: 4024.71
 Nekryss:
   class: Not Set
   lottery-lootconfig: []
@@ -534,7 +543,7 @@ Rayapaladin:
   t5-priority-dkp: 613.33
   t6-lottery-dkp: 2514.3
   t6-priority-dkp: 2616.54
-  t6pt5-lottery-dkp: 9949.439999999999
+  t6pt5-lottery-dkp: 9949.44
   t6pt5-priority-dkp: 5149.31
 Reminosc:
   class: Not Set
@@ -597,7 +606,7 @@ Searious:
   t5-priority-dkp: 571.22
   t6-lottery-dkp: 2738.64
   t6-priority-dkp: 2607.92
-  t6pt5-lottery-dkp: 5000.030000000001
+  t6pt5-lottery-dkp: 5000.03
   t6pt5-priority-dkp: 5744.76
 Searusdots:
   class: Not Set
@@ -825,7 +834,6 @@ Vermora:
   - Duplicitous Guise
   - Hand of the Deceiver
   - Harness of Carnal Instinct
-  - Muramasa
   rank: Core Raider
   t4-lottery-dkp: 871.46
   t4-priority-dkp: 960.95
@@ -834,12 +842,11 @@ Vermora:
   t6-lottery-dkp: 2998.07
   t6-priority-dkp: 3293.32
   t6pt5-lottery-dkp: 3636.42
-  t6pt5-priority-dkp: 9937.93
+  t6pt5-priority-dkp: 5937.93
 Wildshrimp:
   class: Druid
   lottery-lootconfig:
   - Ring of Hardened Resolve
-  - Shadowed Gauntlets of Paroxysm
   - Shadowmoon Insignia
   priority-lootconfig:
   - Harness of Carnal Instinct
@@ -850,5 +857,5 @@ Wildshrimp:
   t5-priority-dkp: 649.14
   t6-lottery-dkp: 1498.62
   t6-priority-dkp: 3514.87
-  t6pt5-lottery-dkp: -9427.29
+  t6pt5-lottery-dkp: -13427.29
   t6pt5-priority-dkp: 10422.52
